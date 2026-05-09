@@ -201,7 +201,7 @@ function calcBrutToutCompris(salaireHoraire: number, semainesVacances: number) {
   return { montantVacances: vVac, montantFeries: vFer, baseAugmentee: base, montant13e: v13, brutToutCompris: brut, pctVac };
 }
 
-const fmt = (n: number) => (Number.isFinite(n) ? n.toFixed(2) : '0.00'));
+const fmt = (n: number) => (Number.isFinite(n) ? n.toFixed(2) : '0.00');
 
 export default function EmployeeManagementPage() {
   const { user } = useFirebase();
