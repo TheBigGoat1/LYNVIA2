@@ -1,0 +1,425 @@
+{
+    "entities": {
+        "UserProfile": {
+            "title": "User Profile",
+            "description": "Represents the profile of a user.",
+            "type": "object",
+            "properties": {
+                "firstName": {
+                    "type": "string",
+                    "description": "The user's first name."
+                },
+                "lastName": {
+                    "type": "string",
+                    "description": "The user's last name."
+                },
+                "phone": {
+                    "type": "string",
+                    "description": "The user's phone number."
+                },
+                "canton": {
+                    "type": "string",
+                    "description": "The Swiss canton the user resides in."
+                }
+            },
+            "required": ["firstName", "lastName"]
+        },
+        "User": {
+            "title": "User",
+            "description": "Represents a user of the platform.",
+            "type": "object",
+            "properties": {
+                "email": { "type": "string", "format": "email" },
+                "role": { "type": "string", "enum": ["individual", "business", "accounting_firm", "admin"] },
+                "companyId": { "type": "string" },
+                "profile": { "$ref": "#/entities/UserProfile" },
+                "createdAt": { "type": "string", "format": "date-time" },
+                "status": { "type": "string", "enum": ["active", "pending_approval", "suspended"] }
+            },
+            "required": ["email", "role", "profile", "createdAt", "status"]
+        },
+        "Company": {
+            "title": "Company",
+            "description": "Represents a business or accounting firm on the platform.",
+            "type": "object",
+            "properties": {
+                "companyName": { "type": "string" },
+                "adminUserId": { "type": "string" },
+                "status": { "type": "string", "enum": ["pending_approval", "active", "suspended"] },
+                "createdAt": { "type": "string", "format": "date-time" },
+                "type": { "type": "string", "enum": ["business", "accounting_firm"] },
+                "address": { "type": "string", "description": "The company's street address." },
+                "postalCode": { "type": "string", "description": "The company's postal code." },
+                "city": { "type": "string", "description": "The company's city." },
+                "vatNumber": { "type": "string", "description": "The company's VAT identification number." },
+                "industry": { "type": "string", "description": "The industry the company operates in." },
+                "profileCompleted": { "type": "boolean", "description": "Flag to indicate if the onboarding profile is complete." },
+                "accountingFirmId": {
+                    "type": "string",
+                    "description": "The ID of the accounting firm this company is a client of."
+                }
+            },
+            "required": ["companyName", "adminUserId", "status", "createdAt", "type", "profileCompleted"]
+        },
+        "Employee": {
+            "title": "Employee",
+            "description": "Represents an employee of a company.",
+            "type": "object",
+            "properties": {
+                "userId": { "type": "string", "description": "The auth user ID of the employee." },
+                "firstName": { "type": "string" },
+                "lastName": { "type": "string" },
+                "position": { "type": "string" },
+                "department": { "type": "string" },
+                "canton": { "type": "string" },
+                "employmentRate": { "type": "string" },
+                "startDate": { "type": "string", "format": "date" },
+                "status": { "type": "string", "enum": ["Active", "On Leave", "Terminated"] },
+                "avatar": { "type": "string" }
+            },
+            "required": ["firstName", "lastName", "position", "department", "startDate", "status"]
+        },
+        "LeaveRequest": {
+            "title": "Leave Request",
+            "description": "A request for time off by an employee.",
+            "type": "object",
+            "properties": {
+                "employeeId": { "type": "string" },
+                "employeeName": { "type": "string" },
+                "employeeAvatar": { "type": "string" },
+                "leaveType": { "type": "string" },
+                "startDate": { "type": "string", "format": "date" },
+                "endDate": { "type": "string", "format": "date" },
+                "days": { "type": "number" },
+                "status": { "type": "string", "enum": ["Pending", "Approved", "Rejected"] },
+                "requestedAt": { "type": "string", "format": "date-time" }
+            },
+            "required": ["employeeId", "employeeName", "leaveType", "startDate", "endDate", "days", "status", "requestedAt"]
+        },
+        "LegalConversation": {
+            "title": "Legal Conversation",
+            "description": "A single conversation with the legal AI assistant.",
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "description": "A title for the conversation."
+                },
+                "messages": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/entities/Message"
+                    },
+                    "description": "An array of messages in the conversation."
+                },
+                "createdAt": {
+                    "type": "string",
+                    "format": "date-time",
+                    "description": "The timestamp when the conversation was created."
+                }
+            },
+            "required": ["title", "messages", "createdAt"]
+        },
+        "Message": {
+            "title": "Message",
+            "description": "A single message within a legal conversation.",
+            "type": "object",
+            "properties": {
+                "from": {
+                    "type": "string",
+                    "enum": ["user", "ai"],
+                    "description": "The sender of the message."
+                },
+                "text": {
+                    "type": "string",
+                    "description": "The content of the message."
+                },
+                "sources": {
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "properties": {
+                            "title": { "type": "string" },
+                            "documentId": { "type": "string" }
+                        },
+                        "required": ["title", "documentId"]
+                    },
+                    "description": "A list of sources cited in the AI's response."
+                }
+            },
+            "required": ["from", "text"]
+        },
+        "GeneratedDocument": {
+            "title": "Generated Document",
+            "description": "A document generated by a user.",
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "The name of the document."
+                },
+                "templateType": {
+                    "type": "string",
+                    "description": "The type of template used for the document."
+                },
+                "content": {
+                    "type": "string",
+                    "description": "The full content of the generated document."
+                },
+                "status": {
+                    "type": "string",
+                    "enum": ["Draft", "Pending Review", "Approved", "Rejected", "Sent"],
+                    "description": "The approval status of the document."
+                },
+                "createdAt": {
+                    "type": "string",
+                    "format": "date-time",
+                    "description": "The timestamp when the document was created."
+                },
+                "userId": {
+                    "type": "string",
+                    "description": "The ID of the user who created the document."
+                },
+                "userName": {
+                    "type": "string",
+                    "description": "The name of the user who created the document."
+                },
+                "userAvatar": {
+                    "type": "string",
+                    "description": "URL for the user's avatar image."
+                },
+                "companyId": {
+                    "type": "string",
+                    "description": "The ID of the company, if applicable."
+                },
+                "companyName": {
+                    "type": "string",
+                    "description": "The name of the company, if applicable."
+                },
+                "approvedBy": {
+                    "type": "string",
+                    "description": "The ID of the admin who approved/rejected the document."
+                }
+            },
+            "required": ["name", "templateType", "content", "status", "createdAt", "userId", "userName"]
+        },
+        "Notification": {
+            "title": "Notification",
+            "description": "A notification for a user.",
+            "type": "object",
+            "properties": {
+                "title": {
+                    "type": "string",
+                    "description": "The title of the notification."
+                },
+                "description": {
+                    "type": "string",
+                    "description": "The body of the notification."
+                },
+                "type": {
+                    "type": "string",
+                    "enum": ["document", "scenario", "system"],
+                    "description": "The type of notification."
+                },
+                "read": {
+                    "type": "boolean",
+                    "description": "Whether the notification has been read."
+                },
+                "link": {
+                    "type": "string",
+                    "description": "A URL to navigate to when the notification is clicked."
+                },
+                "createdAt": {
+                    "type": "string",
+                    "format": "date-time",
+                    "description": "The timestamp when the notification was created."
+                }
+            },
+            "required": ["title", "description", "type", "read", "createdAt"]
+        },
+        "LegalDocument": {
+            "title": "Legal Document",
+            "description": "A document in the legal database for the RAG system.",
+            "type": "object",
+            "properties": {
+                "title": { "type": "string" },
+                "type": { "type": "string" },
+                "canton": { "type": "string" },
+                "status": { "type": "string", "enum": ["Pending Approval", "Indexed", "Processing", "Failed"] },
+                "chunks": { "type": "number" },
+                "lastUpdated": { "type": "string", "format": "date-time" }
+            },
+            "required": ["title", "type", "status", "lastUpdated"]
+        },
+        "SystemLog": {
+            "title": "System Log",
+            "description": "A log entry for system-wide events.",
+            "type": "object",
+            "properties": {
+                "timestamp": { "type": "string", "format": "date-time" },
+                "level": { "type": "string", "enum": ["INFO", "WARN", "ERROR", "SECURITY"] },
+                "service": { "type": "string" },
+                "message": { "type": "string" },
+                "ipAddress": { "type": "string" },
+                "details": { "type": "object" }
+            },
+            "required": ["timestamp", "level", "service", "message"]
+        },
+        "FinancialReport": {
+            "title": "Financial Report",
+            "description": "A financial report for a company.",
+            "type": "object",
+            "properties": {
+                "companyId": { "type": "string" },
+                "period": { "type": "string" },
+                "totalRevenue": { "type": "number" },
+                "netProfit": { "type": "number" },
+                "operatingExpenses": { "type": "number" }
+            },
+            "required": ["companyId", "period", "totalRevenue", "netProfit", "operatingExpenses"]
+        },
+        "PayrollRecord": {
+            "title": "Payroll Record",
+            "description": "A single payroll record for an employee for a specific period.",
+            "type": "object",
+            "properties": {
+                "employeeId": { "type": "string" },
+                "grossSalary": { "type": "number" },
+                "netSalary": { "type": "number" },
+                "federalTax": { "type": "number" },
+                "cantonalTax": { "type": "number" },
+                "ahv": { "type": "number" },
+                "alv": { "type": "number" },
+                "bvg": { "type": "number" },
+                "nbuv": { "type": "number" }
+            },
+            "required": ["employeeId", "grossSalary", "netSalary"]
+        },
+        "HistoricalPayrollSummary": {
+            "title": "Historical Payroll Summary",
+            "description": "A summary of historical payroll data for trend analysis.",
+            "type": "object",
+            "properties": {
+                "month": { "type": "string" },
+                "totalGrossSalary": { "type": "number" },
+                "totalNetSalary": { "type": "number" },
+                "totalDeductions": { "type": "number" },
+                "employeeCount": { "type": "number" }
+            },
+            "required": ["month", "totalGrossSalary", "totalNetSalary", "totalDeductions", "employeeCount"]
+        },
+        "Task": {
+            "title": "Task",
+            "description": "Represents a task or deadline for a company.",
+            "type": "object",
+            "properties": {
+                "title": { "type": "string" },
+                "description": { "type": "string" },
+                "dueDate": { "type": "string", "format": "date-time" },
+                "status": { "type": "string", "enum": ["Pending", "In Progress", "Completed"] },
+                "priority": { "type": "string", "enum": ["High", "Medium", "Low"] },
+                "relatedTo": { "type": "string", "description": "Link to the related feature, e.g., /business/payroll-processing" },
+                "companyId": { "type": "string" }
+            },
+            "required": ["title", "dueDate", "status", "priority", "companyId"]
+        },
+        "Order": {
+            "title": "Order",
+            "description": "Represents a purchased service or a quote request from a user.",
+            "type": "object",
+            "properties": {
+                "userId": { "type": "string" },
+                "userEmail": { "type": "string" },
+                "userName": { "type": "string" },
+                "serviceId": { "type": "string" },
+                "serviceTitle": { "type": "string" },
+                "serviceType": { "type": "string", "enum": ["fixed", "quote"] },
+                "priceAmount": { "type": "number" },
+                "status": { "type": "string", "enum": ["quote_requested", "invoice_sent", "pending_payment", "paid", "in_progress", "pending_review", "completed", "cancelled"] },
+                "intakeData": { "type": "object" },
+                "stripeSessionId": { "type": "string" },
+                "documents": { "type": "array", "items": { "type": "object" } },
+                "createdAt": { "type": "string", "format": "date-time" },
+                "updatedAt": { "type": "string", "format": "date-time" }
+            },
+            "required": ["userId", "serviceId", "serviceTitle", "status", "createdAt"]
+        }
+    },
+    "auth": {
+        "providers": ["password"]
+    },
+    "firestore": {
+        "/users/{userId}": {
+            "schema": {
+                "$ref": "#/entities/User"
+            },
+            "description": "Stores user data, including profile and role."
+        },
+        "/companies/{companyId}": {
+            "schema": {
+                "$ref": "#/entities/Company"
+            },
+            "description": "Stores data for business and accounting firm entities."
+        },
+        "/companies/{companyId}/employees/{employeeId}": {
+          "schema": {
+            "$ref": "#/entities/Employee"
+          },
+          "description": "Stores employee data for a specific company."
+        },
+        "/companies/{companyId}/leave_requests/{leaveRequestId}": {
+          "schema": {
+            "$ref": "#/entities/LeaveRequest"
+          },
+          "description": "Stores leave requests for a company's employees."
+        },
+        "/companies/{companyId}/tasks/{taskId}": {
+            "schema": {
+                "$ref": "#/entities/Task"
+            },
+            "description": "Stores tasks and deadlines for a specific company."
+        },
+        "/users/{userId}/legalConversations/{conversationId}": {
+            "schema": {
+                "$ref": "#/entities/LegalConversation"
+            },
+            "description": "Stores individual legal AI conversations for each user."
+        },
+        "/users/{userId}/documents/{documentId}": {
+            "schema": {
+                "$ref": "#/entities/GeneratedDocument"
+            },
+            "description": "Stores documents generated by each user."
+        },
+        "/users/{userId}/notifications/{notificationId}": {
+            "schema": {
+                "$ref": "#/entities/Notification"
+            },
+            "description": "Stores notifications for each user."
+        },
+        "/users/{userId}/orders/{orderId}": {
+            "schema": {
+                "$ref": "#/entities/Order"
+            },
+            "description": "Stores service purchase orders for each user."
+        },
+        "/legal_documents/{documentId}": {
+            "schema": {
+                "$ref": "#/entities/LegalDocument"
+            },
+            "description": "Stores legal documents for the RAG system."
+        },
+        "/system_logs/{logId}": {
+            "schema": {
+                "$ref": "#/entities/SystemLog"
+            },
+            "description": "Stores system-wide logs for auditing and monitoring."
+        },
+        "/companies/{companyId}/financial_reports/{reportId}": {
+          "schema": {
+            "$ref": "#/entities/FinancialReport"
+          },
+          "description": "Stores financial reports for companies."
+        }
+    }
+}

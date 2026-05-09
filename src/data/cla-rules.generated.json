@@ -1,0 +1,2194 @@
+{
+  "generatedAt": "2026-04-04T09:54:38.022Z",
+  "rules": [
+    {
+      "id": "activites-auxiliaires-de-services-financiers-et-d-assurance-p-ex-bourses-courtage-en-assurances-gestion-de-fonds",
+      "name": "CCT Documents - Activités auxiliaires de services financiers et d_assurance (p. ex. bourses, courtage en assurances, gestion de fonds)",
+      "nameFr": "Conventions collectives - Activités auxiliaires de services financiers et d_assurance (p. ex. bourses, courtage en assurances, gestion de fonds)",
+      "industries": [
+        "activites",
+        "activites auxiliaires de services financiers et d assurance",
+        "activites auxiliaires de services financiers et d assurance p ex bourses courtage en assurances gestion de fonds",
+        "assurance",
+        "assurances",
+        "auxiliaires",
+        "bourses",
+        "courtage",
+        "financiers",
+        "fonds",
+        "gestion",
+        "services"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Activités auxiliaires de services financiers et d_assurance (p. ex. bourses, courtage en assurances, gestion de fonds)/Contratto normale di lavoro per gli impiegati di commercio nelle aziende del settore delle altre attività ausiliarie dei servizi finanziari TI_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Activités auxiliaires de services financiers et d_assurance (p. ex. bourses, courtage en assurances, gestion de fonds)"
+    },
+    {
+      "id": "activites-creatives-artistiques-et-de-spectacle",
+      "name": "CCT Documents - Activités créatives, artistiques et de spectacle",
+      "nameFr": "Conventions collectives - Activités créatives, artistiques et de spectacle",
+      "industries": [
+        "activites",
+        "activites creatives artistiques et de spectacle",
+        "artistiques",
+        "cct des metiers de la pierre du canton de vaud fr",
+        "creatives",
+        "spectacle"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Activités créatives, artistiques et de spectacle/CCT des métiers de la pierre du canton de Vaud_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Activités créatives, artistiques et de spectacle"
+    },
+    {
+      "id": "activites-de-nettoyage",
+      "name": "CCT Documents - Activités de nettoyage",
+      "nameFr": "Conventions collectives - Activités de nettoyage",
+      "industries": [
+        "activites",
+        "activites de nettoyage",
+        "cct du secteur du nettoyage pour la suisse romande de",
+        "cct du secteur du nettoyage pour la suisse romande fr",
+        "cct pour le metier de ramoneur dans le canton de geneve fr",
+        "nettoyage"
+      ],
+      "minimumMonthlyWage": 3584,
+      "minimumHourlyWage": 20.58,
+      "noticePeriods": {
+        "trialPeriodDays": 90,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "TC (Teamleiter)",
+          "minimumMonthlyWage": 0,
+          "minimumHourlyWage": 29.92
+        },
+        {
+          "role": "N20 (EFZ, 2+ ans de branche)",
+          "minimumMonthlyWage": 0,
+          "minimumHourlyWage": 28.6
+        },
+        {
+          "role": "N21 (EFZ, moins de 2 ans)",
+          "minimumMonthlyWage": 0,
+          "minimumHourlyWage": 27.18
+        },
+        {
+          "role": "N30 (EBA Reinigungstechnik)",
+          "minimumMonthlyWage": 0,
+          "minimumHourlyWage": 25.4
+        },
+        {
+          "role": "N40 (sans qualification)",
+          "minimumMonthlyWage": 0,
+          "minimumHourlyWage": 24.42
+        },
+        {
+          "role": "E2 (Unterhaltsreinigung, diplôme EPG/MRP)",
+          "minimumMonthlyWage": 0,
+          "minimumHourlyWage": 21.59
+        },
+        {
+          "role": "E3 (Unterhaltsreinigung, sans diplôme)",
+          "minimumMonthlyWage": 0,
+          "minimumHourlyWage": 20.58
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Activités de nettoyage/CCL per il personale delle imprese di pulizia e facility services del Cantone Ticino_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Activités de nettoyage"
+    },
+    {
+      "id": "activites-de-poste-et-de-courrier",
+      "name": "CCT Documents - Activités de poste et de courrier",
+      "nameFr": "Conventions collectives - Activités de poste et de courrier",
+      "industries": [
+        "activites",
+        "activites de poste et de courrier",
+        "cct poste ch de",
+        "cct poste ch fr",
+        "cct poste ch it",
+        "cct swiss post cargo ch sa auparavant postlogistics sa de",
+        "cct swiss post cargo ch sa auparavant postlogistics sa fr",
+        "cct swiss post cargo ch sa auparavant postlogistics sa it",
+        "contrat-type de travail pour le transport professionnel de choses geneve ctt-tpc fr",
+        "courrier",
+        "poste"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Activités de poste et de courrier/CCT Poste CH_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Activités de poste et de courrier"
+    },
+    {
+      "id": "activites-immobilieres",
+      "name": "CCT Documents - Activités immobilières",
+      "nameFr": "Conventions collectives - Activités immobilières",
+      "industries": [
+        "activites",
+        "activites immobilieres",
+        "immobilieres"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Activités immobilières/Contratto normale di lavoro per il settore delle attività immobiliari TI_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Activités immobilières"
+    },
+    {
+      "id": "activites-juridiques-et-comptables-p-ex-conseil-fiscal-audit",
+      "name": "CCT Documents - Activités juridiques et comptables (p. ex. conseil fiscal, audit)",
+      "nameFr": "Conventions collectives - Activités juridiques et comptables (p. ex. conseil fiscal, audit)",
+      "industries": [
+        "activites",
+        "activites juridiques et comptables",
+        "activites juridiques et comptables p ex conseil fiscal audit",
+        "audit",
+        "comptables",
+        "conseil",
+        "fiscal",
+        "juridiques"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Activités juridiques et comptables (p. ex. conseil fiscal, audit)/Contratto normale di lavoro per gli impiegati di commercio nel settore della consulenza aziendale TI_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Activités juridiques et comptables (p. ex. conseil fiscal, audit)"
+    },
+    {
+      "id": "activites-liees-a-l-emploi-p-ex-location-de-services-agences-de-placement-de-personnel",
+      "name": "CCT Documents - Activités liées à l_emploi (p. ex. location de services, agences de placement de personnel)",
+      "nameFr": "Conventions collectives - Activités liées à l_emploi (p. ex. location de services, agences de placement de personnel)",
+      "industries": [
+        "activites",
+        "activites liees a l emploi",
+        "activites liees a l emploi p ex location de services agences de placement de personnel",
+        "agences",
+        "cct location de services de",
+        "cct location de services fr",
+        "cct location de services it",
+        "emploi",
+        "liees",
+        "location",
+        "personnel",
+        "placement",
+        "services"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Activités liées à l_emploi (p. ex. location de services, agences de placement de personnel)/CCT Location de services_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Activités liées à l_emploi (p. ex. location de services, agences de placement de personnel)"
+    },
+    {
+      "id": "agences-de-voyage-voyagistes-services-de-reservation-et-activites-connexes",
+      "name": "CCT Documents - Agences de voyage, voyagistes, services de réservation et activités connexes",
+      "nameFr": "Conventions collectives - Agences de voyage, voyagistes, services de réservation et activités connexes",
+      "industries": [
+        "activites",
+        "agences",
+        "agences de voyage voyagistes services de reservation et activites connexes",
+        "connexes",
+        "reservation",
+        "services",
+        "voyage",
+        "voyagistes"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Agences de voyage, voyagistes, services de réservation et activités connexes/Contratto normale di lavoro per gli impiegati di commercio nel settore delle agenzie di viaggio e dei tour operator TI_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Agences de voyage, voyagistes, services de réservation et activités connexes"
+    },
+    {
+      "id": "architecture-et-ingenierie-controle-et-analyses-techniques",
+      "name": "CCT Documents - Architecture et ingénierie, contrôle et analyses techniques",
+      "nameFr": "Conventions collectives - Architecture et ingénierie, contrôle et analyses techniques",
+      "industries": [
+        "analyses",
+        "architecture",
+        "architecture et ingenierie controle et analyses techniques",
+        "cct des bureaux d architectes et ingenieurs vaudois fr",
+        "cct des bureaux d ingenieurs de la construction et des techniques du batiment a geneve fr",
+        "cct des bureaux d'ingenieurs geometres vaudois fr",
+        "controle",
+        "ingenierie",
+        "techniques"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Architecture et ingénierie, contrôle et analyses techniques/CCL per gli ingegneri, gli architetti e le professioni affini, Ticino_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Architecture et ingénierie, contrôle et analyses techniques"
+    },
+    {
+      "id": "autres-industries-extractives",
+      "name": "CCT Documents - Autres industries extractives",
+      "nameFr": "Conventions collectives - Autres industries extractives",
+      "industries": [
+        "autres",
+        "autres industries extractives",
+        "cct pour l artisanat et l'industrie de la pierre naturelle de",
+        "cct pour l artisanat et l'industrie de la pierre naturelle fr",
+        "extractives",
+        "industries"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Autres industries extractives/CCT pour l_artisanat et l'industrie de la pierre naturelle_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Autres industries extractives"
+    },
+    {
+      "id": "autres-industries-manufacturieres-p-ex-instruments-de-musique-jouets-appareils-sportifs-appareils-materiels-medicaux-et-dentaires",
+      "name": "CCT Documents - Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)",
+      "nameFr": "Conventions collectives - Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)",
+      "industries": [
+        "appareils",
+        "autres",
+        "autres industries manufacturieres",
+        "autres industries manufacturieres p ex instruments de musique jouets appareils sportifs appareils materiels medicaux et dentaires",
+        "cct de l industrie des machines des equipements electriques et des metaux de",
+        "cct de l industrie des machines des equipements electriques et des metaux fr",
+        "cct de l industrie des machines des equipements electriques et des metaux it",
+        "cct des laboratoires de prothese dentaire de suisse de",
+        "cct des laboratoires de prothese dentaire de suisse fr",
+        "cct des laboratoires de prothese dentaire de suisse it",
+        "dentaires",
+        "industries",
+        "instruments",
+        "jouets",
+        "manufacturieres",
+        "materiels",
+        "medicaux",
+        "musique",
+        "sportifs"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)"
+    },
+    {
+      "id": "autres-services-a-la-personne-p-ex-coiffure-esthetique-blanchisserie-spas-services-funeraires",
+      "name": "CCT Documents - Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)",
+      "nameFr": "Conventions collectives - Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)",
+      "industries": [
+        "autres",
+        "autres services a la personne",
+        "autres services a la personne p ex coiffure esthetique blanchisserie spas services funeraires",
+        "blanchisserie",
+        "cct nationale des coiffeurs de",
+        "cct nationale des coiffeurs fr",
+        "cct nationale des coiffeurs it",
+        "cct romande du nettoyage des textiles anciennement nettoyage industriel des textiles de",
+        "cct romande du nettoyage des textiles anciennement nettoyage industriel des textiles fr",
+        "coiffure",
+        "contrat-type de travail des estheticiennes geneve ctt-esthe de",
+        "contrat-type de travail des estheticiennes geneve ctt-esthe fr",
+        "contrat-type de travail des estheticiennes geneve ctt-esthe it",
+        "esthetique",
+        "funeraires",
+        "personne",
+        "services",
+        "spas"
+      ],
+      "minimumMonthlyWage": 3850,
+      "minimumHourlyWage": 22.21,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "1ère année avec diplôme (2024)",
+          "minimumMonthlyWage": 3850,
+          "minimumHourlyWage": 22.21
+        },
+        {
+          "role": "1ère année avec diplôme (2025)",
+          "minimumMonthlyWage": 4080,
+          "minimumHourlyWage": 23.54
+        },
+        {
+          "role": "1ère année avec diplôme (2026)",
+          "minimumMonthlyWage": 4160,
+          "minimumHourlyWage": 24
+        },
+        {
+          "role": "3ème année + avec diplôme (2025)",
+          "minimumMonthlyWage": 4280,
+          "minimumHourlyWage": 24.69
+        },
+        {
+          "role": "3ème année + avec diplôme (2026)",
+          "minimumMonthlyWage": 4360,
+          "minimumHourlyWage": 25.15
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)/CCT nationale des coiffeurs_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)"
+    },
+    {
+      "id": "collecte-traitement-et-elimination-des-dechets-recuperation",
+      "name": "CCT Documents - Collecte, traitement et élimination des déchets; récupération",
+      "nameFr": "Conventions collectives - Collecte, traitement et élimination des déchets; récupération",
+      "industries": [
+        "collecte",
+        "collecte traitement et elimination des dechets recuperation",
+        "dechets",
+        "elimination",
+        "recuperation",
+        "traitement"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Collecte, traitement et élimination des déchets; récupération/CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Collecte, traitement et élimination des déchets; récupération"
+    },
+    {
+      "id": "commerce-de-detail-a-l-exception-des-automobiles-et-des-motocycles",
+      "name": "CCT Documents - Commerce de détail, à l_exception des automobiles et des motocycles",
+      "nameFr": "Conventions collectives - Commerce de détail, à l_exception des automobiles et des motocycles",
+      "industries": [
+        "automobiles",
+        "ccnt du groupe migros de",
+        "ccnt du groupe migros fr",
+        "ccnt du groupe migros it",
+        "cct coop societe cooperative de",
+        "cct coop societe cooperative fr",
+        "cct coop societe cooperative it",
+        "cct de la boulangerie-patisserie-confiserie artisanale suisse de",
+        "cct de la boulangerie-patisserie-confiserie artisanale suisse fr",
+        "cct de la boulangerie-patisserie-confiserie artisanale suisse it",
+        "cct de la pharmacie du canton de geneve fr",
+        "cct du commerce de detail de la ville de lausanne fr",
+        "cct in globo auparavant cct groupe globus de",
+        "cct in globo auparavant cct groupe globus fr",
+        "cct in globo auparavant cct groupe globus it",
+        "cct pour la boucherie-charcuterie suisse de",
+        "cct pour la boucherie-charcuterie suisse fr",
+        "cct pour la boucherie-charcuterie suisse it",
+        "commerce",
+        "commerce de detail a l exception des automobiles et des motocycles",
+        "contrat-type de travail du commerce de detail geneve ctt-cd fr",
+        "detail",
+        "exception",
+        "motocycles"
+      ],
+      "minimumMonthlyWage": 3950,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 90,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Classe 1 (sans CFC, moins de 3 ans)",
+          "minimumMonthlyWage": 3950,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Classe 2 (sans CFC, 3+ ans)",
+          "minimumMonthlyWage": 4050,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Classe 3 (CFC, moins de 2 ans)",
+          "minimumMonthlyWage": 4075,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Classe 4 (CFC, 2+ ans / gestionnaire de vente)",
+          "minimumMonthlyWage": 4175,
+          "minimumHourlyWage": 0
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCL Fox Town Factory Stores, Mendrisio_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles"
+    },
+    {
+      "id": "commerce-de-gros-a-l-exception-des-automobiles-et-des-motocycles",
+      "name": "CCT Documents - Commerce de gros, à l_exception des automobiles et des motocycles",
+      "nameFr": "Conventions collectives - Commerce de gros, à l_exception des automobiles et des motocycles",
+      "industries": [
+        "automobiles",
+        "commerce",
+        "commerce de gros a l exception des automobiles et des motocycles",
+        "exception",
+        "gros",
+        "motocycles"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Commerce de gros, à l_exception des automobiles et des motocycles/Contratto normale di lavoro per gli impiegati di commercio  nel settore del commercio all'ingrosso_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Commerce de gros, à l_exception des automobiles et des motocycles"
+    },
+    {
+      "id": "commerce-de-vehicules-et-d-accessoires-automobiles-y-c-stations-service",
+      "name": "CCT Documents - Commerce de véhicules et d_accessoires automobiles, y c. stations-service",
+      "nameFr": "Conventions collectives - Commerce de véhicules et d_accessoires automobiles, y c. stations-service",
+      "industries": [
+        "accessoires",
+        "automobiles",
+        "ccnt du groupe migros de",
+        "ccnt du groupe migros fr",
+        "ccnt du groupe migros it",
+        "cct coop societe cooperative de",
+        "cct coop societe cooperative fr",
+        "cct coop societe cooperative it",
+        "cct de la branche automobile du valais de",
+        "cct de la branche automobile du valais fr",
+        "cct des garages du canton de vaud fr",
+        "cct des professionnels de l automobile du jura et du jura bernois fr",
+        "cct du commerce de detail de la ville de lausanne fr",
+        "cct in globo auparavant cct groupe globus de",
+        "cct in globo auparavant cct groupe globus fr",
+        "cct in globo auparavant cct groupe globus it",
+        "cct pour l industrie des garages du canton de geneve fr",
+        "cct shops de stations-service suisses de",
+        "cct shops de stations-service suisses fr",
+        "cct shops de stations-service suisses it",
+        "commerce",
+        "commerce de vehicules et d accessoires automobiles y c stations-service",
+        "contrat-type de travail du commerce de detail geneve ctt-cd fr",
+        "stations-service",
+        "vehicules"
+      ],
+      "minimumMonthlyWage": 3900,
+      "minimumHourlyWage": 22.5,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Groupe VI Ouvrier de garage",
+          "minimumMonthlyWage": 3900,
+          "minimumHourlyWage": 22.5
+        },
+        {
+          "role": "Groupe V AFP",
+          "minimumMonthlyWage": 4000,
+          "minimumHourlyWage": 23.08
+        },
+        {
+          "role": "Groupe III Gestionnaire commerce",
+          "minimumMonthlyWage": 4300,
+          "minimumHourlyWage": 24.81
+        },
+        {
+          "role": "Groupe II Mécanicien 3 ans",
+          "minimumMonthlyWage": 4100,
+          "minimumHourlyWage": 23.65
+        },
+        {
+          "role": "Groupe I Mécanicien 4 ans",
+          "minimumMonthlyWage": 4600,
+          "minimumHourlyWage": 26.54
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCL Fox Town Factory Stores, Mendrisio_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service"
+    },
+    {
+      "id": "construction-de-batiments-et-genie-civil",
+      "name": "CCT Documents - Construction de bâtiments et génie civil",
+      "nameFr": "Conventions collectives - Construction de bâtiments et génie civil",
+      "industries": [
+        "batiments",
+        "cct des cadres de la construction contremaitres et chefs d atelier de",
+        "cct des cadres de la construction contremaitres et chefs d atelier fr",
+        "cct des cadres de la construction contremaitres et chefs d atelier it",
+        "cct introduisant un regime de preretraite retaval de",
+        "cct introduisant un regime de preretraite retaval fr",
+        "cct pour la branche infrastructure de reseau de",
+        "cct pour la branche infrastructure de reseau fr",
+        "cct pour la branche infrastructure de reseau it",
+        "cct pour la retraite anticipee dans le secteur principal de la construction de",
+        "cct pour la retraite anticipee dans le secteur principal de la construction fr",
+        "cct pour la retraite anticipee dans le secteur principal de la construction it",
+        "civil",
+        "construction",
+        "construction de batiments et genie civil",
+        "genie"
+      ],
+      "minimumMonthlyWage": 4340,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Manœuvre (sans formation, ≤3 ans, ≤25 ans)",
+          "minimumMonthlyWage": 4340,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Ouvrier qualifié (3+ ans expérience)",
+          "minimumMonthlyWage": 4770,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Cadres/Poliere - zone verte (région Romandie)",
+          "minimumMonthlyWage": 6220,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Cadres/Poliere - zone bleue (Suisse centrale)",
+          "minimumMonthlyWage": 6476,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Cadres/Poliere - zone rouge (Bâle/Genève)",
+          "minimumMonthlyWage": 6733,
+          "minimumHourlyWage": 0
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Construction de bâtiments et génie civil/CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Construction de bâtiments et génie civil"
+    },
+    {
+      "id": "creches-prise-en-charge-de-personnes-agees-et-ou-en-situation-de-handicap-autres-services-d-action-sociale-sans-hebergement",
+      "name": "CCT Documents - Crèches, prise en charge de personnes âgées et_ou en situation de handicap, autres services d_action sociale sans hébergement",
+      "nameFr": "Conventions collectives - Crèches, prise en charge de personnes âgées et_ou en situation de handicap, autres services d_action sociale sans hébergement",
+      "industries": [
+        "action",
+        "agees",
+        "autres",
+        "cct du secteur des etablissements specialises du canton de neuchatel fr",
+        "charge",
+        "contrat-type de travail pour les organisations de soins et d aide a domicile ge ctt-osad fr",
+        "creches",
+        "creches prise en charge de personnes agees et ou en situation de handicap autres services d action sociale sans hebergement",
+        "ctt pour les stages dans les institutions d accueil de jour collectif prescolaire et parascolaire actt-stages-ajpp vd fr",
+        "handicap",
+        "hebergement",
+        "personnes",
+        "prise",
+        "sans",
+        "services",
+        "situation",
+        "sociale"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Crèches, prise en charge de personnes âgées et_ou en situation de handicap, autres services d_action sociale sans hébergement/CCT du secteur des établissements spécialisés du canton de Neuchâtel_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Crèches, prise en charge de personnes âgées et_ou en situation de handicap, autres services d_action sociale sans hébergement"
+    },
+    {
+      "id": "culture-et-production-animale-chasse",
+      "name": "CCT Documents - Culture et production animale, chasse",
+      "nameFr": "Conventions collectives - Culture et production animale, chasse",
+      "industries": [
+        "animale",
+        "cct du secteur des parcs et jardins des pepinieres et de l arboriculture dans le canton de geneve fr",
+        "cct du secteur du paysagisme fribourg neuchatel jura et jura bernois de",
+        "cct du secteur du paysagisme fribourg neuchatel jura et jura bernois fr",
+        "chasse",
+        "culture",
+        "culture et production animale chasse",
+        "production"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Culture et production animale, chasse/CCT du secteur des parcs et jardins, des pépinières et de l_arboriculture dans le Canton de Genève_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Culture et production animale, chasse"
+    },
+    {
+      "id": "demolition-et-preparation-des-sites",
+      "name": "CCT Documents - Démolition et préparation des sites",
+      "nameFr": "Conventions collectives - Démolition et préparation des sites",
+      "industries": [
+        "cct pour la retraite anticipee dans le secteur principal de la construction de",
+        "cct pour la retraite anticipee dans le secteur principal de la construction fr",
+        "cct pour la retraite anticipee dans le secteur principal de la construction it",
+        "demolition",
+        "demolition et preparation des sites",
+        "preparation",
+        "sites"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Démolition et préparation des sites/CCT pour la retraite anticipée dans le secteur principal_de la construction_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Démolition et préparation des sites"
+    },
+    {
+      "id": "depollution-et-autres-services-de-gestion-des-dechets",
+      "name": "CCT Documents - Dépollution et autres services de gestion des déchets",
+      "nameFr": "Conventions collectives - Dépollution et autres services de gestion des déchets",
+      "industries": [
+        "autres",
+        "dechets",
+        "depollution",
+        "depollution et autres services de gestion des dechets",
+        "gestion",
+        "services"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Dépollution et autres services de gestion des déchets/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Dépollution et autres services de gestion des déchets"
+    },
+    {
+      "id": "enquetes-et-securite",
+      "name": "CCT Documents - Enquêtes et sécurité",
+      "nameFr": "Conventions collectives - Enquêtes et sécurité",
+      "industries": [
+        "cct pour la branche privee de la securite de",
+        "cct pour la branche privee de la securite fr",
+        "cct pour la branche privee de la securite it",
+        "enquetes",
+        "enquetes et securite",
+        "securite"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Enquêtes et sécurité/CCT pour la branche privée de la sécurité_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Enquêtes et sécurité"
+    },
+    {
+      "id": "entreposage-et-services-auxiliaires-des-transports",
+      "name": "CCT Documents - Entreposage et services auxiliaires des transports",
+      "nameFr": "Conventions collectives - Entreposage et services auxiliaires des transports",
+      "industries": [
+        "auxiliaires",
+        "cct swissport international sa geneve - pour le personnel avec salaire horaire fr",
+        "cct swissport international sa geneve pour le personnel avec salaire mensuel fr",
+        "contrat-type de travail pour le secteur de l assistance au sol aux compagnies aeriennes geneve ctt-asca fr",
+        "entreposage",
+        "entreposage et services auxiliaires des transports",
+        "services",
+        "transports"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Entreposage et services auxiliaires des transports/CCT Swissport International SA, Genève - pour le personnel avec salaire horaire_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Entreposage et services auxiliaires des transports"
+    },
+    {
+      "id": "entretien-et-reparation-de-vehicules-automobiles-et-de-motocycles",
+      "name": "CCT Documents - Entretien et réparation de véhicules automobiles et de motocycles",
+      "nameFr": "Conventions collectives - Entretien et réparation de véhicules automobiles et de motocycles",
+      "industries": [
+        "automobiles",
+        "cct de l industrie suisse de la carrosserie de",
+        "cct de l industrie suisse de la carrosserie fr",
+        "cct de l industrie suisse de la carrosserie it",
+        "cct de la branche automobile du valais de",
+        "cct de la branche automobile du valais fr",
+        "cct des garages du canton de vaud fr",
+        "cct des professionnels de l automobile du jura et du jura bernois fr",
+        "cct pour l industrie des garages du canton de geneve fr",
+        "entretien",
+        "entretien et reparation de vehicules automobiles et de motocycles",
+        "motocycles",
+        "reparation",
+        "vehicules"
+      ],
+      "minimumMonthlyWage": 3850,
+      "minimumHourlyWage": 22.21,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Sans qualification, moins de 2 ans",
+          "minimumMonthlyWage": 3850,
+          "minimumHourlyWage": 22.21
+        },
+        {
+          "role": "Sans qualification",
+          "minimumMonthlyWage": 4000,
+          "minimumHourlyWage": 23.08
+        },
+        {
+          "role": "Groupe VI Ouvrier de garage (CCT Vaud)",
+          "minimumMonthlyWage": 3900,
+          "minimumHourlyWage": 22.5
+        },
+        {
+          "role": "Groupe V AFP (CCT Vaud)",
+          "minimumMonthlyWage": 4000,
+          "minimumHourlyWage": 23.08
+        },
+        {
+          "role": "Groupe II Mécanicien 3 ans (CCT Vaud)",
+          "minimumMonthlyWage": 4100,
+          "minimumHourlyWage": 23.65
+        },
+        {
+          "role": "Groupe I Mécanicien 4 ans (CCT Vaud)",
+          "minimumMonthlyWage": 4600,
+          "minimumHourlyWage": 26.54
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/CCL per il personale delle autorimesse del Cantone Ticino_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles"
+    },
+    {
+      "id": "fabrication-d-autres-materiels-de-transport-p-ex-construction-de-trains-ou-d-avions",
+      "name": "CCT Documents - Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)",
+      "nameFr": "Conventions collectives - Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)",
+      "industries": [
+        "autres",
+        "avions",
+        "cct de l industrie des machines des equipements electriques et des metaux de",
+        "cct de l industrie des machines des equipements electriques et des metaux fr",
+        "cct de l industrie des machines des equipements electriques et des metaux it",
+        "construction",
+        "fabrication",
+        "fabrication d autres materiels de transport",
+        "fabrication d autres materiels de transport p ex construction de trains ou d avions",
+        "materiels",
+        "trains",
+        "transport"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)"
+    },
+    {
+      "id": "fabrication-d-equipements-electriques",
+      "name": "CCT Documents - Fabrication d_équipements électriques",
+      "nameFr": "Conventions collectives - Fabrication d_équipements électriques",
+      "industries": [
+        "cct de l industrie des machines des equipements electriques et des metaux de",
+        "cct de l industrie des machines des equipements electriques et des metaux fr",
+        "cct de l industrie des machines des equipements electriques et des metaux it",
+        "electriques",
+        "equipements",
+        "fabrication",
+        "fabrication d equipements electriques"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Fabrication d_équipements électriques/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Fabrication d_équipements électriques"
+    },
+    {
+      "id": "fabrication-de-ciment-et-de-tuiles-briques-y-c-platre-et-autres-ceramiques-de-construction",
+      "name": "CCT Documents - Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)",
+      "nameFr": "Conventions collectives - Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)",
+      "industries": [
+        "autres",
+        "briques",
+        "cct ciments vigier sa fr",
+        "cct de l'industrie suisse des produits en beton de",
+        "cct de l'industrie suisse des produits en beton fr",
+        "cct de l'industrie suisse des produits en beton it",
+        "cct pour les tuileries-briqueteries suisses de",
+        "cct pour les tuileries-briqueteries suisses fr",
+        "ceramiques",
+        "ciment",
+        "construction",
+        "fabrication",
+        "fabrication de ciment et de tuiles briques y c platre et autres ceramiques de construction",
+        "platre",
+        "tuiles"
+      ],
+      "minimumMonthlyWage": 4025,
+      "minimumHourlyWage": 23.24,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Ouvrier (catégorie de base)",
+          "minimumMonthlyWage": 4025,
+          "minimumHourlyWage": 23.24
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)/CCT Ciments Vigier SA_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)"
+    },
+    {
+      "id": "fabrication-de-machines-et-equipements",
+      "name": "CCT Documents - Fabrication de machines et équipements",
+      "nameFr": "Conventions collectives - Fabrication de machines et équipements",
+      "industries": [
+        "cct de l industrie des machines des equipements electriques et des metaux de",
+        "cct de l industrie des machines des equipements electriques et des metaux fr",
+        "cct de l industrie des machines des equipements electriques et des metaux it",
+        "equipements",
+        "fabrication",
+        "fabrication de machines et equipements",
+        "machines"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Fabrication de machines et équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Fabrication de machines et équipements"
+    },
+    {
+      "id": "fabrication-de-meubles",
+      "name": "CCT Documents - Fabrication de meubles",
+      "nameFr": "Conventions collectives - Fabrication de meubles",
+      "industries": [
+        "cct pour l industrie suisse du meuble de",
+        "cct pour l industrie suisse du meuble fr",
+        "cct pour l industrie suisse du meuble it",
+        "fabrication",
+        "fabrication de meubles",
+        "meubles"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Fabrication de meubles/CCL per le falegnamerie e fabbriche di mobili e serramenti del Cantone Ticino_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Fabrication de meubles"
+    },
+    {
+      "id": "fabrication-de-produits-a-base-de-tabac",
+      "name": "CCT Documents - Fabrication de produits à base de tabac",
+      "nameFr": "Conventions collectives - Fabrication de produits à base de tabac",
+      "industries": [
+        "base",
+        "cct philip morris sa neuchatel fr",
+        "fabrication",
+        "fabrication de produits a base de tabac",
+        "produits",
+        "tabac"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Fabrication de produits à base de tabac/CCT Philip Morris SA Neuchâtel_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Fabrication de produits à base de tabac"
+    },
+    {
+      "id": "fabrication-de-produits-informatiques-electroniques-et-optiques",
+      "name": "CCT Documents - Fabrication de produits informatiques, électroniques et optiques",
+      "nameFr": "Conventions collectives - Fabrication de produits informatiques, électroniques et optiques",
+      "industries": [
+        "cct de l industrie des machines des equipements electriques et des metaux de",
+        "cct de l industrie des machines des equipements electriques et des metaux fr",
+        "cct de l industrie des machines des equipements electriques et des metaux it",
+        "cct des industries horlogere et microtechnique suisses de",
+        "cct des industries horlogere et microtechnique suisses fr",
+        "cct des industries horlogere et microtechnique suisses it",
+        "contrat-type de travail pour le secteur de la mecatronique geneve ctt-meca fr",
+        "electroniques",
+        "fabrication",
+        "fabrication de produits informatiques electroniques et optiques",
+        "informatiques",
+        "optiques",
+        "produits"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Fabrication de produits informatiques, électroniques et optiques/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Fabrication de produits informatiques, électroniques et optiques"
+    },
+    {
+      "id": "fabrication-de-produits-metalliques-a-l-exception-des-machines-et-des-equipements",
+      "name": "CCT Documents - Fabrication de produits métalliques, à l_exception des machines et des équipements",
+      "nameFr": "Conventions collectives - Fabrication de produits métalliques, à l_exception des machines et des équipements",
+      "industries": [
+        "ccnt pour l'artisanat du metal suisse de",
+        "ccnt pour l'artisanat du metal suisse fr",
+        "ccnt pour l'artisanat du metal suisse it",
+        "cct de l industrie des machines des equipements electriques et des metaux de",
+        "cct de l industrie des machines des equipements electriques et des metaux fr",
+        "cct de l industrie des machines des equipements electriques et des metaux it",
+        "cct de la construction metallique du canton du valais de",
+        "cct de la construction metallique du canton du valais fr",
+        "cct introduisant un regime de preretraite retaval de",
+        "cct introduisant un regime de preretraite retaval fr",
+        "cct metal-vaud fr",
+        "cct pour les metiers techniques de la metallurgie du batiment dans le canton de geneve fr",
+        "equipements",
+        "exception",
+        "fabrication",
+        "fabrication de produits metalliques a l exception des machines et des equipements",
+        "machines",
+        "metalliques",
+        "produits"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements"
+    },
+    {
+      "id": "fabrication-de-textiles",
+      "name": "CCT Documents - Fabrication de textiles",
+      "nameFr": "Conventions collectives - Fabrication de textiles",
+      "industries": [
+        "fabrication",
+        "fabrication de textiles",
+        "textiles"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Fabrication de textiles/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Fabrication de textiles"
+    },
+    {
+      "id": "ferblanterie-et-charpente",
+      "name": "CCT Documents - Ferblanterie et charpente",
+      "nameFr": "Conventions collectives - Ferblanterie et charpente",
+      "industries": [
+        "cct de la branche suisse de l'enveloppe des edifices de",
+        "cct de la branche suisse de l'enveloppe des edifices fr",
+        "cct de la branche suisse de l'enveloppe des edifices it",
+        "cct de la ferblanterie de la couverture de l'installation sanitaire du chauffage de la climatisation et de la ventilation vd fr",
+        "cct du second oeuvre romand de",
+        "cct du second oeuvre romand fr",
+        "cct introduisant un regime de preretraite retaval de",
+        "cct introduisant un regime de preretraite retaval fr",
+        "cct pour un modele de preretraite dans la branche suisse de l'enveloppe des edifices de",
+        "cct pour un modele de preretraite dans la branche suisse de l'enveloppe des edifices fr",
+        "cct pour un modele de preretraite dans la branche suisse de l'enveloppe des edifices it",
+        "charpente",
+        "ferblanterie",
+        "ferblanterie et charpente"
+      ],
+      "minimumMonthlyWage": 3977,
+      "minimumHourlyWage": 22.95,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Classe D (sans qualification, 1ère année)",
+          "minimumMonthlyWage": 3977,
+          "minimumHourlyWage": 22.95
+        },
+        {
+          "role": "Classe C (1ère année)",
+          "minimumMonthlyWage": 4424,
+          "minimumHourlyWage": 25.53
+        },
+        {
+          "role": "Classe C (3+ ans)",
+          "minimumMonthlyWage": 4665,
+          "minimumHourlyWage": 26.92
+        },
+        {
+          "role": "Classe B (1ère année)",
+          "minimumMonthlyWage": 4710,
+          "minimumHourlyWage": 27.18
+        },
+        {
+          "role": "Classe A (1ère année)",
+          "minimumMonthlyWage": 5389,
+          "minimumHourlyWage": 31.09
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Ferblanterie et charpente/CCT de la branche suisse de l'enveloppe des édifices_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Ferblanterie et charpente"
+    },
+    {
+      "id": "hebergement-et-restauration",
+      "name": "CCT Documents - Hébergement et Restauration",
+      "nameFr": "Conventions collectives - Hébergement et Restauration",
+      "industries": [
+        "cct nationale restauration",
+        "gastrosuisse-notice-calcul-salaires-horaires-ccnt-2026",
+        "hebergement",
+        "hebergement et restauration",
+        "restauration"
+      ],
+      "minimumMonthlyWage": 3713,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 14,
+        "year1Months": 1,
+        "year2to9Months": 1,
+        "year10PlusMonths": 2
+      },
+      "wagesByRole": [
+        {
+          "role": "Cat. Ia (sans formation)",
+          "minimumMonthlyWage": 3713,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Cat. Ib (formation 1 an)",
+          "minimumMonthlyWage": 3943,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Cat. II (CFC ou équivalent)",
+          "minimumMonthlyWage": 4070,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Cat. IIIa (chef de partie)",
+          "minimumMonthlyWage": 4528,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Cat. IIIb (sous-chef)",
+          "minimumMonthlyWage": 4635,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Cat. IV (chef de cuisine/restauration)",
+          "minimumMonthlyWage": 5293,
+          "minimumHourlyWage": 0
+        },
+        {
+          "role": "Stagiaires",
+          "minimumMonthlyWage": 2390,
+          "minimumHourlyWage": 0
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Hébergement et Restauration/Anstellungsbedingungen für die Mitarbeitenden im Stundenlohn der Gate Gourmet Switzerland GmbH _96 Unit Zürich_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Hébergement et Restauration"
+    },
+    {
+      "id": "hebergement-medico-social-et-social",
+      "name": "CCT Documents - Hébergement médico-social et social",
+      "nameFr": "Conventions collectives - Hébergement médico-social et social",
+      "industries": [
+        "cct dans le secteur sanitaire parapublic vaudois fr",
+        "cct des etablissements medico-sociaux ems pour les personnes agees geneve fr",
+        "cct du secteur de la sante du canton de neuchatel - version droit prive fr",
+        "cct du secteur des etablissements specialises du canton de neuchatel fr",
+        "hebergement",
+        "hebergement medico-social et social",
+        "medico-social",
+        "social"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Hébergement médico-social et social/CCL per il personale occupato presso le Case per anziani ed altri enti del Canton Ticino (ROCA; precedentemente_ Regolamento organico cantonale)_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Hébergement médico-social et social"
+    },
+    {
+      "id": "horlogerie",
+      "name": "CCT Documents - Horlogerie",
+      "nameFr": "Conventions collectives - Horlogerie",
+      "industries": [
+        "cct de l industrie des machines des equipements electriques et des metaux de",
+        "cct de l industrie des machines des equipements electriques et des metaux fr",
+        "cct de l industrie des machines des equipements electriques et des metaux it",
+        "cct des industries horlogere et microtechnique suisses de",
+        "cct des industries horlogere et microtechnique suisses fr",
+        "cct des industries horlogere et microtechnique suisses it",
+        "horlogerie"
+      ],
+      "minimumMonthlyWage": 4112,
+      "minimumHourlyWage": 25.7,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Salaire de base mensuel (CCT horlogerie)",
+          "minimumMonthlyWage": 4112,
+          "minimumHourlyWage": 25.7
+        },
+        {
+          "role": "Salaire mensuel tout-compris (avec 13e)",
+          "minimumMonthlyWage": 4455,
+          "minimumHourlyWage": 0
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Horlogerie/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Horlogerie"
+    },
+    {
+      "id": "industrie-automobile-y-c-equipements",
+      "name": "CCT Documents - Industrie automobile, y c. équipements",
+      "nameFr": "Conventions collectives - Industrie automobile, y c. équipements",
+      "industries": [
+        "automobile",
+        "cct de l industrie des machines des equipements electriques et des metaux de",
+        "cct de l industrie des machines des equipements electriques et des metaux fr",
+        "cct de l industrie des machines des equipements electriques et des metaux it",
+        "equipements",
+        "industrie",
+        "industrie automobile y c equipements"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Industrie automobile, y c. équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Industrie automobile, y c. équipements"
+    },
+    {
+      "id": "industrie-chimique-sans-industrie-pharmaceutique",
+      "name": "CCT Documents - Industrie chimique (sans industrie pharmaceutique)",
+      "nameFr": "Conventions collectives - Industrie chimique (sans industrie pharmaceutique)",
+      "industries": [
+        "chimique",
+        "industrie",
+        "industrie chimique sans industrie pharmaceutique",
+        "pharmaceutique",
+        "sans"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Industrie chimique (sans industrie pharmaceutique)/Firmenarbeitsvertrag DSM Nutritional Products AG, Zweigniederlassung Werk Lalden_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Industrie chimique (sans industrie pharmaceutique)"
+    },
+    {
+      "id": "industrie-du-verre-et-de-produits-ceramiques-sans-fabrication-de-tuiles-briques-et-ceramiques-de-construction",
+      "name": "CCT Documents - Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)",
+      "nameFr": "Conventions collectives - Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)",
+      "industries": [
+        "briques",
+        "cct des metiers de la pierre du canton de vaud fr",
+        "cct pour l artisanat et l'industrie de la pierre naturelle de",
+        "cct pour l artisanat et l'industrie de la pierre naturelle fr",
+        "ceramiques",
+        "construction",
+        "fabrication",
+        "industrie",
+        "industrie du verre et de produits ceramiques sans fabrication de tuiles briques et ceramiques de construction",
+        "produits",
+        "sans",
+        "tuiles",
+        "verre"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/CCL nel ramo della vetrerie del Cantone Ticino_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)"
+    },
+    {
+      "id": "industrie-pharmaceutique",
+      "name": "CCT Documents - Industrie pharmaceutique",
+      "nameFr": "Conventions collectives - Industrie pharmaceutique",
+      "industries": [
+        "cct gsk consumer healthcare company usine de nyon anciennement novartis fr",
+        "industrie",
+        "industrie pharmaceutique",
+        "pharmaceutique"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Industrie pharmaceutique/CCT GSK Consumer Healthcare company, Usine de Nyon (anciennement_ Novartis)_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Industrie pharmaceutique"
+    },
+    {
+      "id": "industries-alimentaires-de-boissons-et-fourragere",
+      "name": "CCT Documents - Industries alimentaires, de boissons et fourragère",
+      "nameFr": "Conventions collectives - Industries alimentaires, de boissons et fourragère",
+      "industries": [
+        "alimentaires",
+        "boissons",
+        "cct de l industrie chocolatiere suisse de",
+        "cct de l industrie chocolatiere suisse fr",
+        "cct de l industrie chocolatiere suisse it",
+        "cct de la boulangerie-patisserie-confiserie artisanale suisse de",
+        "cct de la boulangerie-patisserie-confiserie artisanale suisse fr",
+        "cct de la boulangerie-patisserie-confiserie artisanale suisse it",
+        "cct nestle waters suisse sa fr",
+        "cct pour la boucherie-charcuterie suisse de",
+        "cct pour la boucherie-charcuterie suisse fr",
+        "cct pour la boucherie-charcuterie suisse it",
+        "fourragere",
+        "industries",
+        "industries alimentaires de boissons et fourragere"
+      ],
+      "minimumMonthlyWage": 4050,
+      "minimumHourlyWage": 23.39,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Catégorie F (EFZ 3 ans, entrée)",
+          "minimumMonthlyWage": 4050,
+          "minimumHourlyWage": 23.39
+        },
+        {
+          "role": "Catégorie B (EFZ, expérimenté)",
+          "minimumMonthlyWage": 4350,
+          "minimumHourlyWage": 25.1
+        },
+        {
+          "role": "Catégorie C (travailleur indépendant qualifié)",
+          "minimumMonthlyWage": 4550,
+          "minimumHourlyWage": 26.27
+        },
+        {
+          "role": "Catégorie D (Kaderperson / cadre)",
+          "minimumMonthlyWage": 5100,
+          "minimumHourlyWage": 29.42
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT de l_industrie chocolatière suisse_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Industries alimentaires, de boissons et fourragère"
+    },
+    {
+      "id": "jardinerie-paysagistes",
+      "name": "CCT Documents - Jardinerie _ Paysagistes",
+      "nameFr": "Conventions collectives - Jardinerie _ Paysagistes",
+      "industries": [
+        "cct jura bernois",
+        "cppj cct 2023-2027v2 geneve",
+        "cppj ctt 01 02 21 contrat type geneve",
+        "jardinerie",
+        "jardinerie paysagistes",
+        "modele de contrat cct paysagisme",
+        "paysagistes",
+        "valais cct-paysagistes-2023-2026",
+        "vaud cct-paysagistes-2024 1gipbgh"
+      ],
+      "minimumMonthlyWage": 4000,
+      "minimumHourlyWage": 23.08,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Ouvrier jardinier (sans CFC)",
+          "minimumMonthlyWage": 4000,
+          "minimumHourlyWage": 23.08
+        },
+        {
+          "role": "AFP jardinerie",
+          "minimumMonthlyWage": 4200,
+          "minimumHourlyWage": 24.23
+        },
+        {
+          "role": "CFC jardinier",
+          "minimumMonthlyWage": 4875,
+          "minimumHourlyWage": 28.13
+        },
+        {
+          "role": "Chef d'équipe",
+          "minimumMonthlyWage": 5275,
+          "minimumHourlyWage": 30.43
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Jardinerie _ Paysagistes/2d11_Assurances__sociales_cotisations_2026_GtRqkox.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Jardinerie _ Paysagistes"
+    },
+    {
+      "id": "menages-prives-avec-personnel-domestique",
+      "name": "CCT Documents - Ménages privés avec personnel domestique",
+      "nameFr": "Conventions collectives - Ménages privés avec personnel domestique",
+      "industries": [
+        "avec",
+        "contrat-type de travail de l'economie domestique ge ctt-edom fr",
+        "contrat-type de travail pour les travailleurs de l'economie domestique ch ctt economie domestique de",
+        "contrat-type de travail pour les travailleurs de l'economie domestique ch ctt economie domestique fr",
+        "contrat-type de travail pour les travailleurs de l'economie domestique ch ctt economie domestique it",
+        "domestique",
+        "menages",
+        "menages prives avec personnel domestique",
+        "personnel",
+        "prives"
+      ],
+      "minimumMonthlyWage": 3704,
+      "minimumHourlyWage": 20.35,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "a. Non qualifié (catégorie de base)",
+          "minimumMonthlyWage": 3704,
+          "minimumHourlyWage": 20.35
+        },
+        {
+          "role": "b. Non qualifié, 4+ ans expérience",
+          "minimumMonthlyWage": 4059,
+          "minimumHourlyWage": 22.3
+        },
+        {
+          "role": "c. Qualifié (EFZ/CFC)",
+          "minimumMonthlyWage": 4468,
+          "minimumHourlyWage": 24.55
+        },
+        {
+          "role": "d. Qualifié (EBA)",
+          "minimumMonthlyWage": 4059,
+          "minimumHourlyWage": 22.3
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Ménages privés avec personnel domestique/Contrat-type de travail de l'économie domestique GE (CTT-EDom)_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Ménages privés avec personnel domestique"
+    },
+    {
+      "id": "metallurgie-p-ex-acieries-fonderies",
+      "name": "CCT Documents - Métallurgie (p. ex. aciéries, fonderies)",
+      "nameFr": "Conventions collectives - Métallurgie (p. ex. aciéries, fonderies)",
+      "industries": [
+        "acieries",
+        "cct de l industrie des machines des equipements electriques et des metaux de",
+        "cct de l industrie des machines des equipements electriques et des metaux fr",
+        "cct de l industrie des machines des equipements electriques et des metaux it",
+        "contrat-type de travail pour le secteur de la mecatronique geneve ctt-meca fr",
+        "fonderies",
+        "metallurgie",
+        "metallurgie p ex acieries fonderies"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Métallurgie (p. ex. aciéries, fonderies)/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Métallurgie (p. ex. aciéries, fonderies)"
+    },
+    {
+      "id": "organisation-sportives-et-de-jeux-p-ex-centres-de-fitness-installations-sportives-clubs-de-sport-casinos",
+      "name": "CCT Documents - Organisation sportives et de jeux (p. ex. centres de fitness, installations sportives, clubs de sport, casinos)",
+      "nameFr": "Conventions collectives - Organisation sportives et de jeux (p. ex. centres de fitness, installations sportives, clubs de sport, casinos)",
+      "industries": [
+        "casinos",
+        "centres",
+        "clubs",
+        "fitness",
+        "installations",
+        "jeux",
+        "organisation",
+        "organisation sportives et de jeux",
+        "organisation sportives et de jeux p ex centres de fitness installations sportives clubs de sport casinos",
+        "sport",
+        "sportives"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Organisation sportives et de jeux (p. ex. centres de fitness, installations sportives, clubs de sport, casinos)/Contratto normale di lavoro per i centri fitness TI_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Organisation sportives et de jeux (p. ex. centres de fitness, installations sportives, clubs de sport, casinos)"
+    },
+    {
+      "id": "peinture-et-gypserie",
+      "name": "CCT Documents - Peinture et Gypserie",
+      "nameFr": "Conventions collectives - Peinture et Gypserie",
+      "industries": [
+        "cct du second oeuvre romand de",
+        "cct du second oeuvre romand fr",
+        "cct pour l industrie de la peinture et de la platrerie en suisse alemanique et au tessin de",
+        "cct pour l industrie de la peinture et de la platrerie en suisse alemanique et au tessin fr",
+        "cct pour l industrie de la peinture et de la platrerie en suisse alemanique et au tessin it",
+        "cct pour un modele de preretraite dans l industrie de la peinture et de la platrerie en suisse alemanique et au tessin de",
+        "cct pour un modele de preretraite dans l industrie de la peinture et de la platrerie en suisse alemanique et au tessin fr",
+        "cct pour un modele de preretraite dans l industrie de la peinture et de la platrerie en suisse alemanique et au tessin it",
+        "gypserie",
+        "peinture",
+        "peinture et gypserie"
+      ],
+      "minimumMonthlyWage": 4682,
+      "minimumHourlyWage": 26.35,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Classe C (sans CFC, moins de 20 ans)",
+          "minimumMonthlyWage": 3980,
+          "minimumHourlyWage": 22.4
+        },
+        {
+          "role": "Classe C (sans CFC, 20–22 ans)",
+          "minimumMonthlyWage": 4211,
+          "minimumHourlyWage": 23.7
+        },
+        {
+          "role": "Classe C (sans CFC, 22+ ans)",
+          "minimumMonthlyWage": 4682,
+          "minimumHourlyWage": 26.35
+        },
+        {
+          "role": "1ère année AFP (B-20%)",
+          "minimumMonthlyWage": 0,
+          "minimumHourlyWage": 22.8
+        },
+        {
+          "role": "2ème année AFP (B-10%)",
+          "minimumMonthlyWage": 4558,
+          "minimumHourlyWage": 25.65
+        },
+        {
+          "role": "Classe A (CFC + 2+ ans)",
+          "minimumMonthlyWage": 5509,
+          "minimumHourlyWage": 31
+        },
+        {
+          "role": "Classe CE (A + 10%, fonction supérieure)",
+          "minimumMonthlyWage": 6060,
+          "minimumHourlyWage": 34.1
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Peinture et Gypserie/CCL nel ramo della pittura, verniciatura, tappezzeria e sabbiatura TI_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Peinture et Gypserie"
+    },
+    {
+      "id": "programmation-conseil-et-autres-activites-informatiques",
+      "name": "CCT Documents - Programmation, conseil et autres activités informatiques",
+      "nameFr": "Conventions collectives - Programmation, conseil et autres activités informatiques",
+      "industries": [
+        "activites",
+        "autres",
+        "conseil",
+        "informatiques",
+        "programmation",
+        "programmation conseil et autres activites informatiques"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Programmation, conseil et autres activités informatiques/Contratto normale di lavoro per il settore dell_informatica TI_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Programmation, conseil et autres activités informatiques"
+    },
+    {
+      "id": "recherche-developpement-scientifique",
+      "name": "CCT Documents - Recherche-développement scientifique",
+      "nameFr": "Conventions collectives - Recherche-développement scientifique",
+      "industries": [
+        "cct gsk consumer healthcare company usine de nyon anciennement novartis fr",
+        "recherche-developpement",
+        "recherche-developpement scientifique",
+        "scientifique"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Recherche-développement scientifique/CCT GSK Consumer Healthcare company, Usine de Nyon (anciennement_ Novartis)_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Recherche-développement scientifique"
+    },
+    {
+      "id": "reparation-d-ordinateurs-et-de-biens-personnels-et-domestiques",
+      "name": "CCT Documents - Réparation d_ordinateurs et de biens personnels et domestiques",
+      "nameFr": "Conventions collectives - Réparation d_ordinateurs et de biens personnels et domestiques",
+      "industries": [
+        "biens",
+        "domestiques",
+        "ordinateurs",
+        "personnels",
+        "reparation",
+        "reparation d ordinateurs et de biens personnels et domestiques"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Réparation d_ordinateurs et de biens personnels et domestiques/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Réparation d_ordinateurs et de biens personnels et domestiques"
+    },
+    {
+      "id": "reparation-et-installation-de-machines-et-d-equipe",
+      "name": "CCT Documents - Réparation et installation de machines et d_équipe",
+      "nameFr": "Conventions collectives - Réparation et installation de machines et d_équipe",
+      "industries": [
+        "cct de l industrie des machines des equipements electriques et des metaux de",
+        "cct de l industrie des machines des equipements electriques et des metaux fr",
+        "cct de l industrie des machines des equipements electriques et des metaux it",
+        "equipe",
+        "installation",
+        "machines",
+        "reparation",
+        "reparation et installation de machines et d equipe"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Réparation et installation de machines et d_équipe/CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Réparation et installation de machines et d_équipe"
+    },
+    {
+      "id": "sante-humaine",
+      "name": "CCT Documents - Santé humaine",
+      "nameFr": "Conventions collectives - Santé humaine",
+      "industries": [
+        "cct association jurassienne des institutions pour personnes agees et fondation pour l aide et les soins a domicile fr",
+        "cct dans le secteur sanitaire parapublic vaudois fr",
+        "cct du secteur de la sante du canton de neuchatel - version droit public fr",
+        "cct hopitaux et cliniques bernois de",
+        "cct hopitaux et cliniques bernois fr",
+        "cct pour le personnel de l hopital du jura fr",
+        "contrat-type de travail pour les organisations de soins et d aide a domicile ge ctt-osad fr",
+        "humaine",
+        "sante",
+        "sante humaine"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Santé humaine/CCL per il personale occupato negli Istituti Ospedalieri Privati del Cantone Ticino_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Santé humaine"
+    },
+    {
+      "id": "services-d-amenagement-paysager",
+      "name": "CCT Documents - Services d_aménagement paysager",
+      "nameFr": "Conventions collectives - Services d_aménagement paysager",
+      "industries": [
+        "amenagement",
+        "cct du secteur des parcs et jardins des pepinieres et de l arboriculture dans le canton de geneve fr",
+        "cct du secteur du paysagisme fribourg neuchatel jura et jura bernois de",
+        "cct du secteur du paysagisme fribourg neuchatel jura et jura bernois fr",
+        "cct paysagistes et entrepreneurs de jardins du canton de vaud fr",
+        "cct pour le personnel au service des entreprises de parc jardin et paysagisme du valais romand fr",
+        "paysager",
+        "services",
+        "services d amenagement paysager"
+      ],
+      "minimumMonthlyWage": 4005,
+      "minimumHourlyWage": 23.12,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Ouvrier paysagiste (1ère année)",
+          "minimumMonthlyWage": 4005,
+          "minimumHourlyWage": 23.12
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Services d_aménagement paysager/CCL dei giardinieri per il Cantone Ticino (CCLG)_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Services d_aménagement paysager"
+    },
+    {
+      "id": "services-d-information-p-ex-hebergement-de-sites-web-portails-web-agences-de-presse",
+      "name": "CCT Documents - Services d_information (p. ex. hébergement de sites web, portails web, agences de presse)",
+      "nameFr": "Conventions collectives - Services d_information (p. ex. hébergement de sites web, portails web, agences de presse)",
+      "industries": [
+        "agences",
+        "hebergement",
+        "information",
+        "portails",
+        "presse",
+        "services",
+        "services d information",
+        "services d information p ex hebergement de sites web portails web agences de presse",
+        "sites"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Services d_information (p. ex. hébergement de sites web, portails web, agences de presse)/Contratto normale di lavoro per il settore dell_informatica TI_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Services d_information (p. ex. hébergement de sites web, portails web, agences de presse)"
+    },
+    {
+      "id": "services-financiers-hors-assurance-et-caisses-de-pensions",
+      "name": "CCT Documents - Services financiers, hors assurance et caisses de pensions",
+      "nameFr": "Conventions collectives - Services financiers, hors assurance et caisses de pensions",
+      "industries": [
+        "assurance",
+        "caisses",
+        "cct poste ch de",
+        "cct poste ch fr",
+        "cct poste ch it",
+        "cct postfinance sa de",
+        "cct postfinance sa fr",
+        "cct postfinance sa it",
+        "financiers",
+        "hors",
+        "pensions",
+        "services",
+        "services financiers hors assurance et caisses de pensions"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Services financiers, hors assurance et caisses de pensions/CCT Poste CH_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Services financiers, hors assurance et caisses de pensions"
+    },
+    {
+      "id": "sylviculture-et-exploitation-forestiere",
+      "name": "CCT Documents - Sylviculture et exploitation forestière",
+      "nameFr": "Conventions collectives - Sylviculture et exploitation forestière",
+      "industries": [
+        "cct de l economie forestiere fribourgeoise de",
+        "cct de l economie forestiere fribourgeoise fr",
+        "cct de l'economie forestiere valaisanne de",
+        "cct de l'economie forestiere valaisanne fr",
+        "cct de l'economie forestiere vaudoise fr",
+        "exploitation",
+        "forestiere",
+        "sylviculture",
+        "sylviculture et exploitation forestiere"
+      ],
+      "minimumMonthlyWage": 4246,
+      "minimumHourlyWage": 24.5,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Ausiliario forestale (ouvrier auxiliaire)",
+          "minimumMonthlyWage": 4246,
+          "minimumHourlyWage": 24.5
+        },
+        {
+          "role": "Operaio forestale",
+          "minimumMonthlyWage": 4462,
+          "minimumHourlyWage": 25.76
+        },
+        {
+          "role": "Selvicoltore qualificato (CFC)",
+          "minimumMonthlyWage": 4689,
+          "minimumHourlyWage": 27.07
+        },
+        {
+          "role": "Capo squadra (chef d'équipe)",
+          "minimumMonthlyWage": 4917,
+          "minimumHourlyWage": 28.38
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Sylviculture et exploitation forestière/CCL per i dipendenti delle imprese forestali del Cantone Ticino_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Sylviculture et exploitation forestière"
+    },
+    {
+      "id": "transports-de-voyageurs-en-bus-trams-remontees-mecaniques-taxis-transport-de-marchandises-par-la-route",
+      "name": "CCT Documents - Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route",
+      "nameFr": "Conventions collectives - Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route",
+      "industries": [
+        "cct carpostal de",
+        "cct carpostal fr",
+        "cct carpostal it",
+        "cct poste ch de",
+        "cct poste ch fr",
+        "cct poste ch it",
+        "contrat-type de travail pour le transport professionnel de choses geneve ctt-tpc fr",
+        "marchandises",
+        "mecaniques",
+        "remontees",
+        "route",
+        "taxis",
+        "trams",
+        "transport",
+        "transports",
+        "transports de voyageurs en bus trams remontees mecaniques taxis transport de marchandises par la route",
+        "voyageurs"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/CCL per il settore degli autotrasporti nel Cantone Ticino (ASTAG)_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route"
+    },
+    {
+      "id": "travail-du-bois-et-fabrication-d-articles-en-bois",
+      "name": "CCT Documents - Travail du bois et fabrication d_articles en bois",
+      "nameFr": "Conventions collectives - Travail du bois et fabrication d_articles en bois",
+      "industries": [
+        "articles",
+        "bois",
+        "cct industrie du bois suisse de",
+        "cct industrie du bois suisse fr",
+        "cct industrie du bois suisse it",
+        "cct tavapan s a tavannes fr",
+        "contrat-type de travail des monteurs de stands geneve ctt-mstands fr",
+        "fabrication",
+        "travail",
+        "travail du bois et fabrication d articles en bois"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "local://Conventions_Collectives/Travail du bois et fabrication d_articles en bois/CCL per le falegnamerie e fabbriche di mobili e serramenti del Cantone Ticino_IT.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Travail du bois et fabrication d_articles en bois"
+    },
+    {
+      "id": "travaux-d-installation-electrique-plomberie-et-autres-travaux-d-installation",
+      "name": "CCT Documents - Travaux d_installation électrique, plomberie et autres travaux d_installation",
+      "nameFr": "Conventions collectives - Travaux d_installation électrique, plomberie et autres travaux d_installation",
+      "industries": [
+        "autres",
+        "ccnt pour l'artisanat du metal suisse de",
+        "ccnt pour l'artisanat du metal suisse fr",
+        "ccnt pour l'artisanat du metal suisse it",
+        "cct dans la branche suisse des techniques du batiment de",
+        "cct dans la branche suisse des techniques du batiment fr",
+        "cct dans la branche suisse des techniques du batiment it",
+        "cct de la branche suisse de l isolation de",
+        "cct de la branche suisse de l isolation fr",
+        "cct de la branche suisse de l isolation it",
+        "cct de la branche suisse de l'electricite de",
+        "cct de la branche suisse de l'electricite fr",
+        "cct de la branche suisse de l'electricite it",
+        "cct de la ferblanterie de la couverture de l'installation sanitaire du chauffage de la climatisation et de la ventilation vd fr",
+        "cct des metiers de l electricite du canton du valais anciennement cct des installateurs-electriciens et des monteurs de lignes du canton du valais de",
+        "cct des metiers de l electricite du canton du valais anciennement cct des installateurs-electriciens et des monteurs de lignes du canton du valais fr",
+        "cct introduisant un regime de preretraite retaval de",
+        "cct introduisant un regime de preretraite retaval fr",
+        "cct pour les metiers techniques de la metallurgie du batiment dans le canton de geneve fr",
+        "contrat-type de travail pour le secteur de la mecatronique geneve ctt-meca fr",
+        "electrique",
+        "installation",
+        "plomberie",
+        "travaux",
+        "travaux d installation electrique plomberie et autres travaux d installation"
+      ],
+      "minimumMonthlyWage": 3700,
+      "minimumHourlyWage": 21.35,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Installateur 3 (sans qualification, 1ère année)",
+          "minimumMonthlyWage": 3700,
+          "minimumHourlyWage": 21.35
+        },
+        {
+          "role": "Installateur 3 (sans qualification, 2ème année)",
+          "minimumMonthlyWage": 3750,
+          "minimumHourlyWage": 21.64
+        },
+        {
+          "role": "Installateur 3 (3ème année)",
+          "minimumMonthlyWage": 3800,
+          "minimumHourlyWage": 21.93
+        },
+        {
+          "role": "Installateur 2 (semi-qualifié, 1ère année)",
+          "minimumMonthlyWage": 3800,
+          "minimumHourlyWage": 21.93
+        },
+        {
+          "role": "Installateur 2 (3ème année)",
+          "minimumMonthlyWage": 4100,
+          "minimumHourlyWage": 23.66
+        },
+        {
+          "role": "Installateur 1 (CFC, 1ère année)",
+          "minimumMonthlyWage": 4100,
+          "minimumHourlyWage": 23.66
+        },
+        {
+          "role": "Installateur 1 (CFC, 5ème année)",
+          "minimumMonthlyWage": 4900,
+          "minimumHourlyWage": 28.27
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation"
+    },
+    {
+      "id": "travaux-de-finition-p-ex-carrelage-menuiserie",
+      "name": "CCT Documents - Travaux de finition (p.ex. carrelage, menuiserie)",
+      "nameFr": "Conventions collectives - Travaux de finition (p.ex. carrelage, menuiserie)",
+      "industries": [
+        "carrelage",
+        "ccnt pour le carrelage pour toute la suisse a l'exception de fr bs bl vd vs ne ge ti ju de",
+        "ccnt pour le carrelage pour toute la suisse a l'exception de fr bs bl vd vs ne ge ti ju fr",
+        "ccnt pour le carrelage pour toute la suisse a l'exception de fr bs bl vd vs ne ge ti ju it",
+        "cct carrelages du canton du valais de",
+        "cct carrelages du canton du valais fr",
+        "cct de la construction metallique du canton du valais de",
+        "cct de la construction metallique du canton du valais fr",
+        "cct du second 9cuvre romand de",
+        "cct du second 9cuvre romand fr",
+        "cct metal-vaud fr",
+        "cct pour l industrie de la peinture et de la platrerie en suisse alemanique et au tessin de",
+        "cct pour l industrie de la peinture et de la platrerie en suisse alemanique et au tessin fr",
+        "cct pour l industrie de la peinture et de la platrerie en suisse alemanique et au tessin it",
+        "cct pour la retraite anticipee des echafaudeurs suisses de",
+        "cct pour la retraite anticipee des echafaudeurs suisses fr",
+        "cct pour la retraite anticipee des echafaudeurs suisses it",
+        "cct pour les echafaudeurs suisses de",
+        "cct pour les echafaudeurs suisses fr",
+        "cct pour les echafaudeurs suisses it",
+        "cct pour un modele de preretraite dans l industrie de la peinture et de la platrerie en suisse alemanique et au tessin de",
+        "cct pour un modele de preretraite dans l industrie de la peinture et de la platrerie en suisse alemanique et au tessin fr",
+        "cct pour un modele de preretraite dans l industrie de la peinture et de la platrerie en suisse alemanique et au tessin it",
+        "finition",
+        "menuiserie",
+        "travaux",
+        "travaux de finition",
+        "travaux de finition p ex carrelage menuiserie"
+      ],
+      "minimumMonthlyWage": 3750,
+      "minimumHourlyWage": 20.4,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        {
+          "role": "Personnel de montage non qualifié",
+          "minimumMonthlyWage": 3750,
+          "minimumHourlyWage": 20.4
+        },
+        {
+          "role": "Personnel semi-qualifié (4+ ans)",
+          "minimumMonthlyWage": 4000,
+          "minimumHourlyWage": 21.75
+        },
+        {
+          "role": "Poseur de parquet qualifié (CFC, 1–3 ans)",
+          "minimumMonthlyWage": 4150,
+          "minimumHourlyWage": 22.55
+        },
+        {
+          "role": "Poseur de parquet qualifié (CFC, 4+ ans)",
+          "minimumMonthlyWage": 4500,
+          "minimumHourlyWage": 24.45
+        },
+        {
+          "role": "Chef poseur avec brevet fédéral",
+          "minimumMonthlyWage": 5400,
+          "minimumHourlyWage": 29.35
+        }
+      ],
+      "cctUrl": "local://Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_DE.pdf",
+      "legalBasis": "Source documents: Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)"
+    },
+    {
+      "id": "default-co",
+      "name": "CO - Code des Obligations (no specific CLA)",
+      "nameFr": "Code des Obligations - Pas de CCT applicable",
+      "industries": [
+        "services",
+        "administration",
+        "office",
+        "fiduciaire",
+        "accounting",
+        "it",
+        "technology",
+        "informatique",
+        "software",
+        "consulting",
+        "conseil",
+        "marketing",
+        "communication",
+        "finance",
+        "banque",
+        "assurance",
+        "insurance",
+        "immobilier",
+        "real estate",
+        "architecture",
+        "juridique",
+        "legal",
+        "education",
+        "formation",
+        "transport",
+        "logistique",
+        "logistics"
+      ],
+      "minimumMonthlyWage": 0,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [],
+      "cctUrl": "https://www.fedlex.admin.ch/eli/cc/27/317_321_377/fr",
+      "legalBasis": "CO art. 319-362 (pas de CCT etendue applicable)"
+    }
+  ]
+}

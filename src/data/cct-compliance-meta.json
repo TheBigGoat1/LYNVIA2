@@ -1,0 +1,12 @@
+{
+  "vacationMinWeeksByClaId": {
+    "jardinerie-paysagistes": 5,
+    "services-d-amenagement-paysager": 5,
+    "activites-de-nettoyage": 5
+  },
+  "thirteenthSalaryHintClaIds": [
+    "jardinerie-paysagistes",
+    "services-d-amenagement-paysager",
+    "activites-de-nettoyage"
+  ]
+}

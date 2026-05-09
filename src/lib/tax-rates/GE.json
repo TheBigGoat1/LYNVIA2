@@ -1,0 +1,35 @@
+
+{
+  "general_rates": [
+    {"from": 0, "rate": 0.0, "amount": 0},
+    {"from": 20455, "rate": 0.19, "amount": 3886.45},
+    {"from": 30682, "rate": 0.22, "amount": 6136.40},
+    {"from": 40909, "rate": 0.25, "amount": 9204.55},
+    {"from": 51136, "rate": 0.28, "amount": 12784.08},
+    {"from": 61364, "rate": 0.31, "amount": 16900.56},
+    {"from": 76705, "rate": 0.34, "amount": 22896.79},
+    {"from": 92045, "rate": 0.37, "amount": 30048.44},
+    {"from": 122727, "rate": 0.40, "amount": 43539.29},
+    {"from": 153409, "rate": 0.42, "amount": 56417.07},
+    {"from": 255682, "rate": 0.44, "amount": 100000.00},
+    {"from": 1022727, "rate": 0.45, "amount": 444000.00}
+  ],
+  "married_rates": [
+    {"from": 0, "rate": 0.0, "amount": 0},
+    {"from": 40909, "rate": 0.19, "amount": 7772.71},
+    {"from": 61364, "rate": 0.22, "amount": 12272.80},
+    {"from": 81818, "rate": 0.25, "amount": 18409.10},
+    {"from": 102273, "rate": 0.28, "amount": 25568.16},
+    {"from": 122727, "rate": 0.31, "amount": 33801.12},
+    {"from": 153409, "rate": 0.34, "amount": 45793.58},
+    {"from": 184091, "rate": 0.37, "amount": 60096.88},
+    {"from": 245455, "rate": 0.40, "amount": 87078.58},
+    {"from": 306818, "rate": 0.42, "amount": 112834.14},
+    {"from": 511364, "rate": 0.44, "amount": 200000.00},
+    {"from": 1022727, "rate": 0.45, "amount": 444000.00}
+  ],
+  "deductions": {
+    "general_deduction": 0,
+    "children_deduction": 4000
+  }
+}

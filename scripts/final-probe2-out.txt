@@ -1,0 +1,50 @@
+
+=== boucherie DE ===
+Range: 4050 – 5100
+  4350 | ............................................................CHF 4350.- pro Monat oder CHF 23.39 pro Stunde B EFZ, dreijä
+  4550 | ............................................................CHF 4550.- pro Monat oder CHF 24.46 pro Stunde C Selbständig
+  5100 | ............................................................CHF 5100.- pro Monat oder CHF 27.42 pro Stunde D Kaderperson
+  4050 | ............................................................CHF 4050.- pro Monat oder CHF 21.77 pro Stunde F EFZ, dreijä
+[NO WAGES]  boulangerie DE  (chars: 50)
+  SAMPLE:  
+[NO WAGES]  chocolat FR  (chars: 40)
+  SAMPLE:  
+[NOT FOUND] menages GE: Contrat-type de travail de l_économie domestique G
+[PREFIX MATCH] medico EMS: CCT des Etablissements médico-sociaux (EMS) pour les personn
+[NO WAGES]  medico EMS  (chars: 60855)
+  SAMPLE:  Convention collective de travail conclue entre La Fédération genevoise des établissements médico-sociaux (Fegems) d’une part l’Association suisse des infirmier-e-s, section genevoise (ASI) le Syndic
+[PREFIX MATCH] medico NE: CCT du secteur de la santé du canton de Neuchâtel - version 
+[NO WAGES]  medico NE  (chars: 170591)
+  SAMPLE:  2022 - 2025 CCT du secteur de la santé du canton de Neuchâtel - 2022-2025 Etat au 1 er janvier 2022 CCT du secteur de la santé du canton de Neuchâtel - 2022-2025 www.cctsante21.ch 2 Table des mati
+[NO WAGES]  sante VD  (chars: 122462)
+  SAMPLE:  Convention collective de travail dans le secteur sanitaire parapublic vaudois Etat au 1 er janvier 2024 www.cctsan-vaud.ch ________________________________________
+Warning: TT: undefined function: 3
+Warning: TT: undefined function: 32
+
+=== finition sol DE ===
+Range: 3750 – 5400
+  4150 | achrichtung) − im 1., 2. und 3. Jahr nach der Grundbildung Fr. 4150.00 Fr. 22.55 − mit vier oder mehr Jahren Berufserfah
+  4500 | er oder mehr Jahren Berufserfahrung nach der Grundbildung Fr. 4500.00 Fr. 24.45 b) Gelernte Boden-Parkettleger (Abschlus
+  4350 | hrichtungen) − im 1., 2. und 3. Jahr nach der Grundbildung Fr. 4350.00 Fr. 23.65 − mit vier oder mehr Jahren Berufserfah
+  4800 | er oder mehr Jahren Berufserfahrung nach der Grundbildung Fr. 4800.00 Fr. 26.10 d) Ungelerntes Montagepersonal Fr. 3750.
+  3750 | g Fr. 4800.00 Fr. 26.10 d) Ungelerntes Montagepersonal Fr. 3750.00 Fr. 20.40 e) Angelerntes Montagepersonal ab 4 Jahren 
+  4000 | e) Angelerntes Montagepersonal ab 4 Jahren Berufserfahrung Fr. 4000.00 Fr. 21.75 f) Chefbodenleger mit Fachausweis Fr. 5
+  5400 | Fr. 4000.00 Fr. 21.75 f) Chefbodenleger mit Fachausweis Fr. 5400.00 Fr. 29.35 g) Bodenbelagsberater mit Fachausweis Fr. 
+[NOT FOUND] elec FR: CCT de la branche suisse de l_électricité_FR.pdf
+Warning: TT: undefined function: 32
+
+=== batiment FR ===
+Range: 3700 – 5100
+  5000 | .– keine Kautionspflicht CHF 2 001.– CHF 20 000.– CHF 5 000.– CHF 20 001.– CHF 10 000.– 20.10 Auf dem Gebiet der Eidgeno
+  4100 | pro Monat pro Stunde – im 1. Jahr nach Lehrabschluss CHF 4100.– CHF 23.66 – im 3. Jahr nach Lehrabschluss CHF 4400.– CHF
+  4400 | CHF 4100.– CHF 23.66 – im 3. Jahr nach Lehrabschluss CHF 4400.– CHF 25.39 – im 5. Jahr nach Lehrabschluss CHF 4900.– CHF
+  4900 | CHF 4400.– CHF 25.39 – im 5. Jahr nach Lehrabschluss CHF 4900.– CHF 28.27 – im 7. Jahr nach Lehrabschluss CHF 5100.– CHF
+  5100 | CHF 4900.– CHF 28.27 – im 7. Jahr nach Lehrabschluss CHF 5100.– CHF 29.43 148 Installateur 2 Arbeitnehmende mit handwerk
+  3800 | pro Monat pro Stunde – im 1. Jahr nach Lehrabschluss CHF 3800.– CHF 21.93 – im 2. Jahr nach Lehrabschluss CHF 3900.– CHF
+  3900 | CHF 3800.– CHF 21.93 – im 2. Jahr nach Lehrabschluss CHF 3900.– CHF 22.50 – im 3. Jahr nach Lehrabschluss CHF 4100.– CHF
+  4300 | CHF 4100.– CHF 23.66 – im 4. Jahr nach Lehrabschluss CHF 4300.– CHF 24.81 Installateur 3 Arbeitnehmende, die das 20. Alt
+  3700 | orie pro Monat pro Stunde – im 1. Jahr der Anstellung CHF 3700.– CHF 21.35 – im 2. Jahr der Anstellung CHF 3750.– CHF 21
+  3750 | ung CHF 3700.– CHF 21.35 – im 2. Jahr der Anstellung CHF 3750.– CHF 21.64 – im 3. Jahr der Anstellung CHF 3800.– CHF 21.
+  4000 | ung CHF 3800.– CHF 21.93 – im 4. Jahr der Anstellung CHF 4000.– CHF 23.08 Können die vorgenannten Minimallöhne bei Vorli
+[NO WAGES]  OSAD GE  (chars: 16795)
+  SAMPLE:  Contrat-type de travail avec salaires minimaux impératifs pour les organisations de soins et d'aide à domicile (CTT-OSAD) (1) du 14 décembre 2023 (Entrée en vigueur : 1 er janvier 2024) 

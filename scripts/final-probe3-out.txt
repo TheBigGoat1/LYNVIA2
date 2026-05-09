@@ -1,0 +1,41 @@
+[FILE] menages GE (CTT-EDom): Contrat-type de travail de l'économie domestique GE (CTT-EDom)_FR.pdf
+  [NO WAGES] (5795 chars)
+  SALARY CONTEXT: salaires minimaux impératifs de l'économie domestique (CTT-EDom) (1) du 10 décembre 2025 (Entrée en vigueur : 1 er janvier 2026) J 1 50.03 LA CHAMBRE DES RELATIONS COLLECTIVES DE TRAVAIL, vu les articles 359 à 360f du code des obligations (CO), 1, alinéa 1, lettre c, de la loi concernant la Chambre des relations collectives de travail, du 29 avril 1999; vu l'arrêté du
+[FILE] menages CH FR: Contrat-type de travail pour les travailleurs de l'économie domestique
+  [NO WAGES] (971 chars)
+  SALARY CONTEXT: lohn beträgt brutto, ohne Zuschläge für Ferien und bezahlte Feiertage, für die Kategorien: Franken pro Stunde a. ungelernt 20.35 b. ungelernt mit mindestens vier Jahren Berufserfahrung in der Hauswirtschaft 22.30 c. gelernt mit EFZ 24.55 d. gelernt mit EBA 22.30 Art. 9 Abs. 6 6 Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2028 verlängert. 1 SR 221.215.329.4 
+[FILE] menages CH DE: Contrat-type de travail pour les travailleurs de l'économie domestique
+  [NO WAGES] (971 chars)
+  SALARY CONTEXT: lohn beträgt brutto, ohne Zuschläge für Ferien und bezahlte Feiertage, für die Kategorien: Franken pro Stunde a. ungelernt 20.35 b. ungelernt mit mindestens vier Jahren Berufserfahrung in der Hauswirtschaft 22.30 c. gelernt mit EFZ 24.55 d. gelernt mit EBA 22.30 Art. 9 Abs. 6 6 Die Geltungsdauer dieser Verordnung wird bis zum 31. Dezember 2028 verlängert. 1 SR 221.215.329.4 
+
+=== sante: CCL per il personale occupato negli Istituti Osped ===
+  3000 | gratifica, in salario o in giorni di congedo, pari almeno a CHF 3'000.- o a 10 giorni di vacanza, se le valuta
+
+=== sante: CCT Association Jurassienne des Institutions pour  ===
+  5000 | les frais engagés par l’employeur sont supérieurs à Fr. 5'000.- d’investissement au total et dès 11 jours de f
+  5001 | EUR DUREE D’EMPLOI OBLIGATOIRE Jusqu’à Fr. 5’000 --- De Fr. 5'001 à Fr. 8’000 12 mois De Fr. 8’001 à Fr. 15’00
+[NO WAGES] sante: CCT dans le secteur sanitaire parapublic vaudois_F (122462 chars)
+[NO WAGES] sante: CCT du secteur de la santé du canton de Neuchâtel  (157702 chars)
+
+=== sante: CCT Hôpitaux et Cliniques Bernois_DE.pdf ===
+  5000 | eite eine Konventionalstrafe bis zum Höchstbetrag von Fr. 5000.– zu be- zahlen. Zuständig für die Bemessung is
+
+=== sante: CCT Hôpitaux et Cliniques Bernois_FR.pdf ===
+  5000 | eite eine Konventionalstrafe bis zum Höchstbetrag von Fr. 5000.– zu be- zahlen. Zuständig für die Bemessung is
+
+=== sante: CCT pour le personnel de l_Hôpital du Jura_FR.pdf ===
+  8000 | raisengagés parlʼemployeurDurée dʼemploi obligatoire Jusqu’àCHF 8'000.-Aucune De CHF 8'001.- à CHF 12'000.-12 
+  8001 | oyeurDurée dʼemploi obligatoire Jusqu’àCHF 8'000.-Aucune De CHF 8'001.- à CHF 12'000.-12 mois De CHF 12'001.- 
+[NO WAGES] sante: Contrat-type de travail pour les organisations de  (16795 chars)
+[NO WAGES] sante: GAV für die Aargauer Kantonsspitäler_DE.pdf (7059 chars)
+Warning: TT: undefined function: 32
+
+=== sante: GAV für die Zuger Kantonsspital AG_DE.pdf ===
+[NO WAGES] sante: Regolamento organico per il personale occupato pre (96786 chars)
+[FILE] medico EMS Geneva: CCT des Etablissements médico-sociaux (EMS) pour les personnes âgées, 
+  [NO WAGES] (60855 chars)
+  SALARY CONTEXT: Salaire en cas de maladie ............................................................................................ 17 5.3 Salaire en cas de maladie professionnelle ................................................................... 17 5.4 Salaire en cas d’accident professionnel ....................................................................... 17 5.5 Salaire en cas d’accident non pr
+[FILE] medico Bern DE: GAV Bernischer Langzeitpflege-Institutionen_DE.pdf
+Warning: TT: undefined function: 32
+  [NO WAGES] (80397 chars)
+  SALARY CONTEXT: Lohnfortzahlung bei Arbeitsunfähigkeit 29 Art. 79 Krankheit und Unfall 29 Art. 80 Abtretung und Verfall der Anspruchsberechtigung 30 Art. 81 Lohnfortzahlung bei Mutterschaftsurlaub 30 Art. 82 Militärdienst und Zivilschutz 31 Art. 83 Lohnnachgenuss bei Todesfall 31 6 INHALTSVERZEICHNIS 2.7 Vorsorgeeinrichtungen und Versicherungen 31 Art. 84 Sozialversicherungen AHV/IV/ALV/EO 31 Art.

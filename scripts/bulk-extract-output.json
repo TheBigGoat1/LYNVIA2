@@ -1,0 +1,450 @@
+{
+  "activites-auxiliaires-de-services-financiers-et-d-assurance-p-ex-bourses-courtage-en-assurances-gestion-de-fonds": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Activités auxiliaires de services financiers et d_assurance (p. ex. bourses, courtage en assurances, gestion de fonds)",
+    "docCount": 1
+  },
+  "activites-creatives-artistiques-et-de-spectacle": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Activités créatives, artistiques et de spectacle",
+    "docCount": 3
+  },
+  "activites-de-poste-et-de-courrier": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Activités de poste et de courrier",
+    "docCount": 7
+  },
+  "activites-immobilieres": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Activités immobilières",
+    "docCount": 4
+  },
+  "activites-juridiques-et-comptables-p-ex-conseil-fiscal-audit": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Activités juridiques et comptables (p. ex. conseil fiscal, audit)",
+    "docCount": 1
+  },
+  "activites-liees-a-l-emploi-p-ex-location-de-services-agences-de-placement-de-personnel": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Activités liées à l_emploi (p. ex. location de services, agences de placement de personnel)",
+    "docCount": 4
+  },
+  "agences-de-voyage-voyagistes-services-de-reservation-et-activites-connexes": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Agences de voyage, voyagistes, services de réservation et activités connexes",
+    "docCount": 1
+  },
+  "architecture-et-ingenierie-controle-et-analyses-techniques": {
+    "wage": 2500,
+    "source": "CCT des bureaux d_ingénieurs de la construction et des techniques du bâtiment à Genève_FR.pdf",
+    "noticeHints": {},
+    "snippet": "CCT 2025    CONVENTION COLLECTIVE DE TRAVAIL  DES BUREAUX D’INGENIEURS   DE LA CONSTRUCTION ET DES  TECHNIQUES DU BATIMENT A GENEVE            I.  DISPOSITIONS GENERALES    Parties contractantes  L’As",
+    "folderName": "Architecture et ingénierie, contrôle et analyses techniques",
+    "docCount": 4
+  },
+  "autres-industries-extractives": {
+    "wage": 2166,
+    "source": "CCT pour l_artisanat et l'industrie de la pierre naturelle_FR.pdf",
+    "noticeHints": {
+      "trial": 7
+    },
+    "snippet": "1 Gesamtarbeitsvertrag Naturstein-Handwerk und   Naturstein-Industrie gültig ab 1. Januar 2021 GESAMTARBEITSVERTRAG Naturstein-Handwerk und Naturstein-Industrie abgeschlossen zwischen dem NATURSTEIN V",
+    "folderName": "Autres industries extractives",
+    "docCount": 2
+  },
+  "autres-industries-manufacturieres-p-ex-instruments-de-musique-jouets-appareils-sportifs-appareils-materiels-medicaux-et-dentaires": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)",
+    "docCount": 6
+  },
+  "autres-services-a-la-personne-p-ex-coiffure-esthetique-blanchisserie-spas-services-funeraires": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)",
+    "docCount": 9
+  },
+  "collecte-traitement-et-elimination-des-dechets-recuperation": {
+    "wage": 4000,
+    "source": "CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_FR.pdf",
+    "noticeHints": {},
+    "snippet": "Gesamtarbeitsvertrag RETABAT 2019‐2028  1            GAV RETABAT     GESAMTARBEITSVERTRAG   ÜBER DIE VORZEITIGE PENSIONIERUNG DER  ARBEITNEHMER IM BAUHAUPTGEWERBE  UND PLATTENLEGERGEWERBE DES  KANTONS",
+    "folderName": "Collecte, traitement et élimination des déchets; récupération",
+    "docCount": 5
+  },
+  "commerce-de-gros-a-l-exception-des-automobiles-et-des-motocycles": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Commerce de gros, à l_exception des automobiles et des motocycles",
+    "docCount": 3
+  },
+  "commerce-de-vehicules-et-d-accessoires-automobiles-y-c-stations-service": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Commerce de véhicules et d_accessoires automobiles, y c. stations-service",
+    "docCount": 31
+  },
+  "creches-prise-en-charge-de-personnes-agees-et-ou-en-situation-de-handicap-autres-services-d-action-sociale-sans-hebergement": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Crèches, prise en charge de personnes âgées et_ou en situation de handicap, autres services d_action sociale sans hébergement",
+    "docCount": 3
+  },
+  "culture-et-production-animale-chasse": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Culture et production animale, chasse",
+    "docCount": 3
+  },
+  "demolition-et-preparation-des-sites": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Démolition et préparation des sites",
+    "docCount": 3
+  },
+  "depollution-et-autres-services-de-gestion-des-dechets": {
+    "wage": 4714,
+    "source": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf",
+    "noticeHints": {},
+    "snippet": "RO/AGS 2025-051 Beschluss über den Erlass eines Normalarbeitsvertrags  mit zwingenden Mindestlöhnen für  Arbeitnehmer des Sektors der industriellen  Wartung und Reinigung vom 30.04.2025 Von diesem Ges",
+    "folderName": "Dépollution et autres services de gestion des déchets",
+    "docCount": 2
+  },
+  "enquetes-et-securite": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Enquêtes et sécurité",
+    "docCount": 3
+  },
+  "entreposage-et-services-auxiliaires-des-transports": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Entreposage et services auxiliaires des transports",
+    "docCount": 7
+  },
+  "entretien-et-reparation-de-vehicules-automobiles-et-de-motocycles": {
+    "wage": 4714,
+    "source": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf",
+    "noticeHints": {},
+    "snippet": "RO/AGS 2025-051 Beschluss über den Erlass eines Normalarbeitsvertrags  mit zwingenden Mindestlöhnen für  Arbeitnehmer des Sektors der industriellen  Wartung und Reinigung vom 30.04.2025 Von diesem Ges",
+    "folderName": "Entretien et réparation de véhicules automobiles et de motocycles",
+    "docCount": 18
+  },
+  "fabrication-d-autres-materiels-de-transport-p-ex-construction-de-trains-ou-d-avions": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)",
+    "docCount": 5
+  },
+  "fabrication-d-equipements-electriques": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Fabrication d_équipements électriques",
+    "docCount": 3
+  },
+  "fabrication-de-ciment-et-de-tuiles-briques-y-c-platre-et-autres-ceramiques-de-construction": {
+    "wage": 4025,
+    "source": "CCT de l'industrie suisse des produits en béton_FR.pdf",
+    "noticeHints": {},
+    "snippet": "Gesamtarbeitsvertrag  für die Schweizerische Betonwaren-Industrie    Fassung 2003 mit allen Nachträgen bis 2020                        UFPB  Union des Fabricants   de Produits en Béton de Suisse Roman",
+    "folderName": "Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)",
+    "docCount": 6
+  },
+  "fabrication-de-machines-et-equipements": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Fabrication de machines et équipements",
+    "docCount": 3
+  },
+  "fabrication-de-meubles": {
+    "wage": 3800,
+    "source": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+    "noticeHints": {},
+    "snippet": "Kollektivvertrag für die vorzeitige Pensionierung im  westschweizerischen Ausbaugewerbe (KVP)  (Gültig ab 1. Januar 2019)      abgeschlossen zwischen         • Arbeitgeberverbände des Ausbaugewerbes d",
+    "folderName": "Fabrication de meubles",
+    "docCount": 9
+  },
+  "fabrication-de-produits-a-base-de-tabac": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Fabrication de produits à base de tabac",
+    "docCount": 1
+  },
+  "fabrication-de-produits-informatiques-electroniques-et-optiques": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Fabrication de produits informatiques, électroniques et optiques",
+    "docCount": 8
+  },
+  "fabrication-de-produits-metalliques-a-l-exception-des-machines-et-des-equipements": {
+    "wage": 3850,
+    "source": "CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf",
+    "noticeHints": {},
+    "snippet": "2004 Modifiée lors de la séance du conseil de fondation  du 10 décembre 2012 convention collective convention collective pour la retraite anticipée   dans la Métallurgie du Bâtiment   à Genève (CCraMB",
+    "folderName": "Fabrication de produits métalliques, à l_exception des machines et des équipements",
+    "docCount": 14
+  },
+  "fabrication-de-textiles": {
+    "wage": 3800,
+    "source": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+    "noticeHints": {},
+    "snippet": "Kollektivvertrag für die vorzeitige Pensionierung im  westschweizerischen Ausbaugewerbe (KVP)  (Gültig ab 1. Januar 2019)      abgeschlossen zwischen         • Arbeitgeberverbände des Ausbaugewerbes d",
+    "folderName": "Fabrication de textiles",
+    "docCount": 3
+  },
+  "ferblanterie-et-charpente": {
+    "wage": 3800,
+    "source": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+    "noticeHints": {},
+    "snippet": "Kollektivvertrag für die vorzeitige Pensionierung im  westschweizerischen Ausbaugewerbe (KVP)  (Gültig ab 1. Januar 2019)      abgeschlossen zwischen         • Arbeitgeberverbände des Ausbaugewerbes d",
+    "folderName": "Ferblanterie et charpente",
+    "docCount": 18
+  },
+  "hebergement-medico-social-et-social": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Hébergement médico-social et social",
+    "docCount": 6
+  },
+  "horlogerie": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Horlogerie",
+    "docCount": 7
+  },
+  "industrie-automobile-y-c-equipements": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Industrie automobile, y c. équipements",
+    "docCount": 3
+  },
+  "industrie-chimique-sans-industrie-pharmaceutique": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Industrie chimique (sans industrie pharmaceutique)",
+    "docCount": 3
+  },
+  "industrie-du-verre-et-de-produits-ceramiques-sans-fabrication-de-tuiles-briques-et-ceramiques-de-construction": {
+    "wage": 2166,
+    "source": "CCT pour l_artisanat et l'industrie de la pierre naturelle_FR.pdf",
+    "noticeHints": {
+      "trial": 7
+    },
+    "snippet": "1 Gesamtarbeitsvertrag Naturstein-Handwerk und   Naturstein-Industrie gültig ab 1. Januar 2021 GESAMTARBEITSVERTRAG Naturstein-Handwerk und Naturstein-Industrie abgeschlossen zwischen dem NATURSTEIN V",
+    "folderName": "Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)",
+    "docCount": 11
+  },
+  "industrie-pharmaceutique": {
+    "wage": 4600,
+    "source": "Einheitsvertrag Cilag AG, Schaffhausen_DE.pdf",
+    "noticeHints": {},
+    "snippet": "Janssen J  l'IU, JU IACIUfU:.!.l tO  \"it tli lU  «!o'---:ld'- entsprechende Ferienlohn grundsatzlich vollstandig zurückzuzahlen. Unter diesen Um­ standen kann die Firma den entsprechenden Betrag auch ",
+    "folderName": "Industrie pharmaceutique",
+    "docCount": 5
+  },
+  "industries-alimentaires-de-boissons-et-fourragere": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Industries alimentaires, de boissons et fourragère",
+    "docCount": 12
+  },
+  "jardinerie-paysagistes": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Jardinerie _ Paysagistes",
+    "docCount": 18
+  },
+  "menages-prives-avec-personnel-domestique": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Ménages privés avec personnel domestique",
+    "docCount": 4
+  },
+  "metallurgie-p-ex-acieries-fonderies": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Métallurgie (p. ex. aciéries, fonderies)",
+    "docCount": 4
+  },
+  "organisation-sportives-et-de-jeux-p-ex-centres-de-fitness-installations-sportives-clubs-de-sport-casinos": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Organisation sportives et de jeux (p. ex. centres de fitness, installations sportives, clubs de sport, casinos)",
+    "docCount": 1
+  },
+  "programmation-conseil-et-autres-activites-informatiques": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Programmation, conseil et autres activités informatiques",
+    "docCount": 1
+  },
+  "recherche-developpement-scientifique": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Recherche-développement scientifique",
+    "docCount": 3
+  },
+  "reparation-d-ordinateurs-et-de-biens-personnels-et-domestiques": {
+    "wage": 4714,
+    "source": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf",
+    "noticeHints": {},
+    "snippet": "RO/AGS 2025-051 Beschluss über den Erlass eines Normalarbeitsvertrags  mit zwingenden Mindestlöhnen für  Arbeitnehmer des Sektors der industriellen  Wartung und Reinigung vom 30.04.2025 Von diesem Ges",
+    "folderName": "Réparation d_ordinateurs et de biens personnels et domestiques",
+    "docCount": 2
+  },
+  "reparation-et-installation-de-machines-et-d-equipe": {
+    "wage": 3850,
+    "source": "CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf",
+    "noticeHints": {},
+    "snippet": "2004 Modifiée lors de la séance du conseil de fondation  du 10 décembre 2012 convention collective convention collective pour la retraite anticipée   dans la Métallurgie du Bâtiment   à Genève (CCraMB",
+    "folderName": "Réparation et installation de machines et d_équipe",
+    "docCount": 6
+  },
+  "sante-humaine": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Santé humaine",
+    "docCount": 11
+  },
+  "services-d-amenagement-paysager": {
+    "wage": 4005,
+    "source": "CCT Paysagistes et entrepreneurs de jardins du canton de Vaud_FR.pdf",
+    "noticeHints": {},
+    "snippet": "CONVENTION COLLECTIVE DE TRAVAIL  des paysagistes et entrepreneurs  de jardins du canton de Vaud    du 1 er  janvier 2024              CONVENTION COLLECTIVE DE TRAVAIL DU 1 ER  JANVIER 2024    Conclue",
+    "folderName": "Services d_aménagement paysager",
+    "docCount": 7
+  },
+  "services-d-information-p-ex-hebergement-de-sites-web-portails-web-agences-de-presse": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Services d_information (p. ex. hébergement de sites web, portails web, agences de presse)",
+    "docCount": 1
+  },
+  "services-financiers-hors-assurance-et-caisses-de-pensions": {
+    "wage": 0,
+    "source": "",
+    "noticeHints": {},
+    "snippet": "",
+    "folderName": "Services financiers, hors assurance et caisses de pensions",
+    "docCount": 6
+  },
+  "sylviculture-et-exploitation-forestiere": {
+    "wage": 3000,
+    "source": "CCT de l'économie forestière valaisanne_FR.pdf",
+    "noticeHints": {},
+    "snippet": "GESAMTARBEITSVERTRAG  DER WALLISER WALDWIRTSCHAFT          zwischen      Forêt Valais / Walliser Wald,  (Vereinigung der regionalen Waldwirtschaftsverbände des Kantons  Wallis)      AREF,  (Verband de",
+    "folderName": "Sylviculture et exploitation forestière",
+    "docCount": 6
+  },
+  "transports-de-voyageurs-en-bus-trams-remontees-mecaniques-taxis-transport-de-marchandises-par-la-route": {
+    "wage": 2712,
+    "source": "Contrat-type de travail pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues VS_FR.pdf",
+    "noticeHints": {},
+    "snippet": "3982 Vendredi 2 décembre 2022  Bulletin officiel du canton du Valais n° 48 Gesetzliche Erlasse und Bekanntmachungen des Staatsrates RO/AGS 2022-083  Beschluss  über den Erlass eines Normalarbeitsvertr",
+    "folderName": "Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route",
+    "docCount": 10
+  },
+  "travail-du-bois-et-fabrication-d-articles-en-bois": {
+    "wage": 3800,
+    "source": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+    "noticeHints": {},
+    "snippet": "Kollektivvertrag für die vorzeitige Pensionierung im  westschweizerischen Ausbaugewerbe (KVP)  (Gültig ab 1. Januar 2019)      abgeschlossen zwischen         • Arbeitgeberverbände des Ausbaugewerbes d",
+    "folderName": "Travail du bois et fabrication d_articles en bois",
+    "docCount": 12
+  },
+  "travaux-d-installation-electrique-plomberie-et-autres-travaux-d-installation": {
+    "wage": 3850,
+    "source": "CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf",
+    "noticeHints": {},
+    "snippet": "2004 Modifiée lors de la séance du conseil de fondation  du 10 décembre 2012 convention collective convention collective pour la retraite anticipée   dans la Métallurgie du Bâtiment   à Genève (CCraMB",
+    "folderName": "Travaux d_installation électrique, plomberie et autres travaux d_installation",
+    "docCount": 22
+  },
+  "travaux-de-finition-p-ex-carrelage-menuiserie": {
+    "wage": 4000,
+    "source": "CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_FR.pdf",
+    "noticeHints": {},
+    "snippet": "Gesamtarbeitsvertrag RETABAT 2019‐2028  1            GAV RETABAT     GESAMTARBEITSVERTRAG   ÜBER DIE VORZEITIGE PENSIONIERUNG DER  ARBEITNEHMER IM BAUHAUPTGEWERBE  UND PLATTENLEGERGEWERBE DES  KANTONS",
+    "folderName": "Travaux de finition (p.ex. carrelage, menuiserie)",
+    "docCount": 43
+  },
+  "default-co": {
+    "error": "no industry in catalog",
+    "wage": 0
+  }
+}

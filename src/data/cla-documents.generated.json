@@ -1,0 +1,2590 @@
+{
+  "generatedAt": "2026-04-04T09:54:37.979Z",
+  "sourceDirectory": "c:\\Users\\ADMIN\\Downloads\\lynvia\\Conventions_Collectives",
+  "totalIndustryFolders": 60,
+  "totalDocuments": 493,
+  "industries": [
+    {
+      "id": "activites-auxiliaires-de-services-financiers-et-d-assurance-p-ex-bourses-courtage-en-assurances-gestion-de-fonds",
+      "folderName": "Activités auxiliaires de services financiers et d_assurance (p. ex. bourses, courtage en assurances, gestion de fonds)",
+      "aliases": [
+        "activites auxiliaires de services financiers et d assurance",
+        "activites auxiliaires de services financiers et d assurance p ex bourses courtage en assurances gestion de fonds"
+      ],
+      "documentCount": 1,
+      "documents": [
+        {
+          "fileName": "Contratto normale di lavoro per gli impiegati di commercio nelle aziende del settore delle altre attività ausiliarie dei servizi finanziari TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Activités auxiliaires de services financiers et d_assurance (p. ex. bourses, courtage en assurances, gestion de fonds)/Contratto normale di lavoro per gli impiegati di commercio nelle aziende del settore delle altre attività ausiliarie dei servizi finanziari TI_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "activites-creatives-artistiques-et-de-spectacle",
+      "folderName": "Activités créatives, artistiques et de spectacle",
+      "aliases": [
+        "activites creatives artistiques et de spectacle"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "CCT des métiers de la pierre du canton de Vaud_FR.pdf",
+          "relativePath": "Conventions_Collectives/Activités créatives, artistiques et de spectacle/CCT des métiers de la pierre du canton de Vaud_FR.pdf"
+        },
+        {
+          "fileName": "GAV für das Schweizerische Bildhauer- und Steinmetzgewerbe_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités créatives, artistiques et de spectacle/GAV für das Schweizerische Bildhauer- und Steinmetzgewerbe_DE.pdf"
+        },
+        {
+          "fileName": "GAV Opernhaus Zürich AG_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités créatives, artistiques et de spectacle/GAV Opernhaus Zürich AG_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "activites-de-nettoyage",
+      "folderName": "Activités de nettoyage",
+      "aliases": [
+        "activites de nettoyage"
+      ],
+      "documentCount": 8,
+      "documents": [
+        {
+          "fileName": "CCL per il personale delle imprese di pulizia e facility services del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Activités de nettoyage/CCL per il personale delle imprese di pulizia e facility services del Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCT du secteur du nettoyage pour la Suisse romande_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités de nettoyage/CCT du secteur du nettoyage pour la Suisse romande_DE.pdf"
+        },
+        {
+          "fileName": "CCT du secteur du nettoyage pour la Suisse romande_FR.pdf",
+          "relativePath": "Conventions_Collectives/Activités de nettoyage/CCT du secteur du nettoyage pour la Suisse romande_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour le métier de ramoneur dans le canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Activités de nettoyage/CCT pour le métier de ramoneur dans le canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "GAV für das Kaminfegergewerbe des Kantons Bern_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités de nettoyage/GAV für das Kaminfegergewerbe des Kantons Bern_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Kaminfegergewerbe des Kantons Zürich_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités de nettoyage/GAV für das Kaminfegergewerbe des Kantons Zürich_DE.pdf"
+        },
+        {
+          "fileName": "GAV Reinigungsbranche Deutschschweiz für Unternehmen mit weniger als 6 Mitarbeitenden_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités de nettoyage/GAV Reinigungsbranche Deutschschweiz für Unternehmen mit weniger als 6 Mitarbeitenden_DE.pdf"
+        },
+        {
+          "fileName": "GAV Reinigungsbranche Deutschschweiz_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités de nettoyage/GAV Reinigungsbranche Deutschschweiz_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "activites-de-poste-et-de-courrier",
+      "folderName": "Activités de poste et de courrier",
+      "aliases": [
+        "activites de poste et de courrier"
+      ],
+      "documentCount": 7,
+      "documents": [
+        {
+          "fileName": "CCT Poste CH_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités de poste et de courrier/CCT Poste CH_DE.pdf"
+        },
+        {
+          "fileName": "CCT Poste CH_FR.pdf",
+          "relativePath": "Conventions_Collectives/Activités de poste et de courrier/CCT Poste CH_FR.pdf"
+        },
+        {
+          "fileName": "CCT Poste CH_IT.pdf",
+          "relativePath": "Conventions_Collectives/Activités de poste et de courrier/CCT Poste CH_IT.pdf"
+        },
+        {
+          "fileName": "CCT Swiss Post Cargo CH SA (auparavant_ PostLogistics SA)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités de poste et de courrier/CCT Swiss Post Cargo CH SA (auparavant_ PostLogistics SA)_DE.pdf"
+        },
+        {
+          "fileName": "CCT Swiss Post Cargo CH SA (auparavant_ PostLogistics SA)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Activités de poste et de courrier/CCT Swiss Post Cargo CH SA (auparavant_ PostLogistics SA)_FR.pdf"
+        },
+        {
+          "fileName": "CCT Swiss Post Cargo CH SA (auparavant_ PostLogistics SA)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Activités de poste et de courrier/CCT Swiss Post Cargo CH SA (auparavant_ PostLogistics SA)_IT.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le transport professionnel de choses Genève (CTT-TPC)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Activités de poste et de courrier/Contrat-type de travail pour le transport professionnel de choses Genève (CTT-TPC)_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "activites-immobilieres",
+      "folderName": "Activités immobilières",
+      "aliases": [
+        "activites immobilieres"
+      ],
+      "documentCount": 4,
+      "documents": [
+        {
+          "fileName": "Contratto normale di lavoro per il settore delle attività immobiliari TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Activités immobilières/Contratto normale di lavoro per il settore delle attività immobiliari TI_IT.pdf"
+        },
+        {
+          "fileName": "Poste Immobilier Management et Services SA (IMS)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités immobilières/Poste Immobilier Management et Services SA (IMS)_DE.pdf"
+        },
+        {
+          "fileName": "Poste Immobilier Management et Services SA (IMS)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Activités immobilières/Poste Immobilier Management et Services SA (IMS)_FR.pdf"
+        },
+        {
+          "fileName": "Poste Immobilier Management et Services SA (IMS)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Activités immobilières/Poste Immobilier Management et Services SA (IMS)_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "activites-juridiques-et-comptables-p-ex-conseil-fiscal-audit",
+      "folderName": "Activités juridiques et comptables (p. ex. conseil fiscal, audit)",
+      "aliases": [
+        "activites juridiques et comptables",
+        "activites juridiques et comptables p ex conseil fiscal audit"
+      ],
+      "documentCount": 1,
+      "documents": [
+        {
+          "fileName": "Contratto normale di lavoro per gli impiegati di commercio nel settore della consulenza aziendale TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Activités juridiques et comptables (p. ex. conseil fiscal, audit)/Contratto normale di lavoro per gli impiegati di commercio nel settore della consulenza aziendale TI_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "activites-liees-a-l-emploi-p-ex-location-de-services-agences-de-placement-de-personnel",
+      "folderName": "Activités liées à l_emploi (p. ex. location de services, agences de placement de personnel)",
+      "aliases": [
+        "activites liees a l emploi",
+        "activites liees a l emploi p ex location de services agences de placement de personnel"
+      ],
+      "documentCount": 4,
+      "documents": [
+        {
+          "fileName": "CCT Location de services_DE.pdf",
+          "relativePath": "Conventions_Collectives/Activités liées à l_emploi (p. ex. location de services, agences de placement de personnel)/CCT Location de services_DE.pdf"
+        },
+        {
+          "fileName": "CCT Location de services_FR.pdf",
+          "relativePath": "Conventions_Collectives/Activités liées à l_emploi (p. ex. location de services, agences de placement de personnel)/CCT Location de services_FR.pdf"
+        },
+        {
+          "fileName": "CCT Location de services_IT.pdf",
+          "relativePath": "Conventions_Collectives/Activités liées à l_emploi (p. ex. location de services, agences de placement de personnel)/CCT Location de services_IT.pdf"
+        },
+        {
+          "fileName": "Contratto normale di lavoro per gli impiegati di commercio nelle agenzie di collocamento e prestito di personale TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Activités liées à l_emploi (p. ex. location de services, agences de placement de personnel)/Contratto normale di lavoro per gli impiegati di commercio nelle agenzie di collocamento e prestito di personale TI_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "agences-de-voyage-voyagistes-services-de-reservation-et-activites-connexes",
+      "folderName": "Agences de voyage, voyagistes, services de réservation et activités connexes",
+      "aliases": [
+        "agences de voyage voyagistes services de reservation et activites connexes"
+      ],
+      "documentCount": 1,
+      "documents": [
+        {
+          "fileName": "Contratto normale di lavoro per gli impiegati di commercio nel settore delle agenzie di viaggio e dei tour operator TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Agences de voyage, voyagistes, services de réservation et activités connexes/Contratto normale di lavoro per gli impiegati di commercio nel settore delle agenzie di viaggio e dei tour operator TI_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "architecture-et-ingenierie-controle-et-analyses-techniques",
+      "folderName": "Architecture et ingénierie, contrôle et analyses techniques",
+      "aliases": [
+        "architecture et ingenierie controle et analyses techniques"
+      ],
+      "documentCount": 4,
+      "documents": [
+        {
+          "fileName": "CCL per gli ingegneri, gli architetti e le professioni affini, Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Architecture et ingénierie, contrôle et analyses techniques/CCL per gli ingegneri, gli architetti e le professioni affini, Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCT des bureaux d_architectes et ingénieurs vaudois_FR.pdf",
+          "relativePath": "Conventions_Collectives/Architecture et ingénierie, contrôle et analyses techniques/CCT des bureaux d_architectes et ingénieurs vaudois_FR.pdf"
+        },
+        {
+          "fileName": "CCT des bureaux d_ingénieurs de la construction et des techniques du bâtiment à Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Architecture et ingénierie, contrôle et analyses techniques/CCT des bureaux d_ingénieurs de la construction et des techniques du bâtiment à Genève_FR.pdf"
+        },
+        {
+          "fileName": "CCT des bureaux d'ingénieurs géomètres vaudois_FR.pdf",
+          "relativePath": "Conventions_Collectives/Architecture et ingénierie, contrôle et analyses techniques/CCT des bureaux d'ingénieurs géomètres vaudois_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "autres-industries-extractives",
+      "folderName": "Autres industries extractives",
+      "aliases": [
+        "autres industries extractives"
+      ],
+      "documentCount": 2,
+      "documents": [
+        {
+          "fileName": "CCT pour l_artisanat et l'industrie de la pierre naturelle_DE.pdf",
+          "relativePath": "Conventions_Collectives/Autres industries extractives/CCT pour l_artisanat et l'industrie de la pierre naturelle_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour l_artisanat et l'industrie de la pierre naturelle_FR.pdf",
+          "relativePath": "Conventions_Collectives/Autres industries extractives/CCT pour l_artisanat et l'industrie de la pierre naturelle_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "autres-industries-manufacturieres-p-ex-instruments-de-musique-jouets-appareils-sportifs-appareils-materiels-medicaux-et-dentaires",
+      "folderName": "Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)",
+      "aliases": [
+        "autres industries manufacturieres",
+        "autres industries manufacturieres p ex instruments de musique jouets appareils sportifs appareils materiels medicaux et dentaires"
+      ],
+      "documentCount": 6,
+      "documents": [
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+          "relativePath": "Conventions_Collectives/Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf",
+          "relativePath": "Conventions_Collectives/Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)/CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf",
+          "relativePath": "Conventions_Collectives/Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)/CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf"
+        },
+        {
+          "fileName": "CCT des laboratoires de prothèse dentaire de Suisse_DE.pdf",
+          "relativePath": "Conventions_Collectives/Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)/CCT des laboratoires de prothèse dentaire de Suisse_DE.pdf"
+        },
+        {
+          "fileName": "CCT des laboratoires de prothèse dentaire de Suisse_FR.pdf",
+          "relativePath": "Conventions_Collectives/Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)/CCT des laboratoires de prothèse dentaire de Suisse_FR.pdf"
+        },
+        {
+          "fileName": "CCT des laboratoires de prothèse dentaire de Suisse_IT.pdf",
+          "relativePath": "Conventions_Collectives/Autres industries manufacturières (p.ex. instruments de musique, jouets, appareils sportifs, appareils_matériels médicaux et dentaires)/CCT des laboratoires de prothèse dentaire de Suisse_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "autres-services-a-la-personne-p-ex-coiffure-esthetique-blanchisserie-spas-services-funeraires",
+      "folderName": "Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)",
+      "aliases": [
+        "autres services a la personne",
+        "autres services a la personne p ex coiffure esthetique blanchisserie spas services funeraires"
+      ],
+      "documentCount": 9,
+      "documents": [
+        {
+          "fileName": "CCT nationale des coiffeurs_DE.pdf",
+          "relativePath": "Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)/CCT nationale des coiffeurs_DE.pdf"
+        },
+        {
+          "fileName": "CCT nationale des coiffeurs_FR.pdf",
+          "relativePath": "Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)/CCT nationale des coiffeurs_FR.pdf"
+        },
+        {
+          "fileName": "CCT nationale des coiffeurs_IT.pdf",
+          "relativePath": "Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)/CCT nationale des coiffeurs_IT.pdf"
+        },
+        {
+          "fileName": "CCT romande du nettoyage des textiles (anciennement_ nettoyage industriel des textiles)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)/CCT romande du nettoyage des textiles (anciennement_ nettoyage industriel des textiles)_DE.pdf"
+        },
+        {
+          "fileName": "CCT romande du nettoyage des textiles (anciennement_ nettoyage industriel des textiles)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)/CCT romande du nettoyage des textiles (anciennement_ nettoyage industriel des textiles)_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail des esthéticiennes Genève (CTT-Esthé)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)/Contrat-type de travail des esthéticiennes Genève (CTT-Esthé)_DE.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail des esthéticiennes Genève (CTT-Esthé)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)/Contrat-type de travail des esthéticiennes Genève (CTT-Esthé)_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail des esthéticiennes Genève (CTT-Esthé)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)/Contrat-type de travail des esthéticiennes Genève (CTT-Esthé)_IT.pdf"
+        },
+        {
+          "fileName": "GAV Bardusch AG (Textil-Leasing)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Autres services à la personne (p. ex. coiffure, esthétique, blanchisserie, spas, services funéraires)/GAV Bardusch AG (Textil-Leasing)_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "collecte-traitement-et-elimination-des-dechets-recuperation",
+      "folderName": "Collecte, traitement et élimination des déchets; récupération",
+      "aliases": [
+        "collecte traitement et elimination des dechets recuperation"
+      ],
+      "documentCount": 5,
+      "documents": [
+        {
+          "fileName": "CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Collecte, traitement et élimination des déchets; récupération/CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_DE.pdf"
+        },
+        {
+          "fileName": "CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Collecte, traitement et élimination des déchets; récupération/CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf",
+          "relativePath": "Conventions_Collectives/Collecte, traitement et élimination des déchets; récupération/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf",
+          "relativePath": "Conventions_Collectives/Collecte, traitement et élimination des déchets; récupération/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf"
+        },
+        {
+          "fileName": "GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf",
+          "relativePath": "Conventions_Collectives/Collecte, traitement et élimination des déchets; récupération/GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "commerce-de-detail-a-l-exception-des-automobiles-et-des-motocycles",
+      "folderName": "Commerce de détail, à l_exception des automobiles et des motocycles",
+      "aliases": [
+        "commerce de detail a l exception des automobiles et des motocycles"
+      ],
+      "documentCount": 23,
+      "documents": [
+        {
+          "fileName": "CCL Fox Town Factory Stores, Mendrisio_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCL Fox Town Factory Stores, Mendrisio_IT.pdf"
+        },
+        {
+          "fileName": "CCNT du groupe Migros_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCNT du groupe Migros_DE.pdf"
+        },
+        {
+          "fileName": "CCNT du groupe Migros_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCNT du groupe Migros_FR.pdf"
+        },
+        {
+          "fileName": "CCNT du groupe Migros_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCNT du groupe Migros_IT.pdf"
+        },
+        {
+          "fileName": "CCT Coop Société Coopérative_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT Coop Société Coopérative_DE.pdf"
+        },
+        {
+          "fileName": "CCT Coop Société Coopérative_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT Coop Société Coopérative_FR.pdf"
+        },
+        {
+          "fileName": "CCT Coop Société Coopérative_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT Coop Société Coopérative_IT.pdf"
+        },
+        {
+          "fileName": "CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_DE.pdf"
+        },
+        {
+          "fileName": "CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_FR.pdf"
+        },
+        {
+          "fileName": "CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_IT.pdf"
+        },
+        {
+          "fileName": "CCT de la Pharmacie du canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT de la Pharmacie du canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "CCT du commerce de détail de la ville de Lausanne_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT du commerce de détail de la ville de Lausanne_FR.pdf"
+        },
+        {
+          "fileName": "CCT in Globo (auparavant_ CCT Groupe Globus)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT in Globo (auparavant_ CCT Groupe Globus)_DE.pdf"
+        },
+        {
+          "fileName": "CCT in Globo (auparavant_ CCT Groupe Globus)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT in Globo (auparavant_ CCT Groupe Globus)_FR.pdf"
+        },
+        {
+          "fileName": "CCT in Globo (auparavant_ CCT Groupe Globus)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT in Globo (auparavant_ CCT Groupe Globus)_IT.pdf"
+        },
+        {
+          "fileName": "CCT pour la boucherie-charcuterie Suisse_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT pour la boucherie-charcuterie Suisse_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour la boucherie-charcuterie Suisse_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT pour la boucherie-charcuterie Suisse_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour la boucherie-charcuterie Suisse_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/CCT pour la boucherie-charcuterie Suisse_IT.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail du commerce de détail Genève (CTT-CD)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/Contrat-type de travail du commerce de détail Genève (CTT-CD)_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel au service de la vente dans le commerce de détail JU_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/Contrat-type de travail pour le personnel au service de la vente dans le commerce de détail JU_FR.pdf"
+        },
+        {
+          "fileName": "Contratto collettivo di lavoro per il commercio al dettaglio TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/Contratto collettivo di lavoro per il commercio al dettaglio TI_IT.pdf"
+        },
+        {
+          "fileName": "Contratto normale di lavoro per le attività del settore del commercio al dettaglio escluse dall'applicazione del contratto collettivo di lavoro per il commercio al dettaglio TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/Contratto normale di lavoro per le attività del settore del commercio al dettaglio escluse dall'applicazione del contratto collettivo di lavoro per il commercio al dettaglio TI_IT.pdf"
+        },
+        {
+          "fileName": "GAV Genossenschafts-Apotheke Bern_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de détail, à l_exception des automobiles et des motocycles/GAV Genossenschafts-Apotheke Bern_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "commerce-de-gros-a-l-exception-des-automobiles-et-des-motocycles",
+      "folderName": "Commerce de gros, à l_exception des automobiles et des motocycles",
+      "aliases": [
+        "commerce de gros a l exception des automobiles et des motocycles"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "Contratto normale di lavoro per gli impiegati di commercio  nel settore del commercio all'ingrosso_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de gros, à l_exception des automobiles et des motocycles/Contratto normale di lavoro per gli impiegati di commercio  nel settore del commercio all'ingrosso_IT.pdf"
+        },
+        {
+          "fileName": "GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de gros, à l_exception des automobiles et des motocycles/GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf"
+        },
+        {
+          "fileName": "GAV Wander AG_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de gros, à l_exception des automobiles et des motocycles/GAV Wander AG_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "commerce-de-vehicules-et-d-accessoires-automobiles-y-c-stations-service",
+      "folderName": "Commerce de véhicules et d_accessoires automobiles, y c. stations-service",
+      "aliases": [
+        "commerce de vehicules et d accessoires automobiles y c stations-service"
+      ],
+      "documentCount": 31,
+      "documents": [
+        {
+          "fileName": "CCL Fox Town Factory Stores, Mendrisio_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCL Fox Town Factory Stores, Mendrisio_IT.pdf"
+        },
+        {
+          "fileName": "CCL per il personale delle autorimesse del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCL per il personale delle autorimesse del Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCNT du groupe Migros_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCNT du groupe Migros_DE.pdf"
+        },
+        {
+          "fileName": "CCNT du groupe Migros_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCNT du groupe Migros_FR.pdf"
+        },
+        {
+          "fileName": "CCNT du groupe Migros_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCNT du groupe Migros_IT.pdf"
+        },
+        {
+          "fileName": "CCT Coop Société Coopérative_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT Coop Société Coopérative_DE.pdf"
+        },
+        {
+          "fileName": "CCT Coop Société Coopérative_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT Coop Société Coopérative_FR.pdf"
+        },
+        {
+          "fileName": "CCT Coop Société Coopérative_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT Coop Société Coopérative_IT.pdf"
+        },
+        {
+          "fileName": "CCT de la branche automobile du Valais_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT de la branche automobile du Valais_DE.pdf"
+        },
+        {
+          "fileName": "CCT de la branche automobile du Valais_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT de la branche automobile du Valais_FR.pdf"
+        },
+        {
+          "fileName": "CCT des garages du Canton de Vaud_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT des garages du Canton de Vaud_FR.pdf"
+        },
+        {
+          "fileName": "CCT des professionnels de l_automobile du Jura et du Jura bernois_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT des professionnels de l_automobile du Jura et du Jura bernois_FR.pdf"
+        },
+        {
+          "fileName": "CCT du commerce de détail de la ville de Lausanne_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT du commerce de détail de la ville de Lausanne_FR.pdf"
+        },
+        {
+          "fileName": "CCT in Globo (auparavant_ CCT Groupe Globus)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT in Globo (auparavant_ CCT Groupe Globus)_DE.pdf"
+        },
+        {
+          "fileName": "CCT in Globo (auparavant_ CCT Groupe Globus)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT in Globo (auparavant_ CCT Groupe Globus)_FR.pdf"
+        },
+        {
+          "fileName": "CCT in Globo (auparavant_ CCT Groupe Globus)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT in Globo (auparavant_ CCT Groupe Globus)_IT.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie des garages du canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT pour l_industrie des garages du canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "CCT Shops de stations-service suisses_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT Shops de stations-service suisses_DE.pdf"
+        },
+        {
+          "fileName": "CCT Shops de stations-service suisses_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT Shops de stations-service suisses_FR.pdf"
+        },
+        {
+          "fileName": "CCT Shops de stations-service suisses_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/CCT Shops de stations-service suisses_IT.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail du commerce de détail Genève (CTT-CD)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/Contrat-type de travail du commerce de détail Genève (CTT-CD)_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel au service de la vente dans le commerce de détail JU_FR.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/Contrat-type de travail pour le personnel au service de la vente dans le commerce de détail JU_FR.pdf"
+        },
+        {
+          "fileName": "Contratto collettivo di lavoro per il commercio al dettaglio TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/Contratto collettivo di lavoro per il commercio al dettaglio TI_IT.pdf"
+        },
+        {
+          "fileName": "Contratto normale di lavoro per le attività del settore del commercio al dettaglio escluse dall'applicazione del contratto collettivo di lavoro per il commercio al dettaglio TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/Contratto normale di lavoro per le attività del settore del commercio al dettaglio escluse dall'applicazione del contratto collettivo di lavoro per il commercio al dettaglio TI_IT.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe der Kantone Luzern, Nidwalden und Obwalden_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/GAV für das Autogewerbe der Kantone Luzern, Nidwalden und Obwalden_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe des Kantons Aargau_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/GAV für das Autogewerbe des Kantons Aargau_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe des Kantons Bern_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/GAV für das Autogewerbe des Kantons Bern_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe des Kantons Zug_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/GAV für das Autogewerbe des Kantons Zug_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe im Kanton Zürich_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/GAV für das Autogewerbe im Kanton Zürich_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe Ostschweiz der Kantone St. Gallen, beider Appenzell und Thurgau_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/GAV für das Autogewerbe Ostschweiz der Kantone St. Gallen, beider Appenzell und Thurgau_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe von Basel-Stadt und Baselland_DE.pdf",
+          "relativePath": "Conventions_Collectives/Commerce de véhicules et d_accessoires automobiles, y c. stations-service/GAV für das Autogewerbe von Basel-Stadt und Baselland_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "construction-de-batiments-et-genie-civil",
+      "folderName": "Construction de bâtiments et génie civil",
+      "aliases": [
+        "construction de batiments et genie civil"
+      ],
+      "documentCount": 19,
+      "documents": [
+        {
+          "fileName": "CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_DE.pdf"
+        },
+        {
+          "fileName": "CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_FR.pdf"
+        },
+        {
+          "fileName": "CCL dei giardinieri per il Cantone Ticino (CCLG)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCL dei giardinieri per il Cantone Ticino (CCLG)_IT.pdf"
+        },
+        {
+          "fileName": "CCL nel ramo delle pavimentazioni stradali TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCL nel ramo delle pavimentazioni stradali TI_IT.pdf"
+        },
+        {
+          "fileName": "CCT des cadres de la construction (contremaîtres et chefs d_atelier)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT des cadres de la construction (contremaîtres et chefs d_atelier)_DE.pdf"
+        },
+        {
+          "fileName": "CCT des cadres de la construction (contremaîtres et chefs d_atelier)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT des cadres de la construction (contremaîtres et chefs d_atelier)_FR.pdf"
+        },
+        {
+          "fileName": "CCT des cadres de la construction (contremaîtres et chefs d_atelier)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT des cadres de la construction (contremaîtres et chefs d_atelier)_IT.pdf"
+        },
+        {
+          "fileName": "CCT introduisant un régime de préretraite RETAVAL_DE.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT introduisant un régime de préretraite RETAVAL_DE.pdf"
+        },
+        {
+          "fileName": "CCT introduisant un régime de préretraite RETAVAL_FR.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT introduisant un régime de préretraite RETAVAL_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour la branche Infrastructure de réseau_DE.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT pour la branche Infrastructure de réseau_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour la branche Infrastructure de réseau_FR.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT pour la branche Infrastructure de réseau_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour la branche Infrastructure de réseau_IT.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT pour la branche Infrastructure de réseau_IT.pdf"
+        },
+        {
+          "fileName": "CCT pour la retraite anticipée dans le secteur principal_de la construction_DE.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT pour la retraite anticipée dans le secteur principal_de la construction_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour la retraite anticipée dans le secteur principal_de la construction_FR.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT pour la retraite anticipée dans le secteur principal_de la construction_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour la retraite anticipée dans le secteur principal_de la construction_IT.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/CCT pour la retraite anticipée dans le secteur principal_de la construction_IT.pdf"
+        },
+        {
+          "fileName": "GAV für das Gärtnergewerbe in den Kantonen Basel-Stadt und Basel-Landschaft_DE.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/GAV für das Gärtnergewerbe in den Kantonen Basel-Stadt und Basel-Landschaft_DE.pdf"
+        },
+        {
+          "fileName": "VS_Einfuehrung_vorzeitige_Pensionierung_RETAVAL_Aenderung_09_11_2022_fr.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/VS_Einfuehrung_vorzeitige_Pensionierung_RETAVAL_Aenderung_09_11_2022_fr.pdf"
+        },
+        {
+          "fileName": "VS_Einfuehrung_vorzeitige_Pensionierung_RETAVAL_Beschluss_14_10_2009_fr.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/VS_Einfuehrung_vorzeitige_Pensionierung_RETAVAL_Beschluss_14_10_2009_fr.pdf"
+        },
+        {
+          "fileName": "VS_GAV_über_die_Einfürung_ der_vorzeitigen_Pensionierung_Retaval_Verl_Aend_08_08_2018_fr.pdf",
+          "relativePath": "Conventions_Collectives/Construction de bâtiments et génie civil/VS_GAV_über_die_Einfürung_ der_vorzeitigen_Pensionierung_Retaval_Verl_Aend_08_08_2018_fr.pdf"
+        }
+      ]
+    },
+    {
+      "id": "creches-prise-en-charge-de-personnes-agees-et-ou-en-situation-de-handicap-autres-services-d-action-sociale-sans-hebergement",
+      "folderName": "Crèches, prise en charge de personnes âgées et_ou en situation de handicap, autres services d_action sociale sans hébergement",
+      "aliases": [
+        "creches prise en charge de personnes agees et ou en situation de handicap autres services d action sociale sans hebergement"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "CCT du secteur des établissements spécialisés du canton de Neuchâtel_FR.pdf",
+          "relativePath": "Conventions_Collectives/Crèches, prise en charge de personnes âgées et_ou en situation de handicap, autres services d_action sociale sans hébergement/CCT du secteur des établissements spécialisés du canton de Neuchâtel_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour les organisations de soins et d_aide à domicile GE (CTT-OSAD)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Crèches, prise en charge de personnes âgées et_ou en situation de handicap, autres services d_action sociale sans hébergement/Contrat-type de travail pour les organisations de soins et d_aide à domicile GE (CTT-OSAD)_FR.pdf"
+        },
+        {
+          "fileName": "CTT pour les stages dans les institutions d_accueil de jour collectif préscolaire et parascolaire (ACTT-stages-ajpp) VD_FR.pdf",
+          "relativePath": "Conventions_Collectives/Crèches, prise en charge de personnes âgées et_ou en situation de handicap, autres services d_action sociale sans hébergement/CTT pour les stages dans les institutions d_accueil de jour collectif préscolaire et parascolaire (ACTT-stages-ajpp) VD_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "culture-et-production-animale-chasse",
+      "folderName": "Culture et production animale, chasse",
+      "aliases": [
+        "culture et production animale chasse"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "CCT du secteur des parcs et jardins, des pépinières et de l_arboriculture dans le Canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Culture et production animale, chasse/CCT du secteur des parcs et jardins, des pépinières et de l_arboriculture dans le Canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "CCT du secteur du paysagisme Fribourg, Neuchâtel, Jura et Jura bernois_DE.pdf",
+          "relativePath": "Conventions_Collectives/Culture et production animale, chasse/CCT du secteur du paysagisme Fribourg, Neuchâtel, Jura et Jura bernois_DE.pdf"
+        },
+        {
+          "fileName": "CCT du secteur du paysagisme Fribourg, Neuchâtel, Jura et Jura bernois_FR.pdf",
+          "relativePath": "Conventions_Collectives/Culture et production animale, chasse/CCT du secteur du paysagisme Fribourg, Neuchâtel, Jura et Jura bernois_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "demolition-et-preparation-des-sites",
+      "folderName": "Démolition et préparation des sites",
+      "aliases": [
+        "demolition et preparation des sites"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "CCT pour la retraite anticipée dans le secteur principal_de la construction_DE.pdf",
+          "relativePath": "Conventions_Collectives/Démolition et préparation des sites/CCT pour la retraite anticipée dans le secteur principal_de la construction_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour la retraite anticipée dans le secteur principal_de la construction_FR.pdf",
+          "relativePath": "Conventions_Collectives/Démolition et préparation des sites/CCT pour la retraite anticipée dans le secteur principal_de la construction_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour la retraite anticipée dans le secteur principal_de la construction_IT.pdf",
+          "relativePath": "Conventions_Collectives/Démolition et préparation des sites/CCT pour la retraite anticipée dans le secteur principal_de la construction_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "depollution-et-autres-services-de-gestion-des-dechets",
+      "folderName": "Dépollution et autres services de gestion des déchets",
+      "aliases": [
+        "depollution et autres services de gestion des dechets"
+      ],
+      "documentCount": 2,
+      "documents": [
+        {
+          "fileName": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf",
+          "relativePath": "Conventions_Collectives/Dépollution et autres services de gestion des déchets/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf",
+          "relativePath": "Conventions_Collectives/Dépollution et autres services de gestion des déchets/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "enquetes-et-securite",
+      "folderName": "Enquêtes et sécurité",
+      "aliases": [
+        "enquetes et securite"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "CCT pour la branche privée de la sécurité_DE.pdf",
+          "relativePath": "Conventions_Collectives/Enquêtes et sécurité/CCT pour la branche privée de la sécurité_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour la branche privée de la sécurité_FR.pdf",
+          "relativePath": "Conventions_Collectives/Enquêtes et sécurité/CCT pour la branche privée de la sécurité_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour la branche privée de la sécurité_IT.pdf",
+          "relativePath": "Conventions_Collectives/Enquêtes et sécurité/CCT pour la branche privée de la sécurité_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "entreposage-et-services-auxiliaires-des-transports",
+      "folderName": "Entreposage et services auxiliaires des transports",
+      "aliases": [
+        "entreposage et services auxiliaires des transports"
+      ],
+      "documentCount": 7,
+      "documents": [
+        {
+          "fileName": "CCT Swissport International SA, Genève - pour le personnel avec salaire horaire_FR.pdf",
+          "relativePath": "Conventions_Collectives/Entreposage et services auxiliaires des transports/CCT Swissport International SA, Genève - pour le personnel avec salaire horaire_FR.pdf"
+        },
+        {
+          "fileName": "CCT Swissport International SA, Genève pour le personnel avec salaire mensuel_FR.pdf",
+          "relativePath": "Conventions_Collectives/Entreposage et services auxiliaires des transports/CCT Swissport International SA, Genève pour le personnel avec salaire mensuel_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail  pour le secteur de l_assistance au sol aux compagnies aériennes Genève (CTT-ASCA)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Entreposage et services auxiliaires des transports/Contrat-type de travail  pour le secteur de l_assistance au sol aux compagnies aériennes Genève (CTT-ASCA)_FR.pdf"
+        },
+        {
+          "fileName": "GAV für die Betriebsangestellten der ULTRA-BRAG AG_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entreposage et services auxiliaires des transports/GAV für die Betriebsangestellten der ULTRA-BRAG AG_DE.pdf"
+        },
+        {
+          "fileName": "GAV ISS Facility Services AG und Vebego Airport AG - ständig beschäftigtes Personal mit einem Beschäftigungsgrad von mindestens 50% (vormals_ GAV ISS Aviation AG Zürich - ständig beschäfti_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entreposage et services auxiliaires des transports/GAV ISS Facility Services AG und Vebego Airport AG - ständig beschäftigtes Personal mit einem Beschäftigungsgrad von mindestens 50% (vormals_ GAV ISS Aviation AG Zürich - ständig beschäfti_DE.pdf"
+        },
+        {
+          "fileName": "GAV ISS Facility Services AG und Vebego Airport AG - Teilzeitangestellte im Stundenlohn_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entreposage et services auxiliaires des transports/GAV ISS Facility Services AG und Vebego Airport AG - Teilzeitangestellte im Stundenlohn_DE.pdf"
+        },
+        {
+          "fileName": "GAV Swissport Basel_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entreposage et services auxiliaires des transports/GAV Swissport Basel_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "entretien-et-reparation-de-vehicules-automobiles-et-de-motocycles",
+      "folderName": "Entretien et réparation de véhicules automobiles et de motocycles",
+      "aliases": [
+        "entretien et reparation de vehicules automobiles et de motocycles"
+      ],
+      "documentCount": 18,
+      "documents": [
+        {
+          "fileName": "CCL per il personale delle autorimesse del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/CCL per il personale delle autorimesse del Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie suisse de la carrosserie_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/CCT de l_industrie suisse de la carrosserie_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie suisse de la carrosserie_FR.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/CCT de l_industrie suisse de la carrosserie_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie suisse de la carrosserie_IT.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/CCT de l_industrie suisse de la carrosserie_IT.pdf"
+        },
+        {
+          "fileName": "CCT de la branche automobile du Valais_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/CCT de la branche automobile du Valais_DE.pdf"
+        },
+        {
+          "fileName": "CCT de la branche automobile du Valais_FR.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/CCT de la branche automobile du Valais_FR.pdf"
+        },
+        {
+          "fileName": "CCT des garages du Canton de Vaud_FR.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/CCT des garages du Canton de Vaud_FR.pdf"
+        },
+        {
+          "fileName": "CCT des professionnels de l_automobile du Jura et du Jura bernois_FR.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/CCT des professionnels de l_automobile du Jura et du Jura bernois_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie des garages du canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/CCT pour l_industrie des garages du canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe der Kantone Luzern, Nidwalden und Obwalden_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/GAV für das Autogewerbe der Kantone Luzern, Nidwalden und Obwalden_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe des Kantons Aargau_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/GAV für das Autogewerbe des Kantons Aargau_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe des Kantons Bern_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/GAV für das Autogewerbe des Kantons Bern_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe des Kantons Zug_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/GAV für das Autogewerbe des Kantons Zug_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe im Kanton Zürich_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/GAV für das Autogewerbe im Kanton Zürich_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe Ostschweiz der Kantone St. Gallen, beider Appenzell und Thurgau_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/GAV für das Autogewerbe Ostschweiz der Kantone St. Gallen, beider Appenzell und Thurgau_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Autogewerbe von Basel-Stadt und Baselland_DE.pdf",
+          "relativePath": "Conventions_Collectives/Entretien et réparation de véhicules automobiles et de motocycles/GAV für das Autogewerbe von Basel-Stadt und Baselland_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fabrication-d-autres-materiels-de-transport-p-ex-construction-de-trains-ou-d-avions",
+      "folderName": "Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)",
+      "aliases": [
+        "fabrication d autres materiels de transport",
+        "fabrication d autres materiels de transport p ex construction de trains ou d avions"
+      ],
+      "documentCount": 5,
+      "documents": [
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)/CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)/CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf"
+        },
+        {
+          "fileName": "GAV Stadler Rail Group Schweiz_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)/GAV Stadler Rail Group Schweiz_DE.pdf"
+        },
+        {
+          "fileName": "GAV Stadler Rail Group Schweiz_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication d_autres matériels de transport (p. ex. construction de trains ou d_avions)/GAV Stadler Rail Group Schweiz_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fabrication-d-equipements-electriques",
+      "folderName": "Fabrication d_équipements électriques",
+      "aliases": [
+        "fabrication d equipements electriques"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication d_équipements électriques/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication d_équipements électriques/CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication d_équipements électriques/CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fabrication-de-ciment-et-de-tuiles-briques-y-c-platre-et-autres-ceramiques-de-construction",
+      "folderName": "Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)",
+      "aliases": [
+        "fabrication de ciment et de tuiles briques y c platre et autres ceramiques de construction"
+      ],
+      "documentCount": 6,
+      "documents": [
+        {
+          "fileName": "CCT Ciments Vigier SA_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)/CCT Ciments Vigier SA_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l'industrie suisse des produits en béton_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)/CCT de l'industrie suisse des produits en béton_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l'industrie suisse des produits en béton_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)/CCT de l'industrie suisse des produits en béton_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l'industrie suisse des produits en béton_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)/CCT de l'industrie suisse des produits en béton_IT.pdf"
+        },
+        {
+          "fileName": "CCT pour les tuileries-briqueteries suisses_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)/CCT pour les tuileries-briqueteries suisses_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour les tuileries-briqueteries suisses_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de ciment et de tuiles_briques (y c. plâtre et autres céramiques de construction)/CCT pour les tuileries-briqueteries suisses_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fabrication-de-machines-et-equipements",
+      "folderName": "Fabrication de machines et équipements",
+      "aliases": [
+        "fabrication de machines et equipements"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de machines et équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de machines et équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de machines et équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fabrication-de-meubles",
+      "folderName": "Fabrication de meubles",
+      "aliases": [
+        "fabrication de meubles"
+      ],
+      "documentCount": 9,
+      "documents": [
+        {
+          "fileName": "CCL per le falegnamerie e fabbriche di mobili e serramenti del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de meubles/CCL per le falegnamerie e fabbriche di mobili e serramenti del Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie suisse du meuble_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de meubles/CCT pour l_industrie suisse du meuble_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie suisse du meuble_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de meubles/CCT pour l_industrie suisse du meuble_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie suisse du meuble_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de meubles/CCT pour l_industrie suisse du meuble_IT.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de meubles/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de meubles/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de meubles/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf"
+        },
+        {
+          "fileName": "GAV für das Schreinergewerbe Deutschschweiz und Tessin_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de meubles/GAV für das Schreinergewerbe Deutschschweiz und Tessin_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Schreinergewerbe Deutschschweiz und Tessin_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de meubles/GAV für das Schreinergewerbe Deutschschweiz und Tessin_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fabrication-de-produits-a-base-de-tabac",
+      "folderName": "Fabrication de produits à base de tabac",
+      "aliases": [
+        "fabrication de produits a base de tabac"
+      ],
+      "documentCount": 1,
+      "documents": [
+        {
+          "fileName": "CCT Philip Morris SA Neuchâtel_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits à base de tabac/CCT Philip Morris SA Neuchâtel_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fabrication-de-produits-informatiques-electroniques-et-optiques",
+      "folderName": "Fabrication de produits informatiques, électroniques et optiques",
+      "aliases": [
+        "fabrication de produits informatiques electroniques et optiques"
+      ],
+      "documentCount": 8,
+      "documents": [
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits informatiques, électroniques et optiques/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits informatiques, électroniques et optiques/CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits informatiques, électroniques et optiques/CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf"
+        },
+        {
+          "fileName": "CCT des industries horlogère et microtechnique suisses_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits informatiques, électroniques et optiques/CCT des industries horlogère et microtechnique suisses_DE.pdf"
+        },
+        {
+          "fileName": "CCT des industries horlogère et microtechnique suisses_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits informatiques, électroniques et optiques/CCT des industries horlogère et microtechnique suisses_FR.pdf"
+        },
+        {
+          "fileName": "CCT des industries horlogère et microtechnique suisses_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits informatiques, électroniques et optiques/CCT des industries horlogère et microtechnique suisses_IT.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le secteur de la mécatronique Genève (CTT-Méca)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits informatiques, électroniques et optiques/Contrat-type de travail pour le secteur de la mécatronique Genève (CTT-Méca)_FR.pdf"
+        },
+        {
+          "fileName": "GAV der deutschschweizerischen Unternehmen der Uhren- und Mikrotechnikindustrie_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits informatiques, électroniques et optiques/GAV der deutschschweizerischen Unternehmen der Uhren- und Mikrotechnikindustrie_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fabrication-de-produits-metalliques-a-l-exception-des-machines-et-des-equipements",
+      "folderName": "Fabrication de produits métalliques, à l_exception des machines et des équipements",
+      "aliases": [
+        "fabrication de produits metalliques a l exception des machines et des equipements"
+      ],
+      "documentCount": 14,
+      "documents": [
+        {
+          "fileName": "CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "CCNT pour l'artisanat du métal suisse_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCNT pour l'artisanat du métal suisse_DE.pdf"
+        },
+        {
+          "fileName": "CCNT pour l'artisanat du métal suisse_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCNT pour l'artisanat du métal suisse_FR.pdf"
+        },
+        {
+          "fileName": "CCNT pour l'artisanat du métal suisse_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCNT pour l'artisanat du métal suisse_IT.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf"
+        },
+        {
+          "fileName": "CCT de la construction métallique du canton du Valais_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCT de la construction métallique du canton du Valais_DE.pdf"
+        },
+        {
+          "fileName": "CCT de la construction métallique du canton du Valais_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCT de la construction métallique du canton du Valais_FR.pdf"
+        },
+        {
+          "fileName": "CCT introduisant un régime de préretraite RETAVAL_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCT introduisant un régime de préretraite RETAVAL_DE.pdf"
+        },
+        {
+          "fileName": "CCT introduisant un régime de préretraite RETAVAL_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCT introduisant un régime de préretraite RETAVAL_FR.pdf"
+        },
+        {
+          "fileName": "CCT Métal-Vaud_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCT Métal-Vaud_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour les métiers techniques de la métallurgie du bâtiment dans le canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/CCT pour les métiers techniques de la métallurgie du bâtiment dans le canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "GAV für das Schlosser-, Metallbau-, Landmaschinen-, Schmiede- und Stahlbaugewerbe in den Kantonen Baselland und Basel-Stadt_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de produits métalliques, à l_exception des machines et des équipements/GAV für das Schlosser-, Metallbau-, Landmaschinen-, Schmiede- und Stahlbaugewerbe in den Kantonen Baselland und Basel-Stadt_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "fabrication-de-textiles",
+      "folderName": "Fabrication de textiles",
+      "aliases": [
+        "fabrication de textiles"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de textiles/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de textiles/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf",
+          "relativePath": "Conventions_Collectives/Fabrication de textiles/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "ferblanterie-et-charpente",
+      "folderName": "Ferblanterie et charpente",
+      "aliases": [
+        "ferblanterie et charpente"
+      ],
+      "documentCount": 18,
+      "documents": [
+        {
+          "fileName": "CCT de la branche suisse de l'enveloppe des édifices_DE.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT de la branche suisse de l'enveloppe des édifices_DE.pdf"
+        },
+        {
+          "fileName": "CCT de la branche suisse de l'enveloppe des édifices_FR.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT de la branche suisse de l'enveloppe des édifices_FR.pdf"
+        },
+        {
+          "fileName": "CCT de la branche suisse de l'enveloppe des édifices_IT.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT de la branche suisse de l'enveloppe des édifices_IT.pdf"
+        },
+        {
+          "fileName": "CCT de la ferblanterie, de la couverture, de l'installation sanitaire, du chauffage, de la climatisation et de la ventilation VD_FR.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT de la ferblanterie, de la couverture, de l'installation sanitaire, du chauffage, de la climatisation et de la ventilation VD_FR.pdf"
+        },
+        {
+          "fileName": "CCT du second _oeuvre romand_DE.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT du second _oeuvre romand_DE.pdf"
+        },
+        {
+          "fileName": "CCT du second _oeuvre romand_FR.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT du second _oeuvre romand_FR.pdf"
+        },
+        {
+          "fileName": "CCT introduisant un régime de préretraite RETAVAL_DE.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT introduisant un régime de préretraite RETAVAL_DE.pdf"
+        },
+        {
+          "fileName": "CCT introduisant un régime de préretraite RETAVAL_FR.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT introduisant un régime de préretraite RETAVAL_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour un modèle de préretraite dans la branche suisse de l'enveloppe des édifices_DE.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT pour un modèle de préretraite dans la branche suisse de l'enveloppe des édifices_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour un modèle de préretraite dans la branche suisse de l'enveloppe des édifices_FR.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT pour un modèle de préretraite dans la branche suisse de l'enveloppe des édifices_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour un modèle de préretraite dans la branche suisse de l'enveloppe des édifices_IT.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/CCT pour un modèle de préretraite dans la branche suisse de l'enveloppe des édifices_IT.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf"
+        },
+        {
+          "fileName": "GAV für das Basler Ausbaugewerbe (BS)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/GAV für das Basler Ausbaugewerbe (BS)_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Dach- und Wandgewerbe im Kanton Baselland_DE.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/GAV für das Dach- und Wandgewerbe im Kanton Baselland_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Holzbaugewerbe_DE.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/GAV für das Holzbaugewerbe_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Holzbaugewerbe_IT.pdf",
+          "relativePath": "Conventions_Collectives/Ferblanterie et charpente/GAV für das Holzbaugewerbe_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "hebergement-et-restauration",
+      "folderName": "Hébergement et Restauration",
+      "aliases": [
+        "hebergement et restauration"
+      ],
+      "documentCount": 30,
+      "documents": [
+        {
+          "fileName": "Anstellungsbedingungen für die Mitarbeitenden im Stundenlohn der Gate Gourmet Switzerland GmbH _96 Unit Zürich_DE.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Anstellungsbedingungen für die Mitarbeitenden im Stundenlohn der Gate Gourmet Switzerland GmbH _96 Unit Zürich_DE.pdf"
+        },
+        {
+          "fileName": "CCT Nationale Restauration .pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/CCT Nationale Restauration .pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_ Aend_22_09_2005_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_ Aend_22_09_2005_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_01_05_2007_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_01_05_2007_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_06_10_2000_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_06_10_2000_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_09_01_2023_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_09_01_2023_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_09_12_1999_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_09_12_1999_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_11_12_2008_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_11_12_2008_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_11_12_2009_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_11_12_2009_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_12_06_2013_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_12_06_2013_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_13_08_2007_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_13_08_2007_fr.pdf"
+        },
+        {
+          "fileName": "gastgewerbe_aend_15_02_2024_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/gastgewerbe_aend_15_02_2024_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_17_05_2018_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_17_05_2018_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_17_12_2001_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_17_12_2001_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_18_10_2018_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_18_10_2018_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_19_12_2005_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_19_12_2005_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_24_12_2004_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_24_12_2004_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Aend_30_01_2003_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Aend_30_01_2003_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Beschluss_19_11_1998_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Beschluss_19_11_1998_fr.pdf"
+        },
+        {
+          "fileName": "gastgewerbe_verl_30_11_2022_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/gastgewerbe_verl_30_11_2022_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Verl_Aend_08_12_2003_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Verl_Aend_08_12_2003_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Verl_Aend_12_12_2002_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Verl_Aend_12_12_2002_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Verl_Aend_12_12_2016_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Verl_Aend_12_12_2016_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Verl_Aend_17_12_2007_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Verl_Aend_17_12_2007_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Verl_Aend_26_11_2013_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Verl_Aend_26_11_2013_fr.pdf"
+        },
+        {
+          "fileName": "gastgewerbe_wieder_aend_06_03_2025_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/gastgewerbe_wieder_aend_06_03_2025_fr.pdf"
+        },
+        {
+          "fileName": "gastgewerbe_wiederin_27_12_2023_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/gastgewerbe_wiederin_27_12_2023_fr.pdf"
+        },
+        {
+          "fileName": "Gastgewerbe_Wiederin_Aend_15_02_2021_fr.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/Gastgewerbe_Wiederin_Aend_15_02_2021_fr.pdf"
+        },
+        {
+          "fileName": "gastrosuisse-notice-calcul-salaires-horaires-ccnt-2026.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/gastrosuisse-notice-calcul-salaires-horaires-ccnt-2026.pdf"
+        },
+        {
+          "fileName": "GAV Gate Gourmet Switzerland GmbH Unit Zürich _96 für die Mitarbeitenden im Monatslohn_DE.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement et Restauration/GAV Gate Gourmet Switzerland GmbH Unit Zürich _96 für die Mitarbeitenden im Monatslohn_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "hebergement-medico-social-et-social",
+      "folderName": "Hébergement médico-social et social",
+      "aliases": [
+        "hebergement medico-social et social"
+      ],
+      "documentCount": 6,
+      "documents": [
+        {
+          "fileName": "CCL per il personale occupato presso le Case per anziani ed altri enti del Canton Ticino (ROCA; precedentemente_ Regolamento organico cantonale)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement médico-social et social/CCL per il personale occupato presso le Case per anziani ed altri enti del Canton Ticino (ROCA; precedentemente_ Regolamento organico cantonale)_IT.pdf"
+        },
+        {
+          "fileName": "CCT dans le secteur sanitaire parapublic vaudois_FR.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement médico-social et social/CCT dans le secteur sanitaire parapublic vaudois_FR.pdf"
+        },
+        {
+          "fileName": "CCT des Etablissements médico-sociaux (EMS) pour les personnes âgées, Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement médico-social et social/CCT des Etablissements médico-sociaux (EMS) pour les personnes âgées, Genève_FR.pdf"
+        },
+        {
+          "fileName": "CCT du secteur de la santé du canton de Neuchâtel - version droit privé_FR.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement médico-social et social/CCT du secteur de la santé du canton de Neuchâtel - version droit privé_FR.pdf"
+        },
+        {
+          "fileName": "CCT du secteur des établissements spécialisés du canton de Neuchâtel_FR.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement médico-social et social/CCT du secteur des établissements spécialisés du canton de Neuchâtel_FR.pdf"
+        },
+        {
+          "fileName": "GAV Bernischer Langzeitpflege-Institutionen_DE.pdf",
+          "relativePath": "Conventions_Collectives/Hébergement médico-social et social/GAV Bernischer Langzeitpflege-Institutionen_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "horlogerie",
+      "folderName": "Horlogerie",
+      "aliases": [
+        "horlogerie"
+      ],
+      "documentCount": 7,
+      "documents": [
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+          "relativePath": "Conventions_Collectives/Horlogerie/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf",
+          "relativePath": "Conventions_Collectives/Horlogerie/CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf",
+          "relativePath": "Conventions_Collectives/Horlogerie/CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf"
+        },
+        {
+          "fileName": "CCT des industries horlogère et microtechnique suisses_DE.pdf",
+          "relativePath": "Conventions_Collectives/Horlogerie/CCT des industries horlogère et microtechnique suisses_DE.pdf"
+        },
+        {
+          "fileName": "CCT des industries horlogère et microtechnique suisses_FR.pdf",
+          "relativePath": "Conventions_Collectives/Horlogerie/CCT des industries horlogère et microtechnique suisses_FR.pdf"
+        },
+        {
+          "fileName": "CCT des industries horlogère et microtechnique suisses_IT.pdf",
+          "relativePath": "Conventions_Collectives/Horlogerie/CCT des industries horlogère et microtechnique suisses_IT.pdf"
+        },
+        {
+          "fileName": "GAV der deutschschweizerischen Unternehmen der Uhren- und Mikrotechnikindustrie_DE.pdf",
+          "relativePath": "Conventions_Collectives/Horlogerie/GAV der deutschschweizerischen Unternehmen der Uhren- und Mikrotechnikindustrie_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "industrie-automobile-y-c-equipements",
+      "folderName": "Industrie automobile, y c. équipements",
+      "aliases": [
+        "industrie automobile y c equipements"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie automobile, y c. équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf",
+          "relativePath": "Conventions_Collectives/Industrie automobile, y c. équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf",
+          "relativePath": "Conventions_Collectives/Industrie automobile, y c. équipements/CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "industrie-chimique-sans-industrie-pharmaceutique",
+      "folderName": "Industrie chimique (sans industrie pharmaceutique)",
+      "aliases": [
+        "industrie chimique sans industrie pharmaceutique"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "Firmenarbeitsvertrag DSM Nutritional Products AG, Zweigniederlassung Werk Lalden_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie chimique (sans industrie pharmaceutique)/Firmenarbeitsvertrag DSM Nutritional Products AG, Zweigniederlassung Werk Lalden_DE.pdf"
+        },
+        {
+          "fileName": "GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie chimique (sans industrie pharmaceutique)/GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf"
+        },
+        {
+          "fileName": "KAV Lonza Walliser Werke_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie chimique (sans industrie pharmaceutique)/KAV Lonza Walliser Werke_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "industrie-du-verre-et-de-produits-ceramiques-sans-fabrication-de-tuiles-briques-et-ceramiques-de-construction",
+      "folderName": "Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)",
+      "aliases": [
+        "industrie du verre et de produits ceramiques sans fabrication de tuiles briques et ceramiques de construction"
+      ],
+      "documentCount": 11,
+      "documents": [
+        {
+          "fileName": "CCL nel ramo della vetrerie del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/CCL nel ramo della vetrerie del Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCT des métiers de la pierre du canton de Vaud_FR.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/CCT des métiers de la pierre du canton de Vaud_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour l_artisanat et l'industrie de la pierre naturelle_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/CCT pour l_artisanat et l'industrie de la pierre naturelle_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour l_artisanat et l'industrie de la pierre naturelle_FR.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/CCT pour l_artisanat et l'industrie de la pierre naturelle_FR.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans l_artisanat et l'industrie de la pierre naturelle_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/Convention collective pour la retraite anticipée dans l_artisanat et l'industrie de la pierre naturelle_DE.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans l_artisanat et l'industrie de la pierre naturelle_FR.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/Convention collective pour la retraite anticipée dans l_artisanat et l'industrie de la pierre naturelle_FR.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf"
+        },
+        {
+          "fileName": "GAV für das bernische Glasergewerbe_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/GAV für das bernische Glasergewerbe_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Schweizerische Bildhauer- und Steinmetzgewerbe_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie du verre et de produits céramiques (sans fabrication de tuiles_briques et céramiques de construction)/GAV für das Schweizerische Bildhauer- und Steinmetzgewerbe_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "industrie-pharmaceutique",
+      "folderName": "Industrie pharmaceutique",
+      "aliases": [
+        "industrie pharmaceutique"
+      ],
+      "documentCount": 5,
+      "documents": [
+        {
+          "fileName": "CCT GSK Consumer Healthcare company, Usine de Nyon (anciennement_ Novartis)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Industrie pharmaceutique/CCT GSK Consumer Healthcare company, Usine de Nyon (anciennement_ Novartis)_FR.pdf"
+        },
+        {
+          "fileName": "Einheitsvertrag Cilag AG, Schaffhausen_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie pharmaceutique/Einheitsvertrag Cilag AG, Schaffhausen_DE.pdf"
+        },
+        {
+          "fileName": "Firmenarbeitsvertrag DSM Nutritional Products AG, Zweigniederlassung Werk Lalden_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie pharmaceutique/Firmenarbeitsvertrag DSM Nutritional Products AG, Zweigniederlassung Werk Lalden_DE.pdf"
+        },
+        {
+          "fileName": "GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie pharmaceutique/GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf"
+        },
+        {
+          "fileName": "KAV Lonza Walliser Werke_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industrie pharmaceutique/KAV Lonza Walliser Werke_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "industries-alimentaires-de-boissons-et-fourragere",
+      "folderName": "Industries alimentaires, de boissons et fourragère",
+      "aliases": [
+        "industries alimentaires de boissons et fourragere"
+      ],
+      "documentCount": 12,
+      "documents": [
+        {
+          "fileName": "CCT de l_industrie chocolatière suisse_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT de l_industrie chocolatière suisse_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie chocolatière suisse_FR.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT de l_industrie chocolatière suisse_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie chocolatière suisse_IT.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT de l_industrie chocolatière suisse_IT.pdf"
+        },
+        {
+          "fileName": "CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_DE.pdf"
+        },
+        {
+          "fileName": "CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_FR.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_FR.pdf"
+        },
+        {
+          "fileName": "CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_IT.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT de la boulangerie-pâtisserie-confiserie artisanale Suisse_IT.pdf"
+        },
+        {
+          "fileName": "CCT Nestlé Waters (Suisse) SA_FR.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT Nestlé Waters (Suisse) SA_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour la boucherie-charcuterie Suisse_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT pour la boucherie-charcuterie Suisse_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour la boucherie-charcuterie Suisse_FR.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT pour la boucherie-charcuterie Suisse_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour la boucherie-charcuterie Suisse_IT.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/CCT pour la boucherie-charcuterie Suisse_IT.pdf"
+        },
+        {
+          "fileName": "GAV Feldschlösschen Getränke AG und Supply Company AG_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/GAV Feldschlösschen Getränke AG und Supply Company AG_DE.pdf"
+        },
+        {
+          "fileName": "GAV Wander AG_DE.pdf",
+          "relativePath": "Conventions_Collectives/Industries alimentaires, de boissons et fourragère/GAV Wander AG_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "jardinerie-paysagistes",
+      "folderName": "Jardinerie _ Paysagistes",
+      "aliases": [
+        "jardinerie paysagistes"
+      ],
+      "documentCount": 18,
+      "documents": [
+        {
+          "fileName": "2d11_Assurances__sociales_cotisations_2026_GtRqkox.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/2d11_Assurances__sociales_cotisations_2026_GtRqkox.pdf"
+        },
+        {
+          "fileName": "2d12_I_PE_Calcul_du_pourcentage_vacances_jours_fériés_13e_salaire.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/2d12_I_PE_Calcul_du_pourcentage_vacances_jours_fériés_13e_salaire.pdf"
+        },
+        {
+          "fileName": "691a2aa62a92f8c2b8632a58_Communique_presse_salaire-2026_VF.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/691a2aa62a92f8c2b8632a58_Communique_presse_salaire-2026_VF.pdf"
+        },
+        {
+          "fileName": "CCT Jura Bernois.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/CCT Jura Bernois.pdf"
+        },
+        {
+          "fileName": "CPPJ_CCT_2023-2027v2_ Genève.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/CPPJ_CCT_2023-2027v2_ Genève.pdf"
+        },
+        {
+          "fileName": "CPPJ_CTT_01.02.21_contrat type Genève.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/CPPJ_CTT_01.02.21_contrat type Genève.pdf"
+        },
+        {
+          "fileName": "Demande_2d10_fixation_salaire_niveau_inférieur_f.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/Demande_2d10_fixation_salaire_niveau_inférieur_f.pdf"
+        },
+        {
+          "fileName": "GAV Gaertnergewerbe BS BL 2025 aktualisiert Original.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/GAV Gaertnergewerbe BS BL 2025 aktualisiert Original.pdf"
+        },
+        {
+          "fileName": "Modèle de contrat CCT Paysagisme.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/Modèle de contrat CCT Paysagisme.pdf"
+        },
+        {
+          "fileName": "Salaires Horticultures_2d1_I_PE_Lohnregulativ_Galabau_2026_f.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/Salaires Horticultures_2d1_I_PE_Lohnregulativ_Galabau_2026_f.pdf"
+        },
+        {
+          "fileName": "Salaires minimaux 2024.2025.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/Salaires minimaux 2024.2025.pdf"
+        },
+        {
+          "fileName": "Salaires Pepinieres 2026_2d1_I_PE_Lohnregulativ_BS_2026_f_zFDIqCc.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/Salaires Pepinieres 2026_2d1_I_PE_Lohnregulativ_BS_2026_f_zFDIqCc.pdf"
+        },
+        {
+          "fileName": "Salaires Production Commerce de détail horticole 2026.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/Salaires Production Commerce de détail horticole 2026.pdf"
+        },
+        {
+          "fileName": "ti_giardinieri_aend_07_01_2025_fr_ Ticino.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/ti_giardinieri_aend_07_01_2025_fr_ Ticino.pdf"
+        },
+        {
+          "fileName": "Valais_cct-paysagistes-2023-2026.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/Valais_cct-paysagistes-2023-2026.pdf"
+        },
+        {
+          "fileName": "Vaud_CCT-Paysagistes-2024_1giPbGH.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/Vaud_CCT-Paysagistes-2024_1giPbGH.pdf"
+        },
+        {
+          "fileName": "Vaud_Contrat-type_de_travail_pour_lagriculture_-_version_01.01.2021.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/Vaud_Contrat-type_de_travail_pour_lagriculture_-_version_01.01.2021.pdf"
+        },
+        {
+          "fileName": "Web_A5_Gesamtarbeitsvertrag2025_f_ES.pdf",
+          "relativePath": "Conventions_Collectives/Jardinerie _ Paysagistes/Web_A5_Gesamtarbeitsvertrag2025_f_ES.pdf"
+        }
+      ]
+    },
+    {
+      "id": "menages-prives-avec-personnel-domestique",
+      "folderName": "Ménages privés avec personnel domestique",
+      "aliases": [
+        "menages prives avec personnel domestique"
+      ],
+      "documentCount": 4,
+      "documents": [
+        {
+          "fileName": "Contrat-type de travail de l'économie domestique GE (CTT-EDom)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Ménages privés avec personnel domestique/Contrat-type de travail de l'économie domestique GE (CTT-EDom)_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour les travailleurs de l'économie domestique CH (CTT économie domestique)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Ménages privés avec personnel domestique/Contrat-type de travail pour les travailleurs de l'économie domestique CH (CTT économie domestique)_DE.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour les travailleurs de l'économie domestique CH (CTT économie domestique)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Ménages privés avec personnel domestique/Contrat-type de travail pour les travailleurs de l'économie domestique CH (CTT économie domestique)_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour les travailleurs de l'économie domestique CH (CTT économie domestique)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Ménages privés avec personnel domestique/Contrat-type de travail pour les travailleurs de l'économie domestique CH (CTT économie domestique)_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "metallurgie-p-ex-acieries-fonderies",
+      "folderName": "Métallurgie (p. ex. aciéries, fonderies)",
+      "aliases": [
+        "metallurgie",
+        "metallurgie p ex acieries fonderies"
+      ],
+      "documentCount": 4,
+      "documents": [
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+          "relativePath": "Conventions_Collectives/Métallurgie (p. ex. aciéries, fonderies)/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf",
+          "relativePath": "Conventions_Collectives/Métallurgie (p. ex. aciéries, fonderies)/CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf",
+          "relativePath": "Conventions_Collectives/Métallurgie (p. ex. aciéries, fonderies)/CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le secteur de la mécatronique Genève (CTT-Méca)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Métallurgie (p. ex. aciéries, fonderies)/Contrat-type de travail pour le secteur de la mécatronique Genève (CTT-Méca)_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "organisation-sportives-et-de-jeux-p-ex-centres-de-fitness-installations-sportives-clubs-de-sport-casinos",
+      "folderName": "Organisation sportives et de jeux (p. ex. centres de fitness, installations sportives, clubs de sport, casinos)",
+      "aliases": [
+        "organisation sportives et de jeux",
+        "organisation sportives et de jeux p ex centres de fitness installations sportives clubs de sport casinos"
+      ],
+      "documentCount": 1,
+      "documents": [
+        {
+          "fileName": "Contratto normale di lavoro per i centri fitness TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Organisation sportives et de jeux (p. ex. centres de fitness, installations sportives, clubs de sport, casinos)/Contratto normale di lavoro per i centri fitness TI_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "peinture-et-gypserie",
+      "folderName": "Peinture et Gypserie",
+      "aliases": [
+        "peinture et gypserie"
+      ],
+      "documentCount": 19,
+      "documents": [
+        {
+          "fileName": "CCL nel ramo della pittura, verniciatura, tappezzeria e sabbiatura TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/CCL nel ramo della pittura, verniciatura, tappezzeria e sabbiatura TI_IT.pdf"
+        },
+        {
+          "fileName": "CCL per Gessatori, stuccatori, montatori a secco, plafonatori e intonacatori TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/CCL per Gessatori, stuccatori, montatori a secco, plafonatori e intonacatori TI_IT.pdf"
+        },
+        {
+          "fileName": "CCT du second _oeuvre romand_DE.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/CCT du second _oeuvre romand_DE.pdf"
+        },
+        {
+          "fileName": "CCT du second _oeuvre romand_FR.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/CCT du second _oeuvre romand_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_DE.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_FR.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_IT.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_IT.pdf"
+        },
+        {
+          "fileName": "CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_DE.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_FR.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_IT.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_IT.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf"
+        },
+        {
+          "fileName": "GAV für das Basler Ausbaugewerbe (BS)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/GAV für das Basler Ausbaugewerbe (BS)_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Gipsergewerbe der Stadt Zürich_DE.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/GAV für das Gipsergewerbe der Stadt Zürich_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Gipsergewerbe im Kanton Basel-Stadt_DE.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/GAV für das Gipsergewerbe im Kanton Basel-Stadt_DE.pdf"
+        },
+        {
+          "fileName": "Suisse Romande_cahier-II_platrerie_peinture_2026 (1).pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/Suisse Romande_cahier-II_platrerie_peinture_2026 (1).pdf"
+        },
+        {
+          "fileName": "Suisse Romande_platrerie_peinture_conditions-de-travail_2026.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/Suisse Romande_platrerie_peinture_conditions-de-travail_2026.pdf"
+        },
+        {
+          "fileName": "Suisse Romande_platrerie_peinture_salaires_2026.pdf",
+          "relativePath": "Conventions_Collectives/Peinture et Gypserie/Suisse Romande_platrerie_peinture_salaires_2026.pdf"
+        }
+      ]
+    },
+    {
+      "id": "programmation-conseil-et-autres-activites-informatiques",
+      "folderName": "Programmation, conseil et autres activités informatiques",
+      "aliases": [
+        "programmation conseil et autres activites informatiques"
+      ],
+      "documentCount": 1,
+      "documents": [
+        {
+          "fileName": "Contratto normale di lavoro per il settore dell_informatica TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Programmation, conseil et autres activités informatiques/Contratto normale di lavoro per il settore dell_informatica TI_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "recherche-developpement-scientifique",
+      "folderName": "Recherche-développement scientifique",
+      "aliases": [
+        "recherche-developpement scientifique"
+      ],
+      "documentCount": 3,
+      "documents": [
+        {
+          "fileName": "CCT GSK Consumer Healthcare company, Usine de Nyon (anciennement_ Novartis)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Recherche-développement scientifique/CCT GSK Consumer Healthcare company, Usine de Nyon (anciennement_ Novartis)_FR.pdf"
+        },
+        {
+          "fileName": "GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf",
+          "relativePath": "Conventions_Collectives/Recherche-développement scientifique/GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf"
+        },
+        {
+          "fileName": "KAV Lonza Walliser Werke_DE.pdf",
+          "relativePath": "Conventions_Collectives/Recherche-développement scientifique/KAV Lonza Walliser Werke_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "reparation-d-ordinateurs-et-de-biens-personnels-et-domestiques",
+      "folderName": "Réparation d_ordinateurs et de biens personnels et domestiques",
+      "aliases": [
+        "reparation d ordinateurs et de biens personnels et domestiques"
+      ],
+      "documentCount": 2,
+      "documents": [
+        {
+          "fileName": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf",
+          "relativePath": "Conventions_Collectives/Réparation d_ordinateurs et de biens personnels et domestiques/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf",
+          "relativePath": "Conventions_Collectives/Réparation d_ordinateurs et de biens personnels et domestiques/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "reparation-et-installation-de-machines-et-d-equipe",
+      "folderName": "Réparation et installation de machines et d_équipe",
+      "aliases": [
+        "reparation et installation de machines et d equipe"
+      ],
+      "documentCount": 6,
+      "documents": [
+        {
+          "fileName": "CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Réparation et installation de machines et d_équipe/CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf",
+          "relativePath": "Conventions_Collectives/Réparation et installation de machines et d_équipe/CCT de l_industrie des machines, des équipements électriques et des métaux_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf",
+          "relativePath": "Conventions_Collectives/Réparation et installation de machines et d_équipe/CCT de l_industrie des machines, des équipements électriques et des métaux_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf",
+          "relativePath": "Conventions_Collectives/Réparation et installation de machines et d_équipe/CCT de l_industrie des machines, des équipements électriques et des métaux_IT.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf",
+          "relativePath": "Conventions_Collectives/Réparation et installation de machines et d_équipe/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_DE.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf",
+          "relativePath": "Conventions_Collectives/Réparation et installation de machines et d_équipe/Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "sante-humaine",
+      "folderName": "Santé humaine",
+      "aliases": [
+        "sante humaine"
+      ],
+      "documentCount": 11,
+      "documents": [
+        {
+          "fileName": "CCL per il personale occupato negli Istituti Ospedalieri Privati del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/CCL per il personale occupato negli Istituti Ospedalieri Privati del Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCT Association Jurassienne des Institutions pour Personnes Agées et Fondation pour l_Aide et les Soins à Domicile_FR.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/CCT Association Jurassienne des Institutions pour Personnes Agées et Fondation pour l_Aide et les Soins à Domicile_FR.pdf"
+        },
+        {
+          "fileName": "CCT dans le secteur sanitaire parapublic vaudois_FR.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/CCT dans le secteur sanitaire parapublic vaudois_FR.pdf"
+        },
+        {
+          "fileName": "CCT du secteur de la santé du canton de Neuchâtel - version droit public_FR.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/CCT du secteur de la santé du canton de Neuchâtel - version droit public_FR.pdf"
+        },
+        {
+          "fileName": "CCT Hôpitaux et Cliniques Bernois_DE.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/CCT Hôpitaux et Cliniques Bernois_DE.pdf"
+        },
+        {
+          "fileName": "CCT Hôpitaux et Cliniques Bernois_FR.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/CCT Hôpitaux et Cliniques Bernois_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour le personnel de l_Hôpital du Jura_FR.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/CCT pour le personnel de l_Hôpital du Jura_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour les organisations de soins et d_aide à domicile GE (CTT-OSAD)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/Contrat-type de travail pour les organisations de soins et d_aide à domicile GE (CTT-OSAD)_FR.pdf"
+        },
+        {
+          "fileName": "GAV für die Aargauer Kantonsspitäler_DE.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/GAV für die Aargauer Kantonsspitäler_DE.pdf"
+        },
+        {
+          "fileName": "GAV für die Zuger Kantonsspital AG_DE.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/GAV für die Zuger Kantonsspital AG_DE.pdf"
+        },
+        {
+          "fileName": "Regolamento organico per il personale occupato presso gli Istituti dell_Ente Ospedaliero Cantonale del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Santé humaine/Regolamento organico per il personale occupato presso gli Istituti dell_Ente Ospedaliero Cantonale del Cantone Ticino_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "services-d-amenagement-paysager",
+      "folderName": "Services d_aménagement paysager",
+      "aliases": [
+        "services d amenagement paysager"
+      ],
+      "documentCount": 7,
+      "documents": [
+        {
+          "fileName": "CCL dei giardinieri per il Cantone Ticino (CCLG)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Services d_aménagement paysager/CCL dei giardinieri per il Cantone Ticino (CCLG)_IT.pdf"
+        },
+        {
+          "fileName": "CCT du secteur des parcs et jardins, des pépinières et de l_arboriculture dans le Canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Services d_aménagement paysager/CCT du secteur des parcs et jardins, des pépinières et de l_arboriculture dans le Canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "CCT du secteur du paysagisme Fribourg, Neuchâtel, Jura et Jura bernois_DE.pdf",
+          "relativePath": "Conventions_Collectives/Services d_aménagement paysager/CCT du secteur du paysagisme Fribourg, Neuchâtel, Jura et Jura bernois_DE.pdf"
+        },
+        {
+          "fileName": "CCT du secteur du paysagisme Fribourg, Neuchâtel, Jura et Jura bernois_FR.pdf",
+          "relativePath": "Conventions_Collectives/Services d_aménagement paysager/CCT du secteur du paysagisme Fribourg, Neuchâtel, Jura et Jura bernois_FR.pdf"
+        },
+        {
+          "fileName": "CCT Paysagistes et entrepreneurs de jardins du canton de Vaud_FR.pdf",
+          "relativePath": "Conventions_Collectives/Services d_aménagement paysager/CCT Paysagistes et entrepreneurs de jardins du canton de Vaud_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour le personnel au service des entreprises de parc, jardin et paysagisme du Valais romand_FR.pdf",
+          "relativePath": "Conventions_Collectives/Services d_aménagement paysager/CCT pour le personnel au service des entreprises de parc, jardin et paysagisme du Valais romand_FR.pdf"
+        },
+        {
+          "fileName": "GAV für das Gärtnergewerbe in den Kantonen Basel-Stadt und Basel-Landschaft_DE.pdf",
+          "relativePath": "Conventions_Collectives/Services d_aménagement paysager/GAV für das Gärtnergewerbe in den Kantonen Basel-Stadt und Basel-Landschaft_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "services-d-information-p-ex-hebergement-de-sites-web-portails-web-agences-de-presse",
+      "folderName": "Services d_information (p. ex. hébergement de sites web, portails web, agences de presse)",
+      "aliases": [
+        "services d information",
+        "services d information p ex hebergement de sites web portails web agences de presse"
+      ],
+      "documentCount": 1,
+      "documents": [
+        {
+          "fileName": "Contratto normale di lavoro per il settore dell_informatica TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Services d_information (p. ex. hébergement de sites web, portails web, agences de presse)/Contratto normale di lavoro per il settore dell_informatica TI_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "services-financiers-hors-assurance-et-caisses-de-pensions",
+      "folderName": "Services financiers, hors assurance et caisses de pensions",
+      "aliases": [
+        "services financiers hors assurance et caisses de pensions"
+      ],
+      "documentCount": 6,
+      "documents": [
+        {
+          "fileName": "CCT Poste CH_DE.pdf",
+          "relativePath": "Conventions_Collectives/Services financiers, hors assurance et caisses de pensions/CCT Poste CH_DE.pdf"
+        },
+        {
+          "fileName": "CCT Poste CH_FR.pdf",
+          "relativePath": "Conventions_Collectives/Services financiers, hors assurance et caisses de pensions/CCT Poste CH_FR.pdf"
+        },
+        {
+          "fileName": "CCT Poste CH_IT.pdf",
+          "relativePath": "Conventions_Collectives/Services financiers, hors assurance et caisses de pensions/CCT Poste CH_IT.pdf"
+        },
+        {
+          "fileName": "CCT PostFinance SA_DE.pdf",
+          "relativePath": "Conventions_Collectives/Services financiers, hors assurance et caisses de pensions/CCT PostFinance SA_DE.pdf"
+        },
+        {
+          "fileName": "CCT PostFinance SA_FR.pdf",
+          "relativePath": "Conventions_Collectives/Services financiers, hors assurance et caisses de pensions/CCT PostFinance SA_FR.pdf"
+        },
+        {
+          "fileName": "CCT PostFinance SA_IT.pdf",
+          "relativePath": "Conventions_Collectives/Services financiers, hors assurance et caisses de pensions/CCT PostFinance SA_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "sylviculture-et-exploitation-forestiere",
+      "folderName": "Sylviculture et exploitation forestière",
+      "aliases": [
+        "sylviculture et exploitation forestiere"
+      ],
+      "documentCount": 6,
+      "documents": [
+        {
+          "fileName": "CCL per i dipendenti delle imprese forestali del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Sylviculture et exploitation forestière/CCL per i dipendenti delle imprese forestali del Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCT de l_économie forestière fribourgeoise_DE.pdf",
+          "relativePath": "Conventions_Collectives/Sylviculture et exploitation forestière/CCT de l_économie forestière fribourgeoise_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l_économie forestière fribourgeoise_FR.pdf",
+          "relativePath": "Conventions_Collectives/Sylviculture et exploitation forestière/CCT de l_économie forestière fribourgeoise_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l'économie forestière valaisanne_DE.pdf",
+          "relativePath": "Conventions_Collectives/Sylviculture et exploitation forestière/CCT de l'économie forestière valaisanne_DE.pdf"
+        },
+        {
+          "fileName": "CCT de l'économie forestière valaisanne_FR.pdf",
+          "relativePath": "Conventions_Collectives/Sylviculture et exploitation forestière/CCT de l'économie forestière valaisanne_FR.pdf"
+        },
+        {
+          "fileName": "CCT de l'économie forestière vaudoise_FR.pdf",
+          "relativePath": "Conventions_Collectives/Sylviculture et exploitation forestière/CCT de l'économie forestière vaudoise_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "transports-de-voyageurs-en-bus-trams-remontees-mecaniques-taxis-transport-de-marchandises-par-la-route",
+      "folderName": "Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route",
+      "aliases": [
+        "transports de voyageurs en bus trams remontees mecaniques taxis transport de marchandises par la route"
+      ],
+      "documentCount": 10,
+      "documents": [
+        {
+          "fileName": "CCL per il settore degli autotrasporti nel Cantone Ticino (ASTAG)_IT.pdf",
+          "relativePath": "Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/CCL per il settore degli autotrasporti nel Cantone Ticino (ASTAG)_IT.pdf"
+        },
+        {
+          "fileName": "CCT CarPostal_DE.pdf",
+          "relativePath": "Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/CCT CarPostal_DE.pdf"
+        },
+        {
+          "fileName": "CCT CarPostal_FR.pdf",
+          "relativePath": "Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/CCT CarPostal_FR.pdf"
+        },
+        {
+          "fileName": "CCT CarPostal_IT.pdf",
+          "relativePath": "Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/CCT CarPostal_IT.pdf"
+        },
+        {
+          "fileName": "CCT Poste CH_DE.pdf",
+          "relativePath": "Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/CCT Poste CH_DE.pdf"
+        },
+        {
+          "fileName": "CCT Poste CH_FR.pdf",
+          "relativePath": "Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/CCT Poste CH_FR.pdf"
+        },
+        {
+          "fileName": "CCT Poste CH_IT.pdf",
+          "relativePath": "Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/CCT Poste CH_IT.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues VS_DE.pdf",
+          "relativePath": "Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/Contrat-type de travail pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues VS_DE.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues VS_FR.pdf",
+          "relativePath": "Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/Contrat-type de travail pour le personnel des téléphériques, télésièges, téléskis et tous autres moyens de transports analogues VS_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le transport professionnel de choses Genève (CTT-TPC)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Transports de voyageurs en bus, trams, remontées mécaniques, taxis ; transport de marchandises par la route/Contrat-type de travail pour le transport professionnel de choses Genève (CTT-TPC)_FR.pdf"
+        }
+      ]
+    },
+    {
+      "id": "travail-du-bois-et-fabrication-d-articles-en-bois",
+      "folderName": "Travail du bois et fabrication d_articles en bois",
+      "aliases": [
+        "travail du bois et fabrication d articles en bois"
+      ],
+      "documentCount": 12,
+      "documents": [
+        {
+          "fileName": "CCL per le falegnamerie e fabbriche di mobili e serramenti del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/CCL per le falegnamerie e fabbriche di mobili e serramenti del Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCT industrie du bois Suisse_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/CCT industrie du bois Suisse_DE.pdf"
+        },
+        {
+          "fileName": "CCT industrie du bois Suisse_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/CCT industrie du bois Suisse_FR.pdf"
+        },
+        {
+          "fileName": "CCT industrie du bois Suisse_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/CCT industrie du bois Suisse_IT.pdf"
+        },
+        {
+          "fileName": "CCT TAVAPAN S.A. Tavannes_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/CCT TAVAPAN S.A. Tavannes_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail des monteurs de stands Genève (CTT-MStands)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/Contrat-type de travail des monteurs de stands Genève (CTT-MStands)_FR.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf"
+        },
+        {
+          "fileName": "GAV Bauwerk Parkett AG, St. Margrethen_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/GAV Bauwerk Parkett AG, St. Margrethen_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Schreinergewerbe Deutschschweiz und Tessin_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/GAV für das Schreinergewerbe Deutschschweiz und Tessin_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Schreinergewerbe Deutschschweiz und Tessin_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travail du bois et fabrication d_articles en bois/GAV für das Schreinergewerbe Deutschschweiz und Tessin_IT.pdf"
+        }
+      ]
+    },
+    {
+      "id": "travaux-d-installation-electrique-plomberie-et-autres-travaux-d-installation",
+      "folderName": "Travaux d_installation électrique, plomberie et autres travaux d_installation",
+      "aliases": [
+        "travaux d installation electrique plomberie et autres travaux d installation"
+      ],
+      "documentCount": 22,
+      "documents": [
+        {
+          "fileName": "CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "CCL nel ramo della pittura, verniciatura, tappezzeria e sabbiatura TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCL nel ramo della pittura, verniciatura, tappezzeria e sabbiatura TI_IT.pdf"
+        },
+        {
+          "fileName": "CCNT pour l'artisanat du métal suisse_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCNT pour l'artisanat du métal suisse_DE.pdf"
+        },
+        {
+          "fileName": "CCNT pour l'artisanat du métal suisse_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCNT pour l'artisanat du métal suisse_FR.pdf"
+        },
+        {
+          "fileName": "CCNT pour l'artisanat du métal suisse_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCNT pour l'artisanat du métal suisse_IT.pdf"
+        },
+        {
+          "fileName": "CCT dans la branche suisse des techniques du bâtiment_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT dans la branche suisse des techniques du bâtiment_DE.pdf"
+        },
+        {
+          "fileName": "CCT dans la branche suisse des techniques du bâtiment_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT dans la branche suisse des techniques du bâtiment_FR.pdf"
+        },
+        {
+          "fileName": "CCT dans la branche suisse des techniques du bâtiment_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT dans la branche suisse des techniques du bâtiment_IT.pdf"
+        },
+        {
+          "fileName": "CCT de la branche suisse de l_isolation_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT de la branche suisse de l_isolation_DE.pdf"
+        },
+        {
+          "fileName": "CCT de la branche suisse de l_isolation_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT de la branche suisse de l_isolation_FR.pdf"
+        },
+        {
+          "fileName": "CCT de la branche suisse de l_isolation_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT de la branche suisse de l_isolation_IT.pdf"
+        },
+        {
+          "fileName": "CCT de la branche suisse de l'électricité_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT de la branche suisse de l'électricité_DE.pdf"
+        },
+        {
+          "fileName": "CCT de la branche suisse de l'électricité_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT de la branche suisse de l'électricité_FR.pdf"
+        },
+        {
+          "fileName": "CCT de la branche suisse de l'électricité_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT de la branche suisse de l'électricité_IT.pdf"
+        },
+        {
+          "fileName": "CCT de la ferblanterie, de la couverture, de l'installation sanitaire, du chauffage, de la climatisation et de la ventilation VD_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT de la ferblanterie, de la couverture, de l'installation sanitaire, du chauffage, de la climatisation et de la ventilation VD_FR.pdf"
+        },
+        {
+          "fileName": "CCT des métiers de l_électricité du canton du Valais (anciennement CCT des installateurs-électriciens et des monteurs de lignes du canton du Valais)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT des métiers de l_électricité du canton du Valais (anciennement CCT des installateurs-électriciens et des monteurs de lignes du canton du Valais)_DE.pdf"
+        },
+        {
+          "fileName": "CCT des métiers de l_électricité du canton du Valais (anciennement CCT des installateurs-électriciens et des monteurs de lignes du canton du Valais)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT des métiers de l_électricité du canton du Valais (anciennement CCT des installateurs-électriciens et des monteurs de lignes du canton du Valais)_FR.pdf"
+        },
+        {
+          "fileName": "CCT introduisant un régime de préretraite RETAVAL_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT introduisant un régime de préretraite RETAVAL_DE.pdf"
+        },
+        {
+          "fileName": "CCT introduisant un régime de préretraite RETAVAL_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT introduisant un régime de préretraite RETAVAL_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour les métiers techniques de la métallurgie du bâtiment dans le canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/CCT pour les métiers techniques de la métallurgie du bâtiment dans le canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "Contrat-type de travail pour le secteur de la mécatronique Genève (CTT-Méca)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/Contrat-type de travail pour le secteur de la mécatronique Genève (CTT-Méca)_FR.pdf"
+        },
+        {
+          "fileName": "GAV für das Dach- und Wandgewerbe im Kanton Baselland_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux d_installation électrique, plomberie et autres travaux d_installation/GAV für das Dach- und Wandgewerbe im Kanton Baselland_DE.pdf"
+        }
+      ]
+    },
+    {
+      "id": "travaux-de-finition-p-ex-carrelage-menuiserie",
+      "folderName": "Travaux de finition (p.ex. carrelage, menuiserie)",
+      "aliases": [
+        "travaux de finition",
+        "travaux de finition p ex carrelage menuiserie"
+      ],
+      "documentCount": 43,
+      "documents": [
+        {
+          "fileName": "CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_DE.pdf"
+        },
+        {
+          "fileName": "CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CC de la retraite anticipée pour les travailleurs du secteur principal de la construction et du carrelage du canton du Valais (RETABAT)_FR.pdf"
+        },
+        {
+          "fileName": "CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CC pour la retraite anticipée dans la métallurgie du bâtiment dans le Canton de Genève_FR.pdf"
+        },
+        {
+          "fileName": "CCL nel ramo della pittura, verniciatura, tappezzeria e sabbiatura TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCL nel ramo della pittura, verniciatura, tappezzeria e sabbiatura TI_IT.pdf"
+        },
+        {
+          "fileName": "CCL nel ramo della posa delle piastrelle, dei mosaici e delle pietre naturali e artificiali TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCL nel ramo della posa delle piastrelle, dei mosaici e delle pietre naturali e artificiali TI_IT.pdf"
+        },
+        {
+          "fileName": "CCL nel ramo della posa di pavimenti in moquette, linoleum, materie plastiche, parchetto e pavimenti tecnici rialzati per il Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCL nel ramo della posa di pavimenti in moquette, linoleum, materie plastiche, parchetto e pavimenti tecnici rialzati per il Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCL nel ramo della vetrerie del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCL nel ramo della vetrerie del Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCL per Gessatori, stuccatori, montatori a secco, plafonatori e intonacatori TI_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCL per Gessatori, stuccatori, montatori a secco, plafonatori e intonacatori TI_IT.pdf"
+        },
+        {
+          "fileName": "CCL per le falegnamerie e fabbriche di mobili e serramenti del Cantone Ticino_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCL per le falegnamerie e fabbriche di mobili e serramenti del Cantone Ticino_IT.pdf"
+        },
+        {
+          "fileName": "CCNT pour le carrelage pour toute la Suisse à l'exception de FR, BS, BL, VD, VS, NE, GE, TI, JU_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCNT pour le carrelage pour toute la Suisse à l'exception de FR, BS, BL, VD, VS, NE, GE, TI, JU_DE.pdf"
+        },
+        {
+          "fileName": "CCNT pour le carrelage pour toute la Suisse à l'exception de FR, BS, BL, VD, VS, NE, GE, TI, JU_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCNT pour le carrelage pour toute la Suisse à l'exception de FR, BS, BL, VD, VS, NE, GE, TI, JU_FR.pdf"
+        },
+        {
+          "fileName": "CCNT pour le carrelage pour toute la Suisse à l'exception de FR, BS, BL, VD, VS, NE, GE, TI, JU_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCNT pour le carrelage pour toute la Suisse à l'exception de FR, BS, BL, VD, VS, NE, GE, TI, JU_IT.pdf"
+        },
+        {
+          "fileName": "CCT carrelages du canton du Valais_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT carrelages du canton du Valais_DE.pdf"
+        },
+        {
+          "fileName": "CCT carrelages du canton du Valais_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT carrelages du canton du Valais_FR.pdf"
+        },
+        {
+          "fileName": "CCT de la construction métallique du canton du Valais_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT de la construction métallique du canton du Valais_DE.pdf"
+        },
+        {
+          "fileName": "CCT de la construction métallique du canton du Valais_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT de la construction métallique du canton du Valais_FR.pdf"
+        },
+        {
+          "fileName": "CCT du second _9cuvre romand_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT du second _9cuvre romand_DE.pdf"
+        },
+        {
+          "fileName": "CCT du second _9cuvre romand_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT du second _9cuvre romand_FR.pdf"
+        },
+        {
+          "fileName": "CCT Métal-Vaud_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT Métal-Vaud_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_IT.pdf"
+        },
+        {
+          "fileName": "CCT pour la retraite anticipée des échafaudeurs suisses_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour la retraite anticipée des échafaudeurs suisses_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour la retraite anticipée des échafaudeurs suisses_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour la retraite anticipée des échafaudeurs suisses_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour la retraite anticipée des échafaudeurs suisses_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour la retraite anticipée des échafaudeurs suisses_IT.pdf"
+        },
+        {
+          "fileName": "CCT pour les échafaudeurs suisses_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour les échafaudeurs suisses_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour les échafaudeurs suisses_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour les échafaudeurs suisses_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour les échafaudeurs suisses_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour les échafaudeurs suisses_IT.pdf"
+        },
+        {
+          "fileName": "CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_DE.pdf"
+        },
+        {
+          "fileName": "CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_FR.pdf"
+        },
+        {
+          "fileName": "CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/CCT pour un modèle de préretraite dans l_industrie de la peinture et de la plâtrerie en Suisse alémanique et au Tessin_IT.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_DE.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_FR.pdf"
+        },
+        {
+          "fileName": "Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/Convention collective pour la retraite anticipée dans le second oeuvre romand CCRA_IT.pdf"
+        },
+        {
+          "fileName": "GAV für das Basler Ausbaugewerbe (BS)_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/GAV für das Basler Ausbaugewerbe (BS)_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das bernische Glasergewerbe_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/GAV für das bernische Glasergewerbe_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Dach- und Wandgewerbe im Kanton Baselland_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/GAV für das Dach- und Wandgewerbe im Kanton Baselland_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Gipsergewerbe im Kanton Basel-Stadt_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/GAV für das Gipsergewerbe im Kanton Basel-Stadt_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Schreinergewerbe Deutschschweiz und Tessin_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/GAV für das Schreinergewerbe Deutschschweiz und Tessin_DE.pdf"
+        },
+        {
+          "fileName": "GAV für das Schreinergewerbe Deutschschweiz und Tessin_IT.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/GAV für das Schreinergewerbe Deutschschweiz und Tessin_IT.pdf"
+        },
+        {
+          "fileName": "GAV für das Schweizerische Gewerbe für Decken- und Innenausbausysteme_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/GAV für das Schweizerische Gewerbe für Decken- und Innenausbausysteme_DE.pdf"
+        },
+        {
+          "fileName": "GAV für die Schweizerische Bodenbelagsbranche_DE.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/GAV für die Schweizerische Bodenbelagsbranche_DE.pdf"
+        },
+        {
+          "fileName": "ti_posa_piastrelle_mosaici_wiederin_aend_20_08_2025_fr.pdf",
+          "relativePath": "Conventions_Collectives/Travaux de finition (p.ex. carrelage, menuiserie)/ti_posa_piastrelle_mosaici_wiederin_aend_20_08_2025_fr.pdf"
+        }
+      ]
+    }
+  ]
+}

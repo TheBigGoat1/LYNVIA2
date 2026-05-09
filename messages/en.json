@@ -1,0 +1,4182 @@
+{
+  "HomePage": {
+    "title": "Swiss Financial & Legal Intelligence, Simplified.",
+    "description": "Lynvia Digital combines AI-powered legal guidance, financial analysis, and business management tools into one secure platform.",
+    "getStarted": "Get Started",
+    "login": "Login",
+    "learnMore": "Learn More",
+    "keyFeatures": "Key Features",
+    "allInOnePlatform": "Your All-in-One Swiss Platform",
+    "platformDescription": "From individual tax planning to comprehensive business management, Lynvia Digital provides the tools you need to navigate Swiss complexities with confidence.",
+    "feature1Title": "AI-Powered Legal Assistant",
+    "feature1Description": "Get instant, cited answers to your Swiss legal questions with our advanced RAG-powered AI.",
+    "feature2Title": "Financial Scenario Analysis",
+    "feature2Description": "Model tax optimizations, salary comparisons, and pension plans with AI-driven interpretations.",
+    "feature3Title": "Secure Document Generation",
+    "feature3Description": "Create legally compliant Swiss documents effortlessly, from employment contracts to tax forms.",
+    "feature4Title": "Streamlined Payroll & HR",
+    "feature4Description": "Manage employees, process payroll, and handle leave requests with our integrated business tools.",
+    "heroCard1Title": "Legal AI",
+    "heroCard1Description": "Instant answers",
+    "heroCard2Title": "Scenario Analysis",
+    "heroCard2Description": "Optimize finances",
+    "heroCard3Title": "Doc Generation",
+    "heroCard3Description": "Compliant & fast",
+    "heroCard4Title": "Payroll & HR",
+    "heroCard4Description": "Automated",
+    "footerTerms": "Terms of Service",
+    "footerPrivacy": "Privacy",
+    "footerRights": "© 2024 Lynvia Digital. All rights reserved.",
+    "heroBadge": "Trusted by 10,000+ Legal Professionals Worldwide",
+    "heroUsers": "10,000+ users",
+    "heroRating": "4.9/5 rating",
+    "heroSecurity": "SOC 2 Certified",
+    "feature1Details": "Generate comprehensive legal documents with AI-powered templates and clause libraries",
+    "feature2Details": "Accurate time tracking, expense management, and automated invoicing",
+    "feature3Details": "Centralized document storage with version control and secure sharing",
+    "feature4Details": "Complete case lifecycle management with automated workflows",
+    "stats": {
+      "activeUsers": "Active Users",
+      "documentsCreated": "Documents Created",
+      "uptime": "Uptime",
+      "support": "Support"
+    },
+    "capabilities": {
+      "title": "Comprehensive Legal Technology Suite",
+      "subtitle": "Everything you need, all in one place. No more juggling multiple tools and subscriptions.",
+      "documentManagement": {
+        "category": "Document Management",
+        "items": {
+          "aiDocGen": "AI-Powered Document Generation",
+          "templates": "Template Library (500+ Templates)",
+          "versioning": "Version Control & History",
+          "esignature": "E-Signature Integration"
+        }
+      },
+      "caseManagement": {
+        "category": "Case Management",
+        "items": {
+          "tracking": "Matter Tracking & Organization",
+          "deadlines": "Deadline & Task Management",
+          "reminders": "Court Date Reminders",
+          "conflictChecks": "Conflict Checking"
+        }
+      },
+      "financialTools": {
+        "category": "Financial Tools",
+        "items": {
+          "timeBilling": "Time Tracking & Billing",
+          "expenses": "Expense Management",
+          "invoices": "Invoice Generation",
+          "payments": "Payment Processing"
+        }
+      },
+      "communication": {
+        "category": "Communication",
+        "items": {
+          "clientPortal": "Client Portal",
+          "secureMessaging": "Secure Messaging",
+          "emailIntegration": "Email Integration",
+          "videoConferencing": "Video Conferencing"
+        }
+      }
+    },
+    "useCases": {
+      "title": "Built For Every Legal Professional",
+      "subtitle": "Whether you're a solo practitioner or part of a large firm, we have the right solution for you.",
+      "solo": {
+        "title": "Solo Practitioners",
+        "description": "Everything you need to run your practice independently",
+        "f1": "Document automation",
+        "f2": "Client management",
+        "f3": "Time tracking",
+        "f4": "Mobile access"
+      },
+      "smallFirms": {
+        "title": "Small Law Firms",
+        "description": "Collaborate seamlessly with your team",
+        "f1": "Team workflows",
+        "f2": "Matter sharing",
+        "f3": "Centralized billing",
+        "f4": "Role-based access"
+      },
+      "corporate": {
+        "title": "Corporate Legal",
+        "description": "Enterprise-grade tools for in-house counsel",
+        "f1": "Contract management",
+        "f2": "Compliance tracking",
+        "f3": "Custom integrations",
+        "f4": "Advanced security"
+      },
+      "clinics": {
+        "title": "Legal Clinics",
+        "description": "Manage pro bono and community cases efficiently",
+        "f1": "Case intake",
+        "f2": "Client screening",
+        "f3": "Volunteer coordination",
+        "f4": "Impact reporting"
+      }
+    },
+    "benefits": {
+      "title": "Why Choose LYNVIA DIGITAL",
+      "subtitle": "Built by legal professionals for legal professionals. Experience the difference of a platform designed with your workflow in mind.",
+      "saveTime": {
+        "title": "Save Time",
+        "description": "Automate repetitive legal tasks and reduce manual document preparation time by up to 70%.",
+        "stat": "70% faster"
+      },
+      "secure": {
+        "title": "Secure & Compliant",
+        "description": "Bank-level encryption and full compliance with legal industry standards and regulations.",
+        "stat": "100% secure"
+      },
+      "clientManagement": {
+        "title": "Client Management",
+        "description": "Manage all client information, cases, and communications from one centralized platform.",
+        "stat": "10k+ clients"
+      },
+      "businessGrowth": {
+        "title": "Business Growth",
+        "description": "Scale your practice efficiently with tools designed to grow alongside your firm.",
+        "stat": "2x revenue"
+      }
+    },
+    "steps": {
+      "title": "Get Started in Minutes",
+      "subtitle": "Our streamlined onboarding process gets you up and running quickly, so you can focus on what matters most.",
+      "signUp": {
+        "title": "Sign Up",
+        "description": "Create your account in under 2 minutes with our simple registration process"
+      },
+      "setup": {
+        "title": "Set Up",
+        "description": "Customize your workspace and configure preferences to match your workflow"
+      },
+      "startWorking": {
+        "title": "Start Working",
+        "description": "Begin managing cases, generating documents, and tracking time immediately"
+      },
+      "growScale": {
+        "title": "Grow & Scale",
+        "description": "Use powerful analytics and insights to optimize and expand your practice"
+      }
+    },
+    "testimonials": {
+      "title": "Loved by Legal Professionals",
+      "subtitle": "Don't just take our word for it. Here's what our users have to say about LYNVIA DIGITAL.",
+      "sarah": {
+        "role": "Partner, Johnson & Associates",
+        "content": "LYNVIA DIGITAL has transformed how we run our practice. Document automation alone saves us 15 hours per week."
+      },
+      "michael": {
+        "role": "Solo Practitioner",
+        "content": "As a solo attorney, this platform gives me the tools of a large firm at a fraction of the cost. Game changer!"
+      },
+      "david": {
+        "role": "Managing Partner, Williams Legal Group",
+        "content": "The case management features are outstanding. Our team collaboration has never been better."
+      },
+      "emily": {
+        "role": "Associate Attorney",
+        "content": "Intuitive interface and powerful features. It's made my daily workflow so much more efficient."
+      }
+    },
+    "integrations": {
+      "title": "Seamless Integrations",
+      "subtitle": "Connect with the tools you already use. LYNVIA DIGITAL integrates with your favorite apps and services."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Have questions? We've got answers. Can't find what you're looking for? Contact our support team.",
+      "q1": {
+        "question": "How long does it take to get started?",
+        "answer": "You can create an account and start using LYNVIA DIGITAL in less than 5 minutes. Our intuitive onboarding process guides you through setup."
+      },
+      "q2": {
+        "question": "Is my data secure?",
+        "answer": "Absolutely. We use bank-level 256-bit encryption, regular security audits, and comply with all major legal industry standards including SOC 2 Type II."
+      },
+      "q3": {
+        "question": "Can I import my existing data?",
+        "answer": "Yes! We support data import from most practice management systems. Our team can help with migration at no extra cost."
+      },
+      "q4": {
+        "question": "What kind of support do you offer?",
+        "answer": "We provide email support for all plans, with priority support for Professional and Enterprise tiers. Enterprise customers get a dedicated account manager."
+      },
+      "q5": {
+        "question": "Can I cancel anytime?",
+        "answer": "Yes, you can cancel your subscription at any time with no penalties. You'll retain access until the end of your billing period."
+      },
+      "q6": {
+        "question": "Do you offer training?",
+        "answer": "We provide comprehensive documentation, video tutorials, and webinars. Enterprise customers receive personalized onboarding and training sessions."
+      }
+    },
+    "cta": {
+      "badge": "Start Your Free Trial Today",
+      "title": "Ready to Transform Your Practice?",
+      "description": "Join thousands of legal professionals who have already streamlined their workflow with LYNVIA DIGITAL. Start your free 30-day trial today-no credit card required.",
+      "startTrial": "Start Free Trial",
+      "watchDemo": "Watch Demo",
+      "bulletTrial": "30-day free trial",
+      "bulletNoCard": "No credit card required",
+      "bulletCancel": "Cancel anytime"
+    },
+    "footerDescription": "The all-in-one practice management platform for modern legal professionals.",
+    "footer": {
+      "product": {
+        "title": "Product",
+        "features": "Features",
+        "pricing": "Pricing",
+        "integrations": "Integrations",
+        "security": "Security"
+      },
+      "resources": {
+        "title": "Resources",
+        "documentation": "Documentation",
+        "helpCenter": "Help Center",
+        "blog": "Blog",
+        "webinars": "Webinars"
+      },
+      "company": {
+        "title": "Company",
+        "about": "About Us",
+        "careers": "Careers",
+        "contact": "Contact",
+        "partners": "Partners"
+      },
+      "cookies": "Cookies"
+    }
+  },
+  "Sidebar": {
+    "dashboard": "Dashboard",
+    "legalAssistant": "Legal Assistant",
+    "documentGenerator": "Document Generator",
+    "scenarioCalculator": "Scenario Calculator",
+    "deadlines": "Deadlines",
+    "purchaseServices": "Purchase Services",
+    "taxServices": "Yearly Tax Return",
+    "myDocuments": "My Documents",
+    "myOrders": "My Orders",
+    "notifications": "Notifications",
+    "settings": "Profile",
+    "notificationTester": "Developer test log",
+    "communications": "Communications",
+    "employeeManagement": "Employee Management",
+    "salaryCostOverview": "Payslips Communications",
+    "leaveManagement": "Leave Management",
+    "documentCenter": "Document Center",
+    "financialScenarios": "Financial Scenarios",
+    "virtualCFO": "Virtual CFO",
+    "reportsAnalytics": "Reports & Analytics",
+    "aiAssistant": "AI Assistant",
+    "tasks": "Tasks",
+    "billing": "Billing",
+    "clientPortfolio": "Client Portfolio",
+    "clientDocuments": "Client Documents",
+    "documentInbox": "Document Inbox",
+    "scenarioAnalysis": "Scenario Analysis",
+    "analytics": "Analytics",
+    "auditLogs": "Audit Logs",
+    "users": "Users",
+    "businesses": "Businesses",
+    "accountingFirms": "Accounting Firms",
+    "financialAccounts": "Financial Accounts",
+    "orderManagement": "Order Management",
+    "documentApprovals": "Document Approvals",
+    "legalDatabase": "Legal Database",
+    "ragPlayground": "RAG Playground",
+    "systemLogs": "System Logs",
+    "aiMonitoring": "AI Monitoring",
+    "notificationCenter": "Notification Center"
+  },
+  "DeadlinesPage": {
+    "title": "Deadlines Tracker",
+    "subtitle": "Track personal tax and document deadlines in one place.",
+    "addDeadline": {
+      "title": "Add deadline",
+      "description": "Create your own reminders."
+    },
+    "form": {
+      "titleLabel": "Title",
+      "titlePlaceholder": "Submit tax return",
+      "dueDateLabel": "Due date",
+      "noteLabel": "Note (optional)",
+      "notePlaceholder": "Any document checklist or details",
+      "saving": "Saving...",
+      "submit": "Add deadline"
+    },
+    "myDeadlines": {
+      "title": "My deadlines",
+      "loading": "Loading...",
+      "count": "{count} personal deadline(s)",
+      "empty": "No personal deadlines yet.",
+      "dueDate": "Due {date}"
+    },
+    "systemFollowUps": {
+      "title": "System follow-ups",
+      "description": "Auto-generated from pending orders.",
+      "empty": "No pending order follow-ups right now.",
+      "suggestedBy": "Suggested follow-up by {date}"
+    },
+    "badges": {
+      "overdue": "Overdue",
+      "done": "Done"
+    },
+    "systemFallback": {
+      "serviceOrder": "Service order",
+      "pending": "pending"
+    },
+    "toasts": {
+      "errorTitle": "Error",
+      "loadDeadlinesFailed": "Could not load deadlines.",
+      "missingFieldsTitle": "Missing fields",
+      "missingFieldsDescription": "Title and due date are required.",
+      "createFailedTitle": "Create failed",
+      "createFailedDescription": "Could not save deadline.",
+      "updateFailedTitle": "Update failed",
+      "updateFailedDescription": "Could not update deadline.",
+      "deleteFailedTitle": "Delete failed",
+      "deleteFailedDescription": "Could not delete deadline."
+    }
+  },
+  "PurchaseServicesPage": {
+    "title": "Individual Access Pricing",
+    "subtitle": "Free core access with pay-as-you-go add-ons.",
+    "freeVersion": {
+      "title": "Free Version",
+      "badge": "Included",
+      "description": "What every individual account gets at no monthly cost.",
+      "features": {
+        "aiExchanges": "AI exchanges: limited",
+        "scenariosPerMonth": "2 scenarios per month (non-3rd-pillar)",
+        "pillar3a": "3rd pillar scenarios: free and unlimited",
+        "documentPreview": "Free document preview"
+      }
+    },
+    "addOns": {
+      "additionalScenario": {
+        "title": "Additional Scenario",
+        "description": "Add one extra non-3rd-pillar scenario to this month."
+      },
+      "reviewedDocument": {
+        "title": "Reviewed, Corrected and Approved Document",
+        "description": "Professional Lynvia review and correction before final approval."
+      },
+      "instantPdf": {
+        "title": "Instant Non-Reviewed PDF Download",
+        "description": "Immediate non-reviewed PDF export for generated documents."
+      }
+    },
+    "buttons": {
+      "buyAddOn": "Buy Add-on",
+      "redirecting": "Redirecting..."
+    },
+    "compliance": {
+      "title": "Document Compliance Note",
+      "description": "Lynvia document outputs are generated based on Swiss law and are designed to comply with legal requirements."
+    },
+    "fallback": {
+      "anonymousUser": "Anonymous User",
+      "individualAccessAddOn": "Individual access add-on"
+    },
+    "toasts": {
+      "loginRequired": {
+        "title": "Login required",
+        "description": "Please log in to purchase add-ons."
+      },
+      "checkoutFailed": {
+        "title": "Checkout failed",
+        "fallback": "Failed to create checkout session.",
+        "stripeNotLoaded": "Stripe.js has not loaded yet.",
+        "retry": "Please try again."
+      }
+    }
+  },
+  "Auth": {
+    "loginTitle": "Login",
+    "loginDescription": "Enter your email below to login to your account.",
+    "emailLabel": "Email",
+    "emailPlaceholder": "name@example.com",
+    "passwordLabel": "Password",
+    "forgotPassword": "Forgot your password?",
+    "rememberMe": "Remember me",
+    "loginButton": "Login",
+    "noAccount": "Don't have an account?",
+    "signUp": "Sign up",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "cantonsLoadWarningTitle": "Canton list",
+    "cantonsLoadWarningDescription": "Could not refresh from the server; showing the built-in list.",
+    "toast": {
+      "loginSuccessTitle": "Login Successful",
+      "loginSuccessDescription": "Welcome back!",
+      "loginFailedTitle": "Login Failed",
+      "userDataNotFound": "User data not found. Please contact support.",
+      "accountPendingTitle": "Account Pending Approval",
+      "accountPendingDescription": "Your account is currently under review. You will be notified by email once it's approved.",
+      "accountSuspendedTitle": "Account Suspended",
+      "accountSuspendedDescription": "Your account has been suspended. Please contact support for assistance."
+    },
+    "registerTitle": "Create an Account",
+    "registerDescription": "Choose your account type and fill in the details to get started.",
+    "individualTab": "Individual",
+    "businessTab": "Business",
+    "accountingFirmTab": "Accounting Firm",
+    "firstNameLabel": "First Name",
+    "firstNamePlaceholder": "John",
+    "lastNameLabel": "Last Name",
+    "lastNamePlaceholder": "Doe",
+    "companyNameLabel": "Company Name",
+    "companyNamePlaceholder": "Your Company Inc.",
+    "firmNameLabel": "Firm Name",
+    "firmNamePlaceholder": "Your Firm Name",
+    "primaryContactNameLabel": "Primary Contact Name",
+    "primaryContactNamePlaceholder": "John Doe",
+    "passwordDescription": "Min 8 characters, 1 number.",
+    "phoneLabel": "Phone Number",
+    "phonePlaceholder": "+41 XX XXX XX XX",
+    "cantonLabel": "Canton",
+    "cantonPlaceholder": "Select a canton",
+    "termsLabel": "I accept the {termsLink}",
+    "termsLinkText": "Terms and Conditions",
+    "createAccountButton": "Create Account",
+    "creatingAccountButton": "Creating Account...",
+    "alreadyHaveAccount": "Already have an account?",
+    "adminSetupDescription": "For platform administration setup:",
+    "createAdminButton": "Create Admin Account",
+    "toastRegister": {
+      "successTitle": "Registration Successful",
+      "successDescriptionActive": "Your account has been created.",
+      "successDescriptionPending": "Your registration is submitted and pending approval.",
+      "failedTitle": "Registration Failed"
+    },
+    "toastAdmin": {
+      "successTitle": "Admin Account Created",
+      "successDescription": "The admin user has been successfully seeded.",
+      "existsTitle": "Admin Already Exists",
+      "existsDescription": "Logging you in as admin.",
+      "loginFailedTitle": "Admin Login Failed",
+      "seedingFailedTitle": "Admin Seeding Failed",
+      "fallback": "Something went wrong. Please try again.",
+      "invalidCredentials": "Invalid email or password. Please check and try again.",
+      "userNotFound": "No account found for this email.",
+      "userDisabled": "This account has been disabled. Contact support.",
+      "tooManyRequests": "Too many attempts. Wait a few minutes and try again.",
+      "networkError": "Network error. Check your connection and try again.",
+      "emailAlreadyInUse": "This email is already registered.",
+      "weakPassword": "Password is too weak. Use at least 8 characters and a number.",
+      "requiresRecentLogin": "For security, sign in again and retry this action.",
+      "operationNotAllowed": "This sign-in method is not enabled.",
+      "permissionDenied": "Permission denied. Sign in again or contact support if this persists.",
+      "unavailable": "Service temporarily unavailable. Try again in a moment."
+    }
+  },
+  "AppHeader": {
+    "morning": "Good morning",
+    "afternoon": "Good afternoon",
+    "evening": "Good evening",
+    "greetingFallback": "Welcome",
+    "menu": "Menu",
+    "toggleNavigation": "Open or close navigation",
+    "togglePrivacyMode": "Toggle privacy mode",
+    "showFinancialData": "Show financial data",
+    "hideFinancialData": "Hide financial data",
+    "swissData": "Swiss Data",
+    "dataEncrypted": "Your data is encrypted and stored in Switzerland."
+  },
+  "DashboardLayout": {
+    "footer": "Swiss Data Sovereignty — Lynvia is architected for Swiss-grade confidentiality and control."
+  },
+  "FiduciaryClientAccessGate": {
+    "verifying": "Verifying fiduciary client access...",
+    "accessRestricted": "Access Restricted",
+    "accessRestrictedDesc": "Business access is reserved for clients of your fiduciary and is only available to assigned client companies.",
+    "notLinked": "Your business account is not currently linked to an authorized fiduciary client portfolio."
+  },
+  "ProfileCompletionGate": {
+    "verifying": "Verifying profile...",
+    "redirecting": "Redirecting..."
+  },
+  "ForgotPassword": {
+    "title": "Reset your password",
+    "description": "Enter your account email. We will send you a reset link.",
+    "emailLabel": "Email",
+    "emailPlaceholder": "name@example.com",
+    "submit": "Send reset link",
+    "backToLogin": "Back to login",
+    "toastSuccessTitle": "Reset link sent",
+    "toastSuccess": "Check your inbox for reset instructions.",
+    "toastError": "Could not send reset email."
+  },
+  "HomeLanding": {
+    "onboardingCompleteTitle": "Profile saved",
+    "onboardingCompleteDescription": "Explore the site or use Client Access to sign in when you are ready."
+  },
+  "PendingApproval": {
+    "title": "Account Pending Approval",
+    "subtitle": "Thank you for your registration.",
+    "description": "Your account is currently under review by our team. This process usually takes 1-2 business days. You will receive an email notification as soon as your account is approved. No further action is required from you at this time.",
+    "contactLabel": "Have questions?",
+    "contactDescription": "If you have any questions, please contact our support team at",
+    "logoutButton": "Logout"
+  },
+  "CompleteProfile": {
+    "title": "Complete Your Company Profile",
+    "description": "Please provide your company details to continue. All fields are required.",
+    "sections": {
+      "commercialRegister": "Commercial Register (RC)",
+      "vat": "VAT (TVA/MWST)",
+      "employees": "Employees"
+    },
+    "labels": {
+      "companyName": "Company Name",
+      "directorFirstName": "Director's First Name",
+      "directorLastName": "Director's Last Name",
+      "address": "Address",
+      "postalCode": "Postal Code",
+      "city": "City",
+      "canton": "Canton",
+      "industry": "Field of Work",
+      "commercialRegister": "Is the company registered with the Commercial Register?",
+      "cheNumber": "CHE Number",
+      "submittedToVAT": "Is the company subject to VAT?",
+      "vatMethod": "VAT Settlement Method",
+      "vatNumber": "VAT Number (CHE-xxx.xxx.xxx TVA)",
+      "hasEmployees": "Does the company have employees?",
+      "employeeInsurances": "Insurances in place",
+      "withholdingTax": "Are there employees subject to withholding tax (impôt à la source)?"
+    },
+    "placeholders": {
+      "companyName": "Your company name",
+      "directorFirstName": "e.g. Jean",
+      "directorLastName": "e.g. Dupont",
+      "address": "Street and number",
+      "postalCode": "e.g. 1201",
+      "city": "e.g. Geneva",
+      "cheNumber": "e.g. CHE-123.456.789",
+      "vatNumber": "e.g. CHE-123.456.789 TVA",
+      "industry": "Start typing your industry..."
+    },
+    "options": {
+      "yes": "Yes",
+      "no": "No",
+      "vatMethodEffective": "Effective method",
+      "vatMethodEffectiveDesc": "Quarterly settlement (every 3 months)",
+      "vatMethodTdfn": "Net tax debt rate method (TDFN)",
+      "vatMethodTdfnDesc": "Semi-annual settlement (every 6 months)"
+    },
+    "insurances": {
+      "accident": "Accident insurance (LAA)",
+      "sickness": "Sickness leave insurance (IJM)",
+      "lpp": "Occupational pension (LPP / 2nd pillar)",
+      "avs": "AVS / AHV (1st pillar)",
+      "avsNote": "mandatory by law"
+    },
+    "button": "Complete Profile",
+    "buttonSaving": "Saving...",
+    "toast": {
+      "successTitle": "Profile updated",
+      "successDescription": "Your company profile was completed successfully.",
+      "errorTitle": "Update failed"
+    }
+  },
+  "LanguageToggle": {
+    "toggle": "Toggle language"
+  },
+  "Navigation": {
+    "Dashboard": "Dashboard",
+    "LegalAssistant": "Legal Assistant",
+    "DocumentGenerator": "Document Generator",
+    "ScenarioCalculator": "Scenario Calculator",
+    "TaxServices": "Tax Services",
+    "MyDocuments": "My Documents",
+    "MyOrders": "My Orders",
+    "Notifications": "Notifications",
+    "Settings": "Settings",
+    "NotificationTester": "Notification Cron",
+    "EmployeeManagement": "Employee Management",
+    "PayrollProcessing": "Payroll Processing",
+    "LeaveManagement": "Leave Management",
+    "DocumentCenter": "Document Center",
+    "FinancialScenarios": "Financial Scenarios",
+    "VirtualCFO": "Virtual CFO",
+    "ReportsAnalytics": "Reports & Analytics",
+    "ClientPortfolio": "Client Portfolio",
+    "ClientDocuments": "Client Documents",
+    "ScenarioAnalysis": "Scenario Analysis",
+    "FinancialReports": "Financial Reports",
+    "AuditLogs": "Audit Logs",
+    "PurchaseServices": "Purchase Services",
+    "UserManagement": "User Management",
+    "CompanyManagement": "Company Management",
+    "OrderManagement": "Order Management",
+    "DocumentApprovals": "Document Approvals",
+    "LegalDatabase": "Legal Database",
+    "RAGPlayground": "RAG Playground",
+    "SystemLogs": "System Logs",
+    "AIMonitoring": "AI Monitoring"
+  },
+  "Header": {
+    "searchPlaceholder": "Ask a legal question...",
+    "openNotifications": "Open notifications",
+    "notificationsTitle": "Notifications",
+    "unreadSummary": "{count, plural, =0 {No unread notifications} one {# unread notification} other {# unread notifications}}",
+    "markAllRead": "Mark all as read",
+    "loadingNotifications": "Loading notifications...",
+    "noNotificationsTitle": "No notifications yet",
+    "noNotificationsDescription": "New updates will appear here.",
+    "viewAllNotifications": "View all notifications",
+    "newBadge": "New",
+    "justNow": "Just now"
+  },
+  "AdminSettings": {
+    "title": "Admin Settings",
+    "subtitle": "Manage system-wide settings and API integrations.",
+    "saveButton": "Save Settings",
+    "savingButton": "Saving...",
+    "toastSuccessTitle": "Settings Saved",
+    "stripeCard": {
+      "title": "Stripe API Keys",
+      "description": "Manage the Stripe API keys used for payment processing across the platform.",
+      "publishableKeyLabel": "Stripe Publishable Key",
+      "publishableKeyPlaceholder": "pk_test_...",
+      "secretKeyLabel": "Stripe Secret Key",
+      "secretKeyPlaceholder": "sk_test_...",
+      "secretKeyDescription": "The secret key is write-only and will not be displayed after being saved."
+    },
+    "aiModelCard": {
+      "title": "AI Model Configuration",
+      "description": "Configure the generative AI models used for various features.",
+      "modelLabel": "Default Text Model",
+      "modelPlaceholder": "Select a model",
+      "googleApiKeyLabel": "Google AI API Key",
+      "googleApiKeyPlaceholder": "AIza...",
+      "temperatureLabel": "Temperature (Creativity)",
+      "safetySettingLabel": "Harmful Content Safety Level"
+    },
+    "emailCard": {
+      "title": "Email (SMTP) Settings",
+      "description": "Configure the SMTP server for sending transactional emails.",
+      "hostLabel": "SMTP Host",
+      "hostPlaceholder": "smtp.example.com",
+      "portLabel": "SMTP Port",
+      "portPlaceholder": "587",
+      "userLabel": "SMTP Username",
+      "userPlaceholder": "username",
+      "passwordLabel": "SMTP Password",
+      "passwordPlaceholder": "password",
+      "fromLabel": "Default 'From' Email",
+      "fromPlaceholder": "noreply@example.com",
+      "fromNameLabel": "Default 'From' Name",
+      "fromNamePlaceholder": "Lynvia Digital"
+    },
+    "featureFlagsCard": {
+      "title": "Feature Flags",
+      "description": "Enable or disable major platform features globally.",
+      "docGenLabel": "Document Generator",
+      "docGenDescription": "Allow users to generate legal and business documents.",
+      "cfoLabel": "Virtual CFO",
+      "cfoDescription": "Enable AI-powered financial analysis for businesses.",
+      "scenarioLabel": "Scenario Calculator",
+      "scenarioDescription": "Allow users to model financial scenarios."
+    },
+    "maintenanceCard": {
+      "title": "Platform Maintenance",
+      "description": "Put the platform into maintenance mode for all non-admin users.",
+      "enableLabel": "Enable Maintenance Mode",
+      "enableDescription": "When enabled, only administrators will be able to log in.",
+      "messageLabel": "Maintenance Message",
+      "messagePlaceholder": "The platform is down for maintenance..."
+    },
+    "legalCard": {
+      "title": "Legal & Compliance",
+      "description": "Manage legal document links and consent messages.",
+      "termsUrlLabel": "Terms of Service URL",
+      "termsUrlPlaceholder": "https://example.com/terms",
+      "privacyUrlLabel": "Privacy Policy URL",
+      "privacyUrlPlaceholder": "https://example.com/privacy",
+      "cookieMessageLabel": "Cookie Consent Message",
+      "cookieMessagePlaceholder": "This site uses cookies..."
+    }
+  },
+  "FinancialAccounts": {
+    "title": "Financial Accounts",
+    "selectCompany": "Select a company...",
+    "companyLabel": "Company",
+    "periodPlaceholder": "e.g. T1 2025, 2024, H1 2025",
+    "periodLabel": "Accounting period",
+    "entryTitle": "Enter client accounts",
+    "entryDescription": "Select the company, enter the accounting period, and fill in the P&L figures (CHF).",
+    "figuresTitle": "Financial Figures",
+    "costCentresTitle": "Custom Cost Centres",
+    "saveButton": "Save Figures",
+    "analyzeButton": "Run AI Analysis"
+  },
+  "AdminDashboard": {
+    "heroEyebrow": "Operations",
+    "title": "Admin Dashboard",
+    "subtitle": "System overview and platform management.",
+    "kpi": {
+      "totalUsers": "Total Users",
+      "totalUsersDescription": "All user accounts",
+      "pendingApprovals": "Pending Approvals",
+      "pendingApprovalsDescription": "Companies & firms awaiting review",
+      "activeCompanies": "Active Companies",
+      "activeCompaniesDescription": "Approved business accounts",
+      "aiUsage": "AI Usage (24h)",
+      "aiUsageDescription": "Normal activity"
+    },
+    "userGrowth": {
+      "title": "User Growth",
+      "subtitle": "Total users on the platform over the last 6 months.",
+      "legend": "Total Users"
+    },
+    "userRoles": {
+      "title": "User Role Distribution",
+      "subtitle": "Breakdown of users by their assigned role.",
+      "individual": "Individual",
+      "business": "Business",
+      "accountingFirm": "Accounting Firm",
+      "admin": "Admin"
+    },
+    "approvals": {
+      "title": "Pending Approvals",
+      "subtitle": "New companies and firms awaiting your review.",
+      "viewAll": "View All",
+      "table": {
+        "companyName": "Company/Firm Name",
+        "type": "Type",
+        "date": "Registration Date",
+        "actions": "Actions"
+      },
+      "review": "Review",
+      "noApprovals": "No pending approvals."
+    }
+  },
+  "DocumentGenerator": {
+    "title": "Document Generator",
+    "subtitle": "Select a category to get started. {count} templates available.",
+    "searchPlaceholder": "Search for a template...",
+    "noResults": "No results for \"{query}\"",
+    "clearSearch": "Clear search",
+    "backToCategories": "Back to categories",
+    "backToTemplates": "Back to templates",
+    "templateCount": "{count, plural, one {{count} template} other {{count} templates}}",
+    "form": {
+      "title": "Required Information",
+      "description": "Fill in the fields to generate your document.",
+      "familyMembersUi": {
+        "addMember": "Add insured person",
+        "namePlaceholder": "Full name as on the card",
+        "policyPlaceholder": "Policy number (optional)",
+        "remove": "Remove",
+        "hint": "List everyone covered with you on this policy (optional)."
+      },
+      "fields": {
+        "personalName": "Your Full Name",
+        "dateOfBirth": "Date of Birth",
+        "personalAddress": "Your Address",
+        "personalPostalCode": "Postal Code",
+        "personalCity": "City",
+        "familyMembers": "Family Members (names and birth dates)",
+        "newInsurer": "New Health Insurance",
+        "insurerAddress": "Insurer's Address",
+        "startDate": "Start Date",
+        "currentInsurer": "Current Insurer",
+        "policyNumber": "Policy Number",
+        "terminationDate": "Termination Date",
+        "insurer": "Insurer",
+        "currentModel": "Current Model",
+        "newModel": "New Model",
+        "effectiveDate": "Effective Date",
+        "currentFranchise": "Current Franchise",
+        "newFranchise": "New Franchise",
+        "employerName": "Employer Name",
+        "complementaryInsurances": "Complementary Insurances to Cancel",
+        "refusalDate": "Date of Refusal",
+        "treatmentDescription": "Description of Refused Treatment",
+        "reasonForContestation": "Reason for Contestation",
+        "serviceType": "Service Type",
+        "serviceStartDate": "Service Start Date",
+        "serviceEndDate": "Service End Date",
+        "retailerName": "Retailer Name",
+        "retailerAddress": "Retailer Address",
+        "productName": "Product Name",
+        "purchaseDate": "Purchase Date",
+        "defectDescription": "Description of Defect",
+        "companyName": "Company Name",
+        "companyAddress": "Company Address",
+        "workDescription": "Description of Work",
+        "executionDate": "Execution Date",
+        "originalDefectDate": "Original Defect Date",
+        "repairDate": "Repair Date",
+        "repairDates": "Repair Dates (list)",
+        "desiredOutcome": "Desired Outcome",
+        "debtorName": "Debtor Name",
+        "debtorAddress": "Debtor Address",
+        "obligationDescription": "Description of Obligation",
+        "originalDueDate": "Original Due Date",
+        "amount": "Amount",
+        "newDeadline": "New Deadline",
+        "sellerName": "Seller Name",
+        "sellerAddress": "Seller Address",
+        "productDescription": "Product Description",
+        "orderDate": "Order Date",
+        "promisedDeliveryDate": "Promised Delivery Date",
+        "miseEnDemeureDate": "Date of Formal Notice",
+        "amountPaid": "Amount Paid",
+        "invoiceNumber": "Invoice Number",
+        "documentsRequested": "Requested Documents",
+        "creditorName": "Creditor Name",
+        "creditorAddress": "Creditor Address",
+        "claimDescription": "Description of Claim",
+        "waiverEndDate": "End Date of Waiver",
+        "contractType": "Contract Type",
+        "priceIncrease": "Contested Increase",
+        "voucherValue": "Voucher Value",
+        "expirationDate": "Expiration Date",
+        "airline": "Airline",
+        "airlineAddress": "Airline Address",
+        "flightNumber": "Flight Number",
+        "flightDate": "Flight Date",
+        "ticketPrice": "Ticket Price",
+        "bookingReference": "Booking Reference",
+        "expensesDescription": "Description of Expenses",
+        "totalAmount": "Total Amount",
+        "delayDuration": "Duration of Delay",
+        "departureCity": "Departure City",
+        "arrivalCity": "Arrival City",
+        "flightDistance": "Flight Distance",
+        "pirNumber": "PIR Number",
+        "issueType": "Issue Type",
+        "damageDescription": "Description of Damage/Issue",
+        "claimedAmount": "Claimed Amount",
+        "itemsList": "List of Items",
+        "invoiceDate": "Invoice Date",
+        "contestationReason": "Reason for Contestation",
+        "quotedAmount": "Quoted Amount",
+        "quoteDate": "Quote Date",
+        "originalDate": "Original Service Date",
+        "contestedFees": "Contested Fees",
+        "reason": "Reason",
+        "originalLetterDate": "Date of First Letter",
+        "pursuitOffice": "Debt Collection Office",
+        "pursuitOfficeAddress": "Office Address",
+        "pursuitNumber": "Debt Collection Number",
+        "proposedAmount": "Proposed Amount",
+        "paymentDate": "Proposed Payment Date",
+        "associationName": "Association Name",
+        "associationAddress": "Association Address",
+        "totalDebtAmount": "Total Debt Amount",
+        "creditorsList": "List of Creditors",
+        "monthlyIncome": "Monthly Income",
+        "monthlyExpenses": "Monthly Expenses",
+        "contractDate": "Contract Date",
+        "contractDescription": "Contract Description",
+        "errorDescription": "Description of Error/Deception",
+        "obligoDate": "Obligo Agreement Date",
+        "circumstances": "Circumstances",
+        "subscriptionDate": "Subscription Date",
+        "telecomProvider": "Telecom Provider",
+        "telecomAddress": "Provider Address",
+        "premiumNumber": "Premium Number",
+        "chargedAmount": "Charged Amount",
+        "incorrectData": "Incorrect Data",
+        "correctData": "Correct Data",
+        "dataToDelete": "Data to Delete",
+        "landlordName": "Landlord Name",
+        "landlordAddress": "Landlord Address",
+        "propertyAddress": "Property Address",
+        "leaseReference": "Lease Reference",
+        "leaseStartDate": "Lease Start Date",
+        "newTenantName": "New Tenant's Name",
+        "newTenantContact": "New Tenant's Contact Info",
+        "desiredTerminationDate": "Desired Termination Date",
+        "currentRent": "Current Rent",
+        "requestedRent": "Requested Rent",
+        "justification": "Justification",
+        "notificationDate": "Date of Increase Notification",
+        "proposedIncrease": "Proposed Increase",
+        "elcomAddress": "ElCom Address",
+        "electricityProvider": "Electricity Provider",
+        "currentRate": "Current Rate",
+        "newRate": "New Rate",
+        "increasePercentage": "Increase Percentage",
+        "cedantName": "Assignor Name",
+        "cedantAddress": "Assignor Address",
+        "cessionaireName": "Assignee Name",
+        "cessionaireAddress": "Assignee Address",
+        "claimAmount": "Claim Amount",
+        "transferPrice": "Transfer Price",
+        "lenderName": "Lender Name",
+        "lenderAddress": "Lender Address",
+        "borrowerName": "Borrower Name",
+        "borrowerAddress": "Borrower Address",
+        "loanAmount": "Loan Amount",
+        "interestRate": "Interest Rate",
+        "repaymentTerms": "Repayment Terms",
+        "clientName": "Client Name",
+        "clientAddress": "Client Address",
+        "freelancerName": "Freelancer Name",
+        "freelancerAddress": "Freelancer Address",
+        "serviceDescription": "Service Description",
+        "deliverables": "Deliverables",
+        "remuneration": "Remuneration",
+        "deadline": "Deadline",
+        "party1Name": "Party 1 Name",
+        "party1Address": "Party 1 Address",
+        "party2Name": "Party 2 Name",
+        "party2Address": "Party 2 Address",
+        "disputeDescription": "Description of Dispute",
+        "agreementTerms": "Terms of Agreement",
+        "donorName": "Donor Name",
+        "donorAddress": "Donor Address",
+        "doneeName": "Donee Name",
+        "doneeAddress": "Donee Address",
+        "giftDescription": "Description of Gift",
+        "giftValue": "Estimated Value",
+        "condition": "Condition",
+        "obligation": "Obligation/Charge",
+        "debtAmount": "Debt Amount",
+        "debtOrigin": "Origin of Debt",
+        "hourlyWage": "Hourly Wage",
+        "weeklyHours": "Weekly Hours",
+        "tasks": "Tasks",
+        "monthlySalary": "Monthly Salary",
+        "vacationDays": "Vacation Days"
+      },
+      "placeholders": {
+        "enter": "Enter {label}...",
+        "select": "Select {label}...",
+        "customSenderName": "e.g. Jane Doe",
+        "customSenderAddress": "Street, Postal code, City",
+        "customPurposeFacts": "Describe the legal context, timeline, and key facts to include.",
+        "customRequestedOutcome": "What should the recipient do after receiving this document?",
+        "dateOfBirth": "DOB",
+        "recipientDetails": "Recipient name, company, and address"
+      },
+      "buttons": {
+        "generating": "Generating...",
+        "generate": "Generate Document"
+      }
+    },
+    "preview": {
+      "title": "Generated Document",
+      "description": "Preview your document below.",
+      "placeholder": "Your document will appear here after generation."
+    },
+    "buttons": {
+      "submit": "Submit for Review",
+      "saving": "Submitting...",
+      "copy": "Copy",
+      "download": "Download",
+      "downloadPdf": "PDF Document",
+      "downloadWord": "Word Document (.docx)"
+    },
+    "toast": {
+      "generateSuccess": {
+        "title": "Document Generated Successfully",
+        "description": "Your draft document is ready for review."
+      },
+      "generateError": {
+        "title": "Generation Failed",
+        "description": "The AI failed to generate the document. Please try again."
+      },
+      "saveSuccess": {
+        "title": "Document Submitted",
+        "description": "Your document has been submitted for review."
+      },
+      "saveError": {
+        "title": "Save Failed",
+        "description": "Could not save the document. Please try again."
+      },
+      "copied": "Copied to clipboard!",
+      "downloadingPdf": "Downloading PDF...",
+      "downloadingWord": "Preparing Word document...",
+      "downloadPdfError": {
+        "title": "Error",
+        "description": "Could not generate the PDF."
+      },
+      "downloadWordError": {
+        "title": "Download Failed",
+        "description": "Could not generate the Word document. Please try again."
+      }
+    },
+    "AssuranceMaladie": {
+      "categoryTitle": "Health Insurance",
+      "categoryDescription": "Manage your mandatory and supplementary health insurance.",
+      "affiliation": {
+        "title": "Application for Basic Health Insurance",
+        "description": "Apply for affiliation with a new mandatory health insurance provider."
+      },
+      "resiliationObligatoire": {
+        "title": "Cancellation of Mandatory Insurance",
+        "description": "Cancel your mandatory health insurance contract to switch providers."
+      },
+      "changementModele": {
+        "title": "Change of Insurance Model",
+        "description": "Switch your insurance model (standard, HMO, family doctor, etc.)."
+      },
+      "modificationFranchise": {
+        "title": "Modification of Deductible",
+        "description": "Change the amount of your annual deductible."
+      },
+      "exclusionAccidents": {
+        "title": "Exclusion of Accident Coverage",
+        "description": "Exclude accident coverage if you are covered by your employer."
+      },
+      "resiliationComplementaire": {
+        "title": "Cancellation of Supplementary Insurance",
+        "description": "Cancel one or more supplementary insurance policies."
+      },
+      "contestationRefus": {
+        "title": "Contestation of Refusal of Coverage",
+        "description": "Contest a refusal of coverage from your insurer."
+      },
+      "suspensionPrimes": {
+        "title": "Suspension of Premiums during Military/Civil Service",
+        "description": "Suspend your premiums during military or civil service."
+      }
+    },
+    "Garantie": {
+      "categoryTitle": "Warranty",
+      "categoryDescription": "Assert your warranty rights for defective products or services.",
+      "avisDefauts": {
+        "title": "Notice of Defects",
+        "description": "Report a defect on a purchased product."
+      },
+      "avisDefautsContrat": {
+        "title": "Notice of Defects (Work Contract)",
+        "description": "Report a defect in a work contract (construction, renovations)."
+      },
+      "defautPersistant": {
+        "title": "Defect Persists After Repair",
+        "description": "The defect remains despite a repair attempt."
+      },
+      "resiliationApresReparations": {
+        "title": "Cancellation / Exchange After 4 Repairs",
+        "description": "Request cancellation or exchange after several unsuccessful repairs."
+      }
+    },
+    "ExecutionContrat": {
+      "categoryTitle": "Contract Execution",
+      "categoryDescription": "Demand the correct execution of contractual obligations.",
+      "relanceGenerale": {
+        "title": "General Reminder",
+        "description": "Remind a debtor of an unfulfilled obligation."
+      },
+      "miseEnDemeure": {
+        "title": "Formal Notice",
+        "description": "Formally put a debtor on notice to perform."
+      },
+      "miseEnDemeureRetard": {
+        "title": "Formal Notice for Late Delivery",
+        "description": "Put a seller on notice who has not delivered on time."
+      },
+      "resiliationVente": {
+        "title": "Cancellation Following Formal Notice - Sale",
+        "description": "Cancel a sales contract after a formal notice has had no effect."
+      },
+      "resiliationEntreprise": {
+        "title": "Cancellation Following Formal Notice - Work Contract",
+        "description": "Cancel a work contract (construction) after a formal notice."
+      },
+      "demandeJustificatifs": {
+        "title": "Request for Supporting Documents",
+        "description": "Request supporting documents for an invoice or service."
+      },
+      "renonciationPrescription": {
+        "title": "Waiver of Statute of Limitations Agreement",
+        "description": "Propose an agreement to waive the statute of limitations."
+      },
+      "contestationInflation": {
+        "title": "Contestation of Inflation Clause",
+        "description": "Contest the application of an inflation clause by an operator."
+      },
+      "bonsCadeaux": {
+        "title": "Use of Gift Vouchers",
+        "description": "Claim the use of expired gift vouchers."
+      },
+      "remboursementAnnulationVol": {
+        "title": "Ticket Refund After Flight Cancellation",
+        "description": "Request a refund for your ticket for a canceled flight."
+      },
+      "remboursementFraisVol": {
+        "title": "Reimbursement of Expenses After Flight Cancellation",
+        "description": "Claim reimbursement for expenses incurred following a cancellation."
+      },
+      "indemnisationRetardVol": {
+        "title": "Compensation for Flight Delay",
+        "description": "Request compensation for a significant flight delay."
+      },
+      "indemnisationBagages": {
+        "title": "Baggage Compensation",
+        "description": "Claim compensation for lost, delayed, or damaged baggage."
+      },
+      "contestationFacture": {
+        "title": "Invoice Dispute",
+        "description": "Dispute an invoice you believe is unjustified."
+      },
+      "contestationFactureDevis": {
+        "title": "Dispute of Invoice Exceeding Quote",
+        "description": "Dispute an invoice where the amount exceeds the accepted quote."
+      },
+      "contestationFacturePrescrite": {
+        "title": "Dispute of Time-Barred Invoice",
+        "description": "Invoke the statute of limitations for an old debt."
+      }
+    },
+    "Resiliation": {
+      "categoryTitle": "Termination",
+      "categoryDescription": "Letter templates for terminating various types of contracts.",
+      "contratEcheance": {
+        "title": "Contract Termination at Expiry",
+        "description": "Terminate a contract that is coming to an end."
+      },
+      "contratMandat": {
+        "title": "Termination of Mandate Contract",
+        "description": "Terminate a mandate contract (lawyer, consultant, etc.)."
+      },
+      "mandatInopportun": {
+        "title": "Termination of Mandate at an Inopportune Time",
+        "description": "Terminate a mandate with compensation for termination at an inopportune time."
+      },
+      "petitCredit14Jours": {
+        "title": "Revocation of Small Credit within 14 Days",
+        "description": "Revoke a small credit contract within the legal 14-day period."
+      },
+      "leasing14Jours": {
+        "title": "Revocation of Leasing within 14 Days",
+        "description": "Revoke a leasing contract within the legal 14-day period."
+      },
+      "modificationContractuelle": {
+        "title": "Termination Following Contractual Modification",
+        "description": "Terminate following a unilateral modification of the contract by the provider."
+      },
+      "carteCredit": {
+        "title": "Credit Card Cancellation",
+        "description": "Cancel your credit card."
+      },
+      "assuranceApresSinistre": {
+        "title": "Insurance Cancellation After a Claim",
+        "description": "Cancel an insurance policy after a claim has occurred."
+      },
+      "fitnessJustesMotifs": {
+        "title": "Gym Membership Cancellation for Valid Reasons",
+        "description": "Cancel your gym membership for valid reasons."
+      }
+    },
+    "Annulation": {
+      "categoryTitle": "Cancellation",
+      "categoryDescription": "Request the cancellation of contracts for various reasons.",
+      "erreurEssentielle": {
+        "title": "Contract Cancellation for Fundamental Error/Deceit",
+        "description": "Cancel a contract due to a fundamental error or deceit."
+      },
+      "demandeRemboursement": {
+        "title": "Contract Cancellation and Refund Request",
+        "description": "Cancel a contract due to an error and request a refund."
+      },
+      "contestationObligo": {
+        "title": "Dispute of Obligo Agreement",
+        "description": "Dispute an Obligo agreement obtained improperly."
+      },
+      "assuranceNonSouhaitee": {
+        "title": "Cancellation of Unwanted Insurance Product",
+        "description": "Cancel an insurance policy subscribed without your informed consent."
+      },
+      "fauxConcours": {
+        "title": "Cancellation of Fake Contest / Subscription Trap",
+        "description": "Cancel a subscription entered into via a fake contest."
+      }
+    },
+    "TransportAerien": {
+      "categoryTitle": "Air Travel",
+      "categoryDescription": "Claims for delays, flight cancellations, or baggage problems.",
+      "remboursementAnnulation": {
+        "title": "Ticket Refund for Cancellation",
+        "description": "Request a refund for your ticket for a canceled flight."
+      },
+      "remboursementFrais": {
+        "title": "Reimbursement of Expenses After Cancellation",
+        "description": "Claim reimbursement for expenses incurred after a flight cancellation."
+      },
+      "indemnisationRetard": {
+        "title": "Compensation for Delay",
+        "description": "Request compensation for a significant flight delay."
+      },
+      "indemnisationBagages": {
+        "title": "Baggage Compensation",
+        "description": "Claim compensation for lost, delayed, or damaged baggage."
+      }
+    },
+    "Recouvrement": {
+      "categoryTitle": "Debt Collection",
+      "categoryDescription": "Dispute unfair debt collection fees.",
+      "contestationFrais": {
+        "title": "Dispute of Collection Fees",
+        "description": "Dispute excessive collection or reminder fees."
+      },
+      "confirmationContestation": {
+        "title": "Confirmation of Fee Dispute",
+        "description": "Confirm your dispute of debt collection fees."
+      }
+    },
+    "Poursuites": {
+      "categoryTitle": "Debt Enforcement",
+      "categoryDescription": "Actions related to debt enforcement proceedings.",
+      "opposition": {
+        "title": "Objection to Payment Order",
+        "description": "Object to a payment order."
+      },
+      "oppositionFrais": {
+        "title": "Objection to Enforcement Costs",
+        "description": "Dispute debt enforcement costs you consider abusive."
+      },
+      "demandeRadiation": {
+        "title": "Request for Removal of Debt Record",
+        "description": "Request the removal of a debt record after payment."
+      },
+      "conventionRadiation": {
+        "title": "Agreement for Removal of Debt Record",
+        "description": "Propose an agreement for removal with the creditor."
+      },
+      "demandeRachatDette": {
+        "title": "Request for Debt Repurchase",
+        "description": "Request the repurchase of your debt by a support association."
+      }
+    },
+    "Demarchage": {
+      "categoryTitle": "Door-to-door Selling",
+      "categoryDescription": "Revocation of contracts concluded through door-to-door selling.",
+      "revocation14Jours": {
+        "title": "Revocation within 14 Days",
+        "description": "Revoke a contract concluded via door-to-door selling within the legal period."
+      },
+      "revocationDelaiNonMentionne": {
+        "title": "Revocation if Period Not Mentioned",
+        "description": "Revoke a contract if information on the revocation period was missing."
+      }
+    },
+    "EnvoiNonCommande": {
+      "categoryTitle": "Unsolicited Goods",
+      "categoryDescription": "Manage the receipt of unsolicited goods.",
+      "refus": {
+        "title": "Refusal of Unsolicited Goods",
+        "description": "Refuse to pay for unsolicited merchandise."
+      },
+      "annulationPresumee": {
+        "title": "Refusal and Cancellation of a Presumed Order",
+        "description": "Dispute an order you never placed."
+      }
+    },
+    "Arnaque": {
+      "categoryTitle": "Scams",
+      "categoryDescription": "Dispute charges related to scams.",
+      "contestationSMS": {
+        "title": "Dispute of Premium SMS Charges",
+        "description": "Dispute charges for unsolicited premium SMS messages."
+      },
+      "annulationAnnuaire": {
+        "title": "Cancellation of Abusive Directory Listing",
+        "description": "Dispute a directory listing obtained improperly."
+      }
+    },
+    "ProtectionDonnees": {
+      "categoryTitle": "Data Protection",
+      "categoryDescription": "Exercise your rights regarding your personal data.",
+      "rectification": {
+        "title": "Request for Data Rectification",
+        "description": "Request the correction of inaccurate personal data."
+      },
+      "acces": {
+        "title": "Request for Data Access",
+        "description": "Ask a company what data it holds about you."
+      },
+      "effacement": {
+        "title": "Request for Data Erasure",
+        "description": "Request the deletion of your personal data."
+      }
+    },
+    "Bail": {
+      "categoryTitle": "Lease Agreement",
+      "categoryDescription": "Letter templates for managing your rental agreement.",
+      "resiliationOrdinaire": {
+        "title": "Ordinary Lease Termination",
+        "description": "Terminate your lease at the contractual expiry date."
+      },
+      "resiliationAnticipee": {
+        "title": "Early Lease Termination",
+        "description": "Propose a replacement candidate for an early termination."
+      },
+      "contestationFrais": {
+        "title": "Dispute of Early Termination Fees",
+        "description": "Dispute excessive fees related to an early termination."
+      },
+      "demandeBaisseLoyer": {
+        "title": "Request for Rent Reduction",
+        "description": "Request a rent reduction following a decrease in the mortgage reference rate."
+      },
+      "contestationHausseLoyer": {
+        "title": "Contestation of Rent Increase",
+        "description": "Contest a rent increase you believe is unjustified."
+      },
+      "consignationLoyer": {
+        "title": "Rent Deposit",
+        "description": "Inform the landlord of the rent deposit for an unrepaired defect."
+      }
+    },
+    "Plaintes": {
+      "categoryTitle": "Complaints and Forms",
+      "categoryDescription": "Official complaints and other forms.",
+      "plainteElcom": {
+        "title": "ElCom Complaint for Electricity Price Increase",
+        "description": "File a complaint with ElCom regarding a rate increase."
+      }
+    },
+    "Contrats": {
+      "categoryTitle": "Contract Templates",
+      "categoryDescription": "Create various contracts for personal situations.",
+      "cessionCreance": {
+        "title": "Assignment of Claim",
+        "description": "Transfer a claim to a third party."
+      },
+      "pret": {
+        "title": "Loan Agreement",
+        "description": "Establish a loan agreement between private individuals."
+      },
+      "freelance": {
+        "title": "Freelance Service Agreement",
+        "description": "Establish an independent service agreement."
+      },
+      "accord": {
+        "title": "Settlement Agreement",
+        "description": "Formalize an amicable agreement between two parties."
+      },
+      "donationCondition": {
+        "title": "Donation with Condition",
+        "description": "Make a donation under a specific condition."
+      },
+      "donationObligation": {
+        "title": "Donation with Obligation",
+        "description": "Make a donation with an obligation for the recipient."
+      },
+      "reconnaissanceDette": {
+        "title": "Debt Acknowledgment",
+        "description": "Formalize a debt in writing."
+      },
+      "travailDomestiqueHoraire": {
+        "title": "Domestic Work Contract (Hourly)",
+        "description": "Hire domestic staff with an hourly wage."
+      },
+      "travailDomestiqueMensuel": {
+        "title": "Domestic Work Contract (Monthly)",
+        "description": "Hire domestic staff with a monthly salary."
+      }
+    }
+  },
+  "LegalAssistant": {
+    "title": "Legal Assistant",
+    "conversations": "Conversations",
+    "newChat": "New Chat",
+    "clearConversation": "Clear conversation",
+    "placeholder": {
+      "title": "Start a conversation",
+      "subtitle": "Ask me anything about Swiss legal and financial topics."
+    },
+    "inputPlaceholder": "Ask a legal question...",
+    "send": "Send",
+    "sources": "Sources",
+    "errorMessage": "Sorry, I encountered an error trying to respond. Please try again.",
+    "toast": {
+      "copied": "Copied to clipboard!",
+      "notLoggedIn": {
+        "title": "Not Logged In",
+        "description": "You must be logged in to use the Legal Assistant."
+      },
+      "aiError": {
+        "title": "AI Assistant Error",
+        "description": "Could not get a response from the assistant."
+      },
+      "profileError": {
+        "title": "Error",
+        "description": "Could not load your user profile."
+      },
+      "fetchError": "Failed to fetch user profile.",
+      "generationFailed": {
+        "title": "Generation Failed",
+        "description": "Could not generate the document. Please try again."
+      },
+      "submittedForReview": {
+        "title": "Submitted",
+        "description": "Document submitted for admin review. You will be notified when reviewed."
+      },
+      "submitFailed": {
+        "title": "Error",
+        "description": "Could not submit for review. Please try again."
+      }
+    },
+    "greeting": "👋 Hello! Welcome to LYNVIA Digital Legal Assistant.\nI'm here to help you with legal and financial questions. Here's what you can ask me:\n\n📋 **Legal questions** — employment law, VAT, contracts, compliance\n💰 **Financial scenarios** — salary, allowances, deductions, tax impacts\n📄 **Document generation** — legally compliant document drafts\n\nWhat would you like to know today?",
+    "openingDocumentGenerator": "Opening Document Generator",
+    "openingDocumentGeneratorDesc": "We moved you directly to the document generator to create your document faster.",
+    "generatingWithDetails": "Generating **{template}** with your company details...",
+    "openingDocGen": "Opening Document Generator",
+    "openingDocGenDesc": "Redirecting you to the document generator for faster drafting.",
+    "clientRequired": "Client Required",
+    "clientRequiredDesc": "Please select a client first.",
+    "taskCreated": "Task Created",
+    "taskCreatedDesc": "The task has been created successfully.",
+    "documentSent": "Document Sent",
+    "documentSentDesc": "The document has been sent successfully.",
+    "actionFailed": "Error",
+    "actionFailedDesc": "Action failed. Please try again."
+  },
+  "IndividualDashboard": {
+    "title": "Welcome, {name}!",
+    "greetingMorning": "Good morning, {name}!",
+    "greetingAfternoon": "Good afternoon, {name}!",
+    "greetingEvening": "Good evening, {name}!",
+    "subtitle": "Here is an overview of your activities.",
+    "sectionOverview": "Your overview",
+    "sectionActivity": "Activity & updates",
+    "sectionPlanning": "Tax & planning",
+    "kpiToggleShowAll": "Show all metrics",
+    "kpiToggleShowLess": "Show fewer metrics",
+    "fallbackUserName": "Client",
+    "status": {
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "draft": "Draft",
+      "pendingReview": "Pending review",
+      "pending": "Pending",
+      "paid": "Paid",
+      "inProgress": "In progress",
+      "cancelled": "Cancelled",
+      "completed": "Completed",
+      "active": "Active",
+      "pendingApproval": "Pending approval",
+      "suspended": "Suspended"
+    },
+    "kpi": {
+      "documentsGenerated": "Documents Generated",
+      "pendingApprovals": "Pending Approvals",
+      "scenariosRun": "Scenarios Run",
+      "unreadNotifications": "Unread Notifications",
+      "activeOrders": "Active Orders",
+      "legalChats": "Legal Chats",
+      "profileStrength": "Profile Strength",
+      "accountStatus": "Account Status"
+    },
+    "quickActions": {
+      "title": "Quick Actions",
+      "askLegalQuestion": "Ask Legal Question",
+      "generateDocument": "Generate a Document",
+      "calculateTaxScenario": "Calculate Tax Scenario",
+      "browseServices": "Browse Services"
+    },
+    "featureHub": {
+      "title": "Feature Hub",
+      "description": "High-value tools to complete daily workflows.",
+      "modules": {
+        "myDocuments": {
+          "title": "My Documents",
+          "subtitle": "Open generated files"
+        },
+        "myOrders": {
+          "title": "My Orders",
+          "subtitle": "Track service purchases"
+        },
+        "notifications": {
+          "title": "Notifications",
+          "subtitle": "See latest alerts"
+        },
+        "scenarioCenter": {
+          "title": "Scenario Center",
+          "subtitle": "Run tax comparisons"
+        },
+        "settings": {
+          "title": "Profile",
+          "subtitle": "Profile and preferences"
+        }
+      }
+    },
+    "companyAffiliation": {
+      "title": "Company Affiliation"
+    },
+    "latestScenario": {
+      "title": "Latest Simulation",
+      "viewAll": "View All Scenarios",
+      "types": {
+        "income_change": "Income Change Impact",
+        "job_loss": "Job Loss Impact",
+        "child_birth": "Child Allocation Impact",
+        "marriage": "Marriage Impact",
+        "pillar_3a": "Pillar 3a Contribution",
+        "pillar_2_buyback": "Pillar 2 Buyback",
+        "supplementary_benefits": "Supplementary Benefits"
+      }
+    },
+    "taxGlance": {
+      "emptyTitle": "Tax return status",
+      "emptyDescription": "Purchase a yearly tax return to see mandate progress, document steps, and expert review here.",
+      "cta": "Browse tax services"
+    },
+    "mandateTracking": {
+      "title": "Tax Return Status",
+      "viewDetails": "View Details",
+      "documentsProgressApprox": "{count} document(s) on file since this order started",
+      "documentsProgress": "{uploaded} / {required} mandatory documents sent",
+      "downloadDocuments": "Download Documents",
+      "statusText": {
+        "paid": "Please upload your mandatory documents to get started.",
+        "in_progress": "Expert is working on it. You will be notified when ready.",
+        "pending_review": "Submitted by expert — download your documents below.",
+        "completed": "Service completed. Your tax return was filed."
+      },
+      "steps": {
+        "paymentReceived": "Payment",
+        "documentsUploaded": "Documents",
+        "expertReview": "Review",
+        "finalSubmission": "Submitted"
+      }
+    },
+    "recentActivity": {
+      "title": "Recent Activity",
+      "empty": "No recent activity.",
+      "notificationFallback": "Notification",
+      "templates": {
+        "documentStatus": "Document \"{name}\" was {status}",
+        "orderStatus": "Order for \"{service}\" updated to {status}",
+        "legalStarted": "New legal conversation started: \"{title}\""
+      },
+      "activity": {
+        "documentApproved": "Document 'Rental Agreement' was approved.",
+        "scenarioCalculated": "Calculated 'Tax Optimisation 2024' scenario.",
+        "newNotification": "New notification: Your service request has been updated.",
+        "documentPending": "Document 'Employment Contract' is pending review.",
+        "loggedIn": "Logged in successfully."
+      }
+    },
+    "activityTrend": {
+      "title": "Activity Trend (Last 14 Days)",
+      "description": "Daily movement across documents and orders.",
+      "series": {
+        "totalActivity": "Total Activity"
+      }
+    },
+    "tabs": {
+      "activity": "Activity",
+      "documents": "Documents",
+      "orders": "Orders",
+      "legalAI": "Legal AI"
+    },
+    "analyticsOverview": {
+      "title": "Analytics Overview",
+      "common": {
+        "count": "Count"
+      },
+      "table": {
+        "name": "Name",
+        "status": "Status",
+        "created": "Created",
+        "service": "Service",
+        "date": "Date",
+        "topic": "Topic",
+        "messages": "Messages",
+        "started": "Started"
+      },
+      "activity": {
+        "title": "Activity Volume",
+        "description": "Documents created, orders placed, and legal questions over the last 30 days."
+      },
+      "documents": {
+        "statusBreakdown": "Document Status Breakdown",
+        "recentDocuments": "Recent Documents"
+      },
+      "orders": {
+        "statusDistribution": "Order Status Distribution",
+        "recentOrders": "Recent Orders"
+      },
+      "legal": {
+        "questionsLabel": "Legal Questions",
+        "byTopic": "Legal Questions by Topic",
+        "recentConversations": "Recent Conversations"
+      }
+    }
+  },
+  "BusinessDashboard": {
+    "title": "Business Dashboard",
+    "subtitle": "Welcome! Here's an overview of your company's activity.",
+    "addEmployee": "Add Employee",
+    "processPayroll": "Process Payroll",
+    "kpi": {
+      "totalEmployees": "Total Employees",
+      "employeesTrend": "+2 since last month",
+      "pendingPayroll": "Turnover",
+      "payrollTrend": "Latest accounting period",
+      "activeLeaveRequests": "Active Leave Requests",
+      "leaveTrend": {
+        "action": "Action required",
+        "clear": "All clear"
+      },
+      "monthlyPayrollCost": "Net Profit / (Loss)",
+      "costTrend": "From latest accounts"
+    },
+    "payrollTrend": {
+      "title": "Payroll Trend (Last 6 Months)",
+      "description": "Visualizing your company's monthly payroll expenditure.",
+      "legend": "Payroll Cost"
+    },
+    "employeeDistribution": {
+      "title": "Employee Distribution",
+      "description": "Breakdown of employees by department."
+    },
+    "alerts": {
+      "title": "Alerts & Reminders",
+      "payrollDeadline": "Upcoming payroll deadline in 5 days.",
+      "leaveRequests": "{count, plural, one {# new leave request is} other {# new leave requests are}} pending approval.",
+      "taxDeadline": "Tax filing for Q2 2024 is due in 12 days.",
+      "newDocument": "A new compliance document for canton Vaud is available.",
+      "view": "View"
+    },
+    "recentActivity": {
+      "title": "Recent Activity",
+      "payrollProcessed": "Payroll for {monthLabel} was processed.",
+      "leaveRequest": "Leave request from {employeeName} ({leaveType}) was {status}.",
+      "documentCreated": "Document '{documentName}' was created.",
+      "loading": "Loading activities...",
+      "noActivity": "No recent company activity found."
+    },
+    "docRequests": {
+      "title": "Documents Requested by Lynvia",
+      "description": "Lynvia has requested the following documents. Please upload them in the Document Center as soon as possible.",
+      "uploadNow": "Upload Now"
+    },
+    "reports": {
+      "title": "Reports & Analytics",
+      "subtitle": "Generate custom financial reports and track key business metrics.",
+      "generator": {
+        "title": "Report Generator",
+        "description": "Select a report type and time period to generate your analysis.",
+        "button": "Generate Report",
+        "generating": "Generating..."
+      },
+      "types": {
+        "financial_summary": "Financial Summary",
+        "p_and_l": "Profit & Loss (P&L)",
+        "expense_report": "Expense Detail Report"
+      },
+      "periods": {
+        "q2_2024": "Q2 2024 (Apr-Jun)",
+        "last_30_days": "Last 30 Days",
+        "last_90_days": "Last 90 Days"
+      },
+      "results": {
+        "title": "Financial Summary - Q2 2024",
+        "description": "An overview of financial performance from April to June 2024.",
+        "monthlyPerformance": "Monthly Performance (Revenue vs. Profit)",
+        "expenseBreakdown": "Expense Breakdown by Category",
+        "exportCsv": "Export CSV",
+        "downloadPdf": "Download PDF"
+      },
+      "empty": {
+        "title": "Generate a report",
+        "description": "Select your desired report type and period to get started."
+      }
+    }
+  },
+  "MyDocuments": {
+    "title": "My Documents",
+    "subtitle": "Manage your generated and uploaded documents.",
+    "documentCenter": "Document Center",
+    "documentCenterDescription": "All your secure documents in one place.",
+    "searchPlaceholder": "Search documents...",
+    "uploadButton": "Upload Document",
+    "table": {
+      "name": "Name",
+      "type": "Type",
+      "status": "Status",
+      "date": "Date",
+      "actions": "Actions"
+    },
+    "status": {
+      "Approved": "Approved",
+      "Pending Review": "Pending Review",
+      "Draft": "Draft",
+      "Rejected": "Rejected"
+    },
+    "actions": {
+      "label": "Actions",
+      "view": "View",
+      "download": "Download",
+      "downloadPdf": "PDF Document",
+      "downloadWord": "Word Document (.docx)",
+      "share": "Share",
+      "delete": "Delete"
+    },
+    "dialog": {
+      "title": "Document Details",
+      "close": "Close"
+    },
+    "toast": {
+      "fetchError": "Could not fetch your documents.",
+      "deleteSuccess": "Your document has been successfully deleted.",
+      "deleteError": "Could not delete the document.",
+      "viewError": "Could not fetch document content.",
+      "downloadPdf": "Preparing PDF...",
+      "downloadPdfError": "Could not download PDF.",
+      "downloadWord": "Preparing Word document...",
+      "downloadWordError": "Could not generate the Word document. Please try again."
+    },
+    "noDocuments": "No documents found.",
+    "noMatch": "No documents match your search."
+  },
+  "MyOrders": {
+    "title": "My Orders",
+    "subtitle": "Track the status of your purchased services.",
+    "refresh": "Refresh",
+    "history": "Order History",
+    "historyDescription": "A list of all your service requests and their current status.",
+    "table": {
+      "service": "Service",
+      "date": "Date",
+      "price": "Price",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "priceQuotePending": "Quote Pending",
+    "noOrders": "You haven't purchased any services yet.",
+    "browseServices": "Browse Services",
+    "notLoggedIn": "Please log in to view your orders.",
+    "login": "Log In",
+    "toast": {
+      "fetchError": "Could not fetch your orders. Please try again."
+    },
+    "orderDetails": {
+      "back": "Back to Orders",
+      "title": "Order Details",
+      "orderId": "Order ID: {id}",
+      "orderDate": "Order Date",
+      "lastUpdated": "Last Updated",
+      "serviceType": "Service Type",
+      "amount": "Amount",
+      "additionalInfo": "Additional Information Provided",
+      "needHelp": "Need Help?",
+      "contactSupport": "Contact Support",
+      "browseMore": "Browse More Services",
+      "toast": {
+        "accessDenied": "Access Denied",
+        "accessDeniedDescription": "You don't have permission to view this order.",
+        "notFound": "Order Not Found",
+        "notFoundDescription": "The requested order could not be found.",
+        "fetchError": "Could not fetch order details."
+      }
+    }
+  },
+  "Notifications": {
+    "title": "Notifications",
+    "subtitle": "All your important updates, alerts, and reminders in one place.",
+    "yourNotifications": "Your Notifications",
+    "markAllRead": "Mark all as read",
+    "unreadCount": "{count, plural, one {You have # unread notification} other {You have # unread notifications}}.",
+    "noNotifications": "No notifications yet",
+    "noNotificationsDescription": "Important updates will appear here.",
+    "markAsRead": "Mark as Read",
+    "archive": "Archive",
+    "toast": {
+      "fetchError": "Could not fetch notifications.",
+      "markAllError": "Could not mark all notifications as read."
+    }
+  },
+  "Settings": {
+    "title": "Profile",
+    "subtitle": "Manage your account and profile information.",
+    "shortcuts": {
+      "title": "Quick access",
+      "description": "Orders, add-on services, and notifications in one place.",
+      "orders": "My orders",
+      "services": "Purchase services",
+      "notifications": "Notifications",
+      "wallet": "Wallet"
+    },
+    "usage": {
+      "title": "Scenario usage (this month)",
+      "description": "{used} of {total} chargeable scenarios used. Pillar 3a and VAT comparisons are unlimited.",
+      "loading": "Loading usage…"
+    },
+    "profile": {
+      "title": "Profile Information",
+      "description": "Update your personal details.",
+      "firstNameLabel": "First Name",
+      "lastNameLabel": "Last Name",
+      "emailLabel": "Email Address (cannot be changed)",
+      "addressLabel": "Full address (street and number)",
+      "addressPlaceholder": "e.g. Rue du Rhône 1",
+      "postalCodeLabel": "Postal code",
+      "cityLabel": "City",
+      "dateOfBirthLabel": "Date of birth",
+      "phoneLabel": "Phone number",
+      "saveButton": "Save Changes",
+      "toast": {
+        "successTitle": "Profile Updated",
+        "successDescription": "Your personal information has been saved.",
+        "errorTitle": "Update Failed",
+        "errorDescription": "Could not update your profile. Please try again."
+      }
+    },
+    "password": {
+      "title": "Change Password",
+      "description": "Update your password. You will be logged out after a successful change.",
+      "infoTitle": "Security Notice",
+      "infoDescription": "Changing your password requires you to re-enter your current password for security.",
+      "currentPasswordLabel": "Current Password",
+      "newPasswordLabel": "New Password",
+      "confirmPasswordLabel": "Confirm New Password",
+      "saveButton": "Change Password",
+      "toast": {
+        "successTitle": "Password Updated",
+        "successDescription": "Your password has been changed successfully. Please log in again.",
+        "errorTitle": "Update Failed",
+        "errorDescription": "Could not update your password. Please try again.",
+        "wrongPassword": "The current password you entered is incorrect."
+      }
+    },
+    "dangerZone": {
+      "title": "Danger Zone",
+      "description": "These actions are permanent and cannot be undone.",
+      "deleteButton": "Delete Account",
+      "dialog": {
+        "title": "Are you absolutely sure?",
+        "description": "This action cannot be undone. This will permanently delete your account and remove your data from our servers.",
+        "cancel": "Cancel",
+        "confirm": "Yes, delete my account"
+      },
+      "toast": {
+        "successTitle": "Account Deleted",
+        "successDescription": "Your account has been permanently deleted.",
+        "errorTitle": "Deletion Failed",
+        "errorDescription": "Could not delete your account. Please try again or contact support."
+      }
+    }
+  },
+  "ScenarioCalculator": {
+    "title": "Scenario Calculator",
+    "subtitle": "Enter your full financial situation (Income, Deductions, Wealth, Debts) to establish your Master Profile. This will serve as the baseline for all future scenarios.",
+    "embed": {
+      "title": "Swiss reference tax calculator",
+      "description": "Use this embedded calculator for detailed cantonal and federal estimates. Save your baseline in the Lynvia forms below, then run a scenario to compare deltas.",
+      "iframeTitle": "Swiss tax calculator",
+      "disclaimer": "Third-party tool for orientation only. Lynvia scenario results below use Lynvia’s own calculation engine."
+    },
+    "selectScenario": "Select a scenario",
+    "selectScenarioPlaceholder": "Choose a scenario to analyse...",
+    "selectScenarioRequired": "Please select a scenario first",
+    "selectScenarioRequiredHint": "Use the dropdown above to choose which scenario you want to calculate.",
+    "scenarioTitles": {
+      "income_change": "Salary Change",
+      "job_loss": "Job Loss",
+      "child_birth": "New Child",
+      "marriage": "Marriage",
+      "pillar_3a": "Pillar 3a",
+      "pillar_2_buyback": "Pillar 2 Buyback",
+      "supplementary_benefits": "Supplementary Benefits",
+      "vat_comparison": "VAT Comparison"
+    },
+    "common": {
+      "municipality": "Municipality",
+      "maritalStatus": "Marital Status",
+      "single": "Single",
+      "married": "Married",
+      "children": "Children",
+      "age": "Age",
+      "religion": "Religion",
+      "noneOther": "None/Other",
+      "catholic": "Catholic",
+      "protestant": "Protestant",
+      "salaryChf": "Salary (CHF)",
+      "calculating": "Calculating...",
+      "calculateScenario": "Calculate Scenario"
+    },
+    "access": {
+      "title": "Individual Access",
+      "description": "Your plan includes {count} paid scenario calculations per month outside Pillar 3a.",
+      "usedThisMonth": "Used this month: {used} of {total}.",
+      "syncing": "Syncing...",
+      "additionalScenarioPrice": "Additional scenarios: CHF {price} each.",
+      "unlimitedPillar3a": "Pillar 3a simulations remain unlimited.",
+      "limitReached": {
+        "title": "Monthly free scenario limit reached",
+        "description": "You have used your {count} included scenarios this month. Additional scenarios cost CHF {price} each.",
+        "paymentError": {
+          "title": "Payment failed",
+          "description": "Could not process payment. Please try again."
+        },
+        "paymentSuccess": {
+          "title": "Payment successful",
+          "description": "You can now generate additional scenarios."
+        }
+      }
+    },
+    "fallback": {
+      "aiAnalysisUnavailable": "AI analysis is temporarily unavailable."
+    },
+    "recommendations": {
+      "cantonalFamilyFund": "Important: If your family's combined annual income is up to CHF 100,000, check with your Canton whether you are entitled to the cantonal family fund (paid once a year at year-end for low-income families)."
+    },
+    "masterProfile": {
+      "button": "Save current situation",
+      "saving": "Saving...",
+      "description": "Save your current inputs as your Master Profile. These values will be pre-loaded every time you return to the Scenario Calculator.",
+      "saved": {
+        "title": "Master Profile saved",
+        "description": "Your financial baseline has been saved and will be pre-loaded on your next visit."
+      },
+      "saveError": {
+        "title": "Save failed",
+        "description": "Could not save your Master Profile. Please try again."
+      }
+    },
+    "masterCalculator": {
+      "title": "Swiss Tax Calculator (Master)",
+      "description": "Same core logic as swisstaxcalculator-master. Save your baseline and reuse it in scenario analysis.",
+      "labels": {
+        "taxYear": "Tax year",
+        "relationship": "Relationship",
+        "netFortune": "Net fortune (CHF)",
+        "incomeType": "Income type",
+        "income": "Income (CHF)",
+        "pkDeduction": "PK deduction"
+      },
+      "sections": {
+        "person1": "Person 1",
+        "person1Deductions": "Person 1 deductions",
+        "person2": "Person 2",
+        "person2Deductions": "Person 2 deductions",
+        "generalDeductions": "General deductions"
+      },
+      "buttons": {
+        "calculating": "Calculating...",
+        "calculateTaxes": "Calculate taxes",
+        "saving": "Saving...",
+        "saveCurrentSituation": "Save current situation"
+      },
+      "results": {
+        "title": "Result tax calculation",
+        "empty": "Run calculation to show the full master breakdown.",
+        "cantonalTax": "Cantonal tax",
+        "municipalTax": "Municipal tax",
+        "churchTax": "Church tax",
+        "federalTax": "Federal tax",
+        "incomeTax": "Income tax",
+        "fortuneTax": "Fortune tax",
+        "totalIncomeTax": "Total income tax",
+        "totalFortuneTax": "Total fortune tax",
+        "totalTaxes": "Total taxes"
+      },
+      "tables": {
+        "title": "Detailed tax breakdown",
+        "grossNet": "Gross / net",
+        "p1": "P1",
+        "p2": "P2",
+        "income": "Income",
+        "canton": "Canton",
+        "federal": "Federal",
+        "fortune": "Fortune"
+      },
+      "rows": {
+        "grossIncome": "Gross income",
+        "ahvIvEo": "AHV/IV/EO",
+        "alv": "ALV",
+        "nbu": "NBU",
+        "pensionFund": "Pension fund (PK)",
+        "netIncome": "Net income",
+        "netIncomeMainOccupation": "Net income main occupation",
+        "taxableIncome": "Taxable income",
+        "netFortune": "Net fortune",
+        "taxableFortune": "Taxable fortune"
+      },
+      "toast": {
+        "municipalityRequired": {
+          "title": "Municipality required",
+          "description": "Please select a municipality before calculating."
+        },
+        "municipalityBeforeSave": {
+          "description": "Select a municipality before saving."
+        },
+        "calculationSuccess": {
+          "title": "Tax calculation complete",
+          "description": "Master Swiss tax logic has been applied."
+        },
+        "calculationFailed": {
+          "title": "Tax calculation failed",
+          "fallback": "Failed to calculate taxes."
+        },
+        "signInRequired": {
+          "title": "Sign in required",
+          "description": "Please sign in to save your baseline."
+        },
+        "baselineSaved": {
+          "title": "Baseline saved",
+          "description": "Your current situation is saved for all future scenarios."
+        },
+        "saveFailed": {
+          "title": "Save failed",
+          "description": "Could not save your baseline profile."
+        }
+      },
+      "locationSearch": {
+        "loading": "Loading...",
+        "selectMunicipality": "Select municipality...",
+        "searchPlaceholder": "Search city or postal code...",
+        "noMunicipalityFound": "No municipality found."
+      }
+    },
+    "paywall": {
+      "exportLimitReached": {
+        "title": "Export limit reached",
+        "description": "You have used your 2 free PDF exports. Additional exports cost CHF 10.-. Please contact support to purchase."
+      }
+    },
+    "expertReview": {
+      "submitted": {
+        "title": "Request submitted",
+        "description": "A Lynvia expert will review your scenario within 48 hours."
+      },
+      "error": {
+        "title": "Request failed",
+        "description": "Could not submit your review request. Please try again."
+      },
+      "adminNotif": {
+        "title": "Expert review requested",
+        "description": "{name} requested an expert revision for their scenario."
+      }
+    },
+    "forms": {
+      "incomeChange": {
+        "title": "Salary Change Scenario",
+        "description": "Compare your current and new salary after taxes.",
+        "fields": {
+          "currentGrossSalary": "Current Annual Salary (CHF)",
+          "newGrossSalary": "New Annual Salary (CHF)",
+          "fortune": "Net Worth (CHF)"
+        },
+        "descriptions": {
+          "fortune": "Total assets minus debts (for wealth tax calculation)"
+        }
+      },
+      "jobLoss": {
+        "title": "Job Loss Scenario",
+        "description": "Analyze financial impact of unemployment and calculate benefits.",
+        "fields": {
+          "currentGrossSalary": "Current Annual Salary (CHF)",
+          "yearsEmployed": "Years Employed",
+          "unemploymentDuration": "Expected Duration (months)",
+          "hasChildren": "Has Children"
+        },
+        "descriptions": {
+          "yearsEmployed": "Affects benefit duration",
+          "hasChildren": "With children: 80% benefit rate, without: 70%"
+        }
+      },
+      "childBirth": {
+        "title": "New Child Scenario",
+        "description": "Calculate tax benefits, family allowances, and subsidies for a new child.",
+        "fields": {
+          "currentGrossSalary": "Your Annual Salary (CHF)",
+          "spouseSalary": "Spouse Salary (CHF)",
+          "dependents": "Current Children",
+          "age": "Your Age",
+          "estimatedChildcareCosts": "Estimated Annual Childcare Costs (CHF)"
+        },
+        "descriptions": {
+          "estimatedChildcareCosts": "Deductible up to CHF 25,000/year (subject to cantonal limits)"
+        }
+      },
+      "marriage": {
+        "title": "Marriage Scenario",
+        "description": "Compare taxes as two singles vs. married couple (marriage penalty/bonus).",
+        "sections": {
+          "person1": "Person 1",
+          "person2": "Person 2",
+          "afterMarriage": "After Marriage"
+        },
+        "fields": {
+          "person1LocationId": "Municipality (Person 1)",
+          "person2LocationId": "Municipality (Person 2)",
+          "futureLocationId": "Future Municipality",
+          "combinedDependents": "Combined Children"
+        }
+      },
+      "pillar3a": {
+        "title": "Pillar 3a Contribution",
+        "description": "Calculate tax savings from retirement contributions.",
+        "fields": {
+          "currentGrossSalary": "Annual Gross Salary (CHF)",
+          "hasOccupationalPension": "Has Occupational Pension (BVG)",
+          "contributionAmount": "Contribution Amount (CHF)",
+          "annualReturnRate": "Expected Return (% p.a.)",
+          "projectionYears": "Projection Horizon (Years)"
+        },
+        "descriptions": {
+          "hasOccupationalPension": "Max contribution: {amount} (2024)",
+          "contributionAmount": "Maximum: {amount}",
+          "annualReturnRate": "Default: 5% per year",
+          "projectionYears": "Minimum: 20 years"
+        },
+        "buttons": {
+          "submit": "Calculate Tax Savings"
+        }
+      },
+      "pillar2Buyback": {
+        "title": "Pillar 2 (LPP) Buyback",
+        "description": "Calculate tax savings from voluntary pension fund contributions.",
+        "fields": {
+          "currentGrossSalary": "Annual Gross Salary (CHF)",
+          "currentPensionGap": "Pension Gap (CHF)",
+          "buybackAmount": "Buyback Amount (CHF)"
+        },
+        "descriptions": {
+          "currentPensionGap": "Available buyback potential"
+        },
+        "alert": {
+          "title": "Important",
+          "description": "After a buyback, you cannot withdraw funds as capital for 3 years. Consider spreading buybacks over multiple years."
+        },
+        "buttons": {
+          "submit": "Calculate Tax Savings"
+        }
+      },
+      "vatComparison": {
+        "title": "VAT Comparison",
+        "description": "Compare effective vs. flat-rate VAT methods for your business.",
+        "fields": {
+          "ca": "Annual Revenue (CHF)",
+          "secteur": "Business Sector",
+          "achats": "Annual Purchases (CHF)",
+          "depenses": "Annual Expenses (CHF)"
+        },
+        "buttons": {
+          "submit": "Compare VAT Methods"
+        }
+      }
+    },
+    "results": {
+      "analysisTitle": "Analysis: {scenario}",
+      "healthSubsidyIncluded": "Health insurance subsidy is included in this estimate.",
+      "currentSituation": "Current Situation",
+      "futureSituation": "Future Situation",
+      "taxChange": "Tax Change",
+      "netIncomeChange": "Net Income Change",
+      "allowancesBenefits": "Allowances & Benefits",
+      "totalAdditionalBenefits": "Total Additional Benefits",
+      "perYearSuffix": "/year",
+      "recommendations": "Recommendations",
+      "potentialImpacts": "Potential Impacts",
+      "pillar3aOffers": {
+        "title": "Explore Pillar 3a offers",
+        "description": "Compare tax-optimized retirement solutions and get help setting up the right contribution strategy.",
+        "button": "View tax services"
+      },
+      "scenarioTitles": {
+        "income_change": "Salary Change",
+        "job_loss": "Job Loss",
+        "child_birth": "New Child",
+        "marriage": "Marriage",
+        "pillar_3a": "Pillar 3a",
+        "pillar_2_buyback": "Pillar 2 Buyback",
+        "supplementary_benefits": "Supplementary Benefits"
+      },
+      "situationCard": {
+        "grossIncome": "Gross Income",
+        "totalTax": "Total Tax",
+        "benefitsAllowances": "Benefits & Allowances",
+        "netIncome": "Net Income",
+        "effectiveTaxRate": "Effective tax rate"
+      },
+      "emptyState": {
+        "title": "Run a scenario",
+        "description": "Choose a scenario, fill in the form, and calculate to see the financial impact."
+      },
+      "exportPdf": "Export PDF",
+      "expertReview": {
+        "button": "Request Expert Revision & Strategy",
+        "requesting": "Sending request...",
+        "description": "A Lynvia expert will manually review your scenario and provide a personalised strategy (CHF 50.-)"
+      }
+    },
+    "supplementaryBenefits": {
+      "meta": {
+        "scenarioType": "Supplementary Benefits (EL)"
+      },
+      "form": {
+        "title": "Supplementary Benefits (EL)",
+        "description": "Estimate entitlement for retirees and AI disability beneficiaries.",
+        "fields": {
+          "annualRetirementIncome": "Annual Retirement Income (CHF)",
+          "annualDisabilityIncome": "Annual AI Disability Benefits (CHF)",
+          "otherAnnualIncome": "Other Annual Income (CHF)",
+          "annualHousingCosts": "Annual Housing Costs (CHF)",
+          "annualHealthInsurancePremium": "Annual Health Premium (CHF)",
+          "netAssets": "Net Assets (CHF)",
+          "municipality": "Municipality",
+          "maritalStatus": "Marital Status",
+          "dependents": "Dependent Children",
+          "age": "Age",
+          "isRetired": "Retired Person",
+          "receivesAiBenefits": "Receiving AI Benefits"
+        },
+        "descriptions": {
+          "annualHousingCosts": "Rent + service charges used for EL expense recognition.",
+          "annualHealthInsurancePremium": "Mandatory health insurance premium (LAMal).",
+          "netAssets": "Savings, securities, and other assessable assets."
+        },
+        "options": {
+          "single": "Single",
+          "married": "Married"
+        },
+        "buttons": {
+          "calculating": "Calculating...",
+          "submit": "Estimate Supplementary Benefits"
+        }
+      },
+      "analysis": {
+        "context": {
+          "retired": "retired person",
+          "aiBeneficiary": "AI disability beneficiary",
+          "and": "and"
+        },
+        "summary": {
+          "eligible": "Estimated entitlement found for {context}.",
+          "notEligible": "No estimated entitlement found for {context} at the declared income level."
+        },
+        "recommendations": {
+          "prepareRecords": "Prepare official income and asset records before submitting your EL request.",
+          "contactCantonalOffice": "Contact your cantonal social office to confirm final eligibility and payable amount.",
+          "requestFullAssessment": "Ask your cantonal social office for a full EL assessment, especially if your situation changed recently."
+        },
+        "impacts": {
+          "estimatedAnnualBenefit": "Estimated annual supplementary benefits: {amount}",
+          "recognizedExpenses": "Recognized annual expenses: {amount}",
+          "determiningIncome": "Determining annual income: {amount}"
+        }
+      },
+      "toast": {
+        "eligibilityContextRequired": {
+          "title": "Eligibility context required",
+          "description": "Please indicate retirement status and/or AI disability benefits to estimate supplementary benefits."
+        },
+        "complete": {
+          "title": "Supplementary benefits estimate complete",
+          "description": "Estimated annual entitlement: {amount}"
+        }
+      }
+    }
+  },
+  "TaxServices": {
+    "title": "Tax Services",
+    "subtitle": "Browse our professional tax services designed to simplify your finances and maximize your savings.",
+    "services": {
+      "annual": {
+        "title": "Annual Tax Return Filing",
+        "description": "Comprehensive preparation and filing of your annual Swiss tax return for your canton. We ensure all deductions are maximized and your return is filed accurately and on time.",
+        "priceDescription": "Starting at",
+        "actionText": "Get Started"
+      },
+      "optimization": {
+        "title": "Tax Optimization Review",
+        "description": "Our experts will analyze your financial situation and provide a detailed report on potential tax savings. Includes personalized recommendations for deductions and credits.",
+        "priceDescription": "",
+        "actionText": "Purchase"
+      },
+      "crossBorder": {
+        "title": "Cross-Border Tax Advisory",
+        "description": "Specialized advice for individuals working across borders or holding foreign assets (e.g., G-permit holders, international weekly commuters). Navigate complex tax treaties with ease.",
+        "priceDescription": "Contact for Quote",
+        "actionText": "Request Quote"
+      },
+      "pension": {
+        "title": "Pension & 3rd Pillar Advice",
+        "description": "Optimize your Pillar 3a/3b contributions for maximum tax deductions and a secure retirement. We help you understand and plan for your future.",
+        "priceDescription": "",
+        "actionText": "Purchase"
+      },
+      "crypto": {
+        "title": "Cryptocurrency Tax Statement",
+        "description": "We generate a compliant tax statement for your crypto assets, covering capital gains and wealth tax. Supports all major exchanges and wallets.",
+        "priceDescription": "Starting at",
+        "actionText": "Get Started"
+      },
+      "realEstate": {
+        "title": "Real Estate Tax Consultation",
+        "description": "Guidance on property gains tax, rental income taxation, and inheritance or gifting implications for real estate. Expert advice for property owners and investors.",
+        "priceDescription": "Contact for Quote",
+        "actionText": "Request Quote"
+      }
+    },
+    "checkout": {
+      "backButton": "Back to Services",
+      "additionalInfoLabel": "Additional Information & Documents",
+      "additionalInfoPlaceholder": "Please provide any relevant details for your service request. You can also mention any documents you need to provide (e.g., salary statements, list of assets).",
+      "processingButton": "Processing...",
+      "calculatedTotal": "Calculated total: CHF {price}",
+      "fixedPrice": "Fixed price: CHF {price}",
+      "fields": {
+        "children": {
+          "label": "Number of children (+CHF 10 each)",
+          "placeholder": "Select children"
+        },
+        "properties": {
+          "label": "Number of properties (+CHF 30 each)",
+          "placeholder": "Select properties"
+        },
+        "bankAssets": {
+          "label": "Bank accounts / securities / stocks",
+          "placeholder": "Select account bracket"
+        },
+        "dependents": {
+          "label": "Dependents (+CHF 10 each)",
+          "placeholder": "Select dependents"
+        }
+      },
+      "pricingBreakdown": {
+        "title": "Pricing breakdown",
+        "base": "Base: CHF {price}",
+        "children": "Children surcharge: CHF {price}",
+        "properties": "Properties surcharge: CHF {price}",
+        "bankAssets": "Bank assets surcharge: CHF {price}",
+        "dependents": "Dependents surcharge: CHF {price}",
+        "total": "Total: CHF {price}"
+      },
+      "errors": {
+        "checkoutSession": "Failed to create checkout session.",
+        "stripeNotLoaded": "Stripe.js has not loaded yet."
+      },
+      "postPurchaseTitle": "This tax return is already active",
+      "postPurchaseDescription": "Pricing is hidden while your order is open. Go to the Yearly Tax Return hub to upload documents and track progress.",
+      "goToHub": "Open Yearly Tax Return hub"
+    },
+    "list": {
+      "startingAtPrice": "Starting at CHF {price}"
+    },
+    "catalog": {
+      "couple-inactive": {
+        "title": "Tax declaration - Couple (Inactive)",
+        "description": "Swiss tax declaration service for couples with inactive status, with dynamic pricing based on case complexity.",
+        "actionText": "Configure & Continue"
+      },
+      "couple-retired": {
+        "title": "Tax declaration - Couple (Retired)",
+        "description": "Swiss tax declaration service for retired couples, with dynamic pricing based on case complexity.",
+        "actionText": "Configure & Continue"
+      },
+      "couple-salaried": {
+        "title": "Tax declaration - Couple (Salaried)",
+        "description": "Swiss tax declaration service for salaried couples, with dynamic pricing based on case complexity.",
+        "actionText": "Configure & Continue"
+      },
+      "single-inactive": {
+        "title": "Tax declaration - Single person (Inactive)",
+        "description": "Swiss tax declaration service for single inactive individuals, with dynamic pricing based on case complexity.",
+        "actionText": "Configure & Continue"
+      },
+      "single-retired": {
+        "title": "Tax declaration - Single person (Retired)",
+        "description": "Swiss tax declaration service for single retired individuals, with dynamic pricing based on case complexity.",
+        "actionText": "Configure & Continue"
+      },
+      "single-salaried": {
+        "title": "Tax declaration - Single person (Salaried)",
+        "description": "Swiss tax declaration service for single salaried individuals, with dynamic pricing based on case complexity.",
+        "actionText": "Configure & Continue"
+      },
+      "permit-b-simplified": {
+        "title": "Simplified declaration for Permit B",
+        "description": "Fixed-price simplified Swiss tax declaration service for Permit B cases.",
+        "actionText": "Continue to Checkout"
+      }
+    },
+    "successPage": {
+      "title": "Payment Initiated!",
+      "description": "Your payment is being processed. You will receive an email confirmation shortly, and your order status will be updated in the \"My Orders\" page once the payment is successful.",
+      "button": "Go to My Orders"
+    },
+    "orderFollowUp": {
+      "title": "Your Tax Return Order",
+      "documentsLabel": "Mandatory Documents",
+      "documentProgress": "{uploaded} of {required} mandatory documents sent",
+      "mandatoryDocumentsTitle": "Required Documents",
+      "uploadButton": "Upload",
+      "replaceButton": "Replace",
+      "uploadedLabel": "Uploaded",
+      "allSubmittedTitle": "All Documents Submitted!",
+      "allSubmittedDescription": "Your documents have been sent to our team. We will start working on your tax return shortly.",
+      "uploadDocuments": "Upload Documents",
+      "downloadDocuments": "Download Documents",
+      "viewOrderDetails": "View Order Details",
+      "buyAnother": "Buy another tax service",
+      "backToOrder": "Back to my order",
+      "docs": {
+        "salaryCertificate": "Salary Certificate",
+        "bankStatement": "End of Year Bank Statement",
+        "pillar3aCertificate": "3rd Pillar Certificate",
+        "spouseSalary": "Spouse Salary Certificate",
+        "childcareCertificate": "Childcare / School Certificate",
+        "propertyStatement": "Property Income Statement"
+      },
+      "statuses": {
+        "paid": {
+          "label": "Payment received",
+          "description": "Please upload your mandatory documents in My Documents to get started."
+        },
+        "inProgress": {
+          "label": "Expert is working on it",
+          "description": "Our team is actively working on your tax return. You will be notified when ready."
+        },
+        "pendingReview": {
+          "label": "Submitted by expert",
+          "description": "Your tax return has been prepared. Download your finalized documents below."
+        }
+      }
+    },
+    "cancelPage": {
+      "title": "Payment Cancelled",
+      "description": "Your payment was not completed. You can return to your orders and try again.",
+      "button": "Return to My Orders"
+    },
+    "toast": {
+      "notLoggedIn": {
+        "title": "Not logged in",
+        "description": "You must be logged in to purchase a service."
+      },
+      "quoteSent": {
+        "title": "Quote Request Sent",
+        "description": "Thank you! Our team will review your request and get back to you shortly."
+      },
+      "requestFailed": {
+        "title": "Request Failed",
+        "description": "An unexpected error occurred. Please try again."
+      }
+    },
+    "fallback": {
+      "anonymousUser": "Anonymous User"
+    }
+  },
+  "PayrollProcessing": {
+    "title": "Payroll Processing",
+    "subtitle": "Manage payroll with the shared allowance rules used across the individual and business products.",
+    "kpi": {
+      "grossPayroll": "Gross Payroll",
+      "deductions": "Employee Deductions",
+      "allowances": "Family Allowances",
+      "netPay": "Net Before Tax",
+      "employerCost": "Employer Cost"
+    },
+    "tabs": {
+      "manual": "Manual Processing",
+      "csv": "CSV Upload"
+    },
+    "manualProcessing": {
+      "title": "Payroll Run - {monthLabel}",
+      "description": "Process employees using the payroll data currently stored on their company records.",
+      "table": {
+        "employee": "Employee",
+        "grossSalary": "Gross Salary",
+        "deductions": "Deductions",
+        "allowances": "Family Allowances",
+        "netBeforeTax": "Net Before Tax",
+        "employerCost": "Employer Cost",
+        "status": "Status"
+      },
+      "noEmployees": "No active employees found for this company.",
+      "exportAll": "Export All",
+      "processSelected": "Process {count} Employee(s)",
+      "processing": "Processing..."
+    },
+    "recentRuns": {
+      "title": "Recent Payroll Runs",
+      "description": "Latest saved payroll batches for your company.",
+      "table": {
+        "month": "Month",
+        "source": "Source",
+        "employees": "Employees",
+        "grossPayroll": "Gross Payroll",
+        "employerCost": "Employer Cost",
+        "actions": "Actions"
+      },
+      "noRuns": "No payroll runs have been processed yet."
+    },
+    "csvUpload": {
+      "title": "CSV Upload",
+      "description": "Upload payroll inputs for existing employee IDs and process the batch for {monthLabel}.",
+      "templateDescription": "Download the template to ensure your CSV matches the employee data expected by the system.",
+      "downloadTemplate": "Download Template",
+      "dropzone": {
+        "label": "Click to upload or drag and drop",
+        "fileType": "CSV file (MAX. 5MB)"
+      },
+      "loadedFile": "Loaded file:",
+      "parsedRows": "Parsed rows:",
+      "validCsv": "CSV structure appears valid.",
+      "uploadAndProcess": "Upload & Process"
+    },
+    "salaryCostOverview": {
+      "title": "Payslips Communications",
+      "subtitle": "Submit monthly payroll data for each employee and track cost estimations.",
+      "monthlyPayroll": {
+        "title": "Monthly Payroll",
+        "subtitle": "Click an employee row to enter their monthly payroll data for submission.",
+        "salaryType": "Type",
+        "statusCol": "Status (selected month)",
+        "payrollMonthLabel": "Payroll month",
+        "payrollMonthHelp": "Choose the calendar month for submissions and status in the table below.",
+        "estimatedGrossCol": "Est. gross (month)",
+        "hourly": "Hourly",
+        "monthly": "Monthly",
+        "submitted": "Submitted",
+        "pending": "Pending",
+        "dialogDescription": "Enter payroll data for the selected month. Click submit to generate an estimation.",
+        "month": "Month",
+        "hours": "Hours worked",
+        "additionalFields": "Additional items",
+        "feesToReimburse": "Fees to reimburse",
+        "feesToDeduct": "Fees to deduct",
+        "privateVehicleKm": "Private vehicle (km)",
+        "mealsToReimburse": "Meals to reimburse",
+        "mealsToDeduct": "Meals to deduct",
+        "bonus": "Bonus to pay",
+        "prime": "Prime",
+        "estimatedGrossLabel": "Estimated gross payroll",
+        "vehicleRateNote": "Vehicle reimbursement at CHF {rate}/km (standard Swiss rate)",
+        "disclaimer": "Definitive payroll information is given by Lynvia. This is just an estimation.",
+        "cancel": "Cancel",
+        "submit": "Submit and generate estimation",
+        "submitting": "Submitting...",
+        "toastTitle": "Payroll data submitted",
+        "toastDescription": "Data for {name} has been saved successfully."
+      },
+      "configureRates": "Configure rates",
+      "hideRates": "Hide rates",
+      "ratesTitle": "Company charge rates",
+      "ratesDescription": "Enter the exact employer contribution rates that apply to your company. These values can be defined by Lynvia or by your own settings.",
+      "saveRates": "Save rates",
+      "savingRates": "Saving...",
+      "resetDefaults": "Reset default values",
+      "kpis": {
+        "employees": "Employees (monthly salary)",
+        "monthlyGrossPayroll": "Monthly gross payroll",
+        "totalMonthlyEmployerCost": "Total monthly employer cost",
+        "ofWhichCharges": "including charges"
+      },
+      "employeeDetailTitle": "Employee breakdown",
+      "employeeDetailDescription": "Gross monthly salary plus employer social charges. Hourly employees are listed separately.",
+      "table": {
+        "employee": "Employee",
+        "role": "Role",
+        "activityRate": "Activity rate",
+        "monthlySalary": "Monthly salary",
+        "charges": "Charges (CHF)",
+        "monthlyCost": "Cost / month",
+        "annualCost": "Cost / year (x13)"
+      },
+      "noEmployees": "No employees recorded. Add employees in the Employee Management module.",
+      "hourlyEmployeeNotice": "Hourly employee - cost varies depending on hours worked",
+      "totalMonthly": "Monthly total",
+      "appliedRatesTitle": "Currently applied rates",
+      "appliedRatesDescription": "Use the Configure rates button to change them.",
+      "rateLabels": {
+        "avs": "AVS/AHV (employer)",
+        "ac": "Unemployment insurance",
+        "laa": "Accident insurance",
+        "ijm": "Daily sickness allowance",
+        "lpp": "Pension fund (employer)",
+        "caf": "Family allowance fund"
+      },
+      "toast": {
+        "savedTitle": "Rates saved",
+        "savedDescription": "Employer charge rates have been updated."
+      }
+    },
+    "dialog": {
+      "deleteRunTitle": "Are you sure?",
+      "deleteRunDescription": "This action cannot be undone. This will permanently delete the payroll run for {monthLabel}.",
+      "cancel": "Cancel",
+      "delete": "Delete"
+    },
+    "toast": {
+      "noSelection": {
+        "title": "No valid employees selected",
+        "description": "Select at least one employee with complete payroll data."
+      },
+      "processSuccess": {
+        "title": "Payroll processed",
+        "description": "{count} employee(s) processed for {monthLabel}."
+      },
+      "processError": {
+        "title": "Payroll processing failed",
+        "description": "Please try again."
+      },
+      "csvLoaded": {
+        "title": "CSV loaded",
+        "description": "{count} row(s) parsed from {fileName}."
+      },
+      "csvParseError": {
+        "title": "CSV parsing failed",
+        "description": "Please check the file format and try again."
+      },
+      "noCsvData": {
+        "title": "No CSV data loaded",
+        "description": "Upload a valid CSV file first."
+      },
+      "noValidCsvRows": {
+        "title": "No valid CSV rows",
+        "description": "Please correct the CSV file and try again."
+      },
+      "csvProcessSuccess": {
+        "title": "CSV payroll processed",
+        "description": "{processedCount} row(s) processed{skippedCount, plural, =0 {} other {, # skipped}}."
+      },
+      "csvProcessError": {
+        "title": "CSV payroll processing failed",
+        "description": "Please try again."
+      },
+      "deleteRunSuccess": {
+        "title": "Payroll Run Deleted",
+        "description": "The selected payroll run has been removed."
+      },
+      "deleteRunError": {
+        "title": "Deletion Failed",
+        "description": "Could not delete the payroll run. Sub-records may still exist."
+      },
+      "companyError": {
+        "title": "Error",
+        "description": "Company information not available."
+      }
+    },
+    "status": {
+      "Pending": "Pending",
+      "Processed": "Processed"
+    },
+    "source": {
+      "manual": "Manual",
+      "csv": "CSV"
+    },
+    "currencyPrefix": "CHF ",
+    "units": {
+      "chf": "CHF",
+      "km": "km",
+      "perHour": "/h"
+    }
+  },
+  "CompanyRates": {
+    "title": "Company charge rates",
+    "save": "Save",
+    "saving": "Saving...",
+    "labels": {
+      "avs": "AVS/AHV (employer)",
+      "ac": "Unemployment insurance",
+      "caf": "Family allowance fund",
+      "ijm": "Daily sickness allowance",
+      "laa": "Accident insurance"
+    },
+    "toast": {
+      "savedTitle": "Rates updated",
+      "savedDescription": "Employer charge rates have been saved."
+    }
+  },
+  "EmployeeManagement": {
+    "title": "Employee Management",
+    "subtitle": "Register your employees' details for social insurance enrollment and payroll processing.",
+    "addEmployee": "Register Employee",
+    "cctButton": "View Applicable CCT",
+    "rosterTitle": "Employee Register",
+    "rosterDescription": "List of all employees declared to Lynvia.",
+    "searchPlaceholder": "Search by name, position or email...",
+    "searchEmployees": "Search employees...",
+    "adminStatus": "Admin Status",
+    "noEmployees": "No employees registered yet.",
+    "stats": {
+      "total": "Active Employees",
+      "hourly": "Hourly Workers",
+      "avsToVerify": "AVS to Verify",
+      "loading": "Loading..."
+    },
+    "table": {
+      "name": "Name",
+      "fonction": "Position",
+      "avsStatus": "AVS Status",
+      "typeRemu": "Pay Type",
+      "tauxActivite": "Activity Rate",
+      "startDate": "Start Date",
+      "actions": "Actions"
+    },
+    "avs": {
+      "valide": "Valid",
+      "a_verifier": "To Verify",
+      "invalide": "Invalid"
+    },
+    "remu": {
+      "horaire": "Hourly",
+      "mensuel": "Monthly"
+    },
+    "dialog": {
+      "editTitle": "Edit Employee",
+      "addTitle": "Register Employee",
+      "editDescription": "Update this employee's details.",
+      "addDescription": "Enter the employee's details to register them with social insurance authorities.",
+      "viewTitle": "Employee Profile",
+      "deleteTitle": "Delete employee?",
+      "deleteDescription": "This action cannot be undone. It will permanently delete this employee record.",
+      "sections": {
+        "identity": "Identity",
+        "contract": "Contract",
+        "swissInfo": "Swiss Information",
+        "personalStatus": "Personal Status",
+        "documents": "Upload Documents"
+      },
+      "labels": {
+        "prenom": "First Name",
+        "nom": "Last Name",
+        "dateNaissance": "Date of Birth",
+        "telephone": "Phone (optional)",
+        "email": "Email (optional)",
+        "fonction": "Position / Function",
+        "dateDebut": "Start Date",
+        "typeRemu": "Remuneration Type",
+        "horaire": "Hourly",
+        "mensuel": "Monthly",
+        "salaireHoraire": "Hourly Rate (CHF)",
+        "salaireMensuel": "Monthly Salary (CHF)",
+        "tauxActivite": "Activity Rate (%)",
+        "semainesVacances": "Vacation Weeks",
+        "numeroAVS": "AVS Number",
+        "iban": "IBAN (optional)",
+        "rue": "Street",
+        "ville": "City",
+        "codePostal": "Postal Code",
+        "adresse": "Address",
+        "adminStatus": "Admin Status",
+        "registration": "Registration",
+        "registeredWithAvs": "Registered with AVS",
+        "awaitingRegistration": "Awaiting registration",
+        "registrationDate": "Registration date",
+        "lastPayslip": "Last payslip",
+        "residencePermit": "Residence Permit",
+        "maritalStatus": "Marital Status",
+        "hasChildren": "Children",
+        "taxAtSource": "Tax at Source (impôt à la source)",
+        "documentUploadHint": "Copy of identity card or residence permit",
+        "viewDocument": "View uploaded document"
+      },
+      "placeholders": {
+        "residencePermit": "Select permit type",
+        "maritalStatus": "Select marital status"
+      },
+      "options": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "permits": {
+        "L": "L — Short-term residence",
+        "B": "B — Annual residence",
+        "C": "C — Settlement permit",
+        "F": "F — Provisional admission",
+        "G": "G — Cross-border commuter",
+        "none": "No permit (Swiss citizen)"
+      },
+      "marital": {
+        "single": "Single",
+        "married": "Married",
+        "divorced": "Divorced",
+        "separated": "Separated"
+      },
+      "children": {
+        "title": "Child",
+        "add": "Add Child",
+        "remove": "Remove",
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "dateOfBirth": "Date of Birth",
+        "sharedCustody": "Shared custody?",
+        "otherParentFirstName": "Other parent — First Name",
+        "otherParentLastName": "Other parent — Last Name",
+        "otherParentAddress": "Other parent — Address",
+        "otherParentAVS": "Other parent — AVS Number"
+      },
+      "buttons": {
+        "cancel": "Cancel",
+        "save": "Save",
+        "saving": "Saving...",
+        "delete": "Delete",
+        "close": "Close"
+      }
+    },
+    "toast": {
+      "updateSuccessTitle": "Employee Updated",
+      "updateSuccessDescription": "{name} has been updated.",
+      "addSuccessTitle": "Employee Registered",
+      "addSuccessDescription": "{name} has been registered.",
+      "errorTitle": "Error",
+      "saveErrorDescription": "Could not save employee details.",
+      "deleteSuccessTitle": "Employee Deleted",
+      "deleteErrorDescription": "Could not delete employee.",
+      "fetchFailedDescription": "Could not fetch employees.",
+      "cctMinimumWarningTitle": "CCT minimum wage warning",
+      "cctMinimumWarningDescription": "Monthly salary (CHF {amount}) is below the CCT minimum of CHF {minimum}/month for {cct}. Record saved — please review and correct.",
+      "adminUpdateTitle": "Employee record updated — review required",
+      "adminUpdateDescription": "{name} ({position}) at {company} was updated. Changed fields: {fields}.",
+      "adminCreateTitle": "New employee added — social insurance declaration required",
+      "adminCreateDescription": "{name} ({position}) was added to {company}. Please declare to the relevant social insurance bodies.",
+      "lppAlertTitle": "LPP / 2nd Pillar Plan Required",
+      "lppAlertDescription": "{count} employee(s) ({names}) earn(s) above CHF {threshold}/month but no LPP (2nd pillar) plan is registered for this company. Please enroll in an occupational pension plan."
+    },
+    "badges": {
+      "avsRegistered": "AVS Registered",
+      "awaitingReg": "Awaiting Reg.",
+      "payslip": "Payslip {month}"
+    },
+    "cctDialog": {
+      "title": "Applicable CCT / CLA",
+      "description": "Collective labour agreement applicable to your company based on your industry.",
+      "cct": "Convention collective de travail (CCT)",
+      "minimumWages": "Minimum wages",
+      "monthlyFulltime": "Monthly (full-time)",
+      "hourly": "Hourly",
+      "noticePeriods": "Notice periods",
+      "trialPeriod": "Trial period",
+      "year1": "Year 1",
+      "years2to9": "Years 2–9",
+      "years10plus": "10+ years",
+      "wagesByRole": "Wages by role",
+      "vacationTitle": "Vacation (Swiss CO, Art. 329a)",
+      "vacationLegal": "Legal minimum: 4 weeks (20 working days)",
+      "vacationUnder20": "For employees under 20 years: 5 weeks mandatory",
+      "vacationCct": "Many CCTs require 5 weeks for all employees — verify your CCT",
+      "thirteenthSalaryTitle": "13th Salary",
+      "thirteenthSalaryDescription": "Many Swiss CCTs mandate a 13th monthly salary for monthly employees. For hourly employees, it is included in the «brut tout compris» calculation (8.33%). Verify your applicable CCT document.",
+      "cctDocument": "CCT Document",
+      "viewFullCct": "View full CCT",
+      "noCct": "No CCT found for this company.",
+      "noCctDescription": "Complete your company profile to set your industry and get a CCT match.",
+      "browseAllCct": "Browse all Swiss CCTs →",
+      "close": "Close"
+    },
+    "cctAlerts": {
+      "title": "CCT Compliance Alerts",
+      "description": "Automatic checks based on the applicable Collective Work Convention and Swiss rules.",
+      "minWage": "Salary below CCT minimum of CHF {minimum}/month",
+      "vacationLow": "Insufficient vacation weeks (legal / CCT minimum: at least {required} weeks)",
+      "thirteenth": "13th salary rights may apply under your CCT — verify for monthly employees",
+      "lppRequired": "No company LPP plan declared: employee above CHF {threshold}/month must be affiliated with LPP (2nd pillar)",
+      "allGood": "No CCT alerts — compliance OK",
+      "fixAction": "Review"
+    }
+  },
+  "LeaveManagement": {
+    "title": "Leave Management",
+    "subtitle": "Review, approve, or reject employee leave requests.",
+    "cardTitle": "Leave Requests",
+    "cardDescription": "A list of all leave requests from your employees.",
+    "newRequest": "New Leave Request",
+    "tabs": {
+      "pending": "Pending",
+      "approved": "Approved",
+      "rejected": "Rejected",
+      "all": "All"
+    },
+    "table": {
+      "employee": "Employee",
+      "leaveType": "Leave Type",
+      "dates": "Dates",
+      "days": "Days",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "noRequests": "No leave requests found.",
+    "actions": {
+      "label": "Actions",
+      "approve": "Approve",
+      "reject": "Reject",
+      "view": "View Details"
+    },
+    "dialog": {
+      "title": "New Leave Request",
+      "description": "Fill out the form to submit a new time-off request for an employee.",
+      "employeeLabel": "Employee",
+      "employeePlaceholder": "Select an employee",
+      "leaveTypeLabel": "Leave Type",
+      "leaveTypePlaceholder": "Select leave type",
+      "leaveTypes": {
+        "vacation": "Vacation",
+        "sick": "Sick Leave",
+        "parental": "Parental Leave",
+        "unpaid": "Unpaid Leave",
+        "other": "Other"
+      },
+      "startDateLabel": "Start Date",
+      "endDateLabel": "End Date",
+      "reasonLabel": "Reason (optional)",
+      "reasonPlaceholder": "Enter a reason for the leave request",
+      "errors": {
+        "employeeRequired": "Please select an employee.",
+        "leaveTypeRequired": "Please select a leave type.",
+        "startDateRequired": "A start date is required.",
+        "endDateRequired": "An end date is required.",
+        "endDateBeforeStart": "End date cannot be before start date."
+      },
+      "cancel": "Cancel",
+      "submitting": "Submitting...",
+      "submit": "Submit Request"
+    },
+    "toast": {
+      "submitSuccess": "Leave Request Submitted",
+      "submitError": "Could not submit leave request.",
+      "updateSuccess": "Request {status}",
+      "updateError": "Could not update leave request.",
+      "alreadyProcessed": "This request is already {status}.",
+      "employeeNotFound": "Selected employee not found."
+    },
+    "status": {
+      "Pending": "Pending",
+      "Approved": "Approved",
+      "Rejected": "Rejected"
+    }
+  },
+  "DocumentCenter": {
+    "title": "Document Center",
+    "subtitle": "Manage, share, and collaborate on all your company's documents.",
+    "cardTitle": "All Documents",
+    "cardDescription": "A centralized repository for your company's files.",
+    "searchPlaceholder": "Search documents...",
+    "uploadButton": "Upload Document",
+    "table": {
+      "name": "Name",
+      "createdBy": "Created By",
+      "status": "Status",
+      "lastModified": "Last Modified",
+      "actions": "Actions"
+    },
+    "status": {
+      "Approved": "Approved",
+      "PendingReview": "Pending Review",
+      "Draft": "Draft",
+      "Rejected": "Rejected",
+      "Sent": "Sent"
+    },
+    "actions": {
+      "label": "Actions",
+      "view": "View Details",
+      "download": "Download",
+      "share": "Share",
+      "markAsSent": "Mark as Sent",
+      "requestApproval": "Request Approval",
+      "delete": "Delete"
+    },
+    "toast": {
+      "fetchError": {
+        "title": "Error",
+        "description": "Could not fetch your company's documents."
+      },
+      "uploadValidation": {
+        "title": "Missing fields",
+        "description": "Please fill in all required fields."
+      },
+      "uploadSuccess": {
+        "title": "Document transmitted",
+        "description": "Document successfully transmitted to Lynvia."
+      }
+    },
+    "noDocuments": "No documents found for your company.",
+    "noMatch": "No documents match your search.",
+    "checklist": {
+      "title": "Required Documents Checklist",
+      "description": "Documents required based on your company profile.",
+      "required": "Required"
+    },
+    "checklistItems": {
+      "monthlyBankStatements": "Monthly bank statements",
+      "invoicesIssued": "Invoices issued",
+      "companyPaidInvoices": "Company-paid invoices",
+      "vatStatements": "VAT statements",
+      "vehicleContract": "Company vehicle contract"
+    },
+    "checklistDesc": {
+      "bankStatements": "Required for cash flow monitoring",
+      "invoices": "All client invoices",
+      "companyInvoices": "Professional expenses",
+      "vat": "If VAT service not subscribed",
+      "vehicle": "Vehicle declared - required for VAT/social charges"
+    },
+    "alerts": {
+      "vatNotSubscribed": "VAT service not subscribed:",
+      "vatNotSubscribedDesc": "You can upload your VAT statements for information. VAT documents must be provided within 2 months of the deadline (quarter or semester).",
+      "vehicleDeclared": "Company vehicle declared:",
+      "vehicleDeclaredDesc": "The vehicle purchase contract is required for VAT and correct calculation of social charges/salaries."
+    },
+    "aiGenerator": {
+      "title": "AI Document Generator",
+      "description": "Create your customized company documents.",
+      "employmentContract": "Employment Contract",
+      "salarySlip": "Salary Slip",
+      "vatDeclaration": "VAT Declaration",
+      "auditReport": "Audit Report"
+    },
+    "transmit": {
+      "title": "Transmit to Lynvia",
+      "description": "Send your accounting documents.",
+      "newDocument": "New Document",
+      "dialogTitle": "Transmit a document to Lynvia",
+      "dialogDescription": "Select the type and period of the document.",
+      "typeLabel": "Document type",
+      "typePlaceholder": "Select a type",
+      "periodLabel": "Relevant period",
+      "periodPlaceholder": "e.g., January 2025, Q4 2024, Year 2024",
+      "commentLabel": "Comment (optional)",
+      "commentPlaceholder": "Additional information...",
+      "dragDrop": "Drag your files here or",
+      "chooseFiles": "Choose files",
+      "cancel": "Cancel",
+      "submit": "Transmit",
+      "cfoNote": "Transmitted documents feed your CFO analyses."
+    },
+    "docTypes": {
+      "bankStatementDetailed": "Bank statement (with details/balance)",
+      "invoiceIssued": "Invoice issued (client)",
+      "invoicePaidPrivate": "Invoice/receipt paid privately",
+      "invoicePaidCompany": "Invoice/receipt paid by company",
+      "monthlySalarySlip": "Monthly salary slip",
+      "vatStatement": "VAT statement",
+      "vehicleContract": "Vehicle contract (if company vehicle)",
+      "other": "Other",
+      "bankStatement": "Bank statement"
+    },
+    "transmitted": {
+      "title": "Documents Transmitted to Lynvia",
+      "description": "Track your submitted documents.",
+      "type": "Type",
+      "period": "Period",
+      "sendDate": "Send Date",
+      "status": "Status",
+      "cfoSource": "CFO Source",
+      "empty": "No documents transmitted yet."
+    },
+    "transmittedStatus": {
+      "pending": "Pending",
+      "received": "Received",
+      "missing": "Missing",
+      "vatLate": "VAT Late",
+      "processing": "Processing",
+      "integratedCFO": "Integrated CFO"
+    },
+    "cfoLink": {
+      "title": "CFO analyses powered by your documents:",
+      "description": "Your financial analyses are based on documents transmitted and validated by Lynvia. Figures are manually entered by Lynvia in its accounting systems and updated here.",
+      "button": "View CFO analyses"
+    }
+  },
+  "FinancialScenarios": {
+    "title": "Financial Scenarios",
+    "subtitle": "Model complex business scenarios and get AI-driven insights.",
+    "workforceScenario": {
+      "title": "Workforce Planning Scenario",
+      "description": "Model the financial impact of hiring new employees.",
+      "scenarioNameLabel": "Scenario Name",
+      "scenarioNamePlaceholder": "e.g., Q4 Engineering Expansion",
+      "hiresLabel": "Number of New Hires",
+      "hiresPlaceholder": "e.g., 5",
+      "salaryLabel": "Average Annual Salary (CHF)",
+      "salaryPlaceholder": "e.g., 90000",
+      "ageLabel": "Average Age",
+      "agePlaceholder": "e.g., 34",
+      "dependentsLabel": "Average Dependents per Hire",
+      "dependentsPlaceholder": "e.g., 1",
+      "cantonLabel": "Payroll Canton",
+      "statusLabel": "Default Household Status",
+      "selectStatus": "Select status...",
+      "notesLabel": "Notes (Optional)",
+      "notesPlaceholder": "Describe the context of this scenario...",
+      "runButton": "Run Analysis & Get Insights",
+      "runningButton": "Analyzing Scenario..."
+    },
+    "results": {
+      "title": "Estimated Financial Impact",
+      "description": "Projected employer cost using the same shared allowance rules as the individual calculator.",
+      "chart": {
+        "grossPayroll": "Gross Payroll",
+        "employerContributions": "Employer Contributions",
+        "familyAllowances": "Family Allowances",
+        "employerCost": "Employer Cost",
+        "legendLabel": "Projected Cost"
+      },
+      "kpi": {
+        "annualCost": "Annual Employer Cost",
+        "monthlyCost": "Monthly Employer Cost",
+        "contributions": "Employer Contributions",
+        "allowances": "Family Allowances"
+      },
+      "benefits": {
+        "title": "Per-Hire Benefits Reference",
+        "description": "Estimates for household support and allowances per new employee.",
+        "netPayLabel": "Per-Hire Net Before Tax",
+        "netPaySublabel": "Employee deductions: {amount}",
+        "familyAllowanceLabel": "Per-Hire Family Allowance",
+        "maternityLabel": "Maternity Coverage Reference",
+        "birthAdoptionLabel": "One-Time Birth / Adoption",
+        "supportLabel": "Household Support Eligibility",
+        "healthSubsidyText": "Health insurance subsidy: {text}",
+        "complementaryBenefitText": "Complementary benefits: {text}",
+        "eligibleText": "{amount} estimated annual support",
+        "notEligibleText": "Not eligible at this salary profile"
+      },
+      "aiAnalysis": {
+        "title": "AI Financial Interpretation",
+        "summaryTitle": "Interpretation",
+        "recommendationsTitle": "Recommendations",
+        "impactsTitle": "Potential Impacts",
+        "sourcesTitle": "Rule Sources",
+        "disclaimer": "Disclaimer: This is an AI-generated analysis based on estimated calculations. Consult a financial professional for advice."
+      },
+      "empty": {
+        "title": "Results will appear here",
+        "description": "Fill out the form to model a scenario and get AI-powered insights."
+      }
+    },
+    "toast": {
+      "analysisComplete": "Scenario Analyzed",
+      "analysisCompleteDescription": "Your workforce planning scenario has been analyzed.",
+      "analysisFailed": "Analysis Failed",
+      "analysisFailedDescription": "The AI failed to interpret the results. Please try again."
+    }
+  },
+  "VirtualCFO": {
+    "title": "Virtual CFO",
+    "subtitle": "Get AI-powered financial insights and strategic advice for your business.",
+    "page": {
+      "title": "CFO Digital",
+      "subtitle": "Financial analysis and development scenarios",
+      "prorataNote": "Pro-rated calculation over the selected period",
+      "summaryTitle": "Summary",
+      "turnover": "Turnover",
+      "purchases": "Purchases",
+      "rawWages": "Raw wages",
+      "salaryCharges": "Salary charges",
+      "operatingCosts": "Operating costs",
+      "financialCharges": "Financial charges",
+      "otherCharges": "Other charges",
+      "profitLoss": "Profit / Loss",
+      "downloadAccounts": "Download account details",
+      "quickAnalysis": "Quick analysis",
+      "quickAnalysisDesc": "Financial ratios and CFO alerts",
+      "margin": "Margin (%)",
+      "result": "Result (%)",
+      "caPurchases": "Turnover - purchases (%)",
+      "caTotalCharges": "Turnover - total charges (%)",
+      "devScenarios": "Development scenarios",
+      "increaseCA": "Increase turnover",
+      "hiringDismissal": "Hiring / dismissal",
+      "investment": "Investment",
+      "vatMethod": "VAT method",
+      "scenarioIncreaseCA": "Scenario: Increase turnover",
+      "scenarioIncreaseCADesc": "Simulate the impact of revenue growth on your results",
+      "currentAnnualCA": "Current annual turnover (CHF)",
+      "newAnnualizedCA": "New annualized turnover (CHF)",
+      "vatMandatory": "VAT registration becomes mandatory",
+      "vatMandatoryDesc": "From 1 January of the year following the threshold overrun, except for new companies where annualized turnover above 100,000 CHF after 3 months can trigger registration from the 4th month.",
+      "currentPurchases": "Current purchases (CHF)",
+      "increasePurchases": "Increase purchases (%)",
+      "generatePDF": "Generate PDF report",
+      "resultsScenario": "Scenario results",
+      "newResult": "New result:",
+      "deltaVsCurrent": "Delta vs current:",
+      "newMargin": "New margin:",
+      "newResultPct": "New result (%):",
+      "scenarioHiring": "Scenario: Hiring / dismissal",
+      "scenarioHiringDesc": "Calculate the financial impact of a staffing change",
+      "hire": "Hire",
+      "dismiss": "Dismiss",
+      "grossMonthlySalary": "Gross monthly salary (CHF)",
+      "calculationRule": "Calculation rule:",
+      "calculationRuleDesc": "Total impact = gross salary + 25%\nEmployee share (indicative) = 12% of gross",
+      "financialImpact": "Financial impact",
+      "monthlyImpact": "Monthly impact:",
+      "annualImpact": "Annual impact:",
+      "employeeShare": "Employee share (indicative):",
+      "scenarioInvestment": "Scenario: Investment",
+      "scenarioInvestmentDesc": "Analyze the profitability of your investment projects",
+      "compoundInterest": "Compound interest (API coming)",
+      "realEstateInvestment": "Real estate investment",
+      "otherInvestments": "Other investments",
+      "comingSoon": "Coming soon:",
+      "comingSoonDesc": "Compound interest calculator with dedicated API.",
+      "purchasePrice": "Purchase price (CHF)",
+      "ownFunds": "Own funds (CHF)",
+      "annualIncome": "Annual income (CHF)",
+      "mortgageCharges": "Mortgage charges (CHF)",
+      "compoundInitialCapital": "Initial capital (CHF)",
+      "compoundPeriodicContribution": "Periodic contribution (CHF)",
+      "compoundContributionFrequency": "Contribution frequency",
+      "compoundCompoundingFrequency": "Compounding frequency",
+      "compoundAnnualReturn": "Annual return (%)",
+      "compoundDurationYears": "Duration (years)",
+      "compoundResultsTitle": "Compound interest results",
+      "compoundProjectionDuration": "Projection over {years} years",
+      "compoundFinalCapital": "Final capital",
+      "compoundGain": "Capital gain",
+      "compoundTotalContributed": "Total contributed",
+      "compoundTotalReturnAnnualized": "Total return / annualized",
+      "compoundYearlyBreakdown": "Yearly breakdown",
+      "compoundYear": "Year",
+      "compoundStartingCapital": "Starting capital",
+      "compoundContributions": "Contributions",
+      "compoundInterestEarned": "Interest",
+      "compoundEndingCapital": "Ending capital",
+      "frequencyMonthly": "Monthly",
+      "frequencyQuarterly": "Quarterly",
+      "frequencyAnnual": "Annual",
+      "frequencySemiAnnual": "Semi-annual",
+      "investmentRatios": "Investment ratios",
+      "roi": "ROI:",
+      "effectiveYield": "Effective yield:",
+      "debtEquityRatio": "Debt/equity ratio:",
+      "leverageRatio": "Leverage ratio:",
+      "dscr": "DSCR:",
+      "scenarioVAT": "Scenario: Most advantageous VAT method",
+      "scenarioVATDesc": "Compare effective vs TDFN methods to optimize your VAT",
+      "vatComparator": "VAT comparator: Effective vs TDFN",
+      "sectorAllocation": "1. Revenue distribution by business sector",
+      "sectorInstructions": "Instructions:",
+      "sectorInstructionsDesc": "Enter your net revenue by sector. Each sector will have its own TDFN rate for comparison.",
+      "addSector": "Add a sector:",
+      "sector": "Sector",
+      "netCA": "Net turnover (CHF)",
+      "vatRate": "VAT rate",
+      "effectiveVatRate": "Effective",
+      "vatMethodEffectiveLabel": "Effective method",
+      "vatMethodTdfnLabel": "TDFN method",
+      "vatRecommendedEffective": "Effective",
+      "vatRecommendedTdfn": "TDFN",
+      "add": "Add",
+      "selectPlaceholder": "Select",
+      "standardCA": "2. Standard turnover (optional)",
+      "standardCADesc": "If you have revenue that does not fit any specific TDFN sector:",
+      "caNet0": "Net turnover 0%",
+      "caNet26": "Net turnover 2.6%",
+      "caNet38": "Net turnover 3.8%",
+      "caNet81": "Net turnover 8.1%",
+      "purchasesExpenses": "3. Purchases and expenses",
+      "purchases26": "Purchases 2.6%",
+      "purchases81": "Purchases 8.1%",
+      "expenses26": "Expenses 2.6%",
+      "expenses81": "Expenses 8.1%",
+      "enterCAToCalculate": "Enter turnover to calculate",
+      "vatPDFReport": "PDF report — VAT method",
+      "month": "Month",
+      "quarter": "Quarter",
+      "semester": "Semester",
+      "year": "Year",
+      "noDataTitle": "No financial data",
+      "noDataDesc": "Financial data has not been uploaded yet. Contact your administrator to upload accounting data.",
+      "loading": "Loading financial data...",
+      "sectors": {
+        "accommodation": "Accommodation",
+        "restaurant": "Restaurant",
+        "retail": "Retail",
+        "financialServices": "Financial services",
+        "consulting": "Consulting",
+        "construction": "Construction",
+        "crafts": "Crafts",
+        "itServices": "IT services",
+        "transport": "Transport",
+        "agriculture": "Agriculture"
+      }
+    },
+    "healthCheck": {
+      "title": "Financial Health Check",
+      "description": "Analyze your latest payroll run to uncover trends, risks, and cost-saving opportunities."
+    },
+    "emptyState": {
+      "title": "Ready to Analyze",
+      "description": "Use payroll run {month} to generate a CFO analysis.",
+      "button": "Analyze Latest Payroll"
+    },
+    "results": {
+      "summary": "Overall Summary",
+      "complianceRisks": "Potential Compliance Risks",
+      "anomalies": "Detected Anomalies",
+      "costSavings": "Cost-Saving Opportunities",
+      "recommendations": "Actionable Recommendations"
+    },
+    "buttons": {
+      "save": "Approve & Save Analysis",
+      "saving": "Saving...",
+      "rerun": "Re-run Analysis",
+      "analyzing": "Analyzing..."
+    },
+    "toast": {
+      "noData": {
+        "title": "No payroll data",
+        "description": "Process payroll first to generate Virtual CFO insights."
+      },
+      "analysisComplete": {
+        "title": "Analysis Complete",
+        "description": "Your financial data has been analyzed by the Virtual CFO."
+      },
+      "analysisFailed": {
+        "title": "Analysis Failed",
+        "description": "The AI failed to analyze the financial data. Please try again."
+      },
+      "saveFailed": {
+        "title": "Save Failed",
+        "description": "Could not save the analysis."
+      },
+      "saveSuccess": {
+        "title": "Analysis Saved",
+        "description": "The analysis has been stored in your Document Center and an audit trail was created."
+      },
+      "dataLoadFailed": {
+        "title": "Data load failed",
+        "description": "Could not load payroll data for Virtual CFO."
+      }
+    }
+  },
+  "NotificationTester": {
+    "title": "Notification Cron Console",
+    "subtitle": "Manually trigger the notification cron endpoint. No automatic schedule is configured.",
+    "card": {
+      "title": "Run Manual Cron Job",
+      "description": "Use the button below to invoke the notification cron endpoint manually. This is the same endpoint a real cron scheduler would call later."
+    },
+    "status": {
+      "title": "Endpoint status",
+      "description": "The cron endpoint is available for manual execution only.",
+      "manualOnly": "Manual only",
+      "endpointLabel": "Endpoint:",
+      "loading": "Loading endpoint status...",
+      "fallback": "Manual cron endpoint is ready. No automatic schedule is configured."
+    },
+    "button": {
+      "sending": "Running...",
+      "send": "Run Cron Job"
+    },
+    "toast": {
+      "notLoggedIn": {
+        "title": "Not logged in",
+        "description": "You must be logged in to run the cron job manually."
+      },
+      "success": {
+        "title": "Cron job completed",
+        "description": "The manual cron job ran successfully via {endpoint}."
+      },
+      "error": {
+        "title": "Error",
+        "description": "Failed to run the manual cron job."
+      }
+    }
+  },
+  "OrderManagement": {
+    "title": "Order Management",
+    "subtitle": "View and manage all customer service orders.",
+    "cardTitle": "All Orders",
+    "cardDescription": "A complete list of all service orders on the platform.",
+    "searchPlaceholder": "Search orders...",
+    "tabs": {
+      "all": "All",
+      "quote_requested": "Quote Requested",
+      "paid": "Paid",
+      "in_progress": "In Progress",
+      "completed": "Completed"
+    },
+    "table": {
+      "service": "Service",
+      "customer": "Customer",
+      "date": "Date",
+      "status": "Status",
+      "actions": "Actions"
+    },
+    "actions": {
+      "label": "Actions",
+      "view": "View Order",
+      "markPaid": "Mark as Paid",
+      "markInProgress": "Mark as In Progress",
+      "markCompleted": "Mark as Completed"
+    },
+    "toast": {
+      "fetchError": "Could not fetch orders.",
+      "updateSuccess": "Order status updated",
+      "updateError": "Could not update order status.",
+      "questionSent": "Question sent",
+      "questionSentDescription": "The client has been notified.",
+      "questionError": "Could not send the question."
+    },
+    "noOrders": "No orders found.",
+    "noMatch": "No orders match your search.",
+    "status": {
+      "quote_requested": "Quote Requested",
+      "invoice_sent": "Invoice Sent",
+      "paid": "Paid",
+      "in_progress": "In Progress",
+      "pending_review": "Pending Review",
+      "completed": "Completed",
+      "cancelled": "Cancelled",
+      "pending_payment": "Pending Payment"
+    }
+  },
+  "CreateBusinessForm": {
+    "title": "Create New Business",
+    "description": "Create a business account, assign the admin owner, and review canton, industry, and CLA guidance before submitting.",
+    "businessProfile": {
+      "title": "Business Profile",
+      "description": "Define the company identity and operating context used for onboarding."
+    },
+    "adminOwner": {
+      "title": "Admin Owner",
+      "description": "These credentials will be used for the primary administrator of the business account."
+    },
+    "creationChecklist": {
+      "title": "Creation Checklist",
+      "description": "Confirm the key onboarding inputs before creating the account.",
+      "item1": "Company details, canton, and industry are required.",
+      "item2": "Admin contact data should be valid and ready for first sign-in.",
+      "item3": "Optional accounting-firm assignment can be added now or later."
+    },
+    "claResolution": {
+      "title": "CLA Resolution",
+      "description": "Wage guidance inferred from the selected industry.",
+      "exactMatch": "Exact match",
+      "partialMatch": "Partial match",
+      "coFallback": "CO fallback",
+      "minWage": "Minimum monthly wage",
+      "noCctMinimum": "No CCT minimum codified. Verify the applicable wage from the source agreement.",
+      "matchedKeyword": "Matched keyword:",
+      "exactDescription": "Industry maps directly to this CLA.",
+      "partialDescription": "Partial match. Confirm the CLA before final submission.",
+      "fallbackDescription": "No CLA found. Swiss CO default terms will apply."
+    },
+    "labels": {
+      "companyName": "Company Name",
+      "industry": "Industry",
+      "canton": "Canton",
+      "accountingFirm": "Assign to Accounting Firm",
+      "optional": "(optional)",
+      "adminFirstName": "Admin First Name",
+      "adminLastName": "Admin Last Name",
+      "adminEmail": "Admin Email",
+      "phoneNumber": "Phone Number",
+      "password": "Password"
+    },
+    "placeholders": {
+      "companyName": "e.g. Innovate Corp.",
+      "industry": "e.g. construction, hospitality, retail",
+      "cantonLoading": "Loading...",
+      "canton": "Select a canton",
+      "firmsLoading": "Loading firms...",
+      "firm": "Select a firm (optional)",
+      "adminFirstName": "John",
+      "adminLastName": "Doe",
+      "adminEmail": "admin@innovate.com",
+      "phone": "+41...",
+      "password": "Minimum 8 characters"
+    },
+    "hints": {
+      "password": "Use a temporary password that can be rotated after first login."
+    },
+    "errors": {
+      "companyNameRequired": "Company name is required.",
+      "firstNameRequired": "First name is required.",
+      "lastNameRequired": "Last name is required.",
+      "invalidEmail": "Please enter a valid email address.",
+      "passwordMinLength": "Password must be at least 8 characters.",
+      "phoneRequired": "Phone number is required.",
+      "cantonRequired": "Please select a canton.",
+      "industryRequired": "Please select an industry.",
+      "notLoggedIn": "You must be logged in as an admin to create a business.",
+      "createFailed": "Failed to create business.",
+      "unableToCreate": "Unable to create business account."
+    },
+    "buttons": {
+      "cancel": "Cancel",
+      "createBusiness": "Create Business",
+      "creating": "Creating..."
+    },
+    "toast": {
+      "created": {
+        "title": "Business Created",
+        "description": "The business account has been created successfully."
+      },
+      "failed": {
+        "title": "Creation failed",
+        "description": "Unable to create business account."
+      }
+    }
+  },
+  "AdminUserManagement": {
+    "createUser": "Create User",
+    "createUserDescription": "Manually create a new user account and assign their role and company.",
+    "dialog": {
+      "title": "Create New User",
+      "description": "Fill out the form below to create a new user account.",
+      "sections": {
+        "personalInformation": "Personal Information",
+        "contact": "Contact",
+        "employment": "Employment",
+        "payroll": "Payroll",
+        "address": "Address",
+        "system": "System"
+      },
+      "labels": {
+        "firstName": "First Name",
+        "lastName": "Last Name",
+        "birthDate": "Date of Birth",
+        "email": "Email Address",
+        "phone": "Phone",
+        "password": "Password",
+        "jobTitle": "Job Title",
+        "startDate": "Start Date",
+        "remunerationType": "Remuneration Type",
+        "vacationWeeks": "Vacation Weeks",
+        "activityRate": "Activity Rate %",
+        "hourlyRate": "Hourly Rate (CHF)",
+        "monthlySalary": "Monthly Salary (CHF)",
+        "annualSalary": "Annual Salary (CHF)",
+        "avsNumber": "AVS Number",
+        "avsStatus": "AVS Status",
+        "street": "Street",
+        "city": "City",
+        "postalCode": "Postal Code",
+        "iban": "IBAN",
+        "role": "User Role",
+        "status": "Account Status",
+        "company": "Assign to Company (Optional)"
+      },
+      "placeholders": {
+        "selectRole": "Select a role...",
+        "selectStatus": "Select a status...",
+        "selectCompany": "Select a company...",
+        "noCompany": "No Company",
+        "firstName": "e.g., John",
+        "lastName": "e.g., Doe",
+        "birthDate": "",
+        "email": "e.g., john@example.com",
+        "phone": "+41 XX XXX XX XX",
+        "jobTitle": "e.g., Manager",
+        "startDate": "",
+        "vacationWeeks": "5",
+        "activityRate": "100",
+        "hourlyRate": "0.00",
+        "monthlySalary": "0.00",
+        "annualSalary": "0.00",
+        "avsNumber": "756.1234.5678.90",
+        "street": "e.g., Main Street",
+        "city": "e.g., Geneva",
+        "postalCode": "e.g., 1201",
+        "iban": "CHxx...",
+        "loading": "Loading..."
+      },
+      "options": {
+        "hourly": "Hourly",
+        "monthly": "Monthly",
+        "valid": "Valid",
+        "toVerify": "To Verify",
+        "invalid": "Invalid",
+        "individual": "Individual",
+        "business": "Business",
+        "accountingFirm": "Accounting Firm",
+        "admin": "Admin",
+        "active": "Active",
+        "pendingApproval": "Pending Approval",
+        "suspended": "Suspended"
+      },
+      "buttons": {
+        "cancel": "Cancel",
+        "create": "Create User",
+        "creating": "Creating..."
+      }
+    },
+    "toast": {
+      "createUserSuccess": {
+        "title": "User Created (Simulation)",
+        "description": "In a real app, a secure backend function would create the user. See console for details."
+      },
+      "createUserError": {
+        "title": "Creation Failed",
+        "description": "Could not create user. See console for details."
+      }
+    }
+  },
+  "AppLoading": {
+    "initializing": "Initializing..."
+  },
+  "BusinessCommunications": {
+    "title": "Communications",
+    "subtitle": "Send messages and share documents with Lynvia. All conversations are tracked here.",
+    "newButton": "New Communication",
+    "yourConversations": "Your conversations",
+    "noThreads": "No conversations yet",
+    "noThreadsDesc": "Click \"New Communication\" to start a conversation with Lynvia.",
+    "loading": "Loading...",
+    "count": "{count} conversation(s)",
+    "open": "Open",
+    "closed": "Closed",
+    "justNow": "Just now",
+    "lastActivity": "Last activity: {date}",
+    "startedBy": "Started {date} by {name}",
+    "closedByLynvia": "This conversation has been closed by Lynvia.",
+    "noMessages": "No messages yet.",
+    "ctrlEnterSend": "Type your message… (Ctrl+Enter to send)",
+    "attachFiles": "Attach files",
+    "send": "Send",
+    "sending": "Sending",
+    "back": "Back",
+    "missingFields": "Missing fields",
+    "missingFieldsDesc": "Subject and message are required.",
+    "threadClosed": "Thread closed",
+    "threadClosedDesc": "This conversation has been closed.",
+    "quickReplyGreeting": "Greeting",
+    "quickReplyWorking": "Working on it",
+    "quickReplyDocuments": "Documents needed",
+    "lynvia": "Lynvia",
+    "newClientMessage": "New client communication",
+    "newClientMessageDesc": "{company}: \"{subject}\"",
+    "newReplyTitle": "New reply from client",
+    "newReplyDesc": "{company}: \"{subject}\"",
+    "adminNotified": "Lynvia has been notified.",
+    "communicationSent": "Communication sent",
+    "communicationSentDesc": "Lynvia will review your message shortly.",
+    "createFailed": "Could not create communication.",
+    "replyFailed": "Could not send reply.",
+    "uploadFailed": "Could not upload document.",
+    "dialog": {
+      "title": "New Communication",
+      "description": "Start a new conversation with Lynvia. You can attach documents and Lynvia will reply shortly.",
+      "subjectLabel": "Subject",
+      "subjectPlaceholder": "e.g. Missing payroll documents for January",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Describe your request or question…",
+      "attachmentsLabel": "Attachments (optional)",
+      "addFiles": "Add files",
+      "cancel": "Cancel",
+      "send": "Send",
+      "sending": "Sending…"
+    },
+    "toast": {
+      "sent": "Communication sent",
+      "sentDesc": "Lynvia will review your message shortly.",
+      "sendFailed": "Error",
+      "sendFailedDesc": "Could not create communication.",
+      "replyFailed": "Error",
+      "replyFailedDesc": "Could not send reply.",
+      "threadClosed": "Thread closed",
+      "threadClosedDesc": "This conversation has been closed."
+    }
+  },
+  "AccountingPurchase": {
+    "title": "Fiduciary Access Pricing",
+    "subtitle": "Choose one of two monthly plans. All subscriptions include a 30-day free trial.",
+    "loadingSubscription": "Loading subscription details...",
+    "errorTitle": "Error",
+    "currentPlan": "Current plan",
+    "trialingUntil": "trialing until {date}",
+    "month": "month",
+    "trialIncluded": "30-day free trial included",
+    "activating": "Activating...",
+    "currentPlanButton": "Current Plan",
+    "startTrialButton": "Start 30-day Free Trial",
+    "toast": {
+      "noCompanyTitle": "No company linked",
+      "noCompanyDescription": "Your account is not linked to a company profile yet.",
+      "mustLogin": "You must be logged in to start a subscription.",
+      "checkoutCreateFailed": "Could not create subscription checkout session.",
+      "stripeUnavailable": "Stripe.js is not available.",
+      "checkoutFailedTitle": "Could not start checkout",
+      "tryAgain": "Please try again."
+    },
+    "plans": {
+      "basic": {
+        "title": "Starter",
+        "description": "For small fiduciary teams managing a focused client portfolio."
+      },
+      "pro": {
+        "title": "Pro",
+        "description": "For growing firms that need a broader accounting workflow and client collaboration tools."
+      }
+    },
+    "features": {
+      "ai_chat": "AI assistant",
+      "vat_scenarios": "VAT scenario modelling",
+      "taxation_tools": "Tax planning tools",
+      "salary_tools": "Salary and payroll tools",
+      "client_access_portal": "Client access portal",
+      "document_exchange": "Secure document exchange",
+      "client_notifications": "Client notifications"
+    }
+  },
+  "AccountingBilling": {
+    "title": "Billing",
+    "subtitle": "Manage your subscription, payment method, invoices, and cancellation.",
+    "currentSubscriptionTitle": "Current Subscription",
+    "monthlyOnly": "Monthly billing only.",
+    "planLabel": "Plan",
+    "statusLabel": "Status",
+    "month": "month",
+    "trialEndsLabel": "Trial ends",
+    "trialDaysLeft": "{count} day(s) left",
+    "na": "N/A",
+    "billingPortalTitle": "Stripe Billing Portal",
+    "billingPortalDescription": "Update payment methods, view invoices, switch plans, or cancel your subscription.",
+    "openingPortal": "Opening Portal...",
+    "manageBillingButton": "Manage Billing & Cancel Subscription",
+    "choosePlan": "Choose plan",
+    "startingCheckout": "Starting Stripe checkout...",
+    "inactiveNoticeTitle": "Subscription not started yet",
+    "inactiveNoticeDescription": "Start checkout to create your Stripe customer and activate billing tools.",
+    "payments": {
+      "title": "Payment History",
+      "description": "Your latest successful subscription payments.",
+      "loading": "Loading payments...",
+      "empty": "No payments yet.",
+      "defaultDescription": "Accounting subscription payment",
+      "viewInvoice": "View Invoice",
+      "downloadPdf": "Download PDF"
+    },
+    "toast": {
+      "noCompanyTitle": "No company linked",
+      "noCompanyDescription": "Your account is not linked to a company profile yet.",
+      "mustLogin": "You must be logged in to manage billing.",
+      "portalOpenFailedTitle": "Could not open billing portal",
+      "portalOpenFailedDescription": "Could not open billing portal.",
+      "stripeNotLoaded": "Stripe checkout is not ready yet. Please try again.",
+      "tryAgain": "Please try again."
+    }
+  },
+  "AccountingDocumentGenerator": {
+    "generatedSuccess": "Document Generated Successfully",
+    "generatedSuccessDesc": "Your draft document is ready for review.",
+    "generationFailed": "Generation Failed",
+    "generationFailedDesc": "The AI failed to generate the document. Please try again.",
+    "templateUnavailable": "The selected template is outdated. Please select the template again and retry.",
+    "copied": "Copied to clipboard!",
+    "downloadingPdf": "Downloading PDF...",
+    "preparingWord": "Preparing Word document...",
+    "downloadFailed": "Download Failed",
+    "downloadFailedDesc": "Could not generate the Word document. Please try again.",
+    "pageTitle": "Client Document Generator",
+    "pageSubtitle": "Select a client to begin generating a new document.",
+    "selectClient": "Select Client",
+    "selectClientDescription": "Use the client table below to pick the company you want to generate documents for.",
+    "chooseClient": "Choose a client...",
+    "searchClientsPlaceholder": "Search clients by name or canton...",
+    "clientCount": "{count, plural, =0 {No clients} one {# client} other {# clients}}",
+    "clientName": "Client",
+    "canton": "Canton",
+    "actions": "Actions",
+    "selectAction": "Select",
+    "loadingClients": "Loading clients...",
+    "noClients": "No clients available yet",
+    "noClientsDescription": "Once clients are linked to your accounting firm, they will appear here.",
+    "noMatchingClients": "No clients match this search",
+    "clearSearchHint": "Adjust or clear the search to see more clients.",
+    "backToClient": "Back to Client Selection",
+    "generateFor": "Generate Document for",
+    "selectTemplate": "Select a template to begin.",
+    "backToTemplates": "Back to Templates",
+    "fillDetails": "Fill in Details for",
+    "fillDetailsDesc": "Provide the necessary information for the",
+    "generatedDocument": "Generated Document",
+    "generatedDocumentDesc": "Review the AI-generated document below.",
+    "documentAppears": "Your document will appear here.",
+    "saving": "Saving...",
+    "saveForClient": "Save for Client",
+    "saveSuccessDesc": "Document saved for {client}.",
+    "saveFailedDesc": "Could not save the document. Please try again.",
+    "copy": "Copy",
+    "download": "Download",
+    "pdfDocument": "PDF Document",
+    "wordDocument": "Word Document (.docx)",
+    "noticePeriodWarningTitle": "CLA Notice Period Warning",
+    "claAppliedToClient": "CLA applied to this client:",
+    "claApplied": "CLA applied:",
+    "enterField": "Enter {field}...",
+    "generating": "Generating...",
+    "generateDocument": "Generate Document",
+    "templates": {
+      "employment_contract": {
+        "title": "Employment Contract",
+        "description": "Create a standard Swiss employment contract for a new hire."
+      },
+      "rental_agreement": {
+        "title": "Rental Agreement",
+        "description": "Generate a residential lease agreement for a client's property."
+      },
+      "termination_letter": {
+        "title": "Termination Letter",
+        "description": "Generate a termination / notice letter compliant with the applicable CLA."
+      }
+    },
+    "fields": {
+      "employeeName": {
+        "label": "Employee Name"
+      },
+      "employeeAddress": {
+        "label": "Employee Address"
+      },
+      "employerName": {
+        "label": "Employer Name"
+      },
+      "jobTitle": {
+        "label": "Job Title"
+      },
+      "grossSalary": {
+        "label": "Gross Salary"
+      },
+      "startDate": {
+        "label": "Start Date"
+      },
+      "tenantName": {
+        "label": "Tenant Name"
+      },
+      "landlordName": {
+        "label": "Landlord Name"
+      },
+      "propertyAddress": {
+        "label": "Property Address"
+      },
+      "monthlyRent": {
+        "label": "Monthly Rent"
+      },
+      "leaseStartDate": {
+        "label": "Lease Start Date"
+      },
+      "noticePeriod": {
+        "label": "Notice Period"
+      },
+      "yearsOfService": {
+        "label": "Years of Service"
+      },
+      "terminationDate": {
+        "label": "Termination Date"
+      },
+      "reason": {
+        "label": "Reason"
+      }
+    }
+  },
+  "AccountingCheckoutSuccess": {
+    "title": "Checkout complete",
+    "subtitle": "We are confirming your payment and syncing your subscription.",
+    "verifying": "Verifying payment status...",
+    "successTitle": "Payment confirmed",
+    "pendingTitle": "Payment is processing",
+    "paidDescription": "Your payment was successful. It now appears in your payment history.",
+    "completedDescription": "Your checkout completed successfully.",
+    "pendingDescription": "Your payment is still processing. You can open Billing to check the latest status.",
+    "missingSession": "Missing Stripe session information.",
+    "mustLogin": "You must be logged in to verify this payment.",
+    "reconcileFailed": "Could not verify payment status.",
+    "errorTitle": "Verification failed",
+    "okButton": "OK - Open Billing",
+    "retryButton": "Retry"
+  },
+  "AccountingDashboard": {
+    "minAgo": "min ago",
+    "hourAgo": "hour ago",
+    "hoursAgo": "hours ago",
+    "dayAgo": "day ago",
+    "daysAgo": "days ago",
+    "errorTitle": "Error",
+    "loadFailed": "Could not load accounting firm dashboard data.",
+    "totalClients": "Total Clients",
+    "totalClientsTrend": "Active business clients",
+    "pendingReviews": "Pending Document Reviews",
+    "pendingReviewsTrend": "Payroll and leave actions requiring attention",
+    "upcomingDeadlines": "Upcoming Deadlines",
+    "upcomingDeadlinesTrend": "Pending leave requests across clients",
+    "teamWorkload": "Team Workload",
+    "teamWorkloadTrend": "Based on current pending actions",
+    "capacity": "Capacity",
+    "pageTitle": "Accounting Firm Dashboard",
+    "pageSubtitle": "Overview of your firm's clients, tasks, and performance.",
+    "onboardClient": "Onboard Client",
+    "recentTitle": "Recent Approvals & Tasks",
+    "recentDesc": "A summary of your firm's most recent client activities.",
+    "noRecent": "No recent client activity found yet.",
+    "serviceTitle": "Service Distribution",
+    "serviceDesc": "Breakdown of services provided to clients.",
+    "priorityTitle": "High-Priority Client Tasks",
+    "priorityDesc": "Action items requiring immediate attention from your team.",
+    "pendingTasks": "Pending Tasks"
+  },
+  "AccountingClientPortfolio": {
+    "active": "Active",
+    "onboarding": "Onboarding",
+    "inactive": "Inactive",
+    "errorTitle": "Error",
+    "loadFailed": "Could not load client portfolio.",
+    "loadingClients": "Loading clients...",
+    "pageTitle": "Client Portfolio",
+    "pageSubtitle": "Manage your firm's clients and their services.",
+    "allClients": "All Clients",
+    "allClientsDesc": "A complete list of your firm's active and onboarding clients.",
+    "searchPlaceholder": "Search clients...",
+    "onboardClient": "Onboard Client",
+    "clientName": "Client Name",
+    "type": "Type",
+    "status": "Status",
+    "primaryContact": "Primary Contact",
+    "actions": "Actions",
+    "openMenu": "Open menu",
+    "viewClientDocuments": "View Client Documents",
+    "runScenarioAnalysis": "Run Scenario Analysis",
+    "generateClientDocument": "Generate Client Document",
+    "noClientsFound": "No clients found."
+  },
+  "AccountingClientDocuments": {
+    "pendingReview": "Pending Review",
+    "approved": "Approved",
+    "needsAction": "Needs Action",
+    "archived": "Archived",
+    "pageTitle": "Client Documents",
+    "pageSubtitle": "Review, manage, and collaborate on client payroll document runs.",
+    "hubTitle": "Document Hub",
+    "hubDescription": "Central repository for client payroll runs and review states.",
+    "searchPlaceholder": "Search documents...",
+    "export": "Export",
+    "loadingDocs": "Loading documents...",
+    "noDocs": "No client documents found.",
+    "all": "All",
+    "pendingTab": "Pending Review",
+    "actionTab": "Needs Action",
+    "approvedTab": "Approved",
+    "client": "Client",
+    "documentName": "Document Name",
+    "status": "Status",
+    "lastModified": "Last Modified",
+    "actions": "Actions",
+    "openMenu": "Open menu",
+    "viewMetadata": "View Run Metadata",
+    "approve": "Approve",
+    "markReady": "Mark as Ready for Review",
+    "archive": "Archive",
+    "flagNeedsAction": "Flag as Needs Action",
+    "statusUpdated": "Status updated",
+    "statusUpdatedDesc": "is now",
+    "updateFailed": "Update failed",
+    "updateFailedDesc": "Could not update document status.",
+    "errorTitle": "Error",
+    "loadFailed": "Could not load client documents.",
+    "payrollRunPrefix": "Payroll Run",
+    "clientFallback": "Client",
+    "accountingTeam": "Accounting Team",
+    "runId": "Run ID",
+    "companyId": "Company ID",
+    "source": "Source",
+    "assignedTo": "Assigned To",
+    "skippedEntries": "Skipped Entries",
+    "na": "N/A",
+    "backToDocuments": "Back to Documents",
+    "loadingDetail": "Loading document details...",
+    "detailLoadFailed": "Could not load document details.",
+    "detailNotFoundTitle": "Document not found",
+    "detailNotFoundDescription": "This payroll run could not be found or may have been removed.",
+    "detailSummaryTitle": "Run Details",
+    "detailSummaryDescription": "Review the metadata and processing details for this payroll run.",
+    "detailActionsTitle": "Actions",
+    "detailActionsDescription": "Update the review status for this payroll run.",
+    "typeLabel": "Type",
+    "monthLabel": "Payroll Period",
+    "createdAt": "Created At"
+  },
+  "AccountingDocumentInbox": {
+    "title": "Document Inbox",
+    "subtitle": "Documents and requests from the Lynvia admin team.",
+    "adminLabel": "Admin",
+    "defaultFileName": "document",
+    "unknownLabel": "Unknown",
+    "adminNotificationTitle": "Document uploaded by accounting firm",
+    "adminNotificationDescription": "uploaded \"{fileName}\" in response to a document request.",
+    "sentDocumentsTitle": "Documents from Lynvia",
+    "sentDocumentsDescription": "Files sent directly to you. Download them to save a local copy.",
+    "fromLabel": "From",
+    "downloadButton": "Download",
+    "emptyTitle": "Your inbox is empty",
+    "emptyDescription": "Documents and requests from Lynvia will appear here.",
+    "requestsTitle": "Document Requests",
+    "pendingCount": "{count} pending",
+    "requestsDescription": "Click a request or use the upload button to respond.",
+    "uploadButton": "Upload",
+    "uploadedBadge": "Uploaded",
+    "toast": {
+      "submittedTitle": "Document submitted",
+      "submittedDescription": "Your document has been sent to the Lynvia team.",
+      "uploadFailedTitle": "Upload failed",
+      "uploadFailedDescription": "Could not upload the document. Please try again."
+    },
+    "dialog": {
+      "title": "Upload Requested Document",
+      "dropzoneHint": "Drag and drop your file here or click to browse.",
+      "chooseFile": "Choose File",
+      "cancel": "Cancel",
+      "uploading": "Uploading...",
+      "submit": "Submit Document"
+    }
+  },
+  "AccountingAuditLogs": {
+    "pageTitle": "Audit Logs",
+    "pageSubtitle": "Track and review all activities within your firm for security and compliance.",
+    "sectionTitle": "Activity Log",
+    "sectionSubtitle": "A chronological record of all actions performed.",
+    "searchPlaceholder": "Search logs...",
+    "pickDate": "Pick a date",
+    "export": "Export",
+    "filterByUser": "Filter by user",
+    "filterByAction": "Filter by action",
+    "clearFilters": "Clear Filters",
+    "timestamp": "Timestamp",
+    "user": "User",
+    "action": "Action",
+    "client": "Client",
+    "details": "Details",
+    "loadingLogs": "Loading logs...",
+    "na": "N/A",
+    "openMenu": "Open menu",
+    "logDetails": "Log Details",
+    "ipAddress": "IP Address",
+    "noLogsMatch": "No logs match your filters.",
+    "allUsers": "All Users",
+    "allActions": "All Actions",
+    "auth": "Authentication",
+    "documents": "Documents",
+    "analysis": "Analysis",
+    "system": "System",
+    "errorTitle": "Error",
+    "fetchError": "Could not fetch audit logs."
+  },
+  "AccountingFinancialReports": {
+    "pageTitle": "Financial Reports",
+    "pageSubtitle": "Generate, view, and export financial reports for your clients.",
+    "reportGenerator": "Report Generator",
+    "reportGeneratorDesc": "Select a client, report type, and time period to generate an analysis.",
+    "selectClient": "Select a client...",
+    "selectReportType": "Select report type",
+    "selectTimePeriod": "Select time period",
+    "generating": "Generating...",
+    "generateReport": "Generate Report",
+    "uploadTitle": "Upload Client Data",
+    "uploadDesc": "Upload a CSV file with your client's accounting data for analysis.",
+    "templateHint": "Download the template to ensure your data is in the correct format.",
+    "downloadTemplate": "Download Template",
+    "clickToUpload": "Click to upload",
+    "dragDrop": "or drag and drop",
+    "fileTypes": "CSV, XLS, or XLSX (MAX. 10MB)",
+    "uploadProcess": "Upload & Process",
+    "noClientTitle": "No Client Selected",
+    "noClientDesc": "Please select a client from the dropdown above to begin.",
+    "pnlTitle": "Profit & Loss",
+    "pnlDesc": "An overview of revenue and profit for Q2 2024.",
+    "exportCsv": "Export CSV",
+    "downloadPdf": "Download PDF",
+    "monthlyBreakdown": "Monthly Breakdown (Revenue vs. Profit)",
+    "expenseBreakdown": "Expense Breakdown",
+    "category": "Category",
+    "amount": "Amount",
+    "reportForClient": "Generate a report for",
+    "reportForClientDesc": "Select your desired report type and period to get started.",
+    "revenue": "Revenue",
+    "profit": "Profit"
+  },
+  "AccountingTasks": {
+    "pageTitle": "Task Management",
+    "pageSubtitle": "Manage tasks for all your client companies.",
+    "taskHub": "Task Hub",
+    "taskHubDesc": "Track and manage tasks across all client portfolios.",
+    "addTask": "Add Task",
+    "addTaskDesc": "Create a new task for a client company.",
+    "searchPlaceholder": "Search tasks...",
+    "all": "All",
+    "pending": "Pending",
+    "inProgress": "In Progress",
+    "completed": "Completed",
+    "client": "Client",
+    "title": "Title",
+    "description": "Description",
+    "priority": "Priority",
+    "status": "Status",
+    "dueDate": "Due Date",
+    "actions": "Actions",
+    "noTasks": "No tasks found.",
+    "loading": "Loading tasks...",
+    "markComplete": "Mark Complete",
+    "markInProgress": "Mark In Progress",
+    "viewDetails": "View Details",
+    "lowPriority": "Low",
+    "mediumPriority": "Medium",
+    "highPriority": "High",
+    "urgentPriority": "Urgent",
+    "pendingStatus": "Pending",
+    "inProgressStatus": "In Progress",
+    "completedStatus": "Completed",
+    "save": "Save",
+    "cancel": "Cancel",
+    "selectClient": "Select client",
+    "selectPriority": "Select priority",
+    "taskCreated": "Task created",
+    "taskCreatedDesc": "The task has been added successfully.",
+    "taskUpdated": "Task updated",
+    "taskUpdatedDesc": "The task status has been updated.",
+    "error": "Error",
+    "errorCreating": "Could not create task.",
+    "errorLoading": "Could not load tasks.",
+    "filterByClient": "Filter by client",
+    "allClients": "All Clients",
+    "overdue": "Overdue",
+    "dueToday": "Due Today",
+    "dueSoon": "Due Soon"
+  },
+  "AccountingScenarioAnalysis": {
+    "pageTitle": "Client Scenario Analysis",
+    "pageSubtitle": "Model financial scenarios for your clients and get AI-driven insights.",
+    "errorTitle": "Error",
+    "selectedClientFallback": "Selected Client",
+    "selectClient": "Select a Client",
+    "selectClientDesc": "Choose a client to begin running a financial analysis.",
+    "loadingClients": "Loading clients...",
+    "chooseClient": "Select a client...",
+    "searchClientsPlaceholder": "Search clients by name or canton...",
+    "clientCount": "{count, plural, =0 {No clients} one {# client} other {# clients}}",
+    "clientName": "Client",
+    "canton": "Canton",
+    "actions": "Actions",
+    "selectAction": "Select",
+    "noClients": "No clients available",
+    "noClientsDescription": "Businesses attached to your accounting firm will appear here.",
+    "noMatchingClients": "No clients match this search",
+    "clearSearchHint": "Adjust or clear the search to see more clients.",
+    "selectClientErrorTitle": "Select a client",
+    "selectClientErrorDesc": "Choose a client before running scenario analysis.",
+    "loadClientsError": "Could not load clients for scenario analysis.",
+    "analysisComplete": "Analysis Complete",
+    "analysisCompleteDesc": "has been analyzed.",
+    "analysisFailed": "Analysis Failed",
+    "analysisFailedDesc": "The AI failed to interpret the results. Please try again.",
+    "saveFailed": "Save failed",
+    "saveFailedDesc": "Could not save analysis.",
+    "analysisSaved": "Analysis Saved",
+    "analysisSavedDesc": "Scenario analysis was saved and logged successfully.",
+    "workforceTitle": "Workforce Planning Scenario",
+    "workforceDesc": "Model the financial impact of hiring new employees for",
+    "runAnalysis": "Run Analysis & Get Insights",
+    "analyzing": "Analyzing Scenario...",
+    "resultsTitle": "Client Scenario Results",
+    "resultsDesc": "Fill out the form and run an analysis to see results and AI interpretation.",
+    "noClientTitle": "No Client Selected",
+    "noClientDesc": "Please select a client from the dropdown above to begin.",
+    "saveAnalysis": "Save Analysis",
+    "scenarioNamePlaceholder": "e.g., Q4 Engineering Expansion",
+    "hiresPlaceholder": "e.g., 5",
+    "salaryPlaceholder": "e.g., 90000",
+    "agePlaceholder": "e.g., 34",
+    "dependentsPlaceholder": "e.g., 1",
+    "selectCanton": "Select a canton",
+    "selectStatus": "Select status"
+  }
+}

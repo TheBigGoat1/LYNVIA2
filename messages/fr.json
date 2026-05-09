@@ -1,0 +1,4143 @@
+{
+  "HomePage": {
+    "title": "Intelligence financière et juridique suisse, simplifiée.",
+    "description": "Lynvia Digital combine des conseils juridiques basés sur l'IA, des analyses financières et des outils de gestion d'entreprise en une seule plateforme sécurisée.",
+    "getStarted": "Commencer",
+    "login": "Connexion",
+    "learnMore": "En savoir plus",
+    "keyFeatures": "Fonctionnalités clés",
+    "allInOnePlatform": "Votre plateforme suisse tout-en-un",
+    "platformDescription": "De la planification fiscale individuelle à la gestion d'entreprise complète, Lynvia Digital fournit les outils dont vous avez besoin pour naviguer dans les complexités suisses avec confiance.",
+    "feature1Title": "Assistant juridique alimenté par l'IA",
+    "feature1Description": "Obtenez des réponses instantanées et citées à vos questions juridiques suisses avec notre IA avancée basée sur RAG.",
+    "feature2Title": "Analyse de scénarios financiers",
+    "feature2Description": "Modélisez des optimisations fiscales, des comparaisons de salaires et des plans de retraite avec des interprétations basées sur l'IA.",
+    "feature3Title": "Génération de documents sécurisée",
+    "feature3Description": "Créez sans effort des documents suisses conformes à la loi, des contrats de travail aux formulaires fiscaux.",
+    "feature4Title": "Paie et RH simplifiées",
+    "feature4Description": "Gérez les employés, traitez la paie et gérez les demandes de congé avec nos outils de gestion intégrés.",
+    "heroCard1Title": "IA juridique",
+    "heroCard1Description": "Réponses instantanées",
+    "heroCard2Title": "Analyse de scénarios",
+    "heroCard2Description": "Optimiser les finances",
+    "heroCard3Title": "Génération de documents",
+    "heroCard3Description": "Conforme et rapide",
+    "heroCard4Title": "Paie et RH",
+    "heroCard4Description": "Automatisé",
+    "footerTerms": "Conditions d'utilisation",
+    "footerPrivacy": "Confidentialité",
+    "footerRights": "© 2024 Lynvia Digital. Tous droits réservés.",
+    "heroBadge": "Adopte par plus de 10 000 professionnels du droit dans le monde",
+    "heroUsers": "10 000+ utilisateurs",
+    "heroRating": "Note de 4,9/5",
+    "heroSecurity": "Certifie SOC 2",
+    "feature1Details": "Generez des documents juridiques complets avec des modeles et bibliotheques de clauses propulses par l'IA",
+    "feature2Details": "Suivi du temps precis, gestion des depenses et facturation automatisee",
+    "feature3Details": "Stockage centralise des documents avec controle des versions et partage securise",
+    "feature4Details": "Gestion complete du cycle de vie des dossiers avec flux de travail automatises",
+    "stats": {
+      "activeUsers": "Utilisateurs actifs",
+      "documentsCreated": "Documents crees",
+      "uptime": "Disponibilite",
+      "support": "Assistance"
+    },
+    "capabilities": {
+      "title": "Suite technologique juridique complete",
+      "subtitle": "Tout ce dont vous avez besoin, au meme endroit. Plus besoin de jongler entre plusieurs outils et abonnements.",
+      "documentManagement": {
+        "category": "Gestion documentaire",
+        "items": {
+          "aiDocGen": "Generation de documents assistee par IA",
+          "templates": "Bibliotheque de modeles (500+ modeles)",
+          "versioning": "Controle des versions et historique",
+          "esignature": "Integration de signature electronique"
+        }
+      },
+      "caseManagement": {
+        "category": "Gestion des dossiers",
+        "items": {
+          "tracking": "Suivi et organisation des affaires",
+          "deadlines": "Gestion des echeances et des taches",
+          "reminders": "Rappels des audiences",
+          "conflictChecks": "Verification des conflits"
+        }
+      },
+      "financialTools": {
+        "category": "Outils financiers",
+        "items": {
+          "timeBilling": "Suivi du temps et facturation",
+          "expenses": "Gestion des depenses",
+          "invoices": "Generation de factures",
+          "payments": "Traitement des paiements"
+        }
+      },
+      "communication": {
+        "category": "Communication client",
+        "items": {
+          "clientPortal": "Portail client",
+          "secureMessaging": "Messagerie securisee",
+          "emailIntegration": "Integration e-mail",
+          "videoConferencing": "Visioconference"
+        }
+      }
+    },
+    "useCases": {
+      "title": "Concu pour chaque professionnel du droit",
+      "subtitle": "Que vous exerciez seul ou dans un grand cabinet, nous avons la solution adaptee.",
+      "solo": {
+        "title": "Praticiens independants",
+        "description": "Tout ce qu'il faut pour gerer votre activite en toute autonomie",
+        "f1": "Automatisation documentaire",
+        "f2": "Gestion des clients",
+        "f3": "Suivi du temps",
+        "f4": "Acces mobile"
+      },
+      "smallFirms": {
+        "title": "Petits cabinets d'avocats",
+        "description": "Collaborez facilement avec votre equipe",
+        "f1": "Flux de travail d'equipe",
+        "f2": "Partage des affaires",
+        "f3": "Facturation centralisee",
+        "f4": "Acces base sur les roles"
+      },
+      "corporate": {
+        "title": "Juridique d'entreprise",
+        "description": "Des outils de niveau entreprise pour les juristes internes",
+        "f1": "Gestion des contrats",
+        "f2": "Suivi de la conformite",
+        "f3": "Integrations sur mesure",
+        "f4": "Securite avancee"
+      },
+      "clinics": {
+        "title": "Cliniques juridiques",
+        "description": "Gerez efficacement les dossiers pro bono et communautaires",
+        "f1": "Ouverture des dossiers",
+        "f2": "Evaluation des clients",
+        "f3": "Coordination des benevoles",
+        "f4": "Rapports d'impact"
+      }
+    },
+    "benefits": {
+      "title": "Pourquoi choisir LYNVIA DIGITAL",
+      "subtitle": "Concue par des professionnels du droit pour des professionnels du droit. Decouvrez une plateforme pensee pour votre facon de travailler.",
+      "saveTime": {
+        "title": "Gagnez du temps",
+        "description": "Automatisez les taches juridiques repetitives et reduisez jusqu'a 70 % le temps de preparation manuelle des documents.",
+        "stat": "70 % plus rapide"
+      },
+      "secure": {
+        "title": "Securise et conforme",
+        "description": "Chiffrement de niveau bancaire et conformite totale aux normes et reglementations du secteur juridique.",
+        "stat": "100 % securise"
+      },
+      "clientManagement": {
+        "title": "Gestion des clients",
+        "description": "Gerez toutes les informations clients, les dossiers et les communications depuis une plateforme centralisee.",
+        "stat": "10k+ clients geres"
+      },
+      "businessGrowth": {
+        "title": "Croissance de l'activite",
+        "description": "Developpez votre cabinet efficacement avec des outils concus pour evoluer avec vous.",
+        "stat": "Revenus x2"
+      }
+    },
+    "steps": {
+      "title": "Demarrez en quelques minutes",
+      "subtitle": "Notre processus d'integration simplifie vous rend operationnel rapidement pour vous concentrer sur l'essentiel.",
+      "signUp": {
+        "title": "Inscrivez-vous",
+        "description": "Creez votre compte en moins de 2 minutes grace a notre inscription simplifiee"
+      },
+      "setup": {
+        "title": "Configurez",
+        "description": "Personnalisez votre espace de travail et vos preferences selon votre methode"
+      },
+      "startWorking": {
+        "title": "Passez a l'action",
+        "description": "Commencez aussitot a gerer les dossiers, generer des documents et suivre le temps"
+      },
+      "growScale": {
+        "title": "Developpez et passez a l'echelle",
+        "description": "Exploitez des analyses puissantes pour optimiser et etendre votre activite"
+      }
+    },
+    "testimonials": {
+      "title": "Adopte par les professionnels du droit",
+      "subtitle": "Ne nous croyez pas sur parole. Voici ce que disent nos utilisateurs de LYNVIA DIGITAL.",
+      "sarah": {
+        "role": "Associee, Johnson & Associates",
+        "content": "LYNVIA DIGITAL a transforme notre facon de travailler. L'automatisation documentaire nous fait gagner a elle seule 15 heures par semaine."
+      },
+      "michael": {
+        "role": "Praticien independant",
+        "content": "En tant qu'avocat independant, cette plateforme me donne les outils d'un grand cabinet pour une fraction du cout. Un vrai tournant !"
+      },
+      "david": {
+        "role": "Associe gerant, Williams Legal Group",
+        "content": "Les fonctionnalites de gestion des dossiers sont remarquables. La collaboration de notre equipe n'a jamais ete aussi bonne."
+      },
+      "emily": {
+        "role": "Avocate collaboratrice",
+        "content": "Interface intuitive et fonctionnalites puissantes. Mon flux de travail quotidien est devenu bien plus efficace."
+      }
+    },
+    "integrations": {
+      "title": "Integrations fluides",
+      "subtitle": "Connectez les outils que vous utilisez deja. LYNVIA DIGITAL s'integre a vos applications et services preferes."
+    },
+    "faq": {
+      "title": "Questions frequentes",
+      "subtitle": "Vous avez des questions ? Nous avons les reponses. Vous ne trouvez pas ce que vous cherchez ? Contactez notre equipe d'assistance.",
+      "q1": {
+        "question": "Combien de temps faut-il pour demarrer ?",
+        "answer": "Vous pouvez creer un compte et commencer a utiliser LYNVIA DIGITAL en moins de 5 minutes. Notre parcours d'integration intuitif vous guide pas a pas."
+      },
+      "q2": {
+        "question": "Mes donnees sont-elles securisees ?",
+        "answer": "Absolument. Nous utilisons un chiffrement 256 bits de niveau bancaire, des audits de securite reguliers et nous respectons les principales normes du secteur juridique, dont SOC 2 Type II."
+      },
+      "q3": {
+        "question": "Puis-je importer mes donnees existantes ?",
+        "answer": "Oui ! Nous prenons en charge l'import depuis la plupart des systemes de gestion de cabinet. Notre equipe peut vous aider a la migration sans cout supplementaire."
+      },
+      "q4": {
+        "question": "Quel type d'assistance proposez-vous ?",
+        "answer": "Nous offrons une assistance par e-mail pour toutes les offres, avec un support prioritaire pour les niveaux Professional et Enterprise. Les clients Enterprise beneficient d'un gestionnaire de compte dedie."
+      },
+      "q5": {
+        "question": "Puis-je annuler a tout moment ?",
+        "answer": "Oui, vous pouvez annuler votre abonnement a tout moment sans penalite. Vous conservez l'acces jusqu'a la fin de votre periode de facturation."
+      },
+      "q6": {
+        "question": "Proposez-vous des formations ?",
+        "answer": "Nous proposons une documentation complete, des tutoriels video et des webinaires. Les clients Enterprise beneficient d'un onboarding personnalise et de sessions de formation."
+      }
+    },
+    "cta": {
+      "badge": "Commencez votre essai gratuit aujourd'hui",
+      "title": "Prêt à transformer votre cabinet ?",
+      "description": "Rejoignez des milliers de professionnels du droit qui ont déjà optimisé leur flux de travail avec LYNVIA DIGITAL. Commencez votre essai gratuit de 30 jours aujourd'hui, sans carte de crédit requise.",
+      "startTrial": "Commencer l'essai gratuit",
+      "watchDemo": "Voir la démo",
+      "bulletTrial": "Essai gratuit de 30 jours",
+      "bulletNoCard": "Aucune carte de crédit requise",
+      "bulletCancel": "Annulation à tout moment"
+    },
+    "footerDescription": "La plateforme de gestion de cabinet tout-en-un pour les professionnels du droit modernes.",
+    "footer": {
+      "product": {
+        "title": "Produit",
+        "features": "Fonctionnalites",
+        "pricing": "Tarifs",
+        "integrations": "Intégrations",
+        "security": "Securite"
+      },
+      "resources": {
+        "title": "Ressources",
+        "documentation": "Documentation complete",
+        "helpCenter": "Centre d'aide",
+        "blog": "Actualites",
+        "webinars": "Webinaires"
+      },
+      "company": {
+        "title": "Entreprise",
+        "about": "A propos",
+        "careers": "Carrieres",
+        "contact": "Nous contacter",
+        "partners": "Partenaires"
+      },
+      "cookies": "Politique des cookies"
+    }
+  },
+  "Sidebar": {
+    "dashboard": "Tableau de bord",
+    "legalAssistant": "Assistant juridique",
+    "documentGenerator": "Générateur de documents",
+    "scenarioCalculator": "Calculateur de scénarios",
+    "deadlines": "Échéances",
+    "purchaseServices": "Acheter des services",
+    "taxServices": "Déclaration fiscale annuelle",
+    "myDocuments": "Mes documents",
+    "myOrders": "Mes commandes",
+    "notifications": "Notifications",
+    "settings": "Profil",
+    "notificationTester": "Journal technique (développement)",
+    "communications": "Communications",
+    "employeeManagement": "Gestion des employés",
+    "salaryCostOverview": "Aperçu des coûts salariaux",
+    "leaveManagement": "Gestion des congés",
+    "documentCenter": "Centre de documents",
+    "financialScenarios": "Scénarios financiers",
+    "virtualCFO": "CFO virtuel",
+    "reportsAnalytics": "Rapports et analyses",
+    "aiAssistant": "Assistant IA",
+    "tasks": "Tâches",
+    "billing": "Facturation",
+    "clientPortfolio": "Portefeuille clients",
+    "clientDocuments": "Documents clients",
+    "documentInbox": "Boîte de réception",
+    "scenarioAnalysis": "Analyse de scénarios",
+    "analytics": "Analytique",
+    "auditLogs": "Journaux d'audit",
+    "users": "Utilisateurs",
+    "businesses": "Entreprises",
+    "accountingFirms": "Cabinets comptables",
+    "financialAccounts": "Comptes financiers",
+    "orderManagement": "Gestion des commandes",
+    "documentApprovals": "Approbations de documents",
+    "legalDatabase": "Base juridique",
+    "ragPlayground": "Terrain de jeu RAG",
+    "systemLogs": "Journaux système",
+    "aiMonitoring": "Surveillance IA",
+    "notificationCenter": "Centre de notifications"
+  },
+  "DeadlinesPage": {
+    "title": "Suivi des échéances",
+    "subtitle": "Suivez vos échéances fiscales et documentaires personnelles au même endroit.",
+    "addDeadline": {
+      "title": "Ajouter une échéance",
+      "description": "Créez vos propres rappels."
+    },
+    "form": {
+      "titleLabel": "Titre",
+      "titlePlaceholder": "Déposer la déclaration fiscale",
+      "dueDateLabel": "Date limite",
+      "noteLabel": "Note (optionnelle)",
+      "notePlaceholder": "Checklist ou détails des documents",
+      "saving": "Enregistrement...",
+      "submit": "Ajouter une échéance"
+    },
+    "myDeadlines": {
+      "title": "Mes échéances",
+      "loading": "Chargement...",
+      "count": "{count} échéance(s) personnelle(s)",
+      "empty": "Aucune échéance personnelle pour le moment.",
+      "dueDate": "Échéance le {date}"
+    },
+    "systemFollowUps": {
+      "title": "Relances système",
+      "description": "Générées automatiquement à partir des commandes en attente.",
+      "empty": "Aucune relance de commande en attente pour le moment.",
+      "suggestedBy": "Relance suggérée avant le {date}"
+    },
+    "badges": {
+      "overdue": "En retard",
+      "done": "Terminé"
+    },
+    "systemFallback": {
+      "serviceOrder": "Commande de service",
+      "pending": "en attente"
+    },
+    "toasts": {
+      "errorTitle": "Erreur",
+      "loadDeadlinesFailed": "Impossible de charger les échéances.",
+      "missingFieldsTitle": "Champs manquants",
+      "missingFieldsDescription": "Le titre et la date limite sont requis.",
+      "createFailedTitle": "Échec de création",
+      "createFailedDescription": "Impossible d'enregistrer l'échéance.",
+      "updateFailedTitle": "Échec de mise à jour",
+      "updateFailedDescription": "Impossible de mettre à jour l'échéance.",
+      "deleteFailedTitle": "Échec de suppression",
+      "deleteFailedDescription": "Impossible de supprimer l'échéance."
+    }
+  },
+  "PurchaseServicesPage": {
+    "title": "Tarification de l'accès individuel",
+    "subtitle": "Accès de base gratuit avec options à la carte.",
+    "freeVersion": {
+      "title": "Version gratuite",
+      "badge": "Inclus",
+      "description": "Ce que chaque compte individuel obtient sans frais mensuels.",
+      "features": {
+        "aiExchanges": "Échanges IA : limités",
+        "scenariosPerMonth": "2 scénarios par mois (hors 3e pilier)",
+        "pillar3a": "Scénarios 3e pilier : gratuits et illimités",
+        "documentPreview": "Aperçu gratuit du document"
+      }
+    },
+    "addOns": {
+      "additionalScenario": {
+        "title": "Scénario supplémentaire",
+        "description": "Ajoutez un scénario supplémentaire hors 3e pilier pour ce mois."
+      },
+      "reviewedDocument": {
+        "title": "Document relu, corrigé et approuvé",
+        "description": "Relecture et correction professionnelle Lynvia avant validation finale."
+      },
+      "instantPdf": {
+        "title": "Téléchargement PDF instantané non relu",
+        "description": "Export PDF immédiat non relu pour les documents générés."
+      }
+    },
+    "buttons": {
+      "buyAddOn": "Acheter l'option",
+      "redirecting": "Redirection..."
+    },
+    "compliance": {
+      "title": "Note de conformité documentaire",
+      "description": "Les documents Lynvia sont générés selon le droit suisse et conçus pour respecter les exigences légales."
+    },
+    "fallback": {
+      "anonymousUser": "Utilisateur anonyme",
+      "individualAccessAddOn": "Option d'accès individuel"
+    },
+    "toasts": {
+      "loginRequired": {
+        "title": "Connexion requise",
+        "description": "Veuillez vous connecter pour acheter des options."
+      },
+      "checkoutFailed": {
+        "title": "Échec du paiement",
+        "fallback": "Impossible de créer la session de paiement.",
+        "stripeNotLoaded": "Stripe.js n'est pas encore chargé.",
+        "retry": "Veuillez réessayer."
+      }
+    }
+  },
+  "Auth": {
+    "loginTitle": "Connexion",
+    "loginDescription": "Saisissez votre e-mail ci-dessous pour vous connecter à votre compte.",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "nom@example.com",
+    "passwordLabel": "Mot de passe",
+    "forgotPassword": "Mot de passe oublié ?",
+    "rememberMe": "Se souvenir de moi",
+    "loginButton": "Se connecter",
+    "noAccount": "Vous n'avez pas de compte ?",
+    "signUp": "S'inscrire",
+    "showPassword": "Afficher le mot de passe",
+    "hidePassword": "Masquer le mot de passe",
+    "cantonsLoadWarningTitle": "Liste des cantons",
+    "cantonsLoadWarningDescription": "Impossible d’actualiser depuis le serveur ; affichage de la liste intégrée.",
+    "toast": {
+      "loginSuccessTitle": "Connexion réussie",
+      "loginSuccessDescription": "Bon retour parmi nous !",
+      "loginFailedTitle": "Échec de la connexion",
+      "userDataNotFound": "Données utilisateur non trouvées. Veuillez contacter le support.",
+      "accountPendingTitle": "Compte en attente d'approbation",
+      "accountPendingDescription": "Votre compte est en cours d'examen. Vous serez averti par e-mail une fois qu'il sera approuvé.",
+      "accountSuspendedTitle": "Compte suspendu",
+      "accountSuspendedDescription": "Votre compte a été suspendu. Veuillez contacter le support pour obtenir de l'aide."
+    },
+    "registerTitle": "Créer un compte",
+    "registerDescription": "Choisissez votre type de compte et remplissez les informations pour commencer.",
+    "individualTab": "Particulier",
+    "businessTab": "Entreprise",
+    "accountingFirmTab": "Fiduciaire",
+    "firstNameLabel": "Prénom",
+    "firstNamePlaceholder": "Jean",
+    "lastNameLabel": "Nom",
+    "lastNamePlaceholder": "Dupont",
+    "companyNameLabel": "Nom de l'entreprise",
+    "companyNamePlaceholder": "Votre Entreprise SA",
+    "firmNameLabel": "Nom de la fiduciaire",
+    "firmNamePlaceholder": "Votre Fiduciaire",
+    "primaryContactNameLabel": "Nom du contact principal",
+    "primaryContactNamePlaceholder": "Jean Dupont",
+    "passwordDescription": "8 caractères min., 1 chiffre.",
+    "phoneLabel": "Numéro de téléphone",
+    "phonePlaceholder": "+41 XX XXX XX XX",
+    "cantonLabel": "Canton",
+    "cantonPlaceholder": "Sélectionnez un canton",
+    "termsLabel": "J'accepte les {termsLink}",
+    "termsLinkText": "Termes et Conditions",
+    "createAccountButton": "Créer un compte",
+    "creatingAccountButton": "Création du compte...",
+    "alreadyHaveAccount": "Vous avez déjà un compte ?",
+    "adminSetupDescription": "Pour la configuration de l'administration de la plateforme :",
+    "createAdminButton": "Créer un compte administrateur",
+    "toastRegister": {
+      "successTitle": "Inscription réussie",
+      "successDescriptionActive": "Votre compte a été créé.",
+      "successDescriptionPending": "Votre inscription a été soumise et est en attente d'approbation.",
+      "failedTitle": "Échec de l'inscription"
+    },
+    "toastAdmin": {
+      "successTitle": "Compte administrateur créé",
+      "successDescription": "L'utilisateur administrateur a été créé avec succès.",
+      "existsTitle": "L'administrateur existe déjà",
+      "existsDescription": "Connexion en tant qu'administrateur.",
+      "loginFailedTitle": "Échec de la connexion administrateur",
+      "seedingFailedTitle": "Échec de la création de l'administrateur",
+      "fallback": "Une erreur s'est produite. Veuillez réessayer.",
+      "invalidCredentials": "E-mail ou mot de passe invalide. Veuillez vérifier et réessayer.",
+      "userNotFound": "Aucun compte trouvé pour cet e-mail.",
+      "userDisabled": "Ce compte a été désactivé. Contactez le support.",
+      "tooManyRequests": "Trop de tentatives. Attendez quelques minutes et réessayez.",
+      "networkError": "Erreur réseau. Vérifiez votre connexion et réessayez.",
+      "emailAlreadyInUse": "Cet e-mail est déjà utilisé.",
+      "weakPassword": "Le mot de passe est trop faible. Utilisez au moins 8 caractères et un chiffre.",
+      "requiresRecentLogin": "Pour des raisons de sécurité, reconnectez-vous et réessayez cette action.",
+      "operationNotAllowed": "Cette méthode de connexion n'est pas activée.",
+      "permissionDenied": "Accès refusé. Reconnectez-vous ou contactez le support si cela persiste.",
+      "unavailable": "Service temporairement indisponible. Réessayez dans un instant."
+    }
+  },
+  "AppHeader": {
+    "morning": "Bonjour",
+    "afternoon": "Bon après-midi",
+    "evening": "Bonsoir",
+    "greetingFallback": "Bienvenue",
+    "menu": "Menu",
+    "toggleNavigation": "Ouvrir ou fermer la navigation",
+    "togglePrivacyMode": "Activer/désactiver le mode confidentialité",
+    "showFinancialData": "Afficher les données financières",
+    "hideFinancialData": "Masquer les données financières",
+    "swissData": "Données suisses",
+    "dataEncrypted": "Vos données sont chiffrées et stockées en Suisse."
+  },
+  "DashboardLayout": {
+    "footer": "Souveraineté des données suisses — Lynvia est conçue pour la confidentialité et le contrôle de qualité suisse."
+  },
+  "FiduciaryClientAccessGate": {
+    "verifying": "Vérification de l'accès client fiduciaire...",
+    "accessRestricted": "Accès restreint",
+    "accessRestrictedDesc": "L'accès aux entreprises est réservé aux clients de votre fiduciaire et n'est disponible que pour les sociétés clientes assignées.",
+    "notLinked": "Votre compte d'entreprise n'est actuellement pas lié à un portefeuille client fiduciaire autorisé."
+  },
+  "ProfileCompletionGate": {
+    "verifying": "Vérification du profil...",
+    "redirecting": "Redirection..."
+  },
+  "ForgotPassword": {
+    "title": "Réinitialiser votre mot de passe",
+    "description": "Saisissez l'e-mail de votre compte. Nous vous enverrons un lien de réinitialisation.",
+    "emailLabel": "E-mail",
+    "emailPlaceholder": "nom@exemple.ch",
+    "submit": "Envoyer le lien",
+    "backToLogin": "Retour à la connexion",
+    "toastSuccessTitle": "Lien envoyé",
+    "toastSuccess": "Consultez votre boîte de réception pour la suite.",
+    "toastError": "Impossible d'envoyer l'e-mail de réinitialisation."
+  },
+  "HomeLanding": {
+    "onboardingCompleteTitle": "Profil enregistré",
+    "onboardingCompleteDescription": "Explorez le site ou connectez-vous via Accès client quand vous voulez."
+  },
+  "PendingApproval": {
+    "title": "Compte en attente d'approbation",
+    "subtitle": "Merci pour votre inscription.",
+    "description": "Votre compte est actuellement en cours d'examen par notre équipe. Ce processus prend généralement 1 à 2 jours ouvrables. Vous recevrez une notification par e-mail dès que votre compte sera approuvé. Aucune autre action n'est requise de votre part pour le moment.",
+    "contactLabel": "Des questions ?",
+    "contactDescription": "Si vous avez des questions, veuillez contacter notre équipe d'assistance à",
+    "logoutButton": "Se déconnecter"
+  },
+  "CompleteProfile": {
+    "title": "Complétez le profil de votre entreprise",
+    "description": "Veuillez renseigner les informations de votre entreprise pour continuer. Tous les champs sont obligatoires.",
+    "sections": {
+      "commercialRegister": "Registre du commerce (RC)",
+      "vat": "TVA",
+      "employees": "Employés"
+    },
+    "labels": {
+      "companyName": "Raison sociale",
+      "directorFirstName": "Prénom du directeur",
+      "directorLastName": "Nom du directeur",
+      "address": "Adresse",
+      "postalCode": "Code postal",
+      "city": "Ville",
+      "canton": "Canton",
+      "industry": "Secteur d'activité",
+      "commercialRegister": "L'entreprise est-elle inscrite au Registre du commerce ?",
+      "cheNumber": "Numéro CHE",
+      "submittedToVAT": "L'entreprise est-elle assujettie à la TVA ?",
+      "vatMethod": "Méthode de décompte TVA",
+      "vatNumber": "Numéro TVA (CHE-xxx.xxx.xxx TVA)",
+      "hasEmployees": "L'entreprise a-t-elle des employés ?",
+      "employeeInsurances": "Assurances en place",
+      "withholdingTax": "Y a-t-il des employés soumis à l'impôt à la source ?"
+    },
+    "placeholders": {
+      "companyName": "Nom de votre entreprise",
+      "directorFirstName": "ex. Jean",
+      "directorLastName": "ex. Dupont",
+      "address": "Rue et numéro",
+      "postalCode": "ex. 1201",
+      "city": "ex. Genève",
+      "cheNumber": "ex. CHE-123.456.789",
+      "vatNumber": "ex. CHE-123.456.789 TVA",
+      "industry": "Commencez à taper votre secteur..."
+    },
+    "options": {
+      "yes": "Oui",
+      "no": "Non",
+      "vatMethodEffective": "Méthode effective",
+      "vatMethodEffectiveDesc": "Décompte trimestriel (tous les 3 mois)",
+      "vatMethodTdfn": "Taux de la dette fiscale nette (TDFN)",
+      "vatMethodTdfnDesc": "Décompte semestriel (tous les 6 mois)"
+    },
+    "insurances": {
+      "accident": "Assurance accidents (LAA)",
+      "sickness": "Assurance indemnité journalière maladie (IJM)",
+      "lpp": "Prévoyance professionnelle (LPP / 2e pilier)",
+      "avs": "AVS / AHV (1er pilier)",
+      "avsNote": "obligatoire"
+    },
+    "button": "Finaliser le profil",
+    "buttonSaving": "Enregistrement...",
+    "toast": {
+      "successTitle": "Profil mis à jour",
+      "successDescription": "Le profil de votre entreprise a été complété avec succès.",
+      "errorTitle": "Échec de la mise à jour"
+    }
+  },
+  "LanguageToggle": {
+    "toggle": "Changer de langue"
+  },
+  "Navigation": {
+    "Dashboard": "Tableau de bord",
+    "LegalAssistant": "Assistant Juridique",
+    "DocumentGenerator": "Générateur de Documents",
+    "ScenarioCalculator": "Calculateur de Scénarios",
+    "TaxServices": "Services Fiscaux",
+    "MyDocuments": "Mes Documents",
+    "MyOrders": "Mes Commandes",
+    "Notifications": "Notifications",
+    "Settings": "Paramètres",
+    "NotificationTester": "Cron des Notifications",
+    "EmployeeManagement": "Gestion des Employés",
+    "PayrollProcessing": "Traitement de la Paie",
+    "LeaveManagement": "Gestion des Congés",
+    "DocumentCenter": "Centre de Documents",
+    "FinancialScenarios": "Scénarios Financiers",
+    "VirtualCFO": "CFO Virtuel",
+    "ReportsAnalytics": "Rapports & Analyses",
+    "ClientPortfolio": "Portefeuille Clients",
+    "ClientDocuments": "Documents Clients",
+    "ScenarioAnalysis": "Analyse de Scénarios",
+    "FinancialReports": "Rapports Financiers",
+    "AuditLogs": "Journaux d'Audit",
+    "PurchaseServices": "Acheter des Services",
+    "UserManagement": "Gestion des Utilisateurs",
+    "CompanyManagement": "Gestion des Sociétés",
+    "OrderManagement": "Gestion des Commandes",
+    "DocumentApprovals": "Approbations de Documents",
+    "LegalDatabase": "Base de Données Juridique",
+    "RAGPlayground": "Terrain de Jeu RAG",
+    "SystemLogs": "Journaux Système",
+    "AIMonitoring": "Surveillance IA",
+    "salaryCostOverview": "Bulletins de salaire & communications"
+  },
+  "Header": {
+    "searchPlaceholder": "Posez une question juridique...",
+    "openNotifications": "Ouvrir les notifications",
+    "notificationsTitle": "Notifications",
+    "unreadSummary": "{count, plural, =0 {Aucune notification non lue} one {# notification non lue} other {# notifications non lues}}",
+    "markAllRead": "Tout marquer comme lu",
+    "loadingNotifications": "Chargement des notifications...",
+    "noNotificationsTitle": "Aucune notification pour le moment",
+    "noNotificationsDescription": "Les nouvelles mises a jour apparaitront ici.",
+    "viewAllNotifications": "Voir toutes les notifications",
+    "newBadge": "Nouveau",
+    "justNow": "A l instant"
+  },
+  "AdminSettings": {
+    "title": "Paramètres administrateur",
+    "subtitle": "Gérez les paramètres à l'échelle du système et les intégrations d'API.",
+    "saveButton": "Enregistrer les paramètres",
+    "savingButton": "Enregistrement...",
+    "toastSuccessTitle": "Paramètres enregistrés",
+    "stripeCard": {
+      "title": "Clés API Stripe",
+      "description": "Gérez les clés API Stripe utilisées pour le traitement des paiements sur toute la plateforme.",
+      "publishableKeyLabel": "Clé publiable Stripe",
+      "publishableKeyPlaceholder": "pk_test_...",
+      "secretKeyLabel": "Clé secrète Stripe",
+      "secretKeyPlaceholder": "sk_test_...",
+      "secretKeyDescription": "La clé secrète est en écriture seule et ne sera pas affichée après avoir été enregistrée."
+    },
+    "aiModelCard": {
+      "title": "Configuration du modèle d'IA",
+      "description": "Configurez les modèles d'IA générative utilisés pour diverses fonctionnalités.",
+      "modelLabel": "Modèle de texte par défaut",
+      "modelPlaceholder": "Sélectionnez un modèle",
+      "googleApiKeyLabel": "Clé API Google AI",
+      "googleApiKeyPlaceholder": "AIza...",
+      "temperatureLabel": "Température (Créativité)",
+      "safetySettingLabel": "Niveau de sécurité du contenu préjudiciable"
+    },
+    "emailCard": {
+      "title": "Paramètres e-mail (SMTP)",
+      "description": "Configurez le serveur SMTP pour l'envoi d'e-mails transactionnels.",
+      "hostLabel": "Hôte SMTP",
+      "hostPlaceholder": "smtp.exemple.com",
+      "portLabel": "Port SMTP",
+      "portPlaceholder": "587",
+      "userLabel": "Nom d'utilisateur SMTP",
+      "userPlaceholder": "utilisateur",
+      "passwordLabel": "Mot de passe SMTP",
+      "passwordPlaceholder": "motdepasse",
+      "fromLabel": "E-mail 'De' par défaut",
+      "fromPlaceholder": "noreply@exemple.com",
+      "fromNameLabel": "Nom 'De' par défaut",
+      "fromNamePlaceholder": "Lynvia Digital"
+    },
+    "featureFlagsCard": {
+      "title": "Feature Flags",
+      "description": "Activez ou désactivez globalement les principales fonctionnalités de la plateforme.",
+      "docGenLabel": "Générateur de documents",
+      "docGenDescription": "Permettre aux utilisateurs de générer des documents juridiques et commerciaux.",
+      "cfoLabel": "CFO virtuel",
+      "cfoDescription": "Activer l'analyse financière basée sur l'IA pour les entreprises.",
+      "scenarioLabel": "Calculateur de scénarios",
+      "scenarioDescription": "Permettre aux utilisateurs de modéliser des scénarios financiers."
+    },
+    "maintenanceCard": {
+      "title": "Maintenance de la plateforme",
+      "description": "Mettez la plateforme en mode maintenance pour tous les utilisateurs non administrateurs.",
+      "enableLabel": "Activer le mode maintenance",
+      "enableDescription": "Lorsque cette option est activée, seuls les administrateurs pourront se connecter.",
+      "messageLabel": "Message de maintenance",
+      "messagePlaceholder": "La plateforme est en maintenance..."
+    },
+    "legalCard": {
+      "title": "Juridique et conformité",
+      "description": "Gérez les liens vers les documents juridiques et les messages de consentement.",
+      "termsUrlLabel": "URL des conditions d'utilisation",
+      "termsUrlPlaceholder": "https://exemple.com/conditions",
+      "privacyUrlLabel": "URL de la politique de confidentialité",
+      "privacyUrlPlaceholder": "https://exemple.com/confidentialite",
+      "cookieMessageLabel": "Message de consentement aux cookies",
+      "cookieMessagePlaceholder": "Ce site utilise des cookies..."
+    }
+  },
+  "FinancialAccounts": {
+    "title": "Comptes financiers",
+    "selectCompany": "Sélectionnez une entreprise...",
+    "companyLabel": "Entreprise",
+    "periodPlaceholder": "ex. T1 2025, 2024, H1 2025",
+    "periodLabel": "Période comptable",
+    "entryTitle": "Saisir les comptes clients",
+    "entryDescription": "Sélectionnez l'entreprise, saisissez la période et complétez les chiffres P&L (CHF).",
+    "figuresTitle": "Chiffres financiers",
+    "costCentresTitle": "Centres de coûts personnalisés",
+    "saveButton": "Enregistrer les chiffres",
+    "analyzeButton": "Lancer l'analyse IA"
+  },
+  "AdminDashboard": {
+    "heroEyebrow": "Opérations",
+    "title": "Tableau de Bord Admin",
+    "subtitle": "Aperçu du système et gestion de la plateforme.",
+    "kpi": {
+      "totalUsers": "Utilisateurs Totaux",
+      "totalUsersDescription": "Tous les comptes utilisateurs",
+      "pendingApprovals": "Approbations en Attente",
+      "pendingApprovalsDescription": "Entreprises & fiduciaires en attente d'examen",
+      "activeCompanies": "Entreprises Actives",
+      "activeCompaniesDescription": "Comptes professionnels approuvés",
+      "aiUsage": "Utilisation IA (24h)",
+      "aiUsageDescription": "Activité normale"
+    },
+    "userGrowth": {
+      "title": "Croissance des Utilisateurs",
+      "subtitle": "Utilisateurs totaux sur la plateforme ces 6 derniers mois.",
+      "legend": "Utilisateurs Totaux"
+    },
+    "userRoles": {
+      "title": "Répartition des Rôles",
+      "subtitle": "Répartition des utilisateurs par rôle assigné.",
+      "individual": "Particulier",
+      "business": "Entreprise",
+      "accountingFirm": "Fiduciaire",
+      "admin": "Admin"
+    },
+    "approvals": {
+      "title": "Approbations en Attente",
+      "subtitle": "Nouvelles entreprises et fiduciaires en attente de votre examen.",
+      "viewAll": "Tout voir",
+      "table": {
+        "companyName": "Nom Entreprise/Fiduciaire",
+        "type": "Type",
+        "date": "Date d'inscription",
+        "actions": "Actions"
+      },
+      "review": "Examiner",
+      "noApprovals": "Aucune approbation en attente."
+    }
+  },
+  "DocumentGenerator": {
+    "title": "Générateur de Documents",
+    "subtitle": "Sélectionnez une catégorie pour commencer. {count} modèles disponibles.",
+    "searchPlaceholder": "Rechercher un modèle...",
+    "noResults": "Aucun résultat pour \"{query}\"",
+    "clearSearch": "Effacer la recherche",
+    "backToCategories": "Retour aux catégories",
+    "backToTemplates": "Retour aux modèles",
+    "templateCount": "{count, plural, one {{count} modèle} other {{count} modèles}}",
+    "form": {
+      "title": "Informations requises",
+      "description": "Remplissez les champs pour générer votre document.",
+      "familyMembersUi": {
+        "addMember": "Ajouter une personne assurée",
+        "namePlaceholder": "Nom complet",
+        "policyPlaceholder": "Numéro de police (facultatif)",
+        "remove": "Retirer",
+        "hint": "Personnes assurées avec vous sur cette police (facultatif)."
+      },
+      "fields": {
+        "personalName": "Votre nom complet",
+        "dateOfBirth": "Date de naissance",
+        "personalAddress": "Votre adresse",
+        "personalPostalCode": "Code postal",
+        "personalCity": "Ville",
+        "familyMembers": "Membres de la famille (noms et dates de naissance)",
+        "newInsurer": "Nouvelle caisse-maladie",
+        "insurerAddress": "Adresse de l'assureur",
+        "startDate": "Date de début",
+        "currentInsurer": "Assureur actuel",
+        "policyNumber": "Numéro de police",
+        "terminationDate": "Date de résiliation",
+        "insurer": "Assureur",
+        "currentModel": "Modèle actuel",
+        "newModel": "Nouveau modèle",
+        "effectiveDate": "Date d'effet",
+        "currentFranchise": "Franchise actuelle",
+        "newFranchise": "Nouvelle franchise",
+        "employerName": "Nom de l'employeur",
+        "complementaryInsurances": "Assurances complémentaires à résilier",
+        "refusalDate": "Date du refus",
+        "treatmentDescription": "Description du traitement refusé",
+        "reasonForContestation": "Motifs de contestation",
+        "serviceType": "Type de service",
+        "serviceStartDate": "Date de début du service",
+        "serviceEndDate": "Date de fin du service",
+        "retailerName": "Nom du vendeur",
+        "retailerAddress": "Adresse du vendeur",
+        "productName": "Nom du produit",
+        "purchaseDate": "Date d'achat",
+        "defectDescription": "Description du défaut",
+        "companyName": "Nom de l'entreprise",
+        "companyAddress": "Adresse de l'entreprise",
+        "workDescription": "Description des travaux",
+        "executionDate": "Date d'exécution",
+        "originalDefectDate": "Date du signalement initial",
+        "repairDate": "Date de la réparation",
+        "repairDates": "Dates des réparations (liste)",
+        "desiredOutcome": "Résultat souhaité",
+        "debtorName": "Nom du débiteur",
+        "debtorAddress": "Adresse du débiteur",
+        "obligationDescription": "Description de l'obligation",
+        "originalDueDate": "Date d'échéance originale",
+        "amount": "Montant",
+        "newDeadline": "Nouveau délai",
+        "sellerName": "Nom du vendeur",
+        "sellerAddress": "Adresse du vendeur",
+        "productDescription": "Description du produit",
+        "orderDate": "Date de commande",
+        "promisedDeliveryDate": "Date de livraison promise",
+        "miseEnDemeureDate": "Date de la mise en demeure",
+        "amountPaid": "Montant payé",
+        "invoiceNumber": "Numéro de facture",
+        "documentsRequested": "Documents demandés",
+        "creditorName": "Nom du créancier",
+        "creditorAddress": "Adresse du créancier",
+        "claimDescription": "Description de la créance",
+        "waiverEndDate": "Date de fin de renonciation",
+        "contractType": "Type de contrat",
+        "priceIncrease": "Augmentation contestée",
+        "voucherValue": "Valeur du bon",
+        "expirationDate": "Date d'expiration",
+        "airline": "Compagnie aérienne",
+        "airlineAddress": "Adresse de la compagnie",
+        "flightNumber": "Numéro de vol",
+        "flightDate": "Date du vol",
+        "ticketPrice": "Prix du billet",
+        "bookingReference": "Référence de réservation",
+        "expensesDescription": "Description des frais",
+        "totalAmount": "Montant total",
+        "delayDuration": "Durée du retard",
+        "departureCity": "Ville de départ",
+        "arrivalCity": "Ville d'arrivée",
+        "flightDistance": "Distance du vol",
+        "pirNumber": "Numéro PIR",
+        "issueType": "Type de problème",
+        "damageDescription": "Description du dommage/problème",
+        "claimedAmount": "Montant réclamé",
+        "itemsList": "Liste des objets",
+        "invoiceDate": "Date de la facture",
+        "contestationReason": "Motif de contestation",
+        "quotedAmount": "Montant du devis",
+        "quoteDate": "Date du devis",
+        "originalDate": "Date de la prestation originale",
+        "contestedFees": "Frais contestés",
+        "reason": "Raison",
+        "originalLetterDate": "Date de votre premier courrier",
+        "pursuitOffice": "Office des poursuites",
+        "pursuitOfficeAddress": "Adresse de l'office",
+        "pursuitNumber": "Numéro de poursuite",
+        "proposedAmount": "Montant proposé",
+        "paymentDate": "Date de paiement proposée",
+        "associationName": "Nom de l'association",
+        "associationAddress": "Adresse de l'association",
+        "totalDebtAmount": "Montant total de la dette",
+        "creditorsList": "Liste des créanciers",
+        "monthlyIncome": "Revenu mensuel",
+        "monthlyExpenses": "Charges mensuelles",
+        "contractDate": "Date du contrat",
+        "contractDescription": "Description du contrat",
+        "errorDescription": "Description de l'erreur/tromperie",
+        "obligoDate": "Date de l'accord Obligo",
+        "circumstances": "Circonstances",
+        "subscriptionDate": "Date de souscription",
+        "telecomProvider": "Opérateur télécom",
+        "telecomAddress": "Adresse de l'opérateur",
+        "premiumNumber": "Numéro surtaxé",
+        "chargedAmount": "Montant facturé",
+        "incorrectData": "Données incorrectes",
+        "correctData": "Données correctes",
+        "dataToDelete": "Données à supprimer",
+        "landlordName": "Nom du bailleur",
+        "landlordAddress": "Adresse du bailleur",
+        "propertyAddress": "Adresse du bien loué",
+        "leaseReference": "Référence du bail",
+        "leaseStartDate": "Date d'entrée en vigueur du bail",
+        "newTenantName": "Nom du candidat locataire",
+        "newTenantContact": "Coordonnées du candidat",
+        "desiredTerminationDate": "Date de départ souhaitée",
+        "currentRent": "Loyer actuel",
+        "requestedRent": "Loyer demandé",
+        "justification": "Justification",
+        "notificationDate": "Date de notification de la hausse",
+        "proposedIncrease": "Augmentation proposée",
+        "elcomAddress": "Adresse d'ElCom",
+        "electricityProvider": "Fournisseur d'électricité",
+        "currentRate": "Tarif actuel",
+        "newRate": "Nouveau tarif",
+        "increasePercentage": "Pourcentage d'augmentation",
+        "cedantName": "Nom du cédant",
+        "cedantAddress": "Adresse du cédant",
+        "cessionaireName": "Nom du cessionnaire",
+        "cessionaireAddress": "Adresse du cessionnaire",
+        "claimAmount": "Montant de la créance",
+        "transferPrice": "Prix de cession",
+        "lenderName": "Nom du prêteur",
+        "lenderAddress": "Adresse du prêteur",
+        "borrowerName": "Nom de l'emprunteur",
+        "borrowerAddress": "Adresse de l'emprunteur",
+        "loanAmount": "Montant du prêt",
+        "interestRate": "Taux d'intérêt",
+        "repaymentTerms": "Modalités de remboursement",
+        "clientName": "Nom du client",
+        "clientAddress": "Adresse du client",
+        "freelancerName": "Nom du prestataire",
+        "freelancerAddress": "Adresse du prestataire",
+        "serviceDescription": "Description de la mission",
+        "deliverables": "Livrables",
+        "remuneration": "Rémunération",
+        "deadline": "Date limite",
+        "party1Name": "Nom de la partie 1",
+        "party1Address": "Adresse de la partie 1",
+        "party2Name": "Nom de la partie 2",
+        "party2Address": "Adresse de la partie 2",
+        "disputeDescription": "Description du litige",
+        "agreementTerms": "Termes de l'accord",
+        "donorName": "Nom du donateur",
+        "donorAddress": "Adresse du donateur",
+        "doneeName": "Nom du donataire",
+        "doneeAddress": "Adresse du donataire",
+        "giftDescription": "Description du bien donné",
+        "giftValue": "Valeur estimée",
+        "condition": "Condition",
+        "obligation": "Charge/obligation",
+        "debtAmount": "Montant de la dette",
+        "debtOrigin": "Origine de la dette",
+        "hourlyWage": "Salaire horaire",
+        "weeklyHours": "Heures par semaine",
+        "tasks": "Tâches",
+        "monthlySalary": "Salaire mensuel",
+        "vacationDays": "Jours de vacances"
+      },
+      "placeholders": {
+        "enter": "Entrez {label}...",
+        "select": "Sélectionnez {label}...",
+        "customSenderName": "ex. Jeanne Dupont",
+        "customSenderAddress": "Rue, Code postal, Ville",
+        "customPurposeFacts": "Décrivez le contexte juridique, la chronologie et les faits clés à inclure.",
+        "customRequestedOutcome": "Que doit faire le destinataire après avoir reçu ce document?",
+        "dateOfBirth": "Date de naissance",
+        "recipientDetails": "Nom du destinataire, entreprise et adresse"
+      },
+      "buttons": {
+        "generating": "Génération en cours...",
+        "generate": "Générer le document"
+      }
+    },
+    "preview": {
+      "title": "Document généré",
+      "description": "Prévisualisez votre document ci-dessous.",
+      "placeholder": "Votre document apparaîtra ici après génération."
+    },
+    "buttons": {
+      "submit": "Soumettre pour révision",
+      "saving": "Envoi en cours...",
+      "copy": "Copier",
+      "download": "Télécharger",
+      "downloadPdf": "Document PDF",
+      "downloadWord": "Document Word (.docx)"
+    },
+    "toast": {
+      "generateSuccess": {
+        "title": "Document généré avec succès",
+        "description": "Votre document est prêt pour révision."
+      },
+      "generateError": {
+        "title": "Échec de la génération",
+        "description": "L'IA n'a pas pu générer le document. Veuillez réessayer."
+      },
+      "saveSuccess": {
+        "title": "Document soumis",
+        "description": "Votre document a été soumis pour révision."
+      },
+      "saveError": {
+        "title": "Échec de la sauvegarde",
+        "description": "Impossible de sauvegarder le document. Veuillez réessayer."
+      },
+      "copied": "Copié dans le presse-papiers !",
+      "downloadingPdf": "Téléchargement du PDF en cours...",
+      "downloadingWord": "Préparation du document Word...",
+      "downloadPdfError": {
+        "title": "Erreur",
+        "description": "Impossible de générer le PDF."
+      },
+      "downloadWordError": {
+        "title": "Échec du téléchargement",
+        "description": "Impossible de générer le document Word. Veuillez réessayer."
+      }
+    },
+    "AssuranceMaladie": {
+      "categoryTitle": "Assurance maladie",
+      "categoryDescription": "Gestion de votre assurance maladie obligatoire et complémentaire.",
+      "affiliation": {
+        "title": "Demande d'affiliation à l'assurance de base",
+        "description": "Demandez votre affiliation à une nouvelle caisse d'assurance maladie obligatoire."
+      },
+      "resiliationObligatoire": {
+        "title": "Résiliation de l'assurance obligatoire",
+        "description": "Résiliez votre contrat d'assurance maladie obligatoire pour changer de caisse."
+      },
+      "changementModele": {
+        "title": "Changement de modèle d'assurance",
+        "description": "Changez de modèle d'assurance (standard, HMO, médecin de famille, etc.)."
+      },
+      "modificationFranchise": {
+        "title": "Modification de la franchise",
+        "description": "Modifiez le montant de votre franchise annuelle."
+      },
+      "exclusionAccidents": {
+        "title": "Exclusion de la couverture accidents",
+        "description": "Excluez la couverture accident si vous êtes couvert par votre employeur."
+      },
+      "resiliationComplementaire": {
+        "title": "Résiliation de l'assurance complémentaire",
+        "description": "Résiliez une ou plusieurs assurances complémentaires."
+      },
+      "contestationRefus": {
+        "title": "Contestation du refus de prise en charge",
+        "description": "Contestez un refus de prise en charge de votre assureur."
+      },
+      "suspensionPrimes": {
+        "title": "Suspension des primes pendant le service militaire/civil",
+        "description": "Suspendez vos primes durant le service militaire ou civil."
+      }
+    },
+    "Garantie": {
+      "categoryTitle": "Garantie",
+      "categoryDescription": "Faites valoir vos droits de garantie pour des produits ou services défectueux.",
+      "avisDefauts": {
+        "title": "Avis des défauts",
+        "description": "Signalez un défaut sur un produit acheté."
+      },
+      "avisDefautsContrat": {
+        "title": "Avis des défauts (contrat d'entreprise)",
+        "description": "Signalez une malfaçon dans un contrat d'entreprise (travaux, rénovations)."
+      },
+      "defautPersistant": {
+        "title": "Défaut persistant après réparation",
+        "description": "Le défaut persiste malgré une tentative de réparation."
+      },
+      "resiliationApresReparations": {
+        "title": "Résiliation / échange après 4 réparations",
+        "description": "Demandez l'annulation ou l'échange après plusieurs réparations infructueuses."
+      }
+    },
+    "ExecutionContrat": {
+      "categoryTitle": "Exécution de contrat",
+      "categoryDescription": "Exigez l'exécution correcte des obligations contractuelles.",
+      "relanceGenerale": {
+        "title": "Relance générale",
+        "description": "Relancez un débiteur pour une obligation non exécutée."
+      },
+      "miseEnDemeure": {
+        "title": "Mise en demeure",
+        "description": "Mettez formellement en demeure un débiteur de s'exécuter."
+      },
+      "miseEnDemeureRetard": {
+        "title": "Mise en demeure pour retard de livraison",
+        "description": "Mettez en demeure un vendeur qui n'a pas livré dans les délais."
+      },
+      "resiliationVente": {
+        "title": "Résiliation suite à mise en demeure – vente",
+        "description": "Résiliez un contrat de vente après une mise en demeure restée sans effet."
+      },
+      "resiliationEntreprise": {
+        "title": "Résiliation suite à mise en demeure – entreprise",
+        "description": "Résiliez un contrat d'entreprise (travaux) après mise en demeure."
+      },
+      "demandeJustificatifs": {
+        "title": "Demande de pièces justificatives",
+        "description": "Demandez des justificatifs pour une facture ou un service."
+      },
+      "renonciationPrescription": {
+        "title": "Accord de renonciation à la prescription",
+        "description": "Proposez un accord de renonciation à la prescription."
+      },
+      "contestationInflation": {
+        "title": "Contestation de la clause d'inflation",
+        "description": "Contestez l'application d'une clause d'inflation par un opérateur."
+      },
+      "bonsCadeaux": {
+        "title": "Utilisation de bons cadeaux",
+        "description": "Réclamez l'utilisation de bons cadeaux expirés."
+      },
+      "remboursementAnnulationVol": {
+        "title": "Remboursement de billet suite à une annulation de vol",
+        "description": "Demandez le remboursement de votre billet pour un vol annulé."
+      },
+      "remboursementFraisVol": {
+        "title": "Remboursement des frais suite à une annulation de vol",
+        "description": "Réclamez le remboursement des frais engagés suite à une annulation."
+      },
+      "indemnisationRetardVol": {
+        "title": "Indemnisation suite à un retard de vol",
+        "description": "Demandez une indemnisation pour un retard de vol important."
+      },
+      "indemnisationBagages": {
+        "title": "Indemnisation des bagages",
+        "description": "Réclamez une indemnisation pour des bagages perdus, retardés ou endommagés."
+      },
+      "contestationFacture": {
+        "title": "Contestation de facture",
+        "description": "Contestez une facture que vous estimez injustifiée."
+      },
+      "contestationFactureDevis": {
+        "title": "Contestation d'une facture dépassant le devis",
+        "description": "Contestez une facture dont le montant dépasse le devis accepté."
+      },
+      "contestationFacturePrescrite": {
+        "title": "Contestation d'une facture prescrite",
+        "description": "Invoquez la prescription pour une créance trop ancienne."
+      }
+    },
+    "Resiliation": {
+      "categoryTitle": "Résiliation",
+      "categoryDescription": "Modèles de lettres pour résilier divers types de contrats.",
+      "contratEcheance": {
+        "title": "Résiliation de contrat à son échéance",
+        "description": "Résiliez un contrat arrivant à son terme."
+      },
+      "contratMandat": {
+        "title": "Résiliation d'un contrat de mandat",
+        "description": "Résiliez un contrat de mandat (avocat, conseiller, etc.)."
+      },
+      "mandatInopportun": {
+        "title": "Résiliation d'un contrat de mandat en temps inopportun",
+        "description": "Résiliez un mandat avec indemnisation pour résiliation en temps inopportun."
+      },
+      "petitCredit14Jours": {
+        "title": "Résiliation d'un petit crédit dans les 14 jours",
+        "description": "Révoquez un contrat de petit crédit dans le délai légal de 14 jours."
+      },
+      "leasing14Jours": {
+        "title": "Résiliation d'un leasing dans les 14 jours",
+        "description": "Révoquez un contrat de leasing dans le délai légal de 14 jours."
+      },
+      "modificationContractuelle": {
+        "title": "Résiliation suite à une modification contractuelle",
+        "description": "Résiliez suite à une modification unilatérale du contrat par le fournisseur."
+      },
+      "carteCredit": {
+        "title": "Résiliation de carte de crédit",
+        "description": "Résiliez votre carte de crédit."
+      },
+      "assuranceApresSinistre": {
+        "title": "Résiliation de l'assurance après sinistre",
+        "description": "Résiliez une assurance après la survenance d'un sinistre."
+      },
+      "fitnessJustesMotifs": {
+        "title": "Résiliation d'un abonnement de fitness pour justes motifs",
+        "description": "Résiliez votre abonnement de fitness pour des raisons valables."
+      }
+    },
+    "Annulation": {
+      "categoryTitle": "Annulation",
+      "categoryDescription": "Demandez l'annulation de contrats pour divers motifs.",
+      "erreurEssentielle": {
+        "title": "Annulation de contrat pour erreur essentielle/dol",
+        "description": "Annulez un contrat pour erreur essentielle ou tromperie."
+      },
+      "demandeRemboursement": {
+        "title": "Annulation de contrat et demande de remboursement",
+        "description": "Annulez un contrat pour erreur et demandez le remboursement."
+      },
+      "contestationObligo": {
+        "title": "Contestation d'un accord Obligo",
+        "description": "Contestez un accord Obligo obtenu de manière abusive."
+      },
+      "assuranceNonSouhaitee": {
+        "title": "Annulation d'un produit d'assurance non souhaité",
+        "description": "Annulez une assurance souscrite sans votre consentement éclairé."
+      },
+      "fauxConcours": {
+        "title": "Annulation d'un faux concours / abonnement piège",
+        "description": "Annulez un abonnement souscrit via un faux concours."
+      }
+    },
+    "TransportAerien": {
+      "categoryTitle": "Transport aérien",
+      "categoryDescription": "Réclamations pour retards, annulations de vols ou problèmes de bagages.",
+      "remboursementAnnulation": {
+        "title": "Remboursement de billet suite à une annulation",
+        "description": "Demandez le remboursement de votre billet pour un vol annulé."
+      },
+      "remboursementFrais": {
+        "title": "Remboursement des frais suite à une annulation",
+        "description": "Réclamez le remboursement des frais engagés suite à une annulation de vol."
+      },
+      "indemnisationRetard": {
+        "title": "Indemnisation suite à un retard",
+        "description": "Demandez une indemnisation pour un retard de vol important."
+      },
+      "indemnisationBagages": {
+        "title": "Indemnisation des bagages",
+        "description": "Réclamez une indemnisation pour des bagages perdus, retardés ou endommagés."
+      }
+    },
+    "Recouvrement": {
+      "categoryTitle": "Recouvrement",
+      "categoryDescription": "Contestez des frais de recouvrement abusifs.",
+      "contestationFrais": {
+        "title": "Contestation des frais de recouvrement",
+        "description": "Contestez des frais de recouvrement ou de rappel abusifs."
+      },
+      "confirmationContestation": {
+        "title": "Confirmation de la contestation des frais",
+        "description": "Confirmez votre contestation de frais de recouvrement."
+      }
+    },
+    "Poursuites": {
+      "categoryTitle": "Poursuites",
+      "categoryDescription": "Actions relatives à une procédure de poursuite.",
+      "opposition": {
+        "title": "Opposition au commandement de payer",
+        "description": "Faites opposition à un commandement de payer."
+      },
+      "oppositionFrais": {
+        "title": "Opposition aux frais de poursuite",
+        "description": "Contestez des frais de poursuite que vous estimez abusifs."
+      },
+      "demandeRadiation": {
+        "title": "Demande de radiation de la poursuite",
+        "description": "Demandez la radiation d'une poursuite après paiement."
+      },
+      "conventionRadiation": {
+        "title": "Convention de radiation de la poursuite",
+        "description": "Proposez une convention de radiation avec le créancier."
+      },
+      "demandeRachatDette": {
+        "title": "Demande de rachat de dette",
+        "description": "Demandez le rachat de votre dette à une association d'aide."
+      }
+    },
+    "Demarchage": {
+      "categoryTitle": "Démarchage",
+      "categoryDescription": "Révocation de contrats conclus par démarchage.",
+      "revocation14Jours": {
+        "title": "Révocation dans les 14 jours",
+        "description": "Révoquez un contrat conclu via démarchage dans le délai légal."
+      },
+      "revocationDelaiNonMentionne": {
+        "title": "Révocation si le délai n'est pas mentionné",
+        "description": "Révoquez un contrat si l'information sur le délai de révocation était absente."
+      }
+    },
+    "EnvoiNonCommande": {
+      "categoryTitle": "Envoi non commandé",
+      "categoryDescription": "Gérez la réception de marchandises non sollicitées.",
+      "refus": {
+        "title": "Refus d'un envoi non commandé",
+        "description": "Refusez de payer pour une marchandise non commandée."
+      },
+      "annulationPresumee": {
+        "title": "Refus et annulation d'une commande présumée",
+        "description": "Contestez une commande que vous n'avez jamais passée."
+      }
+    },
+    "Arnaque": {
+      "categoryTitle": "Arnaque",
+      "categoryDescription": "Contestez des frais liés à des arnaques.",
+      "contestationSMS": {
+        "title": "Contestation de SMS surtaxés",
+        "description": "Contestez des frais pour des SMS surtaxés non sollicités."
+      },
+      "annulationAnnuaire": {
+        "title": "Annulation d'une inscription abusive dans un annuaire",
+        "description": "Contestez une inscription dans un annuaire obtenue de manière abusive."
+      }
+    },
+    "ProtectionDonnees": {
+      "categoryTitle": "Protection des données",
+      "categoryDescription": "Exercez vos droits concernant vos données personnelles.",
+      "rectification": {
+        "title": "Demande de rectification de données",
+        "description": "Demandez la rectification de données personnelles inexactes."
+      },
+      "acces": {
+        "title": "Demande d'accès aux données",
+        "description": "Demandez à une entreprise quelles données elle détient sur vous."
+      },
+      "effacement": {
+        "title": "Demande d'effacement de données",
+        "description": "Demandez la suppression de vos données personnelles."
+      }
+    },
+    "Bail": {
+      "categoryTitle": "Bail",
+      "categoryDescription": "Modèles de lettres pour la gestion de votre contrat de location.",
+      "resiliationOrdinaire": {
+        "title": "Résiliation ordinaire du bail",
+        "description": "Résiliez votre bail à l'échéance contractuelle."
+      },
+      "resiliationAnticipee": {
+        "title": "Résiliation anticipée du bail",
+        "description": "Proposez un candidat de remplacement pour une résiliation anticipée."
+      },
+      "contestationFrais": {
+        "title": "Contestation des frais de résiliation anticipée",
+        "description": "Contestez des frais excessifs liés à une résiliation anticipée."
+      },
+      "demandeBaisseLoyer": {
+        "title": "Demande de baisse de loyer",
+        "description": "Demandez une réduction de loyer suite à une baisse du taux hypothécaire."
+      },
+      "contestationHausseLoyer": {
+        "title": "Contestation d'une hausse de loyer",
+        "description": "Contestez une augmentation de loyer que vous estimez injustifiée."
+      },
+      "consignationLoyer": {
+        "title": "Consignation du loyer",
+        "description": "Informez le bailleur de la consignation du loyer pour un défaut non réparé."
+      }
+    },
+    "Plaintes": {
+      "categoryTitle": "Plaintes et formulaires",
+      "categoryDescription": "Plaintes officielles et autres formulaires.",
+      "plainteElcom": {
+        "title": "Plainte ElCom pour hausse d'électricité",
+        "description": "Déposez une plainte auprès de l'ElCom concernant une hausse tarifaire."
+      }
+    },
+    "Contrats": {
+      "categoryTitle": "Modèles de contrats",
+      "categoryDescription": "Créez divers contrats pour des situations personnelles.",
+      "cessionCreance": {
+        "title": "Cession de créance",
+        "description": "Transférez une créance à un tiers."
+      },
+      "pret": {
+        "title": "Contrat de prêt",
+        "description": "Établissez un contrat de prêt entre particuliers."
+      },
+      "freelance": {
+        "title": "Contrat de prestation freelance",
+        "description": "Établissez un contrat de prestation de services indépendants."
+      },
+      "accord": {
+        "title": "Convention d'accord",
+        "description": "Formalisez un accord amiable entre deux parties."
+      },
+      "donationCondition": {
+        "title": "Donation avec condition",
+        "description": "Effectuez une donation sous une condition spécifique."
+      },
+      "donationObligation": {
+        "title": "Donation avec charge",
+        "description": "Effectuez une donation avec une obligation pour le donataire."
+      },
+      "reconnaissanceDette": {
+        "title": "Reconnaissance de dettes",
+        "description": "Formalisez une dette par écrit."
+      },
+      "travailDomestiqueHoraire": {
+        "title": "Contrat de travail domestique (horaire)",
+        "description": "Engagez du personnel de maison avec un salaire horaire."
+      },
+      "travailDomestiqueMensuel": {
+        "title": "Contrat de travail domestique (mensuel)",
+        "description": "Engagez du personnel de maison avec un salaire mensuel."
+      }
+    }
+  },
+  "LegalAssistant": {
+    "title": "Assistant Juridique",
+    "conversations": "Conversations",
+    "newChat": "Nouveau chat",
+    "clearConversation": "Effacer la conversation",
+    "placeholder": {
+      "title": "Commencer une conversation",
+      "subtitle": "Posez-moi n'importe quelle question sur des sujets juridiques et financiers suisses."
+    },
+    "inputPlaceholder": "Posez une question juridique...",
+    "send": "Envoyer",
+    "sources": "Sources",
+    "errorMessage": "Désolé, j'ai rencontré une erreur en essayant de répondre. Veuillez réessayer.",
+    "toast": {
+      "copied": "Copié dans le presse-papiers !",
+      "notLoggedIn": {
+        "title": "Non connecté",
+        "description": "Vous devez être connecté pour utiliser l'Assistant Juridique."
+      },
+      "aiError": {
+        "title": "Erreur de l'assistant IA",
+        "description": "Impossible d'obtenir une réponse de l'assistant."
+      },
+      "profileError": {
+        "title": "Erreur",
+        "description": "Impossible de charger votre profil utilisateur."
+      },
+      "fetchError": "Échec de la récupération du profil utilisateur.",
+      "generationFailed": {
+        "title": "Échec de la génération",
+        "description": "Impossible de générer le document. Veuillez réessayer."
+      },
+      "submittedForReview": {
+        "title": "Soumis",
+        "description": "Document soumis pour révision par l'administrateur. Vous serez notifié après révision."
+      },
+      "submitFailed": {
+        "title": "Erreur",
+        "description": "Impossible de soumettre pour révision. Veuillez réessayer."
+      }
+    },
+    "greeting": "👋 Bonjour ! Je suis **LYNVIA**, votre assistant juridique digital.\n\nJe peux vous aider avec :\n• 📋 **Questions juridiques** — droit du travail, TVA, contrats\n• 💰 **Scénarios financiers** — salaire, allocations, déductions\n• 📄 **Génération de documents** — brouillons de documents juridiquement conformes\n\nQue souhaitez-vous savoir aujourd'hui ?",
+    "openingDocumentGenerator": "Ouverture du générateur de documents",
+    "openingDocumentGeneratorDesc": "Nous vous avons redirigé vers le générateur de documents pour créer votre document plus rapidement.",
+    "generatingWithDetails": "Génération de **{template}** avec les détails de votre entreprise...",
+    "openingDocGen": "Ouverture du générateur de documents",
+    "openingDocGenDesc": "Redirection vers le générateur pour créer le document plus vite.",
+    "clientRequired": "Client requis",
+    "clientRequiredDesc": "Veuillez d'abord sélectionner un client.",
+    "taskCreated": "Tâche créée",
+    "taskCreatedDesc": "La tâche a été créée avec succès.",
+    "documentSent": "Document envoyé",
+    "documentSentDesc": "Le document a été envoyé avec succès.",
+    "actionFailed": "Erreur",
+    "actionFailedDesc": "Échec de l'action. Veuillez réessayer."
+  },
+  "IndividualDashboard": {
+    "title": "Bienvenue, {name}!",
+    "subtitle": "Voici un aperçu de vos activités.",
+    "sectionOverview": "Vue d'ensemble",
+    "sectionActivity": "Activité et mises à jour",
+    "sectionPlanning": "Impôts et outils",
+    "kpiToggleShowAll": "Toutes les métriques",
+    "kpiToggleShowLess": "Moins de métriques",
+    "fallbackUserName": "Utilisateur",
+    "status": {
+      "approved": "Approuvé",
+      "rejected": "Rejeté",
+      "draft": "Brouillon",
+      "pendingReview": "En attente de révision",
+      "pending": "En attente",
+      "paid": "Payé",
+      "inProgress": "En cours",
+      "cancelled": "Annulé",
+      "completed": "Terminé",
+      "active": "Actif",
+      "pendingApproval": "En attente d'approbation",
+      "suspended": "Suspendu"
+    },
+    "kpi": {
+      "documentsGenerated": "Documents générés",
+      "pendingApprovals": "Approbations en attente",
+      "scenariosRun": "Scénarios exécutés",
+      "unreadNotifications": "Notifications non lues",
+      "activeOrders": "Commandes actives",
+      "legalChats": "Discussions juridiques",
+      "profileStrength": "Niveau du profil",
+      "accountStatus": "Statut du compte"
+    },
+    "quickActions": {
+      "title": "Actions rapides",
+      "askLegalQuestion": "Poser une question juridique",
+      "generateDocument": "Générer un document",
+      "calculateTaxScenario": "Calculer un scénario fiscal",
+      "browseServices": "Déclaration d'impôts"
+    },
+    "featureHub": {
+      "title": "Centre des fonctionnalités",
+      "description": "Outils clés pour vos tâches quotidiennes.",
+      "modules": {
+        "myDocuments": {
+          "title": "Mes documents",
+          "subtitle": "Ouvrir les fichiers générés"
+        },
+        "myOrders": {
+          "title": "Mes commandes",
+          "subtitle": "Suivre les achats de services"
+        },
+        "notifications": {
+          "title": "Notifications",
+          "subtitle": "Voir les dernières alertes"
+        },
+        "scenarioCenter": {
+          "title": "Centre des scénarios",
+          "subtitle": "Comparer les scénarios fiscaux"
+        },
+        "settings": {
+          "title": "Profil",
+          "subtitle": "Profil et préférences"
+        }
+      }
+    },
+    "companyAffiliation": {
+      "title": "Affiliation d'entreprise"
+    },
+    "latestScenario": {
+      "title": "Dernière simulation",
+      "viewAll": "Voir tous les scénarios",
+      "types": {
+        "income_change": "Impact changement de salaire",
+        "job_loss": "Impact perte d'emploi",
+        "child_birth": "Impact naissance",
+        "marriage": "Impact mariage",
+        "pillar_3a": "Cotisation pilier 3a",
+        "pillar_2_buyback": "Rachat pilier 2",
+        "supplementary_benefits": "Prestations complémentaires"
+      }
+    },
+    "taxGlance": {
+      "emptyTitle": "Statut de la déclaration d’impôt",
+      "emptyDescription": "Après l’achat d’une déclaration annuelle, suivez ici la progression, les documents et la reprise par l’expert.",
+      "cta": "Services fiscaux"
+    },
+    "mandateTracking": {
+      "title": "Statut de la déclaration",
+      "viewDetails": "Voir les détails",
+      "documentsProgressApprox": "{count} document(s) depuis le début de la commande",
+      "documentsProgress": "{uploaded} / {required} documents obligatoires envoyés",
+      "downloadDocuments": "Télécharger les documents",
+      "statusText": {
+        "paid": "Veuillez envoyer vos documents obligatoires pour commencer.",
+        "in_progress": "L'expert travaille dessus. Vous serez notifié quand ce sera prêt.",
+        "pending_review": "Soumis par l'expert — téléchargez vos documents ci-dessous.",
+        "completed": "Service terminé. Votre déclaration a été déposée."
+      },
+      "steps": {
+        "paymentReceived": "Paiement",
+        "documentsUploaded": "Documents",
+        "expertReview": "Révision",
+        "finalSubmission": "Soumis"
+      }
+    },
+    "recentActivity": {
+      "title": "Activité récente",
+      "empty": "Aucune activité récente.",
+      "notificationFallback": "Notification",
+      "templates": {
+        "documentStatus": "Le document \"{name}\" est {status}",
+        "orderStatus": "La commande \"{service}\" est passée à l'état {status}",
+        "legalStarted": "Nouvelle conversation juridique démarrée : \"{title}\""
+      },
+      "activity": {
+        "documentApproved": "Le document 'Contrat de location' a été approuvé.",
+        "scenarioCalculated": "Scénario 'Optimisation fiscale 2024' calculé.",
+        "newNotification": "Nouvelle notification: Votre demande de service a été mise à jour.",
+        "documentPending": "Le document 'Contrat de travail' est en attente d'examen.",
+        "loggedIn": "Connecté avec succès."
+      }
+    },
+    "activityTrend": {
+      "title": "Tendance d'activité (14 derniers jours)",
+      "description": "Évolution quotidienne des documents et commandes.",
+      "series": {
+        "totalActivity": "Activité totale"
+      }
+    },
+    "tabs": {
+      "activity": "Activité",
+      "documents": "Documents",
+      "orders": "Commandes",
+      "legalAI": "IA juridique"
+    },
+    "analyticsOverview": {
+      "title": "Aperçu analytique",
+      "common": {
+        "count": "Nombre"
+      },
+      "table": {
+        "name": "Nom",
+        "status": "Statut",
+        "created": "Créé le",
+        "service": "Service",
+        "date": "Date",
+        "topic": "Sujet",
+        "messages": "Messages",
+        "started": "Démarré"
+      },
+      "activity": {
+        "title": "Volume d'activité",
+        "description": "Documents créés, commandes passées et questions juridiques sur les 30 derniers jours."
+      },
+      "documents": {
+        "statusBreakdown": "Répartition des statuts des documents",
+        "recentDocuments": "Documents récents"
+      },
+      "orders": {
+        "statusDistribution": "Répartition des statuts des commandes",
+        "recentOrders": "Commandes récentes"
+      },
+      "legal": {
+        "questionsLabel": "Questions juridiques",
+        "byTopic": "Questions juridiques par sujet",
+        "recentConversations": "Conversations récentes"
+      }
+    }
+  },
+  "BusinessDashboard": {
+    "title": "Tableau de bord Entreprise",
+    "subtitle": "Bienvenue ! Voici un aperçu de l'activité de votre entreprise.",
+    "addEmployee": "Ajouter un employé",
+    "processPayroll": "Traiter la paie",
+    "kpi": {
+      "totalEmployees": "Total des employés",
+      "employeesTrend": "+2 depuis le mois dernier",
+      "pendingPayroll": "Chiffre d'affaires",
+      "payrollTrend": "Dernière période comptable",
+      "activeLeaveRequests": "Demandes de congé actives",
+      "leaveTrend": {
+        "action": "Action requise",
+        "clear": "Tout est en ordre"
+      },
+      "monthlyPayrollCost": "Résultat net",
+      "costTrend": "Derniers comptes"
+    },
+    "payrollTrend": {
+      "title": "Tendance de la paie (6 derniers mois)",
+      "description": "Visualisation des dépenses mensuelles de paie de votre entreprise.",
+      "legend": "Coût de la paie"
+    },
+    "employeeDistribution": {
+      "title": "Répartition des employés",
+      "description": "Répartition des employés par département."
+    },
+    "alerts": {
+      "title": "Alertes & Rappels",
+      "payrollDeadline": "Échéance de paie imminente dans 5 jours.",
+      "leaveRequests": "{count, plural, one {# nouvelle demande de congé est} other {# nouvelles demandes de congé sont}} en attente d'approbation.",
+      "taxDeadline": "La déclaration fiscale pour le T2 2024 est due dans 12 jours.",
+      "newDocument": "Un nouveau document de conformité pour le canton de Vaud est disponible.",
+      "view": "Voir"
+    },
+    "recentActivity": {
+      "title": "Activité récente",
+      "payrollProcessed": "La paie pour {monthLabel} a été traitée.",
+      "leaveRequest": "Demande de congé de {employeeName} ({leaveType}) a été {status}.",
+      "documentCreated": "Le document '{documentName}' a été créé.",
+      "loading": "Chargement des activités...",
+      "noActivity": "Aucune activité d'entreprise récente trouvée."
+    },
+    "docRequests": {
+      "title": "Documents demandés par Lynvia",
+      "description": "Lynvia a demandé les documents suivants. Veuillez les télécharger dans le Centre de documents dès que possible.",
+      "uploadNow": "Télécharger maintenant"
+    },
+    "reports": {
+      "title": "Rapports & Analyses",
+      "subtitle": "Générez des rapports financiers personnalisés et suivez les principaux indicateurs de performance de votre entreprise.",
+      "generator": {
+        "title": "Générateur de rapports",
+        "description": "Sélectionnez un type de rapport et une période pour générer votre analyse.",
+        "button": "Générer le rapport",
+        "generating": "Génération en cours..."
+      },
+      "types": {
+        "financial_summary": "Résumé financier",
+        "p_and_l": "Pertes et profits (P&L)",
+        "expense_report": "Rapport de dépenses"
+      },
+      "periods": {
+        "q2_2024": "T2 2024 (Avr-Juin)",
+        "last_30_days": "30 derniers jours",
+        "last_90_days": "90 derniers jours"
+      },
+      "results": {
+        "title": "Résumé financier - T2 2024",
+        "description": "Un aperçu de la performance financière d'avril à juin 2024.",
+        "monthlyPerformance": "Performance mensuelle (Revenus vs Bénéfices)",
+        "expenseBreakdown": "Répartition des dépenses par catégorie",
+        "exportCsv": "Exporter en CSV",
+        "downloadPdf": "Télécharger en PDF"
+      },
+      "empty": {
+        "title": "Générer un rapport",
+        "description": "Sélectionnez le type de rapport et la période souhaités pour commencer."
+      }
+    }
+  },
+  "MyDocuments": {
+    "title": "Mes Documents",
+    "subtitle": "Gérez vos documents générés et téléchargés.",
+    "documentCenter": "Centre de documents",
+    "documentCenterDescription": "Tous vos documents sécurisés au même endroit.",
+    "searchPlaceholder": "Rechercher des documents...",
+    "uploadButton": "Télécharger un document",
+    "table": {
+      "name": "Nom",
+      "type": "Type",
+      "status": "Statut",
+      "date": "Date",
+      "actions": "Actions"
+    },
+    "status": {
+      "Approved": "Approuvé",
+      "Pending Review": "En attente d'examen",
+      "Draft": "Brouillon",
+      "Rejected": "Rejeté"
+    },
+    "actions": {
+      "label": "Actions",
+      "view": "Voir",
+      "download": "Télécharger",
+      "downloadPdf": "Document PDF",
+      "downloadWord": "Document Word (.docx)",
+      "share": "Partager",
+      "delete": "Supprimer"
+    },
+    "dialog": {
+      "title": "Détails du document",
+      "close": "Fermer"
+    },
+    "toast": {
+      "fetchError": "Impossible de récupérer vos documents.",
+      "deleteSuccess": "Votre document a été supprimé avec succès.",
+      "deleteError": "Impossible de supprimer le document.",
+      "viewError": "Impossible de récupérer le contenu du document.",
+      "downloadPdf": "Préparation du PDF...",
+      "downloadPdfError": "Impossible de télécharger le PDF.",
+      "downloadWord": "Préparation du document Word...",
+      "downloadWordError": "Impossible de générer le document Word. Veuillez réessayer."
+    },
+    "noDocuments": "Aucun document trouvé.",
+    "noMatch": "Aucun document ne correspond à votre recherche."
+  },
+  "MyOrders": {
+    "title": "Mes Commandes",
+    "subtitle": "Suivez le statut de vos services achetés.",
+    "refresh": "Actualiser",
+    "history": "Historique des commandes",
+    "historyDescription": "Une liste de toutes vos demandes de service et de leur statut actuel.",
+    "table": {
+      "service": "Service",
+      "date": "Date",
+      "price": "Prix",
+      "status": "Statut",
+      "actions": "Actions"
+    },
+    "priceQuotePending": "Devis en attente",
+    "noOrders": "Vous n'avez encore acheté aucun service.",
+    "browseServices": "Parcourir les services",
+    "notLoggedIn": "Veuillez vous connecter pour voir vos commandes.",
+    "login": "Connexion",
+    "toast": {
+      "fetchError": "Impossible de récupérer vos commandes. Veuillez réessayer."
+    },
+    "orderDetails": {
+      "back": "Retour aux commandes",
+      "title": "Détails de la commande",
+      "orderId": "ID de commande : {id}",
+      "orderDate": "Date de la commande",
+      "lastUpdated": "Dernière mise à jour",
+      "serviceType": "Type de service",
+      "amount": "Montant",
+      "additionalInfo": "Informations supplémentaires fournies",
+      "needHelp": "Besoin d'aide ?",
+      "contactSupport": "Contacter le support",
+      "browseMore": "Parcourir plus de services",
+      "toast": {
+        "accessDenied": "Accès refusé",
+        "accessDeniedDescription": "Vous n'avez pas la permission de voir cette commande.",
+        "notFound": "Commande non trouvée",
+        "notFoundDescription": "La commande demandée n'a pas pu être trouvée.",
+        "fetchError": "Impossible de récupérer les détails de la commande."
+      }
+    }
+  },
+  "Notifications": {
+    "title": "Notifications",
+    "subtitle": "Toutes vos mises à jour, alertes et rappels importants au même endroit.",
+    "yourNotifications": "Vos notifications",
+    "markAllRead": "Tout marquer comme lu",
+    "unreadCount": "Vous avez {count, plural, one {# notification non lue} other {# notifications non lues}}.",
+    "noNotifications": "Aucune notification pour l'instant",
+    "noNotificationsDescription": "Les mises à jour importantes apparaîtront ici.",
+    "markAsRead": "Marquer comme lu",
+    "archive": "Archiver",
+    "toast": {
+      "fetchError": "Impossible de récupérer les notifications.",
+      "markAllError": "Impossible de marquer toutes les notifications comme lues."
+    }
+  },
+  "Settings": {
+    "title": "Profil",
+    "subtitle": "Gérez votre compte et vos informations de profil.",
+    "shortcuts": {
+      "title": "Accès rapide",
+      "description": "Commandes, services additionnels et notifications au même endroit.",
+      "orders": "Mes commandes",
+      "services": "Acheter des services",
+      "notifications": "Notifications",
+      "wallet": "Portefeuille"
+    },
+    "usage": {
+      "title": "Utilisation des scénarios (ce mois-ci)",
+      "description": "{used} sur {total} scénarios facturables utilisés. Pilier 3a et comparaisons TVA : illimités.",
+      "loading": "Chargement…"
+    },
+    "profile": {
+      "title": "Informations de profil",
+      "description": "Mettez à jour vos informations personnelles.",
+      "firstNameLabel": "Prénom",
+      "lastNameLabel": "Nom de famille",
+      "emailLabel": "Adresse e-mail (ne peut pas être modifiée)",
+      "addressLabel": "Adresse complète (rue et numéro)",
+      "addressPlaceholder": "ex. Rue du Rhône 1",
+      "postalCodeLabel": "Code postal",
+      "cityLabel": "Localité",
+      "dateOfBirthLabel": "Date de naissance",
+      "phoneLabel": "Numéro de téléphone",
+      "saveButton": "Enregistrer les modifications",
+      "toast": {
+        "successTitle": "Profil mis à jour",
+        "successDescription": "Vos informations personnelles ont été enregistrées.",
+        "errorTitle": "Échec de la mise à jour",
+        "errorDescription": "Impossible de mettre à jour votre profil. Veuillez réessayer."
+      }
+    },
+    "password": {
+      "title": "Changer le mot de passe",
+      "description": "Mettez à jour votre mot de passe. Vous serez déconnecté après un changement réussi.",
+      "infoTitle": "Avis de sécurité",
+      "infoDescription": "Pour des raisons de sécurité, le changement de votre mot de passe nécessite que vous saisissiez à nouveau votre mot de passe actuel.",
+      "currentPasswordLabel": "Mot de passe actuel",
+      "newPasswordLabel": "Nouveau mot de passe",
+      "confirmPasswordLabel": "Confirmer le nouveau mot de passe",
+      "saveButton": "Changer le mot de passe",
+      "toast": {
+        "successTitle": "Mot de passe mis à jour",
+        "successDescription": "Votre mot de passe a été modifié avec succès. Veuillez vous reconnecter.",
+        "errorTitle": "Échec de la mise à jour",
+        "errorDescription": "Impossible de mettre à jour votre mot de passe. Veuillez réessayer.",
+        "wrongPassword": "Le mot de passe actuel que vous avez entré est incorrect."
+      }
+    },
+    "dangerZone": {
+      "title": "Zone de danger",
+      "description": "Ces actions sont permanentes et ne peuvent pas être annulées.",
+      "deleteButton": "Supprimer le compte",
+      "dialog": {
+        "title": "Êtes-vous absolument sûr ?",
+        "description": "Cette action ne peut pas être annulée. Cela supprimera définitivement votre compte et vos données de nos serveurs.",
+        "cancel": "Annuler",
+        "confirm": "Oui, supprimer mon compte"
+      },
+      "toast": {
+        "successTitle": "Compte supprimé",
+        "successDescription": "Votre compte a été supprimé définitivement.",
+        "errorTitle": "Échec de la suppression",
+        "errorDescription": "Impossible de supprimer votre compte. Veuillez réessayer ou contacter le support."
+      }
+    }
+  },
+  "ScenarioCalculator": {
+    "title": "Calculateur de Scénarios",
+    "subtitle": "Entrez votre situation financière complète (Revenus, Déductions, Fortune, Dettes) pour établir votre Profil Maître. Cela servira de base pour tous vos futurs scénarios.",
+    "embed": {
+      "title": "Calculateur fiscal de référence suisse",
+      "description": "Utilisez ce calculateur intégré pour des estimations détaillées cantonales et fédérales. Enregistrez votre référence dans les formulaires Lynvia ci-dessous, puis lancez un scénario pour comparer les écarts.",
+      "iframeTitle": "Calculateur d'impôt suisse",
+      "disclaimer": "Outil tiers à titre indicatif uniquement. Les résultats Lynvia ci-dessous reposent sur le moteur de calcul Lynvia."
+    },
+    "selectScenario": "Sélectionner un scénario",
+    "selectScenarioPlaceholder": "Choisir un scénario à analyser...",
+    "selectScenarioRequired": "Veuillez d'abord sélectionner un scénario",
+    "selectScenarioRequiredHint": "Utilisez le menu déroulant ci-dessus pour choisir le scénario à calculer.",
+    "scenarioTitles": {
+      "income_change": "Changement de salaire",
+      "job_loss": "Perte d'emploi",
+      "child_birth": "Nouvel enfant",
+      "marriage": "Mariage",
+      "pillar_3a": "Pilier 3a",
+      "pillar_2_buyback": "Rachat 2e pilier",
+      "supplementary_benefits": "Prestations complémentaires",
+      "vat_comparison": "Comparaison TVA"
+    },
+    "common": {
+      "municipality": "Commune",
+      "maritalStatus": "État civil",
+      "single": "Célibataire",
+      "married": "Marié(e)",
+      "children": "Enfants",
+      "age": "Âge",
+      "religion": "Religion",
+      "noneOther": "Aucune/Autre",
+      "catholic": "Catholique",
+      "protestant": "Protestant",
+      "salaryChf": "Salaire (CHF)",
+      "calculating": "Calcul en cours...",
+      "calculateScenario": "Calculer le scénario"
+    },
+    "access": {
+      "title": "Accès particulier",
+      "description": "Votre formule inclut {count} calculs de scénarios payants par mois hors pilier 3a.",
+      "usedThisMonth": "Utilisés ce mois-ci : {used} sur {total}.",
+      "syncing": "Synchronisation...",
+      "additionalScenarioPrice": "Scénarios supplémentaires : CHF {price} chacun.",
+      "unlimitedPillar3a": "Les simulations du pilier 3a restent illimitées.",
+      "limitReached": {
+        "title": "Limite mensuelle de scénarios atteinte",
+        "description": "Vous avez utilisés vos {count} scénarios inclus ce mois-ci. Les scénarios supplémentaires coûtent CHF {price} chacun."
+      },
+      "paymentError": {
+        "title": "Paiement échoué",
+        "description": "Impossible de traiter le paiement. Veuillez réessayer."
+      },
+      "paymentSuccess": {
+        "title": "Paiement réussi",
+        "description": "Vous pouvez maintenant générer des scénarios supplémentaires."
+      }
+    },
+    "fallback": {
+      "aiAnalysisUnavailable": "L'analyse IA est temporairement indisponible."
+    },
+    "recommendations": {
+      "cantonalFamilyFund": "Important : si le revenu annuel combiné de votre famille est inférieur ou égal à 100 000 CHF, vérifiez auprès de votre canton si vous avez droit au fonds cantonal pour les familles (versé une fois par an en fin d'année aux familles à faible revenu)."
+    },
+    "masterProfile": {
+      "button": "Enregistrer la situation actuelle",
+      "saving": "Enregistrement...",
+      "description": "Enregistrez vos données actuelles comme Profil Maître. Ces valeurs seront pré-chargées à chaque retour sur le Calculateur de Scénarios.",
+      "saved": {
+        "title": "Profil Maître enregistré",
+        "description": "Votre situation financière de référence a été sauvegardée et sera pré-chargée lors de votre prochaine visite."
+      },
+      "saveError": {
+        "title": "Erreur de sauvegarde",
+        "description": "Impossible de sauvegarder votre Profil Maître. Veuillez réessayer."
+      }
+    },
+    "masterCalculator": {
+      "title": "Calculateur fiscal suisse (Master)",
+      "description": "Même logique centrale que swisstaxcalculator-master. Enregistrez votre base et réutilisez-la dans l'analyse de scénarios.",
+      "labels": {
+        "taxYear": "Année fiscale",
+        "relationship": "Relation",
+        "netFortune": "Fortune nette (CHF)",
+        "incomeType": "Type de revenu",
+        "income": "Revenu (CHF)",
+        "pkDeduction": "Déduction PK"
+      },
+      "sections": {
+        "person1": "Personne 1",
+        "person1Deductions": "Déductions personne 1",
+        "person2": "Personne 2",
+        "person2Deductions": "Déductions personne 2",
+        "generalDeductions": "Déductions générales"
+      },
+      "buttons": {
+        "calculating": "Calcul en cours...",
+        "calculateTaxes": "Calculer les impôts",
+        "saving": "Enregistrement...",
+        "saveCurrentSituation": "Enregistrer la situation actuelle"
+      },
+      "results": {
+        "title": "Résultat du calcul fiscal",
+        "empty": "Lancez le calcul pour afficher la ventilation complète du master.",
+        "cantonalTax": "Impôt cantonal",
+        "municipalTax": "Impôt communal",
+        "churchTax": "Impôt ecclésiastique",
+        "federalTax": "Impôt fédéral",
+        "incomeTax": "Impôt sur le revenu",
+        "fortuneTax": "Impôt sur la fortune",
+        "totalIncomeTax": "Total impôt sur le revenu",
+        "totalFortuneTax": "Total impôt sur la fortune",
+        "totalTaxes": "Total des impôts"
+      },
+      "tables": {
+        "title": "Ventilation fiscale détaillée",
+        "grossNet": "Brut / net",
+        "p1": "P1",
+        "p2": "P2",
+        "income": "Revenu",
+        "canton": "Canton",
+        "federal": "Fédéral",
+        "fortune": "Fortune"
+      },
+      "rows": {
+        "grossIncome": "Revenu brut",
+        "ahvIvEo": "AVS/AI/APG",
+        "alv": "AC",
+        "nbu": "AANP",
+        "pensionFund": "Caisse de pension (PK)",
+        "netIncome": "Revenu net",
+        "netIncomeMainOccupation": "Revenu net activité principale",
+        "taxableIncome": "Revenu imposable",
+        "netFortune": "Fortune nette",
+        "taxableFortune": "Fortune imposable"
+      },
+      "toast": {
+        "municipalityRequired": {
+          "title": "Commune requise",
+          "description": "Veuillez sélectionner une commune avant de calculer."
+        },
+        "municipalityBeforeSave": {
+          "description": "Sélectionnez une commune avant d'enregistrer."
+        },
+        "calculationSuccess": {
+          "title": "Calcul fiscal terminé",
+          "description": "La logique fiscale suisse master a été appliquée."
+        },
+        "calculationFailed": {
+          "title": "Échec du calcul fiscal",
+          "fallback": "Impossible de calculer les impôts."
+        },
+        "signInRequired": {
+          "title": "Connexion requise",
+          "description": "Veuillez vous connecter pour enregistrer votre base."
+        },
+        "baselineSaved": {
+          "title": "Référence enregistrée",
+          "description": "Votre situation actuelle est enregistrée pour tous les scénarios futurs."
+        },
+        "saveFailed": {
+          "title": "Échec de l'enregistrement",
+          "description": "Impossible d'enregistrer votre profil de référence."
+        }
+      },
+      "locationSearch": {
+        "loading": "Chargement...",
+        "selectMunicipality": "Sélectionner une commune...",
+        "searchPlaceholder": "Rechercher une ville ou un code postal...",
+        "noMunicipalityFound": "Aucune commune trouvée."
+      }
+    },
+    "paywall": {
+      "exportLimitReached": {
+        "title": "Limite d'exportation atteinte",
+        "description": "Vous avez utilisé vos 2 exports PDF gratuits. Les exports supplémentaires coûtent CHF 10.-. Veuillez contacter le support."
+      }
+    },
+    "expertReview": {
+      "submitted": {
+        "title": "Demande envoyée",
+        "description": "Un expert Lynvia examinera votre scénario dans les 48 heures."
+      },
+      "error": {
+        "title": "Échec de la demande",
+        "description": "Impossible d'envoyer votre demande de révision. Veuillez réessayer."
+      },
+      "adminNotif": {
+        "title": "Révision d'expert demandée",
+        "description": "{name} a demandé une révision d'expert pour son scénario."
+      }
+    },
+    "forms": {
+      "incomeChange": {
+        "title": "Scénario de changement de salaire",
+        "description": "Comparez votre salaire actuel et votre nouveau salaire après impôts.",
+        "fields": {
+          "currentGrossSalary": "Salaire annuel actuel (CHF)",
+          "newGrossSalary": "Nouveau salaire annuel (CHF)",
+          "fortune": "Fortune nette (CHF)"
+        },
+        "descriptions": {
+          "fortune": "Total des actifs moins les dettes (pour l'impôt sur la fortune)"
+        }
+      },
+      "jobLoss": {
+        "title": "Scénario de perte d'emploi",
+        "description": "Analysez l'impact financier du chômage et calculez les prestations.",
+        "fields": {
+          "currentGrossSalary": "Salaire annuel actuel (CHF)",
+          "yearsEmployed": "Années d'emploi",
+          "unemploymentDuration": "Durée prévue (mois)",
+          "hasChildren": "A des enfants"
+        },
+        "descriptions": {
+          "yearsEmployed": "Influe sur la durée des prestations",
+          "hasChildren": "Avec enfants : taux de 80 %, sans : 70 %"
+        }
+      },
+      "childBirth": {
+        "title": "Scénario nouvel enfant",
+        "description": "Calculez les avantages fiscaux, allocations familiales et subsides pour un nouvel enfant.",
+        "fields": {
+          "currentGrossSalary": "Votre salaire annuel (CHF)",
+          "spouseSalary": "Salaire du conjoint (CHF)",
+          "dependents": "Enfants actuels",
+          "age": "Votre âge",
+          "estimatedChildcareCosts": "Frais annuels estimés de garde d'enfants (CHF)"
+        },
+        "descriptions": {
+          "estimatedChildcareCosts": "Déductible jusqu'à CHF 25 000/an (selon les limites cantonales)"
+        }
+      },
+      "marriage": {
+        "title": "Scénario de mariage",
+        "description": "Comparez les impôts de deux célibataires avec ceux d'un couple marié (pénalité/bonus du mariage).",
+        "sections": {
+          "person1": "Personne 1",
+          "person2": "Personne 2",
+          "afterMarriage": "Après le mariage"
+        },
+        "fields": {
+          "person1LocationId": "Commune (personne 1)",
+          "person2LocationId": "Commune (personne 2)",
+          "futureLocationId": "Commune future",
+          "combinedDependents": "Enfants au total"
+        }
+      },
+      "pillar3a": {
+        "title": "Cotisation pilier 3a",
+        "description": "Calculez l'économie d'impôt issue des cotisations de retraite.",
+        "fields": {
+          "currentGrossSalary": "Salaire annuel brut (CHF)",
+          "hasOccupationalPension": "A une prévoyance professionnelle (LPP)",
+          "contributionAmount": "Montant de la cotisation (CHF)",
+          "annualReturnRate": "Rendement attendu (% p.a.)",
+          "projectionYears": "Horizon de projection (années)"
+        },
+        "descriptions": {
+          "hasOccupationalPension": "Cotisation maximale : {amount} (2024)",
+          "contributionAmount": "Maximum : {amount}",
+          "annualReturnRate": "Valeur par défaut : 5 % par an",
+          "projectionYears": "Minimum : 20 ans"
+        },
+        "buttons": {
+          "submit": "Calculer l'économie d'impôt"
+        }
+      },
+      "pillar2Buyback": {
+        "title": "Rachat 2e pilier (LPP)",
+        "description": "Calculez l'économie d'impôt issue de rachats volontaires dans la caisse de pension.",
+        "fields": {
+          "currentGrossSalary": "Salaire annuel brut (CHF)",
+          "currentPensionGap": "Lacune de prévoyance (CHF)",
+          "buybackAmount": "Montant du rachat (CHF)"
+        },
+        "descriptions": {
+          "currentPensionGap": "Potentiel de rachat disponible"
+        },
+        "alert": {
+          "title": "Important",
+          "description": "Après un rachat, vous ne pouvez pas retirer les fonds sous forme de capital pendant 3 ans. Envisagez d'étaler les rachats sur plusieurs années."
+        },
+        "buttons": {
+          "submit": "Calculer l'économie d'impôt"
+        }
+      },
+      "vatComparison": {
+        "title": "Comparaison TVA",
+        "description": "Comparez les méthodes TVA effective et forfaitaire pour votre entreprise.",
+        "fields": {
+          "ca": "Chiffre d'affaires annuel (CHF)",
+          "secteur": "Secteur d'activité",
+          "achats": "Achats annuels (CHF)",
+          "depenses": "Dépenses annuelles (CHF)"
+        },
+        "buttons": {
+          "submit": "Comparer les méthodes TVA"
+        }
+      }
+    },
+    "results": {
+      "analysisTitle": "Analyse : {scenario}",
+      "healthSubsidyIncluded": "Le subside d'assurance-maladie est inclus dans cette estimation.",
+      "currentSituation": "Situation actuelle",
+      "futureSituation": "Situation future",
+      "taxChange": "Variation d'impôt",
+      "netIncomeChange": "Variation du revenu net",
+      "allowancesBenefits": "Allocations et prestations",
+      "totalAdditionalBenefits": "Total des prestations supplémentaires",
+      "perYearSuffix": "/an",
+      "recommendations": "Recommandations",
+      "potentialImpacts": "Impacts potentiels",
+      "pillar3aOffers": {
+        "title": "Explorer les offres pilier 3a",
+        "description": "Comparez des solutions de prévoyance fiscalement optimisées et obtenez de l'aide pour définir la bonne stratégie de cotisation.",
+        "button": "Voir les services fiscaux"
+      },
+      "scenarioTitles": {
+        "income_change": "Changement de salaire",
+        "job_loss": "Perte d'emploi",
+        "child_birth": "Nouvel enfant",
+        "marriage": "Mariage",
+        "pillar_3a": "Pilier 3a",
+        "pillar_2_buyback": "Rachat 2e pilier",
+        "supplementary_benefits": "Prestations complémentaires"
+      },
+      "situationCard": {
+        "grossIncome": "Revenu brut",
+        "totalTax": "Impôt total",
+        "benefitsAllowances": "Prestations et allocations",
+        "netIncome": "Revenu net",
+        "effectiveTaxRate": "Taux d'imposition effectif"
+      },
+      "emptyState": {
+        "title": "Lancer un scénario",
+        "description": "Choisissez un scénario, remplissez le formulaire et lancez le calcul pour voir l'impact financier."
+      },
+      "exportPdf": "Exporter en PDF",
+      "expertReview": {
+        "button": "Demander une révision et stratégie d'expert",
+        "requesting": "Envoi en cours...",
+        "description": "Un expert Lynvia examinera manuellement votre scénario et proposera une stratégie personnalisée (CHF 50.-)"
+      }
+    },
+    "supplementaryBenefits": {
+      "meta": {
+        "scenarioType": "Prestations complémentaires (PC)"
+      },
+      "form": {
+        "title": "Prestations complémentaires (PC)",
+        "description": "Estimez le droit aux prestations pour les personnes retraitées et les bénéficiaires de l'AI.",
+        "fields": {
+          "annualRetirementIncome": "Revenu annuel de retraite (CHF)",
+          "annualDisabilityIncome": "Prestations AI annuelles (CHF)",
+          "otherAnnualIncome": "Autres revenus annuels (CHF)",
+          "annualHousingCosts": "Coûts annuels du logement (CHF)",
+          "annualHealthInsurancePremium": "Prime annuelle d'assurance-maladie (CHF)",
+          "netAssets": "Fortune nette (CHF)",
+          "municipality": "Commune",
+          "maritalStatus": "État civil",
+          "dependents": "Enfants à charge",
+          "age": "Âge",
+          "isRetired": "Personne retraitée",
+          "receivesAiBenefits": "Perçoit des prestations AI"
+        },
+        "descriptions": {
+          "annualHousingCosts": "Loyer + charges utilisées pour les dépenses reconnues PC.",
+          "annualHealthInsurancePremium": "Prime obligatoire de l'assurance-maladie (LAMal).",
+          "netAssets": "Épargne, titres et autres éléments de fortune pris en compte."
+        },
+        "options": {
+          "single": "Célibataire",
+          "married": "Marié(e)"
+        },
+        "buttons": {
+          "calculating": "Calcul en cours...",
+          "submit": "Estimer les prestations complémentaires"
+        }
+      },
+      "analysis": {
+        "context": {
+          "retired": "personne retraitée",
+          "aiBeneficiary": "bénéficiaire de l'AI",
+          "and": "et"
+        },
+        "summary": {
+          "eligible": "Un droit estimé a été trouvé pour {context}.",
+          "notEligible": "Aucun droit estimé n'a été trouvé pour {context} au niveau de revenu déclaré."
+        },
+        "recommendations": {
+          "prepareRecords": "Préparez les justificatifs officiels de revenus et de fortune avant de déposer votre demande PC.",
+          "contactCantonalOffice": "Contactez l'office social cantonal pour confirmer le droit final et le montant payable.",
+          "requestFullAssessment": "Demandez une évaluation PC complète auprès de l'office social cantonal, surtout si votre situation a récemment changé."
+        },
+        "impacts": {
+          "estimatedAnnualBenefit": "Prestations complémentaires annuelles estimées : {amount}",
+          "recognizedExpenses": "Dépenses annuelles reconnues : {amount}",
+          "determiningIncome": "Revenu annuel déterminant : {amount}"
+        }
+      },
+      "toast": {
+        "eligibilityContextRequired": {
+          "title": "Contexte d'éligibilité requis",
+          "description": "Veuillez indiquer le statut de retraite et/ou les prestations AI pour estimer les prestations complémentaires."
+        },
+        "complete": {
+          "title": "Estimation des prestations complémentaires terminée",
+          "description": "Droit annuel estimé : {amount}"
+        }
+      }
+    }
+  },
+  "TaxServices": {
+    "title": "Services Fiscaux",
+    "subtitle": "Parcourez nos services fiscaux professionnels conçus pour simplifier vos finances et maximiser vos économies.",
+    "services": {
+      "annual": {
+        "title": "Déclaration d'impôts annuelle",
+        "description": "Préparation et dépôt complets de votre déclaration d'impôts annuelle suisse pour votre canton. Nous veillons à ce que toutes les déductions soient maximisées et que votre déclaration soit déposée correctement et à temps.",
+        "priceDescription": "À partir de",
+        "actionText": "Commencer"
+      },
+      "optimization": {
+        "title": "Examen de l'optimisation fiscale",
+        "description": "Nos experts analyseront votre situation financière et vous fourniront un rapport détaillé sur les économies d'impôts potentielles. Comprend des recommandations personnalisées pour les déductions et les crédits.",
+        "priceDescription": "",
+        "actionText": "Acheter"
+      },
+      "crossBorder": {
+        "title": "Conseil fiscal transfrontalier",
+        "description": "Conseils spécialisés pour les personnes travaillant à travers les frontières ou détenant des actifs à l'étranger (par exemple, les titulaires de permis G, les navetteurs hebdomadaires internationaux). Naviguez facilement dans les conventions fiscales complexes.",
+        "priceDescription": "Contacter pour un devis",
+        "actionText": "Demander un devis"
+      },
+      "pension": {
+        "title": "Conseils sur la prévoyance et le 3e pilier",
+        "description": "Optimisez vos cotisations au pilier 3a/3b pour des déductions fiscales maximales et une retraite sûre. Nous vous aidons à comprendre et à planifier votre avenir.",
+        "priceDescription": "",
+        "actionText": "Acheter"
+      },
+      "crypto": {
+        "title": "Déclaration fiscale sur les crypto-monnaies",
+        "description": "Nous générons une déclaration fiscale conforme pour vos actifs cryptographiques, couvrant les plus-values et l'impôt sur la fortune. Prend en charge tous les principaux échanges et portefeuilles.",
+        "priceDescription": "À partir de",
+        "actionText": "Commencer"
+      },
+      "realEstate": {
+        "title": "Consultation fiscale immobilière",
+        "description": "Conseils sur l'impôt sur les gains immobiliers, la fiscalité des revenus locatifs et les implications en matière de succession ou de donation pour les biens immobiliers. Conseils d'experts pour les propriétaires et les investisseurs immobiliers.",
+        "priceDescription": "Contacter pour un devis",
+        "actionText": "Demander un devis"
+      }
+    },
+    "checkout": {
+      "backButton": "Retour aux services",
+      "additionalInfoLabel": "Informations supplémentaires et documents",
+      "additionalInfoPlaceholder": "Veuillez fournir tous les détails pertinents pour votre demande de service. Vous pouvez également mentionner tous les documents que vous devez fournir (par exemple, fiches de salaire, liste de patrimoine).",
+      "processingButton": "Traitement en cours...",
+      "calculatedTotal": "Total calculé : CHF {price}",
+      "fixedPrice": "Prix fixe : CHF {price}",
+      "fields": {
+        "children": {
+          "label": "Nombre d'enfants (+CHF 10 chacun)",
+          "placeholder": "Sélectionner le nombre d'enfants"
+        },
+        "properties": {
+          "label": "Nombre de biens immobiliers (+CHF 30 chacun)",
+          "placeholder": "Sélectionner le nombre de biens"
+        },
+        "bankAssets": {
+          "label": "Comptes bancaires / titres / actions",
+          "placeholder": "Sélectionner la tranche"
+        },
+        "dependents": {
+          "label": "Personnes à charge (+CHF 10 chacune)",
+          "placeholder": "Sélectionner le nombre de personnes à charge"
+        }
+      },
+      "pricingBreakdown": {
+        "title": "Détail du prix",
+        "base": "Base : CHF {price}",
+        "children": "Supplément enfants : CHF {price}",
+        "properties": "Supplément biens immobiliers : CHF {price}",
+        "bankAssets": "Supplément avoirs bancaires : CHF {price}",
+        "dependents": "Supplément personnes à charge : CHF {price}",
+        "total": "Total : CHF {price}"
+      },
+      "errors": {
+        "checkoutSession": "Impossible de créer la session de paiement.",
+        "stripeNotLoaded": "Stripe.js n'est pas encore chargé."
+      },
+      "postPurchaseTitle": "Cette déclaration d'impôt est déjà active",
+      "postPurchaseDescription": "Les tarifs sont masqués tant que votre commande est ouverte. Ouvrez le hub Déclaration annuelle pour téléverser les documents et suivre l'avancement.",
+      "goToHub": "Ouvrir le hub Déclaration annuelle"
+    },
+    "list": {
+      "startingAtPrice": "À partir de CHF {price}"
+    },
+    "catalog": {
+      "couple-inactive": {
+        "title": "Déclaration fiscale - Couple (inactif)",
+        "description": "Service suisse de déclaration fiscale pour les couples sans activité, avec tarification dynamique selon la complexité du dossier.",
+        "actionText": "Configurer et continuer"
+      },
+      "couple-retired": {
+        "title": "Déclaration fiscale - Couple (retraité)",
+        "description": "Service suisse de déclaration fiscale pour les couples retraités, avec tarification dynamique selon la complexité du dossier.",
+        "actionText": "Configurer et continuer"
+      },
+      "couple-salaried": {
+        "title": "Déclaration fiscale - Couple (salarié)",
+        "description": "Service suisse de déclaration fiscale pour les couples salariés, avec tarification dynamique selon la complexité du dossier.",
+        "actionText": "Configurer et continuer"
+      },
+      "single-inactive": {
+        "title": "Déclaration fiscale - Personne seule (inactive)",
+        "description": "Service suisse de déclaration fiscale pour les personnes seules sans activité, avec tarification dynamique selon la complexité du dossier.",
+        "actionText": "Configurer et continuer"
+      },
+      "single-retired": {
+        "title": "Déclaration fiscale - Personne seule (retraitée)",
+        "description": "Service suisse de déclaration fiscale pour les personnes seules retraitées, avec tarification dynamique selon la complexité du dossier.",
+        "actionText": "Configurer et continuer"
+      },
+      "single-salaried": {
+        "title": "Déclaration fiscale - Personne seule (salariée)",
+        "description": "Service suisse de déclaration fiscale pour les personnes seules salariées, avec tarification dynamique selon la complexité du dossier.",
+        "actionText": "Configurer et continuer"
+      },
+      "permit-b-simplified": {
+        "title": "Déclaration simplifiée pour permis B",
+        "description": "Service suisse de déclaration fiscale simplifiée à prix fixe pour les cas avec permis B.",
+        "actionText": "Continuer vers le paiement"
+      }
+    },
+    "orderFollowUp": {
+      "title": "Votre déclaration d'impôts",
+      "documentsLabel": "Documents obligatoires",
+      "documentProgress": "{uploaded} sur {required} documents obligatoires envoyés",
+      "mandatoryDocumentsTitle": "Documents requis",
+      "uploadButton": "Télécharger",
+      "replaceButton": "Remplacer",
+      "uploadedLabel": "Envoyé",
+      "allSubmittedTitle": "Tous les documents envoyés !",
+      "allSubmittedDescription": "Vos documents ont été transmis à notre équipe. Nous allons commencer à travailler sur votre déclaration sous peu.",
+      "uploadDocuments": "Envoyer les documents",
+      "downloadDocuments": "Télécharger les documents",
+      "viewOrderDetails": "Voir les détails de la commande",
+      "buyAnother": "Acheter un autre service fiscal",
+      "backToOrder": "Retour à ma commande",
+      "docs": {
+        "salaryCertificate": "Certificat de salaire",
+        "bankStatement": "Relevé bancaire de fin d'année",
+        "pillar3aCertificate": "Attestation 3e pilier",
+        "spouseSalary": "Certificat de salaire du conjoint",
+        "childcareCertificate": "Attestation de frais de garde / scolarité",
+        "propertyStatement": "Relevé de revenus immobiliers"
+      },
+      "statuses": {
+        "paid": {
+          "label": "Paiement reçu",
+          "description": "Veuillez envoyer vos documents obligatoires dans Mes Documents pour commencer."
+        },
+        "inProgress": {
+          "label": "L'expert travaille dessus",
+          "description": "Notre équipe travaille activement sur votre déclaration. Vous serez notifié lorsqu'elle sera prête."
+        },
+        "pendingReview": {
+          "label": "Soumis par l'expert",
+          "description": "Votre déclaration d'impôts est prête. Téléchargez vos documents finalisés ci-dessous."
+        }
+      }
+    },
+    "successPage": {
+      "title": "Paiement initié !",
+      "description": "Votre paiement est en cours de traitement. Vous recevrez sous peu un e-mail de confirmation et le statut de votre commande sera mis à jour dans la page \"Mes commandes\" une fois le paiement réussi.",
+      "button": "Aller à Mes Commandes"
+    },
+    "cancelPage": {
+      "title": "Paiement annulé",
+      "description": "Votre paiement n'a pas été effectué. Vous pouvez retourner à vos commandes et réessayer.",
+      "button": "Retourner à Mes Commandes"
+    },
+    "toast": {
+      "notLoggedIn": {
+        "title": "Non connecté",
+        "description": "Vous devez être connecté pour acheter un service."
+      },
+      "quoteSent": {
+        "title": "Demande de devis envoyée",
+        "description": "Merci ! Notre équipe examinera votre demande et vous répondra sous peu."
+      },
+      "requestFailed": {
+        "title": "La demande a échoué",
+        "description": "Une erreur inattendue s'est produite. Veuillez réessayer."
+      }
+    },
+    "fallback": {
+      "anonymousUser": "Utilisateur anonyme"
+    }
+  },
+  "PayrollProcessing": {
+    "title": "Traitement de la Paie",
+    "subtitle": "Gérez la paie avec les règles d'allocations partagées utilisées dans les produits individuels et professionnels.",
+    "kpi": {
+      "grossPayroll": "Masse Salariale Brute",
+      "deductions": "Déductions des Employés",
+      "allowances": "Allocations Familiales",
+      "netPay": "Net Avant Impôts",
+      "employerCost": "Coût Employeur"
+    },
+    "tabs": {
+      "manual": "Traitement Manuel",
+      "csv": "Import CSV"
+    },
+    "manualProcessing": {
+      "title": "Cycle de Paie - {monthLabel}",
+      "description": "Traitez les employés en utilisant les données de paie actuellement stockées dans leurs dossiers d'entreprise.",
+      "table": {
+        "employee": "Employé",
+        "grossSalary": "Salaire Brut",
+        "deductions": "Déductions",
+        "allowances": "Allocations Familiales",
+        "netBeforeTax": "Net Avant Impôts",
+        "employerCost": "Coût Employeur",
+        "status": "Statut"
+      },
+      "noEmployees": "Aucun employé actif trouvé pour cette entreprise.",
+      "exportAll": "Tout Exporter",
+      "processSelected": "Traiter {count} Employés",
+      "processing": "Traitement..."
+    },
+    "recentRuns": {
+      "title": "Cycles de Paie Récents",
+      "description": "Derniers lots de paie enregistrés pour votre entreprise.",
+      "table": {
+        "month": "Mois",
+        "source": "Source",
+        "employees": "Employés",
+        "grossPayroll": "Masse Salariale Brute",
+        "employerCost": "Coût Employeur",
+        "actions": "Actions"
+      },
+      "noRuns": "Aucun cycle de paie n'a encore été traité."
+    },
+    "csvUpload": {
+      "title": "Import CSV",
+      "description": "Importez les données de paie pour les ID d'employés existants et traitez le lot pour {monthLabel}.",
+      "templateDescription": "Téléchargez le modèle pour vous assurer que votre CSV correspond aux données d'employé attendues par le système.",
+      "downloadTemplate": "Télécharger le Modèle",
+      "dropzone": {
+        "label": "Cliquez pour importer ou glissez-déposez",
+        "fileType": "Fichier CSV (MAX 5Mo)"
+      },
+      "loadedFile": "Fichier chargé :",
+      "parsedRows": "Lignes analysées :",
+      "validCsv": "La structure CSV semble valide.",
+      "uploadAndProcess": "Importer & Traiter"
+    },
+    "salaryCostOverview": {
+      "title": "Bulletins de salaire & communications",
+      "subtitle": "Saisissez les données de salaire mensuelles pour chaque employé et suivez les estimations de coûts.",
+      "configureRates": "Configurer les taux",
+      "hideRates": "Masquer les taux",
+      "ratesTitle": "Taux de charges de l'entreprise",
+      "ratesDescription": "Saisissez les taux exacts applicables à votre entreprise pour la part employeur. Ces valeurs peuvent être définies par Lynvia ou par vos propres réglages.",
+      "saveRates": "Enregistrer les taux",
+      "savingRates": "Enregistrement...",
+      "resetDefaults": "Réinitialiser les valeurs par défaut",
+      "kpis": {
+        "employees": "Employés (salaire mensuel)",
+        "monthlyGrossPayroll": "Masse salariale mensuelle",
+        "totalMonthlyEmployerCost": "Coût total mensuel (employeur)",
+        "ofWhichCharges": "dont charges"
+      },
+      "employeeDetailTitle": "Détail par employé",
+      "employeeDetailDescription": "Salaire mensuel brut plus charges sociales employeur. Les employés à l'heure sont indiqués séparément.",
+      "table": {
+        "employee": "Employé",
+        "role": "Fonction",
+        "activityRate": "Taux d'activité",
+        "monthlySalary": "Salaire mensuel",
+        "charges": "Charges (CHF)",
+        "monthlyCost": "Coût / mois",
+        "annualCost": "Coût / an (x13)"
+      },
+      "noEmployees": "Aucun employé enregistré. Ajoutez des employés dans le module Gestion des Employés.",
+      "hourlyEmployeeNotice": "Salarié horaire - coût variable selon les heures effectuées",
+      "totalMonthly": "Total mensuel",
+      "appliedRatesTitle": "Taux actuellement appliqués",
+      "appliedRatesDescription": "Utilisez le bouton Configurer les taux pour les modifier.",
+      "rateLabels": {
+        "avs": "AHV/AVS (employeur)",
+        "ac": "Assurance chômage",
+        "laa": "Assurance accidents",
+        "ijm": "Indemnités journalières maladie",
+        "lpp": "LPP / BVG (employeur)",
+        "caf": "Caisse d'allocations familiales"
+      },
+      "toast": {
+        "savedTitle": "Taux enregistrés",
+        "savedDescription": "Les taux de charges ont été mis à jour."
+      },
+      "monthlyPayroll": {
+        "title": "Salaires mensuels",
+        "subtitle": "Cliquez sur la ligne d'un employé pour saisir ses données salariales du mois en cours.",
+        "salaryType": "Type",
+        "statusCol": "Statut (mois sélectionné)",
+        "payrollMonthLabel": "Mois de paie",
+        "payrollMonthHelp": "Choisissez le mois civil pour les envois et le statut dans le tableau ci-dessous.",
+        "estimatedGrossCol": "Brut estimé (mois)",
+        "hourly": "Horaire",
+        "monthly": "Mensuel",
+        "submitted": "Envoyé",
+        "pending": "En attente",
+        "dialogDescription": "Saisissez les données salariales pour le mois sélectionné. Cliquez sur Envoyer pour générer une estimation.",
+        "month": "Mois",
+        "hours": "Heures travaillées",
+        "additionalFields": "Éléments supplémentaires",
+        "feesToReimburse": "Frais à rembourser",
+        "feesToDeduct": "Frais à déduire",
+        "privateVehicleKm": "Véhicule privé (km)",
+        "mealsToReimburse": "Repas à rembourser",
+        "mealsToDeduct": "Repas à déduire",
+        "bonus": "Bonus à payer",
+        "prime": "Prime",
+        "estimatedGrossLabel": "Salaire brut estimé",
+        "vehicleRateNote": "Remboursement véhicule à CHF {rate}/km (taux suisse standard)",
+        "disclaimer": "Les informations définitives sur la paie sont fournies par Lynvia. Il s'agit uniquement d'une estimation.",
+        "cancel": "Annuler",
+        "submit": "Envoyer et générer une estimation",
+        "submitting": "Envoi en cours...",
+        "toastTitle": "Données salariales envoyées",
+        "toastDescription": "Les données de {name} ont été enregistrées."
+      }
+    },
+    "dialog": {
+      "deleteRunTitle": "Êtes-vous sûr ?",
+      "deleteRunDescription": "Cette action est irréversible. Le cycle de paie pour {monthLabel} sera supprimé définitivement.",
+      "cancel": "Annuler",
+      "delete": "Supprimer"
+    },
+    "toast": {
+      "noSelection": {
+        "title": "Aucun employé valide sélectionné",
+        "description": "Sélectionnez au moins un employé avec des données de paie complètes."
+      },
+      "processSuccess": {
+        "title": "Paie traitée",
+        "description": "{count} employés traités pour {monthLabel}."
+      },
+      "processError": {
+        "title": "Le traitement de la paie a échoué",
+        "description": "Veuillez réessayer."
+      },
+      "csvLoaded": {
+        "title": "CSV chargé",
+        "description": "{count} ligne(s) analysée(s) depuis {fileName}."
+      },
+      "csvParseError": {
+        "title": "L'analyse du CSV a échoué",
+        "description": "Veuillez vérifier le format du fichier et réessayer."
+      },
+      "noCsvData": {
+        "title": "Aucune donnée CSV chargée",
+        "description": "Veuillez d'abord charger un fichier CSV valide."
+      },
+      "noValidCsvRows": {
+        "title": "Aucune ligne CSV valide",
+        "description": "Veuillez corriger le fichier CSV et réessayer."
+      },
+      "csvProcessSuccess": {
+        "title": "Paie CSV traitée",
+        "description": "{processedCount} ligne(s) traitée(s){skippedCount, plural, =0 {} other {, # ignorée(s)}}."
+      },
+      "csvProcessError": {
+        "title": "Le traitement de la paie CSV a échoué",
+        "description": "Veuillez réessayer."
+      },
+      "deleteRunSuccess": {
+        "title": "Cycle de paie supprimé",
+        "description": "Le cycle de paie sélectionné a été supprimé."
+      },
+      "deleteRunError": {
+        "title": "Échec de la suppression",
+        "description": "Impossible de supprimer le cycle de paie. Des sous-enregistrements peuvent encore exister."
+      },
+      "companyError": {
+        "title": "Erreur",
+        "description": "Informations sur l'entreprise non disponibles."
+      }
+    },
+    "status": {
+      "Pending": "En attente",
+      "Processed": "Traité"
+    },
+    "source": {
+      "manual": "Manuel",
+      "csv": "CSV"
+    },
+    "currencyPrefix": "CHF ",
+    "units": {
+      "chf": "CHF",
+      "km": "km",
+      "perHour": "/h"
+    }
+  },
+  "EmployeeManagement": {
+    "title": "Gestion des Employés",
+    "subtitle": "Enregistrez les données de vos employés pour l’affiliation aux assurances sociales et le traitement des salaires.",
+    "addEmployee": "Annoncer un employé",
+    "cctButton": "Consulter la CCT applicable",
+    "rosterTitle": "Registre des Employés",
+    "rosterDescription": "Liste de tous les employés annoncés à Lynvia.",
+    "searchPlaceholder": "Rechercher par nom, fonction ou email…",
+    "noEmployees": "Aucun employé enregistré pour l’instant.",
+    "stats": {
+      "total": "Employés Actifs",
+      "hourly": "Travailleurs à l’Heure",
+      "avsToVerify": "AVS à Vérifier"
+    },
+    "table": {
+      "name": "Nom",
+      "fonction": "Fonction",
+      "avsStatus": "Statut AVS",
+      "typeRemu": "Type Rémun.",
+      "tauxActivite": "Taux Activité",
+      "startDate": "Date Début",
+      "actions": "Actions"
+    },
+    "avs": {
+      "valide": "Valide",
+      "a_verifier": "À vérifier",
+      "invalide": "Invalide"
+    },
+    "remu": {
+      "horaire": "Horaire",
+      "mensuel": "Mensuel"
+    },
+    "dialog": {
+      "editTitle": "Modifier Employé",
+      "addTitle": "Annoncer un Employé",
+      "editDescription": "Mettez à jour les données de cet employé.",
+      "addDescription": "Saisissez les données de l’employé pour l’annoncer aux assurances sociales.",
+      "viewTitle": "Fiche Employé",
+      "deleteTitle": "Supprimer l’employé ?",
+      "deleteDescription": "Cette action est irréversible. L’enregistrement sera définitivement supprimé.",
+      "sections": {
+        "identity": "Identité",
+        "contract": "Contrat",
+        "swissInfo": "Informations Suisses",
+        "personalStatus": "Statut Personnel",
+        "documents": "Télécharger des Documents"
+      },
+      "labels": {
+        "prenom": "Prénom",
+        "nom": "Nom",
+        "dateNaissance": "Date de Naissance",
+        "telephone": "Téléphone (optionnel)",
+        "email": "Email (optionnel)",
+        "fonction": "Fonction / Poste",
+        "dateDebut": "Date d’Entrée",
+        "typeRemu": "Type de Rémunération",
+        "horaire": "Horaire",
+        "mensuel": "Mensuel",
+        "salaireHoraire": "Taux Horaire (CHF)",
+        "salaireMensuel": "Salaire Mensuel (CHF)",
+        "tauxActivite": "Taux d’Activité (%)",
+        "semainesVacances": "Semaines de Vacances",
+        "numeroAVS": "Numéro AVS",
+        "iban": "IBAN (optionnel)",
+        "rue": "Rue",
+        "ville": "Localité",
+        "codePostal": "NPA",
+        "adresse": "Adresse",
+        "adminStatus": "Statut Admin",
+        "registration": "Inscription",
+        "registeredWithAvs": "Inscrit auprès de l'AVS",
+        "awaitingRegistration": "En attente d'inscription",
+        "registrationDate": "Date d'inscription",
+        "lastPayslip": "Dernier bulletin de salaire",
+        "residencePermit": "Permis de Séjour",
+        "maritalStatus": "État Civil",
+        "hasChildren": "Enfants",
+        "taxAtSource": "Impôt à la source",
+        "documentUploadHint": "Copie de la carte d'identité ou du permis de séjour",
+        "viewDocument": "Voir le document téléchargé"
+      },
+      "placeholders": {
+        "residencePermit": "Sélectionner le type de permis",
+        "maritalStatus": "Sélectionner l'état civil"
+      },
+      "options": {
+        "yes": "Oui",
+        "no": "Non"
+      },
+      "permits": {
+        "L": "L — Séjour de courte durée",
+        "B": "B — Séjour annuel",
+        "C": "C — Permis d'établissement",
+        "F": "F — Admission provisoire",
+        "G": "G — Frontalier",
+        "none": "Pas de permis (citoyen suisse)"
+      },
+      "marital": {
+        "single": "Célibataire",
+        "married": "Marié(e)",
+        "divorced": "Divorcé(e)",
+        "separated": "Séparé(e)"
+      },
+      "children": {
+        "title": "Enfant",
+        "add": "Ajouter un enfant",
+        "remove": "Supprimer",
+        "firstName": "Prénom",
+        "lastName": "Nom",
+        "dateOfBirth": "Date de naissance",
+        "sharedCustody": "Garde partagée ?",
+        "otherParentFirstName": "Autre parent — Prénom",
+        "otherParentLastName": "Autre parent — Nom",
+        "otherParentAddress": "Autre parent — Adresse",
+        "otherParentAVS": "Autre parent — Numéro AVS"
+      },
+      "buttons": {
+        "cancel": "Annuler",
+        "save": "Enregistrer",
+        "saving": "Enregistrement…",
+        "delete": "Supprimer",
+        "close": "Fermer"
+      }
+    },
+    "toast": {
+      "updateSuccessTitle": "Employé mis à jour",
+      "updateSuccessDescription": "{name} a été mis à jour.",
+      "addSuccessTitle": "Employé annoncé",
+      "addSuccessDescription": "{name} a été enregistré.",
+      "errorTitle": "Erreur",
+      "saveErrorDescription": "Impossible d’enregistrer les données de l’employé.",
+      "deleteSuccessTitle": "Employé supprimé",
+      "deleteErrorDescription": "Impossible de supprimer l’employé."
+    },
+    "cctAlerts": {
+      "title": "Alertes CCT — Conformité",
+      "description": "Vérifications automatiques basées sur la CCT applicable et les règles suisses.",
+      "minWage": "Salaire inférieur au minimum CCT de CHF {minimum}/mois",
+      "vacationLow": "Semaines de vacances insuffisantes (minimum légal / CCT : {required} semaines)",
+      "thirteenth": "Le 13e salaire peut s'appliquer selon votre CCT — à vérifier pour les employés au forfait mensuel",
+      "lppRequired": "Pas de plan LPP déclaré : employé au-dessus de CHF {threshold}/mois — affiliation LPP (2e pilier) à prévoir",
+      "allGood": "Aucune alerte CCT — conformité OK",
+      "fixAction": "Corriger"
+    }
+  },
+  "LeaveManagement": {
+    "title": "Gestion des Congés",
+    "subtitle": "Examinez, approuvez ou refusez les demandes de congé des employés.",
+    "cardTitle": "Demandes de Congé",
+    "cardDescription": "Une liste de toutes les demandes de congé de vos employés.",
+    "newRequest": "Nouvelle Demande de Congé",
+    "tabs": {
+      "pending": "En attente",
+      "approved": "Approuvé",
+      "rejected": "Rejeté",
+      "all": "Tous"
+    },
+    "table": {
+      "employee": "Employé",
+      "leaveType": "Type de Congé",
+      "dates": "Dates",
+      "days": "Jours",
+      "status": "Statut",
+      "actions": "Actions"
+    },
+    "noRequests": "Aucune demande de congé trouvée.",
+    "actions": {
+      "label": "Actions",
+      "approve": "Approuver",
+      "reject": "Rejeter",
+      "view": "Voir les détails"
+    },
+    "dialog": {
+      "title": "Nouvelle Demande de Congé",
+      "description": "Remplissez le formulaire pour soumettre une nouvelle demande de congé pour un employé.",
+      "employeeLabel": "Employé",
+      "employeePlaceholder": "Sélectionner un employé",
+      "leaveTypeLabel": "Type de Congé",
+      "leaveTypePlaceholder": "Sélectionner le type de congé",
+      "leaveTypes": {
+        "vacation": "Vacances",
+        "sick": "Maladie",
+        "parental": "Congé Parental",
+        "unpaid": "Congé sans Solde",
+        "other": "Autre"
+      },
+      "startDateLabel": "Date de Début",
+      "endDateLabel": "Date de Fin",
+      "reasonLabel": "Raison (optionnel)",
+      "reasonPlaceholder": "Entrez une raison pour la demande de congé",
+      "errors": {
+        "employeeRequired": "Veuillez sélectionner un employé.",
+        "leaveTypeRequired": "Veuillez sélectionner un type de congé.",
+        "startDateRequired": "Une date de début est requise.",
+        "endDateRequired": "Une date de fin est requise.",
+        "endDateBeforeStart": "La date de fin ne peut pas être antérieure à la date de début."
+      },
+      "cancel": "Annuler",
+      "submitting": "Envoi en cours...",
+      "submit": "Soumettre la Demande"
+    },
+    "toast": {
+      "submitSuccess": "Demande de congé soumise",
+      "submitError": "Impossible de soumettre la demande de congé.",
+      "updateSuccess": "Demande {status}",
+      "updateError": "Impossible de mettre à jour la demande de congé.",
+      "alreadyProcessed": "Cette demande est déjà {status}.",
+      "employeeNotFound": "Employé sélectionné non trouvé."
+    },
+    "status": {
+      "Pending": "En attente",
+      "Approved": "Approuvé",
+      "Rejected": "Rejeté"
+    }
+  },
+  "DocumentCenter": {
+    "title": "Centre de documents",
+    "subtitle": "Gérez, partagez et collaborez sur tous les documents de votre entreprise.",
+    "cardTitle": "Tous les documents",
+    "cardDescription": "Un référentiel centralisé pour les fichiers de votre entreprise.",
+    "searchPlaceholder": "Rechercher des documents...",
+    "uploadButton": "Télécharger un document",
+    "table": {
+      "name": "Nom",
+      "createdBy": "Créé par",
+      "status": "Statut",
+      "lastModified": "Dernière modification",
+      "actions": "Actions"
+    },
+    "status": {
+      "Approved": "Approuvé",
+      "PendingReview": "En attente d'examen",
+      "Draft": "Brouillon",
+      "Rejected": "Rejeté",
+      "Sent": "Envoyé"
+    },
+    "actions": {
+      "label": "Actions",
+      "view": "Voir les détails",
+      "download": "Télécharger",
+      "share": "Partager",
+      "markAsSent": "Marquer comme envoyé",
+      "requestApproval": "Demander l'approbation",
+      "delete": "Supprimer"
+    },
+    "toast": {
+      "fetchError": {
+        "title": "Erreur",
+        "description": "Impossible de récupérer les documents de votre entreprise."
+      },
+      "uploadValidation": {
+        "title": "Champs manquants",
+        "description": "Veuillez remplir les champs obligatoires."
+      },
+      "uploadSuccess": {
+        "title": "Document transmis",
+        "description": "Document transmis à Lynvia avec succès."
+      }
+    },
+    "noDocuments": "Aucun document trouvé pour votre entreprise.",
+    "noMatch": "Aucun document ne correspond à votre recherche.",
+    "checklist": {
+      "title": "Checklist documents obligatoires",
+      "description": "Documents requis selon votre profil d'entreprise.",
+      "required": "Obligatoire"
+    },
+    "checklistItems": {
+      "monthlyBankStatements": "Relevés bancaires mensuels",
+      "invoicesIssued": "Factures émises",
+      "companyPaidInvoices": "Factures payées entreprise",
+      "vatStatements": "Décomptes TVA",
+      "vehicleContract": "Contrat véhicule fonction"
+    },
+    "checklistDesc": {
+      "bankStatements": "Obligatoire pour suivi trésorerie",
+      "invoices": "Toutes factures clients",
+      "companyInvoices": "Frais professionnels",
+      "vat": "Si service TVA non souscrit",
+      "vehicle": "Véhicule déclaré - obligatoire TVA/charges sociales"
+    },
+    "alerts": {
+      "vatNotSubscribed": "Service TVA non souscrit :",
+      "vatNotSubscribedDesc": "Vous pouvez uploader vos décomptes TVA pour information. Les documents pour la TVA doivent être fournis dans les 2 mois suivant l'échéance (trimestre ou semestre).",
+      "vehicleDeclared": "Véhicule de fonction déclaré :",
+      "vehicleDeclaredDesc": "Le contrat d'achat véhicule est requis pour la TVA et le calcul correct des charges sociales/salaires."
+    },
+    "aiGenerator": {
+      "title": "Générateur de documents IA",
+      "description": "Créez vos documents d'entreprise personnalisés.",
+      "employmentContract": "Contrat de travail",
+      "salarySlip": "Fiche de salaire",
+      "vatDeclaration": "Déclaration TVA",
+      "auditReport": "Rapport audit"
+    },
+    "transmit": {
+      "title": "Transmettre à Lynvia",
+      "description": "Envoyez vos documents comptables.",
+      "newDocument": "Nouveau document",
+      "dialogTitle": "Transmettre un document à Lynvia",
+      "dialogDescription": "Sélectionnez le type et la période du document.",
+      "typeLabel": "Type de document",
+      "typePlaceholder": "Sélectionner un type",
+      "periodLabel": "Période concernée",
+      "periodPlaceholder": "ex: Janvier 2025, Q4 2024, Année 2024",
+      "commentLabel": "Commentaire (optionnel)",
+      "commentPlaceholder": "Informations complémentaires...",
+      "dragDrop": "Glissez vos fichiers ici ou",
+      "chooseFiles": "Choisir fichiers",
+      "cancel": "Annuler",
+      "submit": "Transmettre",
+      "cfoNote": "Les documents transmis alimentent vos analyses CFO."
+    },
+    "docTypes": {
+      "bankStatementDetailed": "Relevé bancaire (avec détails/solde)",
+      "invoiceIssued": "Facture émise (client)",
+      "invoicePaidPrivate": "Facture/ticket payé par privé",
+      "invoicePaidCompany": "Facture/ticket payé par entreprise",
+      "monthlySalarySlip": "Fiche de salaire mensuelle",
+      "vatStatement": "Décompte TVA",
+      "vehicleContract": "Contrat véhicule (si véhicule de fonction)",
+      "other": "Autres",
+      "bankStatement": "Relevé bancaire"
+    },
+    "transmitted": {
+      "title": "Documents transmis à Lynvia",
+      "description": "Suivi de vos documents envoyés.",
+      "type": "Type",
+      "period": "Période",
+      "sendDate": "Date envoi",
+      "status": "Statut",
+      "cfoSource": "Source CFO",
+      "empty": "Aucun document transmis pour le moment."
+    },
+    "transmittedStatus": {
+      "pending": "En attente",
+      "received": "Reçu",
+      "missing": "Manquant",
+      "vatLate": "En retard TVA",
+      "processing": "En cours de traitement",
+      "integratedCFO": "Intégré CFO"
+    },
+    "cfoLink": {
+      "title": "Analyses CFO alimentées par vos documents :",
+      "description": "Vos analyses financières sont établies à partir des documents transmis et validés par Lynvia. Les chiffres sont saisis manuellement par Lynvia dans ses systèmes comptables et mis à jour ici.",
+      "button": "Voir analyses CFO"
+    }
+  },
+  "FinancialScenarios": {
+    "title": "Scénarios Financiers",
+    "subtitle": "Modélisez des scénarios d'entreprise complexes et obtenez des informations basées sur l'IA.",
+    "workforceScenario": {
+      "title": "Scénario de planification de la main-d'œuvre",
+      "description": "Modélisez l'impact financier de l'embauche de nouveaux employés.",
+      "scenarioNameLabel": "Nom du scénario",
+      "scenarioNamePlaceholder": "Ex: Expansion ingénierie T4",
+      "hiresLabel": "Nombre de nouvelles embauches",
+      "salaryLabel": "Salaire annuel moyen (CHF)",
+      "ageLabel": "Âge moyen",
+      "dependentsLabel": "Personnes à charge moyennes par embauche",
+      "cantonLabel": "Canton de paie",
+      "statusLabel": "Statut de ménage par défaut",
+      "selectStatus": "Sélectionnez un statut...",
+      "notesLabel": "Notes (optionnel)",
+      "notesPlaceholder": "Décrivez le contexte de ce scénario...",
+      "runButton": "Lancer l'analyse et obtenir des informations",
+      "runningButton": "Analyse du scénario..."
+    },
+    "results": {
+      "title": "Impact financier estimé",
+      "description": "Coût employeur projeté en utilisant les mêmes règles d'allocations partagées que le calculateur individuel.",
+      "chart": {
+        "grossPayroll": "Masse salariale brute",
+        "employerContributions": "Cotisations employeur",
+        "familyAllowances": "Allocations familiales",
+        "employerCost": "Coût employeur",
+        "legendLabel": "Coût projeté"
+      },
+      "kpi": {
+        "annualCost": "Coût annuel employeur",
+        "monthlyCost": "Coût mensuel employeur",
+        "contributions": "Cotisations employeur",
+        "allowances": "Allocations familiales"
+      },
+      "benefits": {
+        "title": "Référence des avantages par embauche",
+        "description": "Estimations du soutien au ménage et des allocations par nouvel employé.",
+        "netPayLabel": "Salaire net avant impôts par embauche",
+        "netPaySublabel": "Déductions salariales : {amount}",
+        "familyAllowanceLabel": "Allocation familiale par embauche",
+        "maternityLabel": "Référence allocation maternité",
+        "birthAdoptionLabel": "Allocation unique de naissance / d'adoption",
+        "supportLabel": "Éligibilité au soutien du ménage",
+        "healthSubsidyText": "Subside d'assurance maladie : {text}",
+        "complementaryBenefitText": "Prestations complémentaires : {text}",
+        "eligibleText": "{amount} de soutien annuel estimé",
+        "notEligibleText": "Non éligible avec ce profil de salaire"
+      },
+      "aiAnalysis": {
+        "title": "Interprétation financière par l'IA",
+        "summaryTitle": "Interprétation",
+        "recommendationsTitle": "Recommandations",
+        "impactsTitle": "Impacts potentiels",
+        "sourcesTitle": "Sources des règles",
+        "disclaimer": "Avertissement : Il s'agit d'une analyse générée par l'IA basée sur des calculs estimatifs. Consultez un professionnel de la finance pour obtenir des conseils."
+      },
+      "empty": {
+        "title": "Les résultats apparaîtront ici",
+        "description": "Remplissez le formulaire pour modéliser un scénario et obtenir des informations basées sur l'IA."
+      }
+    },
+    "toast": {
+      "analysisComplete": "Scénario analysé",
+      "analysisCompleteDescription": "Votre scénario de planification de la main-d'œuvre a été analysé.",
+      "analysisFailed": "Échec de l'analyse",
+      "analysisFailedDescription": "L'IA n'a pas pu interpréter les résultats. Veuillez réessayer."
+    }
+  },
+  "VirtualCFO": {
+    "title": "CFO Virtuel",
+    "subtitle": "Obtenez des informations financières et des conseils stratégiques basés sur l'IA pour votre entreprise.",
+    "page": {
+      "title": "CFO Digital",
+      "subtitle": "Analyses financières et scénarios de développement",
+      "prorataNote": "Calcul au prorata sur la période sélectionnée",
+      "summaryTitle": "Récapitulatif",
+      "turnover": "Chiffre d'affaires",
+      "purchases": "Achats",
+      "rawWages": "Salaires bruts",
+      "salaryCharges": "Charges salariales",
+      "operatingCosts": "Frais d'exploitation",
+      "financialCharges": "Charges financières",
+      "otherCharges": "Autres charges",
+      "profitLoss": "Bénéfice / Perte",
+      "downloadAccounts": "Télécharger le détail des comptes",
+      "quickAnalysis": "Analyse rapide",
+      "quickAnalysisDesc": "Ratios financiers et alertes CFO",
+      "margin": "Marge (%)",
+      "result": "Résultat (%)",
+      "caPurchases": "CA - Achats (%)",
+      "caTotalCharges": "CA - Charges totales (%)",
+      "devScenarios": "Scénarios de développement",
+      "increaseCA": "Augmentation du CA",
+      "hiringDismissal": "Embauche / Licenciement",
+      "investment": "Investissement",
+      "vatMethod": "Méthode TVA",
+      "scenarioIncreaseCA": "Scénario : augmentation du chiffre d'affaires",
+      "scenarioIncreaseCADesc": "Simulez l'impact d'une croissance du chiffre d'affaires sur vos résultats",
+      "currentAnnualCA": "CA annuel actuel (CHF)",
+      "newAnnualizedCA": "Nouveau CA annualisé (CHF)",
+      "vatMandatory": "Assujettissement TVA obligatoire",
+      "vatMandatoryDesc": "À partir du 1er janvier de l'année suivant le dépassement, sauf pour les nouvelles entreprises où un CA annualisé supérieur à 100'000 CHF après 3 mois peut entraîner l'assujettissement dès le 4e mois.",
+      "currentPurchases": "Achats actuels (CHF)",
+      "increasePurchases": "Augmentation des achats (%)",
+      "generatePDF": "Générer le rapport PDF",
+      "resultsScenario": "Résultats du scénario",
+      "newResult": "Nouveau résultat :",
+      "deltaVsCurrent": "Delta vs actuel :",
+      "newMargin": "Nouvelle marge :",
+      "newResultPct": "Nouveau résultat (%) :",
+      "scenarioHiring": "Scénario : embauche / licenciement",
+      "scenarioHiringDesc": "Calculez l'impact financier d'un changement d'effectif",
+      "hire": "Embauche",
+      "dismiss": "Licenciement",
+      "grossMonthlySalary": "Salaire brut mensuel (CHF)",
+      "calculationRule": "Règle de calcul :",
+      "calculationRuleDesc": "Impact total = salaire brut + 25%\nPart employé (indicative) = 12% du brut",
+      "financialImpact": "Impact financier",
+      "monthlyImpact": "Impact mensuel :",
+      "annualImpact": "Impact annuel :",
+      "employeeShare": "Part employé (indicative) :",
+      "scenarioInvestment": "Scénario : investissement",
+      "scenarioInvestmentDesc": "Analysez la rentabilité de vos projets d'investissement",
+      "compoundInterest": "Intérêts composés (API à venir)",
+      "realEstateInvestment": "Investissement immobilier",
+      "otherInvestments": "Autres investissements",
+      "comingSoon": "Fonctionnalité à venir :",
+      "comingSoonDesc": "Calculateur d'intérêts composés avec API dédiée.",
+      "purchasePrice": "Prix d'achat (CHF)",
+      "ownFunds": "Fonds propres (CHF)",
+      "annualIncome": "Revenu annuel (CHF)",
+      "mortgageCharges": "Charges hypothécaires (CHF)",
+      "compoundInitialCapital": "Capital initial (CHF)",
+      "compoundPeriodicContribution": "Versement périodique (CHF)",
+      "compoundContributionFrequency": "Fréquence de versement",
+      "compoundCompoundingFrequency": "Fréquence de capitalisation",
+      "compoundAnnualReturn": "Rendement annuel (%)",
+      "compoundDurationYears": "Durée (années)",
+      "compoundResultsTitle": "Résultats des intérêts composés",
+      "compoundProjectionDuration": "Projection sur {years} ans",
+      "compoundFinalCapital": "Capital final",
+      "compoundGain": "Plus-value",
+      "compoundTotalContributed": "Total versé",
+      "compoundTotalReturnAnnualized": "Rendement total / annualisé",
+      "compoundYearlyBreakdown": "Détail annuel",
+      "compoundYear": "Année",
+      "compoundStartingCapital": "Capital début",
+      "compoundContributions": "Versements",
+      "compoundInterestEarned": "Intérêts",
+      "compoundEndingCapital": "Capital fin",
+      "frequencyMonthly": "Mensuelle",
+      "frequencyQuarterly": "Trimestrielle",
+      "frequencyAnnual": "Annuelle",
+      "frequencySemiAnnual": "Semestrielle",
+      "investmentRatios": "Ratios d'investissement",
+      "roi": "ROI :",
+      "effectiveYield": "Rendement effectif :",
+      "debtEquityRatio": "Ratio emprunt/fonds propres :",
+      "leverageRatio": "Ratio d'endettement :",
+      "dscr": "DSCR :",
+      "scenarioVAT": "Scénario : méthode TVA la plus avantageuse",
+      "scenarioVATDesc": "Comparez les méthodes effective et TDFN pour optimiser votre TVA",
+      "vatComparator": "Comparateur TVA : effective vs TDFN",
+      "sectorAllocation": "1. Répartition du chiffre d'affaires par secteur d'activité",
+      "sectorInstructions": "Instructions :",
+      "sectorInstructionsDesc": "Saisissez votre CA net par secteur d'activité. Chaque secteur aura son propre taux TDFN pour la comparaison.",
+      "addSector": "Ajouter un secteur :",
+      "sector": "Secteur",
+      "netCA": "CA net (CHF)",
+      "vatRate": "Taux TVA",
+      "effectiveVatRate": "Effective",
+      "vatMethodEffectiveLabel": "Méthode effective",
+      "vatMethodTdfnLabel": "Méthode TDFN",
+      "vatRecommendedEffective": "Effective",
+      "vatRecommendedTdfn": "TDFN",
+      "add": "Ajouter",
+      "selectPlaceholder": "Sélectionner",
+      "standardCA": "2. CA standard (optionnel)",
+      "standardCADesc": "Si vous avez du CA qui ne correspond à aucun secteur TDFN spécifique :",
+      "caNet0": "CA net 0%",
+      "caNet26": "CA net 2.6%",
+      "caNet38": "CA net 3.8%",
+      "caNet81": "CA net 8.1%",
+      "purchasesExpenses": "3. Achats et dépenses",
+      "purchases26": "Achats 2.6%",
+      "purchases81": "Achats 8.1%",
+      "expenses26": "Dépenses 2.6%",
+      "expenses81": "Dépenses 8.1%",
+      "enterCAToCalculate": "Saisissez votre CA pour calculer",
+      "vatPDFReport": "Rapport PDF — méthode TVA",
+      "month": "Mois",
+      "quarter": "Trimestre",
+      "semester": "Semestre",
+      "year": "Année",
+      "noDataTitle": "Aucune donnée financière",
+      "noDataDesc": "Les données financières n'ont pas encore été chargées. Contactez votre administrateur pour charger les données comptables.",
+      "loading": "Chargement des données financières...",
+      "sectors": {
+        "accommodation": "Hébergement",
+        "restaurant": "Restauration",
+        "retail": "Commerce de détail",
+        "financialServices": "Services financiers",
+        "consulting": "Conseils et consulting",
+        "construction": "Construction",
+        "crafts": "Artisanat",
+        "itServices": "Services informatiques",
+        "transport": "Transport",
+        "agriculture": "Agriculture"
+      }
+    },
+    "healthCheck": {
+      "title": "Bilan de santé financier",
+      "description": "Analysez votre dernière paie pour découvrir les tendances, les risques et les opportunités de réduction des coûts."
+    },
+    "emptyState": {
+      "title": "Prêt pour l'analyse",
+      "description": "Utilisez le cycle de paie de {month} pour générer une analyse CFO.",
+      "button": "Analyser la dernière paie"
+    },
+    "results": {
+      "summary": "Résumé général",
+      "complianceRisks": "Risques de conformité potentiels",
+      "anomalies": "Anomalies détectées",
+      "costSavings": "Opportunités de réduction des coûts",
+      "recommendations": "Recommandations concrètes"
+    },
+    "buttons": {
+      "save": "Approuver & Enregistrer l'analyse",
+      "saving": "Enregistrement...",
+      "rerun": "Ré-exécuter l'analyse",
+      "analyzing": "Analyse en cours..."
+    },
+    "toast": {
+      "noData": {
+        "title": "Aucune donnée de paie",
+        "description": "Traitez d'abord la paie pour générer des informations CFO."
+      },
+      "analysisComplete": {
+        "title": "Analyse terminée",
+        "description": "Vos données financières ont été analysées par le CFO Virtuel."
+      },
+      "analysisFailed": {
+        "title": "Échec de l'analyse",
+        "description": "L'IA n'a pas pu analyser les données financières. Veuillez réessayer."
+      },
+      "saveFailed": {
+        "title": "Échec de l'enregistrement",
+        "description": "L'analyse n'a pas pu être enregistrée."
+      },
+      "saveSuccess": {
+        "title": "Analyse enregistrée",
+        "description": "L'analyse a été stockée dans votre Centre de documents et une piste d'audit a été créée."
+      },
+      "dataLoadFailed": {
+        "title": "Échec du chargement des données",
+        "description": "Impossible de charger les données de paie pour le CFO Virtuel."
+      }
+    }
+  },
+  "NotificationTester": {
+    "title": "Console cron des notifications",
+    "subtitle": "Declenchez manuellement le point de terminaison cron des notifications. Aucun planning automatique n est configure.",
+    "card": {
+      "title": "Lancer le cron manuellement",
+      "description": "Utilisez le bouton ci-dessous pour appeler manuellement le point de terminaison cron des notifications. C est ce meme point de terminaison qu un planificateur appellera plus tard."
+    },
+    "status": {
+      "title": "Etat du point de terminaison",
+      "description": "Le point de terminaison cron est disponible uniquement en execution manuelle.",
+      "manualOnly": "Manuel uniquement",
+      "endpointLabel": "Point de terminaison :",
+      "loading": "Chargement de l etat du point de terminaison...",
+      "fallback": "Le point de terminaison cron manuel est pret. Aucun planning automatique n est configure."
+    },
+    "button": {
+      "sending": "Execution...",
+      "send": "Lancer le cron"
+    },
+    "toast": {
+      "notLoggedIn": {
+        "title": "Non connecté",
+        "description": "Vous devez etre connecte pour lancer le cron manuellement."
+      },
+      "success": {
+        "title": "Cron execute",
+        "description": "Le cron manuel a ete execute avec succes via {endpoint}."
+      },
+      "error": {
+        "title": "Erreur",
+        "description": "Echec de l execution du cron manuel."
+      }
+    }
+  },
+  "OrderManagement": {
+    "title": "Gestion des Commandes",
+    "subtitle": "Voir et gérer toutes les commandes de services clients.",
+    "cardTitle": "Toutes les commandes",
+    "cardDescription": "Une liste complète de toutes les commandes de services sur la plateforme.",
+    "searchPlaceholder": "Rechercher des commandes...",
+    "tabs": {
+      "all": "Toutes",
+      "quote_requested": "Devis demandé",
+      "paid": "Payé",
+      "in_progress": "En cours",
+      "completed": "Terminé"
+    },
+    "table": {
+      "service": "Service",
+      "customer": "Client",
+      "date": "Date",
+      "status": "Statut",
+      "actions": "Actions"
+    },
+    "actions": {
+      "label": "Actions",
+      "view": "Voir la commande",
+      "markPaid": "Marquer comme payé",
+      "markInProgress": "Marquer comme en cours",
+      "markCompleted": "Marquer comme terminé"
+    },
+    "toast": {
+      "fetchError": "Impossible de récupérer les commandes.",
+      "updateSuccess": "Statut de la commande mis à jour",
+      "updateError": "Impossible de mettre à jour le statut de la commande.",
+      "questionSent": "Question envoyée",
+      "questionSentDescription": "Le client a été notifié.",
+      "questionError": "Impossible d'envoyer la question."
+    },
+    "noOrders": "Aucune commande trouvée.",
+    "noMatch": "Aucune commande ne correspond à votre recherche.",
+    "status": {
+      "quote_requested": "Devis demandé",
+      "invoice_sent": "Facture envoyée",
+      "paid": "Payé",
+      "in_progress": "En cours",
+      "pending_review": "En attente d'examen",
+      "completed": "Terminé",
+      "cancelled": "Annulé",
+      "pending_payment": "En attente de paiement"
+    }
+  },
+  "LegalAssistantCard": {
+    "title": "Poser une question juridique",
+    "description": "Posez des questions sur le droit suisse et les réglementations financières.",
+    "placeholder": "Que souhaitez-vous savoir sur le droit suisse ?",
+    "language": "Langue",
+    "selectResponseLanguage": "Sélectionner la langue de réponse",
+    "langEnglish": "Anglais",
+    "langGerman": "Allemand",
+    "langFrench": "Français",
+    "langItalian": "Italien",
+    "thinking": "Réflexion...",
+    "ask": "Demander",
+    "askQuestion": "Poser une question",
+    "enterQuestion": "Entrez votre question dans n'importe quelle langue.",
+    "askAiAssistant": "Interroger l'assistant IA",
+    "response": "Réponse",
+    "responseDescription": "Votre réponse apparaîtra ici avec les citations des sources.",
+    "answer": "Réponse",
+    "sources": "Sources ({count}) :",
+    "noQuestionYet": "Pas encore de question",
+    "askToGetStarted": "Posez une question pour commencer.",
+    "citedSources": "Sources citées",
+    "id": "ID : {documentId}",
+    "toastQuestionEmpty": "La question est vide",
+    "toastQuestionEmptyDesc": "Veuillez saisir une question.",
+    "toastNotAuthenticated": "Non authentifié",
+    "toastNotAuthenticatedDesc": "Veuillez vous connecter.",
+    "toastGeneralGuidanceMode": "Mode d'orientation générale",
+    "toastGeneralGuidanceDescRetrievalFailed": "La bibliothèque de documents juridiques n'a pas pu être atteinte. L'IA répond sans sources indexées.",
+    "toastGeneralGuidanceDescNoPassages": "Aucun passage correspondant dans la bibliothèque. L'IA répond sans sources indexées.",
+    "toastAnError": "Une erreur est survenue",
+    "toastAnErrorDesc": "Impossible d'obtenir une réponse de l'assistant IA."
+  },
+  "CreateBusinessForm": {
+    "title": "Créer une nouvelle entreprise",
+    "description": "Créez un compte d'entreprise, attribuez le propriétaire administrateur et vérifiez le canton, le secteur d'activité et les directives CLA avant de soumettre.",
+    "businessProfile": {
+      "title": "Profil d'entreprise",
+      "description": "Définissez l'identité de l'entreprise et le contexte opérationnel utilisés pour l'intégration."
+    },
+    "adminOwner": {
+      "title": "Propriétaire administrateur",
+      "description": "Ces identifiants seront utilisés pour l'administrateur principal du compte d'entreprise."
+    },
+    "creationChecklist": {
+      "title": "Liste de vérification",
+      "description": "Confirmez les principales saisies d'intégration avant de créer le compte.",
+      "item1": "Les détails de l'entreprise, le canton et le secteur d'activité sont requis.",
+      "item2": "Les coordonnées de l'administrateur doivent être valides et prêtes pour la première connexion.",
+      "item3": "L'attribution facultative d'un cabinet fiduciaire peut être ajoutée maintenant ou plus tard."
+    },
+    "claResolution": {
+      "title": "Résolution CLA",
+      "description": "Directive salariale déduite du secteur d'activité sélectionné.",
+      "exactMatch": "Correspondance exacte",
+      "partialMatch": "Correspondance partielle",
+      "coFallback": "Repli CO",
+      "minWage": "Salaire mensuel minimum",
+      "noCctMinimum": "Aucun salaire minimum CCT codifié. Vérifiez le salaire applicable dans la convention source.",
+      "matchedKeyword": "Mot-clé correspondant :",
+      "exactDescription": "Le secteur d'activité correspond directement à cette CLA.",
+      "partialDescription": "Correspondance partielle. Confirmez la CLA avant la soumission finale.",
+      "fallbackDescription": "Aucune CLA trouvée. Les conditions par défaut du CO suisse s'appliquent."
+    },
+    "labels": {
+      "companyName": "Nom de l'entreprise",
+      "industry": "Secteur d'activité",
+      "canton": "Canton",
+      "accountingFirm": "Attribuer à un cabinet fiduciaire",
+      "optional": "(optionnel)",
+      "adminFirstName": "Prénom de l'administrateur",
+      "adminLastName": "Nom de l'administrateur",
+      "adminEmail": "E-mail de l'administrateur",
+      "phoneNumber": "Numéro de téléphone",
+      "password": "Mot de passe"
+    },
+    "placeholders": {
+      "companyName": "p. ex. Innovate Corp.",
+      "industry": "p. ex. construction, hôtellerie, commerce de détail",
+      "cantonLoading": "Chargement...",
+      "canton": "Sélectionner un canton",
+      "firmsLoading": "Chargement des cabinets...",
+      "firm": "Sélectionner un cabinet (optionnel)",
+      "adminFirstName": "Jean",
+      "adminLastName": "Dupont",
+      "adminEmail": "admin@innovate.com",
+      "phone": "+41...",
+      "password": "Minimum 8 caractères"
+    },
+    "hints": {
+      "password": "Utilisez un mot de passe temporaire qui pourra être modifié après la première connexion."
+    },
+    "errors": {
+      "companyNameRequired": "Le nom de l'entreprise est requis.",
+      "firstNameRequired": "Le prénom est requis.",
+      "lastNameRequired": "Le nom est requis.",
+      "invalidEmail": "Veuillez saisir une adresse e-mail valide.",
+      "passwordMinLength": "Le mot de passe doit comporter au moins 8 caractères.",
+      "phoneRequired": "Le numéro de téléphone est requis.",
+      "cantonRequired": "Veuillez sélectionner un canton.",
+      "industryRequired": "Veuillez sélectionner un secteur d'activité.",
+      "notLoggedIn": "Vous devez être connecté en tant qu'administrateur pour créer une entreprise.",
+      "createFailed": "Échec de la création de l'entreprise.",
+      "unableToCreate": "Impossible de créer le compte d'entreprise."
+    },
+    "buttons": {
+      "cancel": "Annuler",
+      "createBusiness": "Créer l'entreprise",
+      "creating": "Création..."
+    },
+    "toast": {
+      "created": {
+        "title": "Entreprise créée",
+        "description": "Le compte d'entreprise a été créé avec succès."
+      },
+      "failed": {
+        "title": "Échec de la création",
+        "description": "Impossible de créer le compte d'entreprise."
+      }
+    }
+  },
+  "AdminUserManagement": {
+    "createUser": "Créer un utilisateur",
+    "createUserDescription": "Créez manuellement un nouveau compte utilisateur et attribuez-lui un rôle et une entreprise.",
+    "dialog": {
+      "title": "Créer un nouvel utilisateur",
+      "description": "Remplissez le formulaire ci-dessous pour créer un nouveau compte utilisateur.",
+      "sections": {
+        "personalInformation": "Informations personnelles",
+        "contact": "Contact",
+        "employment": "Emploi",
+        "payroll": "Paie",
+        "address": "Adresse",
+        "system": "Système"
+      },
+      "labels": {
+        "firstName": "Prénom",
+        "lastName": "Nom de famille",
+        "birthDate": "Date de naissance",
+        "email": "Adresse e-mail",
+        "phone": "Téléphone",
+        "password": "Mot de passe",
+        "jobTitle": "Fonction",
+        "startDate": "Date de début",
+        "remunerationType": "Type de rémunération",
+        "vacationWeeks": "Semaines de vacances",
+        "activityRate": "Taux d'activité %",
+        "hourlyRate": "Salaire horaire (CHF)",
+        "monthlySalary": "Salaire mensuel (CHF)",
+        "annualSalary": "Salaire annuel (CHF)",
+        "avsNumber": "Numéro AVS",
+        "avsStatus": "Statut AVS",
+        "street": "Rue",
+        "city": "Ville",
+        "postalCode": "Code postal",
+        "iban": "IBAN",
+        "role": "Rôle de l'utilisateur",
+        "status": "Statut du compte",
+        "company": "Affecter à une entreprise (facultatif)"
+      },
+      "placeholders": {
+        "selectRole": "Sélectionnez un rôle...",
+        "selectStatus": "Sélectionnez un statut...",
+        "selectCompany": "Sélectionnez une entreprise...",
+        "noCompany": "Aucune entreprise",
+        "firstName": "ex. Jean",
+        "lastName": "ex. Dupont",
+        "birthDate": "",
+        "email": "ex. jean@example.com",
+        "phone": "+41 XX XXX XX XX",
+        "jobTitle": "ex. Gestionnaire",
+        "startDate": "",
+        "vacationWeeks": "5",
+        "activityRate": "100",
+        "hourlyRate": "0.00",
+        "monthlySalary": "0.00",
+        "annualSalary": "0.00",
+        "avsNumber": "756.1234.5678.90",
+        "street": "ex. Rue de Genève",
+        "city": "ex. Genève",
+        "postalCode": "ex. 1201",
+        "iban": "CHxx...",
+        "loading": "Chargement..."
+      },
+      "options": {
+        "hourly": "Horaire",
+        "monthly": "Mensuel",
+        "valid": "Valide",
+        "toVerify": "À vérifier",
+        "invalid": "Invalide",
+        "individual": "Particulier",
+        "business": "Entreprise",
+        "accountingFirm": "Cabinet comptable",
+        "admin": "Administrateur",
+        "active": "Actif",
+        "pendingApproval": "En attente d'approbation",
+        "suspended": "Suspendu"
+      },
+      "buttons": {
+        "cancel": "Annuler",
+        "create": "Créer un utilisateur",
+        "creating": "Création en cours..."
+      }
+    },
+    "toast": {
+      "createUserSuccess": {
+        "title": "Utilisateur créé (Simulation)",
+        "description": "Dans une application réelle, une fonction de backend sécurisée créerait l'utilisateur. Voir la console pour plus de détails."
+      },
+      "createUserError": {
+        "title": "Échec de la création",
+        "description": "Impossible de créer l'utilisateur. Voir la console pour plus de détails."
+      }
+    }
+  },
+  "AppLoading": {
+    "initializing": "Initialisation..."
+  },
+  "BusinessCommunications": {
+    "title": "Communications",
+    "subtitle": "Envoyez des messages et partagez des documents avec Lynvia. Toutes les conversations sont enregistrées ici.",
+    "newButton": "Nouvelle communication",
+    "yourConversations": "Vos conversations",
+    "noThreads": "Aucune conversation pour l'instant",
+    "noThreadsDesc": "Cliquez sur \"Nouvelle communication\" pour démarrer une conversation avec Lynvia.",
+    "loading": "Chargement...",
+    "count": "{count} conversation(s)",
+    "open": "Ouvert",
+    "closed": "Fermé",
+    "justNow": "À l'instant",
+    "lastActivity": "Dernière activité : {date}",
+    "startedBy": "Démarré {date} par {name}",
+    "closedByLynvia": "Cette conversation a été fermée par Lynvia.",
+    "noMessages": "Aucun message pour l'instant.",
+    "ctrlEnterSend": "Tapez votre message… (Ctrl+Entrée pour envoyer)",
+    "attachFiles": "Joindre des fichiers",
+    "send": "Envoyer",
+    "sending": "Envoi",
+    "back": "Retour",
+    "missingFields": "Champs manquants",
+    "missingFieldsDesc": "Le sujet et le message sont obligatoires.",
+    "threadClosed": "Conversation fermée",
+    "threadClosedDesc": "Cette conversation a été fermée.",
+    "quickReplyGreeting": "Salutation",
+    "quickReplyWorking": "En cours",
+    "quickReplyDocuments": "Documents requis",
+    "lynvia": "Lynvia",
+    "newClientMessage": "Nouvelle communication client",
+    "newClientMessageDesc": "{company} : \"{subject}\"",
+    "newReplyTitle": "Nouvelle réponse du client",
+    "newReplyDesc": "{company} : \"{subject}\"",
+    "adminNotified": "Lynvia a été notifié.",
+    "communicationSent": "Communication envoyée",
+    "communicationSentDesc": "Lynvia examinera votre message sous peu.",
+    "createFailed": "Impossible de créer la communication.",
+    "replyFailed": "Impossible d'envoyer la réponse.",
+    "uploadFailed": "Impossible de télécharger le document.",
+    "dialog": {
+      "title": "Nouvelle communication",
+      "description": "Démarrez une nouvelle conversation avec Lynvia. Vous pouvez joindre des documents et Lynvia répondra sous peu.",
+      "subjectLabel": "Sujet",
+      "subjectPlaceholder": "p. ex. Documents de paie manquants pour janvier",
+      "messageLabel": "Message",
+      "messagePlaceholder": "Décrivez votre demande ou question…",
+      "attachmentsLabel": "Pièces jointes (optionnel)",
+      "addFiles": "Ajouter des fichiers",
+      "cancel": "Annuler",
+      "send": "Envoyer",
+      "sending": "Envoi…"
+    },
+    "toast": {
+      "sent": "Communication envoyée",
+      "sentDesc": "Lynvia examinera votre message sous peu.",
+      "sendFailed": "Erreur",
+      "sendFailedDesc": "Impossible de créer la communication.",
+      "replyFailed": "Erreur",
+      "replyFailedDesc": "Impossible d'envoyer la réponse.",
+      "threadClosed": "Conversation fermée",
+      "threadClosedDesc": "Cette conversation a été fermée."
+    }
+  },
+  "AccountingPurchase": {
+    "title": "Tarification de l acces fiduciaire",
+    "subtitle": "Choisissez l une des deux formules mensuelles. Tous les abonnements incluent un essai gratuit de 30 jours.",
+    "loadingSubscription": "Chargement des details de l abonnement...",
+    "errorTitle": "Erreur",
+    "currentPlan": "Formule actuelle",
+    "trialingUntil": "essai jusqu au {date}",
+    "month": "mois",
+    "trialIncluded": "Essai gratuit de 30 jours inclus",
+    "activating": "Activation...",
+    "currentPlanButton": "Formule actuelle",
+    "startTrialButton": "Demarrer l essai gratuit de 30 jours",
+    "toast": {
+      "noCompanyTitle": "Aucune entreprise liee",
+      "noCompanyDescription": "Votre compte n est pas encore lie a un profil entreprise.",
+      "mustLogin": "Vous devez etre connecte pour demarrer un abonnement.",
+      "checkoutCreateFailed": "Impossible de creer la session de paiement d abonnement.",
+      "stripeUnavailable": "Stripe.js n est pas disponible.",
+      "checkoutFailedTitle": "Impossible de demarrer le paiement",
+      "tryAgain": "Veuillez reessayer."
+    },
+    "plans": {
+      "basic": {
+        "title": "Starter",
+        "description": "Pour les petites equipes fiduciaires qui gerent un portefeuille client cible."
+      },
+      "pro": {
+        "title": "Pro",
+        "description": "Pour les cabinets en croissance qui ont besoin d outils de collaboration client et d un flux comptable plus complet."
+      }
+    },
+    "features": {
+      "ai_chat": "Assistant IA",
+      "vat_scenarios": "Modelisation de scenarios TVA",
+      "taxation_tools": "Outils de planification fiscale",
+      "salary_tools": "Outils salaires et paie",
+      "client_access_portal": "Portail d acces client",
+      "document_exchange": "Echange securise de documents",
+      "client_notifications": "Notifications clients"
+    }
+  },
+  "AccountingBilling": {
+    "title": "Facturation",
+    "subtitle": "Gerez votre abonnement, moyen de paiement, factures et resiliation.",
+    "currentSubscriptionTitle": "Abonnement actuel",
+    "monthlyOnly": "Facturation mensuelle uniquement.",
+    "planLabel": "Formule",
+    "statusLabel": "Statut",
+    "month": "mois",
+    "trialEndsLabel": "Fin de l'essai",
+    "trialDaysLeft": "{count} jour(s) restants",
+    "na": "N/A",
+    "billingPortalTitle": "Portail de facturation Stripe",
+    "billingPortalDescription": "Mettez a jour vos moyens de paiement, consultez vos factures, changez de formule ou resiliez votre abonnement.",
+    "openingPortal": "Ouverture du portail...",
+    "manageBillingButton": "Gerer la facturation et resilier l'abonnement",
+    "choosePlan": "Choisir une formule",
+    "startingCheckout": "Demarrage du paiement Stripe...",
+    "inactiveNoticeTitle": "Abonnement non demarre",
+    "inactiveNoticeDescription": "Lancez le paiement pour creer votre client Stripe et activer les outils de facturation.",
+    "payments": {
+      "title": "Historique des paiements",
+      "description": "Vos derniers paiements d'abonnement confirmes.",
+      "loading": "Chargement des paiements...",
+      "empty": "Aucun paiement pour le moment.",
+      "defaultDescription": "Paiement de l'abonnement comptabilite",
+      "viewInvoice": "Voir la facture",
+      "downloadPdf": "Telecharger le PDF"
+    },
+    "toast": {
+      "noCompanyTitle": "Aucune entreprise liee",
+      "noCompanyDescription": "Votre compte n'est pas encore lie a un profil entreprise.",
+      "mustLogin": "Vous devez etre connecte pour gerer la facturation.",
+      "portalOpenFailedTitle": "Impossible d'ouvrir le portail de facturation",
+      "portalOpenFailedDescription": "Impossible d'ouvrir le portail de facturation.",
+      "stripeNotLoaded": "Le paiement Stripe n'est pas pret. Veuillez reessayer.",
+      "tryAgain": "Veuillez reessayer."
+    }
+  },
+  "AccountingDocumentGenerator": {
+    "generatedSuccess": "Document genere avec succes",
+    "generatedSuccessDesc": "Votre brouillon est pret pour revision.",
+    "generationFailed": "Echec de generation",
+    "generationFailedDesc": "L IA n a pas pu generer le document. Veuillez reessayer.",
+    "templateUnavailable": "Le modele selectionne est obselete. Veuillez le selectionner a nouveau puis reessayer.",
+    "copied": "Copie dans le presse-papiers!",
+    "downloadingPdf": "Telechargement PDF...",
+    "preparingWord": "Preparation du document Word...",
+    "downloadFailed": "Echec du telechargement",
+    "downloadFailedDesc": "Impossible de generer le document Word. Veuillez reessayer.",
+    "pageTitle": "Generateur de documents client",
+    "pageSubtitle": "Selectionnez un client pour commencer.",
+    "selectClient": "Selectionner un client",
+    "selectClientDescription": "Utilisez le tableau ci-dessous pour choisir l entreprise pour laquelle vous souhaitez generer un document.",
+    "chooseClient": "Choisir un client...",
+    "searchClientsPlaceholder": "Rechercher un client par nom ou canton...",
+    "clientCount": "{count, plural, =0 {Aucun client} one {# client} other {# clients}}",
+    "clientName": "Client",
+    "canton": "Canton",
+    "actions": "Actions",
+    "selectAction": "Selectionner",
+    "loadingClients": "Chargement des clients...",
+    "noClients": "Aucun client disponible pour le moment",
+    "noClientsDescription": "Les clients lies a votre fiduciaire apparaitront ici.",
+    "noMatchingClients": "Aucun client ne correspond a cette recherche",
+    "clearSearchHint": "Modifiez ou effacez la recherche pour voir plus de clients.",
+    "backToClient": "Retour a la selection client",
+    "generateFor": "Generer un document pour",
+    "selectTemplate": "Selectionnez un modele pour commencer.",
+    "backToTemplates": "Retour aux modeles",
+    "fillDetails": "Completer les informations pour",
+    "fillDetailsDesc": "Fournissez les informations necessaires pour",
+    "generatedDocument": "Document genere",
+    "generatedDocumentDesc": "Revisez le document genere par l IA.",
+    "documentAppears": "Votre document apparaitra ici.",
+    "saving": "Enregistrement...",
+    "saveForClient": "Enregistrer pour le client",
+    "saveSuccessDesc": "Document enregistre pour {client}.",
+    "saveFailedDesc": "Impossible d enregistrer le document. Veuillez reessayer.",
+    "copy": "Copier",
+    "download": "Telecharger",
+    "pdfDocument": "Document PDF",
+    "wordDocument": "Document Word (.docx)",
+    "noticePeriodWarningTitle": "Alerte sur le delai de conge CCT",
+    "claAppliedToClient": "CCT appliquee a ce client :",
+    "claApplied": "CCT appliquee :",
+    "enterField": "Saisissez {field}...",
+    "generating": "Generation...",
+    "generateDocument": "Generer le document",
+    "templates": {
+      "employment_contract": {
+        "title": "Contrat de travail",
+        "description": "Creez un contrat de travail suisse standard pour une nouvelle embauche."
+      },
+      "rental_agreement": {
+        "title": "Contrat de bail",
+        "description": "Generez un bail d habitation pour le bien immobilier d un client."
+      },
+      "termination_letter": {
+        "title": "Lettre de licenciement",
+        "description": "Generez une lettre de licenciement ou de resiliation conforme a la CCT applicable."
+      }
+    },
+    "fields": {
+      "employeeName": {
+        "label": "Nom de l employe"
+      },
+      "employeeAddress": {
+        "label": "Adresse de l employe"
+      },
+      "employerName": {
+        "label": "Nom de l employeur"
+      },
+      "jobTitle": {
+        "label": "Intitule du poste"
+      },
+      "grossSalary": {
+        "label": "Salaire brut"
+      },
+      "startDate": {
+        "label": "Date de debut"
+      },
+      "tenantName": {
+        "label": "Nom du locataire"
+      },
+      "landlordName": {
+        "label": "Nom du bailleur"
+      },
+      "propertyAddress": {
+        "label": "Adresse du bien"
+      },
+      "monthlyRent": {
+        "label": "Loyer mensuel"
+      },
+      "leaseStartDate": {
+        "label": "Date de debut du bail"
+      },
+      "noticePeriod": {
+        "label": "Delai de conge"
+      },
+      "yearsOfService": {
+        "label": "Annees de service"
+      },
+      "terminationDate": {
+        "label": "Date de fin"
+      },
+      "reason": {
+        "label": "Motif"
+      }
+    }
+  },
+  "AccountingCheckoutSuccess": {
+    "title": "Checkout complete",
+    "subtitle": "We are confirming your payment and syncing your subscription.",
+    "verifying": "Verifying payment status...",
+    "successTitle": "Payment confirmed",
+    "pendingTitle": "Payment is processing",
+    "paidDescription": "Your payment was successful. It now appears in your payment history.",
+    "completedDescription": "Your checkout completed successfully.",
+    "pendingDescription": "Your payment is still processing. You can open Billing to check the latest status.",
+    "missingSession": "Missing Stripe session information.",
+    "mustLogin": "You must be logged in to verify this payment.",
+    "reconcileFailed": "Could not verify payment status.",
+    "errorTitle": "Verification failed",
+    "okButton": "OK - Open Billing",
+    "retryButton": "Retry"
+  },
+  "AccountingDashboard": {
+    "minAgo": "min",
+    "hourAgo": "heure",
+    "hoursAgo": "heures",
+    "dayAgo": "jour",
+    "daysAgo": "jours",
+    "errorTitle": "Erreur",
+    "loadFailed": "Impossible de charger les donnees du tableau de bord.",
+    "totalClients": "Total clients",
+    "totalClientsTrend": "Clients entreprises actifs",
+    "pendingReviews": "Revisions en attente",
+    "pendingReviewsTrend": "Actions paie et conges a traiter",
+    "upcomingDeadlines": "Echeances a venir",
+    "upcomingDeadlinesTrend": "Demandes de conges en attente",
+    "teamWorkload": "Charge equipe",
+    "teamWorkloadTrend": "Basee sur les actions en attente",
+    "capacity": "Capacite",
+    "pageTitle": "Tableau de bord fiduciaire",
+    "pageSubtitle": "Vue d ensemble des clients, taches et performances.",
+    "onboardClient": "Integrer un client",
+    "recentTitle": "Approbations et taches recentes",
+    "recentDesc": "Resume des activites clients recentes.",
+    "noRecent": "Aucune activite client recente.",
+    "serviceTitle": "Repartition des services",
+    "serviceDesc": "Repartition des services fournis aux clients.",
+    "priorityTitle": "Taches clients prioritaires",
+    "priorityDesc": "Elements necessitant une attention immediate.",
+    "pendingTasks": "Taches en attente"
+  },
+  "AccountingClientPortfolio": {
+    "active": "Actif",
+    "onboarding": "Integration",
+    "inactive": "Inactif",
+    "errorTitle": "Erreur",
+    "loadFailed": "Impossible de charger le portefeuille clients.",
+    "loadingClients": "Chargement des clients...",
+    "pageTitle": "Portefeuille clients",
+    "pageSubtitle": "Gerez les clients de votre fiduciaire et leurs services.",
+    "allClients": "Tous les clients",
+    "allClientsDesc": "Liste complete des clients actifs et en integration.",
+    "searchPlaceholder": "Rechercher des clients...",
+    "onboardClient": "Integrer un client",
+    "clientName": "Nom du client",
+    "type": "Type",
+    "status": "Statut",
+    "primaryContact": "Contact principal",
+    "actions": "Actions",
+    "openMenu": "Ouvrir le menu",
+    "viewClientDocuments": "Voir les documents client",
+    "runScenarioAnalysis": "Lancer une analyse de scenario",
+    "generateClientDocument": "Generer un document client",
+    "noClientsFound": "Aucun client trouve."
+  },
+  "AccountingClientDocuments": {
+    "pendingReview": "En attente de revision",
+    "approved": "Approuve",
+    "needsAction": "Action requise",
+    "archived": "Archive",
+    "pageTitle": "Documents clients",
+    "pageSubtitle": "Revisez, gerez et collaborez sur les traitements de documents clients.",
+    "hubTitle": "Hub documents",
+    "hubDescription": "Referentiel central des traitements et statuts de revision.",
+    "searchPlaceholder": "Rechercher des documents...",
+    "export": "Exporter",
+    "loadingDocs": "Chargement des documents...",
+    "noDocs": "Aucun document client trouve.",
+    "all": "Tous",
+    "pendingTab": "En attente de revision",
+    "actionTab": "Action requise",
+    "approvedTab": "Approuves",
+    "client": "Client",
+    "documentName": "Nom du document",
+    "status": "Statut",
+    "lastModified": "Derniere modification",
+    "actions": "Actions",
+    "openMenu": "Ouvrir le menu",
+    "viewMetadata": "Voir les metadonnees du traitement",
+    "approve": "Approuver",
+    "markReady": "Marquer pret pour revision",
+    "archive": "Archiver",
+    "flagNeedsAction": "Signaler action requise",
+    "statusUpdated": "Statut mis a jour",
+    "statusUpdatedDesc": "est maintenant",
+    "updateFailed": "Echec de mise a jour",
+    "updateFailedDesc": "Impossible de mettre a jour le statut.",
+    "errorTitle": "Erreur",
+    "loadFailed": "Impossible de charger les documents clients.",
+    "payrollRunPrefix": "Execution paie",
+    "clientFallback": "Client",
+    "accountingTeam": "Equipe comptable",
+    "runId": "ID execution",
+    "companyId": "ID entreprise",
+    "source": "Source",
+    "assignedTo": "Assigne a",
+    "skippedEntries": "Entrees ignorees",
+    "na": "N/A",
+    "backToDocuments": "Retour aux documents",
+    "loadingDetail": "Chargement des details du document...",
+    "detailLoadFailed": "Impossible de charger les details du document.",
+    "detailNotFoundTitle": "Document introuvable",
+    "detailNotFoundDescription": "Ce traitement de paie est introuvable ou a ete supprime.",
+    "detailSummaryTitle": "Details du traitement",
+    "detailSummaryDescription": "Consultez les metadonnees et les informations de traitement pour ce traitement de paie.",
+    "detailActionsTitle": "Actions",
+    "detailActionsDescription": "Mettez a jour le statut de revision de ce traitement de paie.",
+    "typeLabel": "Type",
+    "monthLabel": "Periode de paie",
+    "createdAt": "Cree le"
+  },
+  "AccountingDocumentInbox": {
+    "title": "Boite de reception",
+    "subtitle": "Documents et demandes de l equipe admin Lynvia.",
+    "adminLabel": "Admin",
+    "defaultFileName": "document",
+    "unknownLabel": "Inconnu",
+    "adminNotificationTitle": "Document televerse par le cabinet",
+    "adminNotificationDescription": "a televerse \"{fileName}\" en reponse a une demande de document.",
+    "sentDocumentsTitle": "Documents de Lynvia",
+    "sentDocumentsDescription": "Fichiers envoyes directement. Telechargez-les pour conserver une copie locale.",
+    "fromLabel": "De",
+    "downloadButton": "Telecharger",
+    "emptyTitle": "Votre boite de reception est vide",
+    "emptyDescription": "Les documents et demandes de Lynvia apparaitront ici.",
+    "requestsTitle": "Demandes de documents",
+    "pendingCount": "{count} en attente",
+    "requestsDescription": "Cliquez sur une demande ou utilisez le bouton de televersement pour repondre.",
+    "uploadButton": "Televerser",
+    "uploadedBadge": "Televerse",
+    "toast": {
+      "submittedTitle": "Document envoye",
+      "submittedDescription": "Votre document a ete envoye a l equipe Lynvia.",
+      "uploadFailedTitle": "Echec du televersement",
+      "uploadFailedDescription": "Impossible de televerser le document. Veuillez reessayer."
+    },
+    "dialog": {
+      "title": "Televerser le document demande",
+      "dropzoneHint": "Glissez-deposez votre fichier ici ou cliquez pour parcourir.",
+      "chooseFile": "Choisir un fichier",
+      "cancel": "Annuler",
+      "uploading": "Televersement...",
+      "submit": "Envoyer le document"
+    }
+  },
+  "AccountingAuditLogs": {
+    "pageTitle": "Journaux d audit",
+    "pageSubtitle": "Suivez et verifiez les activites de votre fiduciaire pour la securite et la conformite.",
+    "sectionTitle": "Journal d activite",
+    "sectionSubtitle": "Historique chronologique de toutes les actions effectuees.",
+    "searchPlaceholder": "Rechercher dans les journaux...",
+    "pickDate": "Choisir une date",
+    "export": "Exporter",
+    "filterByUser": "Filtrer par utilisateur",
+    "filterByAction": "Filtrer par action",
+    "clearFilters": "Effacer les filtres",
+    "timestamp": "Horodatage",
+    "user": "Utilisateur",
+    "action": "Action",
+    "client": "Client",
+    "details": "Details",
+    "loadingLogs": "Chargement des journaux...",
+    "na": "N/A",
+    "openMenu": "Ouvrir le menu",
+    "logDetails": "Details du journal",
+    "ipAddress": "Adresse IP",
+    "noLogsMatch": "Aucun journal ne correspond a vos filtres.",
+    "allUsers": "Tous les utilisateurs",
+    "allActions": "Toutes les actions",
+    "auth": "Authentification",
+    "documents": "Documents",
+    "analysis": "Analyse",
+    "system": "Systeme",
+    "errorTitle": "Erreur",
+    "fetchError": "Impossible de recuperer les journaux d audit."
+  },
+  "AccountingFinancialReports": {
+    "pageTitle": "Rapports financiers",
+    "pageSubtitle": "Generez, consultez et exportez des rapports financiers pour vos clients.",
+    "reportGenerator": "Generateur de rapports",
+    "reportGeneratorDesc": "Selectionnez un client, un type de rapport et une periode.",
+    "selectClient": "Selectionner un client...",
+    "selectReportType": "Selectionner le type de rapport",
+    "selectTimePeriod": "Selectionner la periode",
+    "generating": "Generation...",
+    "generateReport": "Generer le rapport",
+    "uploadTitle": "Televerser des donnees client",
+    "uploadDesc": "Televersez un fichier CSV contenant les donnees comptables du client.",
+    "templateHint": "Telechargez le modele pour respecter le format attendu.",
+    "downloadTemplate": "Telecharger le modele",
+    "clickToUpload": "Cliquer pour televerser",
+    "dragDrop": "ou glisser deposer",
+    "fileTypes": "CSV, XLS ou XLSX (MAX. 10MB)",
+    "uploadProcess": "Televerser et traiter",
+    "noClientTitle": "Aucun client selectionne",
+    "noClientDesc": "Veuillez selectionner un client dans la liste ci-dessus.",
+    "pnlTitle": "Compte de resultat",
+    "pnlDesc": "Vue d ensemble du chiffre d affaires et du profit pour T2 2024.",
+    "exportCsv": "Exporter CSV",
+    "downloadPdf": "Telecharger PDF",
+    "monthlyBreakdown": "Repartition mensuelle (CA vs Profit)",
+    "expenseBreakdown": "Repartition des depenses",
+    "category": "Categorie",
+    "amount": "Montant",
+    "reportForClient": "Generer un rapport pour",
+    "reportForClientDesc": "Selectionnez le type de rapport et la periode pour commencer.",
+    "revenue": "Chiffre d affaires",
+    "profit": "Profit"
+  },
+  "AccountingTasks": {
+    "pageTitle": "Gestion des taches",
+    "pageSubtitle": "Gerez les taches pour tous vos clients.",
+    "taskHub": "Centre des taches",
+    "taskHubDesc": "Suivez et gerez les taches de tous vos portefeuilles clients.",
+    "addTask": "Ajouter tache",
+    "addTaskDesc": "Creer une nouvelle tache pour un client.",
+    "searchPlaceholder": "Rechercher des taches...",
+    "all": "Toutes",
+    "pending": "En attente",
+    "inProgress": "En cours",
+    "completed": "Terminees",
+    "client": "Client",
+    "title": "Titre",
+    "description": "Description",
+    "priority": "Priorite",
+    "status": "Statut",
+    "dueDate": "Date limite",
+    "actions": "Actions",
+    "noTasks": "Aucune tache trouvee.",
+    "loading": "Chargement des taches...",
+    "markComplete": "Marquer terminee",
+    "markInProgress": "Marquer en cours",
+    "viewDetails": "Voir details",
+    "lowPriority": "Basse",
+    "mediumPriority": "Moyenne",
+    "highPriority": "Haute",
+    "urgentPriority": "Urgente",
+    "pendingStatus": "En attente",
+    "inProgressStatus": "En cours",
+    "completedStatus": "Terminee",
+    "save": "Enregistrer",
+    "cancel": "Annuler",
+    "selectClient": "Selectionner client",
+    "selectPriority": "Selectionner priorite",
+    "taskCreated": "Tache creee",
+    "taskCreatedDesc": "La tache a ete ajoutee avec succes.",
+    "taskUpdated": "Tache mise a jour",
+    "taskUpdatedDesc": "Le statut de la tache a ete mis a jour.",
+    "error": "Erreur",
+    "errorCreating": "Impossible de creer la tache.",
+    "errorLoading": "Impossible de charger les taches.",
+    "filterByClient": "Filtrer par client",
+    "allClients": "Tous les clients",
+    "overdue": "En retard",
+    "dueToday": "Aujourd hui",
+    "dueSoon": "Bientot"
+  },
+  "AccountingScenarioAnalysis": {
+    "pageTitle": "Analyse de scenario client",
+    "pageSubtitle": "Modelez des scenarios financiers pour vos clients avec des insights IA.",
+    "errorTitle": "Erreur",
+    "selectedClientFallback": "Client selectionne",
+    "selectClient": "Selectionner un client",
+    "selectClientDesc": "Choisissez un client pour commencer une analyse financiere.",
+    "loadingClients": "Chargement des clients...",
+    "chooseClient": "Selectionner un client...",
+    "searchClientsPlaceholder": "Rechercher un client par nom ou canton...",
+    "clientCount": "{count, plural, =0 {Aucun client} one {# client} other {# clients}}",
+    "clientName": "Client",
+    "canton": "Canton",
+    "actions": "Actions",
+    "selectAction": "Selectionner",
+    "noClients": "Aucun client disponible",
+    "noClientsDescription": "Les entreprises rattachees a votre fiduciaire apparaitront ici.",
+    "noMatchingClients": "Aucun client ne correspond a cette recherche",
+    "clearSearchHint": "Modifiez ou effacez la recherche pour voir plus de clients.",
+    "selectClientErrorTitle": "Selectionner un client",
+    "selectClientErrorDesc": "Choisissez un client avant de lancer l analyse.",
+    "loadClientsError": "Impossible de charger les clients pour l analyse de scenario.",
+    "analysisComplete": "Analyse terminee",
+    "analysisCompleteDesc": "a ete analyse.",
+    "analysisFailed": "Echec de l analyse",
+    "analysisFailedDesc": "L IA n a pas pu interpreter les resultats. Veuillez reessayer.",
+    "saveFailed": "Echec de sauvegarde",
+    "saveFailedDesc": "Impossible de sauvegarder l analyse.",
+    "analysisSaved": "Analyse sauvegardee",
+    "analysisSavedDesc": "L analyse de scenario a ete sauvegardee avec succes.",
+    "workforceTitle": "Scenario de planification des effectifs",
+    "workforceDesc": "Modelez l impact financier des nouveaux recrutements pour",
+    "runAnalysis": "Lancer l analyse et obtenir des insights",
+    "analyzing": "Analyse en cours...",
+    "resultsTitle": "Resultats du scenario client",
+    "resultsDesc": "Completez le formulaire puis lancez une analyse pour afficher les resultats.",
+    "noClientTitle": "Aucun client selectionne",
+    "noClientDesc": "Veuillez selectionner un client dans la liste ci-dessus.",
+    "saveAnalysis": "Sauvegarder l analyse"
+  }
+}

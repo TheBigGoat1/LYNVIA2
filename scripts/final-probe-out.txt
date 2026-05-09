@@ -1,0 +1,83 @@
+[NOT FOUND] boucherie DE: CCT pour la boucherie-charcuterie Suisse_DE.pdf
+[NOT FOUND] boulangerie FR: CCT de la boulangerie-pâtisserie-confiserie artisanale Suiss
+[NOT FOUND] boulangerie DE: CCT de la boulangerie-pâtisserie-confiserie artisanale Suiss
+[NOT FOUND] menages GE: Contrat-type de travail de l_économie domestique GE (CTT-EDo
+[NOT FOUND] menages VD: Contrat-type de travail pour les travailleurs de l_économie 
+[NOT FOUND] medico Jura: CCT Association Jurassienne des Institutions pour Personnes 
+[NO WAGES]  medico Vaud: CCT dans le secteur sanitaire parapublic vaudois_FR.pdf
+[NO WAGES]  sante Vaud: CCT dans le secteur sanitaire parapublic vaudois_FR.pdf
+
+=== horlogerie FR ===
+File: CCT des industries horlogère et microtechnique suisses_FR.pdf
+Range: 3848 – 4626
+  4455 | che = 173 1/3 Stunden Monatslohn (einschliesslich 13.): Fr. 4455.– (d. h. Fr. 4112.– *13/12) Stundenlohn: Fr. 
+  4112 | Monatslohn (einschliesslich 13.): Fr. 4455.– (d. h. Fr. 4112.– *13/12) Stundenlohn: Fr. 25.70 Tageslohn: (40 S
+  3848 | h auf 9/12 von fünf Wochen Ferien Fr. 205.60 X 2,08 X 9 = Fr. 3848.80 Anspruch auf 9/12 von 6 Wochen Ferien Fr
+  4626 | ruch auf 9/12 von 6 Wochen Ferien Fr. 205.60 X 2,50 X 9 = Fr. 4626.– 65 16 BEZAHLTE FEIERTAGE Art. 16.1 Anzahl
+
+=== horlogerie DE ===
+File: CCT des industries horlogère et microtechnique suisses_DE.pdf
+Range: 3848 – 4626
+  4455 | che = 173 1/3 Stunden Monatslohn (einschliesslich 13.): Fr. 4455.– (d. h. Fr. 4112.– *13/12) Stundenlohn: Fr. 
+  4112 | Monatslohn (einschliesslich 13.): Fr. 4455.– (d. h. Fr. 4112.– *13/12) Stundenlohn: Fr. 25.70 Tageslohn: (40 S
+  3848 | h auf 9/12 von fünf Wochen Ferien Fr. 205.60 X 2,08 X 9 = Fr. 3848.80 Anspruch auf 9/12 von 6 Wochen Ferien Fr
+  4626 | ruch auf 9/12 von 6 Wochen Ferien Fr. 205.60 X 2,50 X 9 = Fr. 4626.– 65 16 BEZAHLTE FEIERTAGE Art. 16.1 Anzahl
+[NOT FOUND] electrique FR: CCT de la branche suisse de l_électricité_FR.pdf
+Warning: TT: undefined function: 32
+
+=== batiment FR ===
+File: CCT dans la branche suisse des techniques du bâtiment_FR.pdf
+Range: 3700 – 5100
+  5000 | .– keine Kautionspflicht CHF 2 001.– CHF 20 000.– CHF 5 000.– CHF 20 001.– CHF 10 000.– 20.10 Auf dem Gebiet d
+  4100 | pro Monat pro Stunde – im 1. Jahr nach Lehrabschluss CHF 4100.– CHF 23.66 – im 3. Jahr nach Lehrabschluss CHF 
+  4400 | CHF 4100.– CHF 23.66 – im 3. Jahr nach Lehrabschluss CHF 4400.– CHF 25.39 – im 5. Jahr nach Lehrabschluss CHF 
+  4900 | CHF 4400.– CHF 25.39 – im 5. Jahr nach Lehrabschluss CHF 4900.– CHF 28.27 – im 7. Jahr nach Lehrabschluss CHF 
+  5100 | CHF 4900.– CHF 28.27 – im 7. Jahr nach Lehrabschluss CHF 5100.– CHF 29.43 148 Installateur 2 Arbeitnehmende mi
+  3800 | pro Monat pro Stunde – im 1. Jahr nach Lehrabschluss CHF 3800.– CHF 21.93 – im 2. Jahr nach Lehrabschluss CHF 
+  3900 | CHF 3800.– CHF 21.93 – im 2. Jahr nach Lehrabschluss CHF 3900.– CHF 22.50 – im 3. Jahr nach Lehrabschluss CHF 
+  4300 | CHF 4100.– CHF 23.66 – im 4. Jahr nach Lehrabschluss CHF 4300.– CHF 24.81 Installateur 3 Arbeitnehmende, die d
+  3700 | orie pro Monat pro Stunde – im 1. Jahr der Anstellung CHF 3700.– CHF 21.35 – im 2. Jahr der Anstellung CHF 375
+  3750 | ung CHF 3700.– CHF 21.35 – im 2. Jahr der Anstellung CHF 3750.– CHF 21.64 – im 3. Jahr der Anstellung CHF 3800
+  4000 | ung CHF 3800.– CHF 21.93 – im 4. Jahr der Anstellung CHF 4000.– CHF 23.08 Können die vorgenannten Minimallöhne
+[NO WAGES]  carpostal FR: CCT CarPostal_FR.pdf
+Warning: TT: undefined function: 21
+[NO WAGES]  securite DE: CCT pour la branche privée de la sécurité_DE.pdf
+Warning: TT: undefined function: 21
+[NO WAGES]  securite FR: CCT pour la branche privée de la sécurité_FR.pdf
+
+=== coiffeurs DE ===
+File: CCT nationale des coiffeurs_DE.pdf
+Range: 3470 – 8000
+  8000 | ventionalstrafe darf für die Arbeitnehmerin höchstens Fr. 8000.– und die Arbeitgeberin höchstens Fr. 25 000.– 
+  3850 | 232024 BerufsjahrBasislohnJahreslohnBasislohnJahreslohn 1. *CHF 3850.–CHF 46 200.–CHF 4000.–CHF 48 000.– 2. * 
+  4000 | ohnBasislohnJahreslohn 1. *CHF 3850.–CHF 46 200.–CHF 4000.–CHF 48 000.– 2. * CHF 3850.–CHF 46 200.–CHF 4000.–C
+  3900 | F 46 200.–CHF 4000.–CHF 48 000.– 3. und folgendeCHF 3900.–CHF 46 800.–CHF 4190.–CHF 50 280.– 4.CHF 3975.–CHF 4
+  4190 | 0.–CHF 48 000.– 3. und folgendeCHF 3900.–CHF 46 800.–CHF 4190.–CHF 50 280.– 4.CHF 3975.–CHF 47 700.– 5.CHF 408
+  3975 | deCHF 3900.–CHF 46 800.–CHF 4190.–CHF 50 280.– 4.CHF 3975.–CHF 47 700.– 5.CHF 4080.–CHF 48 960.– 20252026 Beru
+  4080 | 00.–CHF 4190.–CHF 50 280.– 4.CHF 3975.–CHF 47 700.– 5.CHF 4080.–CHF 48 960.– 20252026 BerufsjahrBasislohnJahre
+  4160 | ohnBasislohnJahreslohn 1. *CHF 4080.–CHF 48 960.–CHF 4160.–CHF 49 920.– 2. * CHF 4080.–CHF 48 960.–CHF 4160.–C
+  4280 | F 48 960.–CHF 4160.–CHF 49 920.– 3. und folgendeCHF 4280.–CHF 51 360.–CHF 4360.–CHF 52 320.– 2027 BerufsjahrBa
+  4360 | 0.–CHF 49 920.– 3. und folgendeCHF 4280.–CHF 51 360.–CHF 4360.–CHF 52 320.– 2027 BerufsjahrBasislohnJahreslohn
+  4240 | 0.–CHF 52 320.– 2027 BerufsjahrBasislohnJahreslohn 1. *CHF 4240.–CHF 50 880.– 2. * CHF 4240.–CHF 50 880.– 3. u
+  4460 | 880.– 2. * CHF 4240.–CHF 50 880.– 3. und folgendeCHF 4460.–CHF 53 520.– * gemäss Art. 40.3, Reduktionsmöglichk
+  3470 | tgelegtnicht festgelegtnicht festgelegtnicht festgelegt 2. CHF 3470.–CHF 41 640.–CHF 3650.–CHF 43 800.– 3. und
+  3650 | gelegtnicht festgelegt 2. CHF 3470.–CHF 41 640.–CHF 3650.–CHF 43 800.– 3. und folgendeCHF 3600.–CHF 43 200.–CH
+  3600 | F 41 640.–CHF 3650.–CHF 43 800.– 3. und folgendeCHF 3600.–CHF 43 200.–CHF 4050.–CHF 48 600.– 4.CHF 3850.–CHF 4
+  4050 | 0.–CHF 43 800.– 3. und folgendeCHF 3600.–CHF 43 200.–CHF 4050.–CHF 48 600.– 4.CHF 3850.–CHF 46 200.– 5.CHF 398
+  3980 | 00.–CHF 4050.–CHF 48 600.– 4.CHF 3850.–CHF 46 200.– 5.CHF 3980.–CHF 47 760.– 20252026 BerufsjahrBasislohnJahre
+  3750 | tgelegtnicht festgelegtnicht festgelegtnicht festgelegt 2. CHF 3750.–CHF 45 000.–CHF 3880.–CHF 46 560.– 3. und
+  3880 | gelegtnicht festgelegt 2. CHF 3750.–CHF 45 000.–CHF 3880.–CHF 46 560.– 3. und folgendeCHF 4100.–CHF 49 200.–CH
+  4100 | F 45 000.–CHF 3880.–CHF 46 560.– 3. und folgendeCHF 4100.–CHF 49 200.–CHF 4150.–CHF 49 800.– 2027 BerufsjahrBa
+  4150 | 0.–CHF 46 560.– 3. und folgendeCHF 4100.–CHF 49 200.–CHF 4150.–CHF 49 800.– 2027 BerufsjahrBasislohnJahreslohn
+  4200 | gelegt 2. CHF 3980.–CHF 47 760.– 3. und folgendeCHF 4200.–CHF 50 400.– 3. Ungelernte Arbeitnehmerin (Art. 39.3
+  3550 | lohnBasislohnJahreslohn 1. CHF 3470.–CHF 41 640.–CHF 3550.–CHF 42 600.– 2. CHF 3470.–CHF 41 640.–CHF 3630.–CHF
+  3630 | HF 3550.–CHF 42 600.– 2. CHF 3470.–CHF 41 640.–CHF 3630.–CHF 43 560.– 3. und folgendeCHF 3600.–CHF 43 200.–CHF
+  3950 | 0.–CHF 43 560.– 3. und folgendeCHF 3600.–CHF 43 200.–CHF 3950.–CHF 47 400.– 4.CHF 3750.–CHF 45 000.– 5.CHF 388
+  3780 | lohnBasislohnJahreslohn 1. CHF 3650.–CHF 43 800.–CHF 3780.–CHF 45 360.– 2. CHF 3730.–CHF 44 760.–CHF 3830.–CHF
+  3730 | HF 3650.–CHF 43 800.–CHF 3780.–CHF 45 360.– 2. CHF 3730.–CHF 44 760.–CHF 3830.–CHF 45 960.– 3. und folgendeCHF
+  3830 | HF 3780.–CHF 45 360.– 2. CHF 3730.–CHF 44 760.–CHF 3830.–CHF 45 960.– 3. und folgendeCHF 4025.–CHF 48 300.–CHF
+  4025 | F 44 760.–CHF 3830.–CHF 45 960.– 3. und folgendeCHF 4025.–CHF 48 300.–CHF 4100.–CHF 49 200.– 2027 BerufsjahrBa
+  3930 | asislohnJahreslohn 1. CHF 3880.–CHF 46 560.– 2. CHF 3930.–CHF 47 160.– 3. und folgendeCHF 4150.–CHF 49 800.– I
+[NO WAGES]  meubles Schreiner DE: GAV für das Schreinergewerbe Deutschschweiz und Tessin_DE.pd
+[NOT FOUND] carrelage CCNT FR: CCNT pour le carrelage pour toute la Suisse à l_exception de
+[NO WAGES]  creches CTT-OSAD GE: Contrat-type de travail pour les organisations de soins et d

@@ -1,0 +1,232 @@
+
+[NO WAGES] horlogerie | CCT des industries horlogère et microtechnique suisses_
+
+======================================================================
+SECTOR: ferblanterie-et-charpente
+FILE:   CCT de la branche suisse de l'enveloppe des édifices_FR.pdf
+FOUND:  5 wage-range CHF values
+RANGE:  3000 – 5000
+----------------------------------------------------------------------
+  3000 (CHF 3'000.00) | bis CHF 2'000.00 - Betrieb mit 6 -10 Arbeitnehmenden: bis CHF 3'000.00 - Betrieb mit 11 - 20 Arbeitn
+  4000 (CHF 4'000.00) | is CHF 3'000.00 - Betrieb mit 11 - 20 Arbeitnehmenden: bis CHF 4'000.00 - Betrieb mit mehr als 20 Ar
+  5000 (CHF 5'000.00) | HF 4'000.00 - Betrieb mit mehr als 20 Arbeitnehmenden: bis CHF 5'000.00 5) Wer die Kaution gemäss de
+
+======================================================================
+SECTOR: ferblanterie-et-charpente
+FILE:   CCT de la ferblanterie, de la couverture, de l'installation sanitaire,
+FOUND:  13 wage-range CHF values
+RANGE:  2500 – 6166
+----------------------------------------------------------------------
+  6166 (CHF 6'166.85) | tivité, après l’obtention de la qualification CHF 34.50 CHF 6'166.85 Dès la 5 ème année d’activité C
+  5880 (CHF 5'880.85) | CHF 6'166.85 Dès la 5 ème année d’activité CHF 32.90 CHF 5'880.85 Dès la 1 ère année d’activité CHF 
+  5389 (CHF 5'389.30) | CHF 5'880.85 Dès la 1 ère année d’activité CHF 30.15 CHF 5'389.30 Classe B : Dès la 10 ème année d’a
+  5451 (CHF 5'451.85) | lasse B : Dès la 10 ème année d’activité CHF 30.50 CHF 5'451.85 Dès la 5 ème année d’activité CHF 29
+  5219 (CHF 5'219.50) | CHF 5'451.85 Dès la 5 ème année d’activité CHF 29.20 CHF 5'219.50 Dès la 3 ème année d’activité CHF 
+  4951 (CHF 4'951.35) | CHF 5'219.50 Dès la 3 ème année d’activité CHF 27.70 CHF 4'951.35 Dès la 1 ère année d’activité CHF 
+  4710 (CHF 4'710.05) | CHF 4'951.35 Dès la 1 ère année d’activité CHF 26.35 CHF 4'710.05 Classe C : Dès la 3 ème année d’ac
+  4665 (CHF 4'665.35) | Classe C : Dès la 3 ème année d’activité CHF 26.10 CHF 4'665.35 Dès la 1 ère année d’activité CHF 24
+  4424 (CHF 4'424.05) | CHF 4'665.35 Dès la 1 ère année d’activité CHF 24.75 CHF 4'424.05 Classe D : Dès la 1 ère année d'ac
+  3977 (CHF 3'977.15) | asse D : Dès la 1 ère année d'activité CHF 22.25 CHF 3'977.15 4. Dérogation aux salaires minimaux 27
+  3000 (CHF    3'000.00) | CHF 1'500.00 CHF 20’000.00 CHF 1’000.00/document CHF 3'000.00 b) Infractions relatives au paiement d
+  2500 (CHF 2'500.00) | CHF 1'000.00/travailleur CHF 1'000.00/travailleur CHF 2'500.00 CHF 2‘500.00 CHF 2‘500.00 c) Infracti
+  5000 (CHF  5'000.00) | rofessionnelle (CSP) CHF 1’000.00 CHF 1’000.00 CHF 5'000.00/travailleur CHF 1’000.00 CHF 2'000.00 CH
+Warning: TT: undefined function: 21
+
+[NO WAGES] travaux-d-installation-electrique-plomberie-et-autres-t | CCT de la branche suisse de l'électricité_FR.pdf
+Warning: TT: undefined function: 32
+
+======================================================================
+SECTOR: travaux-d-installation-electrique-plomberie-et-autres-travaux-d-installation
+FILE:   CCT dans la branche suisse des techniques du bâtiment_FR.pdf
+FOUND:  2 wage-range CHF values
+RANGE:  5000 – 5000
+----------------------------------------------------------------------
+  5000 (CHF
+ 
+5 000) | .– keine Kautionspflicht CHF 2 001.– CHF 20 000.– CHF 5 000.– CHF 20 001.– CHF 10 000.– 20.10 Auf de
+Warning: TT: invalid function id: 136
+
+======================================================================
+SECTOR: travaux-de-finition-p-ex-carrelage-menuiserie
+FILE:   CCT du second _9cuvre romand_FR.pdf
+FOUND:  4 wage-range CHF values
+RANGE:  3800 – 7200
+----------------------------------------------------------------------
+  5000 (Fr. 5'000) | .– und Fr. 20'000.– pro Kalenderjahr beträgt die Kaution Fr. 5'000.–. Überschreitet die Auftragssumm
+  7200 (Fr. 7'200) | e Erwerbstätigkeit mit einem maximalen Jahreseinkommen von Fr. 7'200.‒ ausüben, 3. Der Versicherte, 
+  3800 (Fr. 3'800) | hreiten: a) 80 % des Rentenbasislohnes, jedoch mindestens Fr. 3'800.‒ pro Monat. b) 80 % des Rentenb
+  4800 (Fr. 4'800) | ro Monat. b) 80 % des Rentenbasislohnes, jedoch höchstens Fr. 4'800.‒ pro Monat. 3. Das Reglement de
+
+======================================================================
+SECTOR: travaux-de-finition-p-ex-carrelage-menuiserie
+FILE:   CCNT pour le carrelage pour toute la Suisse à l'exception de FR, BS, B
+FOUND:  1 wage-range CHF values
+RANGE:  5000 – 5000
+----------------------------------------------------------------------
+  5000 (CHF 5 000.00) | 000.00 Keine Kautionspflicht CHF 2 000.00 CHF 20 000.00 CHF 5 000.00 CHF 20 000.00CHF 10 000.00 2Höh
+Warning: TT: undefined function: 3
+Warning: TT: undefined function: 32
+
+[NO WAGES] travaux-de-finition-p-ex-carrelage-menuiserie | GAV für die Schweizerische Bodenbelagsbranche_DE.pdf
+
+[NO WAGES] sante-humaine | CCT dans le secteur sanitaire parapublic vaudois_FR.pdf
+
+======================================================================
+SECTOR: entretien-et-reparation-de-vehicules-automobiles-et-de-motocycles
+FILE:   CCT des garages du Canton de Vaud_FR.pdf
+FOUND:  12 wage-range CHF values
+RANGE:  3900 – 4800
+----------------------------------------------------------------------
+  4600 (CHF 4'600) | s véhicules légers ou utilitaires (4 ans d’apprentissage) CHF 4'600.- A partir de deux ans d’ancienn
+  4800 (CHF 4'800) | A partir de deux ans d’ancienneté dans la même entreprise CHF 4'800.- Groupe II Mécanicien-ne en mai
+  4100 (CHF 4'100) | es véhicules légers ou utilitaires (3 ans d’apprentissage) CHF 4'100.- A partir de deux ans d’ancien
+  4300 (CHF 4'300) | A partir de deux ans d’ancienneté dans la même entreprise CHF 4'300.- Groupe III Gestionnaire du com
+  4000 (CHF   4'000) | - Attestation fédérale de formation professionnelle (AFP) CHF 4'000.- A partir de deux ans d’ancienn
+  4200 (CHF 4'200) | A partir de deux ans d’ancienneté dans la même entreprise CHF 4'200.- Groupe V Assistant en maintena
+  3900 (CHF 3'900) | entreprise CHF 4'200.- Groupe VI Ouvrier de garage CHF 3'900.- A partir de deux ans d’ancienneté dan
+Warning: TT: undefined function: 32
+
+======================================================================
+SECTOR: entretien-et-reparation-de-vehicules-automobiles-et-de-motocycles
+FILE:   CCT de l_industrie suisse de la carrosserie_FR.pdf
+FOUND:  24 wage-range CHF values
+RANGE:  3850 – 5100
+----------------------------------------------------------------------
+  4500 (CHF 4'500.00) | während der ersten Jahr nach dem QV * CHF 25.30 CHF 24.75 CHF 4'500.00 • zwei Jahre nach QV * CHF 26
+  4700 (CHF 4'700.00) | 75 CHF 4'500.00 • zwei Jahre nach QV * CHF 26.45 CHF 25.80 CHF 4'700.00 b) für Arbeitnehmer mit eine
+  4050 (CHF 4'050.00) | weniger als 2 Jahre Be- rufserfahrung CHF 22.80 CHF 22.25 CHF 4'050.00 • nach 2 Jahren Berufser- fah
+  4200 (CHF 4'200.00) | .00 • nach 2 Jahren Berufser- fahrung CHF 23.65 CHF 23.10 CHF 4'200.00 c) für Arbeitnehmer ohne Lehr
+  4000 (CHF 4'000.00) | weniger als 7 Jahre Be- rufserfahrung CHF 22.50 CHF 22.00 CHF 4'000.00 • nach 7 Jahren Berufser- fah
+  4350 (CHF 4'350.00) | während der ersten Jahr nach dem QV * CHF 24.50 CHF 23.90 CHF 4'350.00 • zwei Jahre nach QV * CHF 25
+  4450 (CHF 4'450.00) | 90 CHF 4'350.00 • zwei Jahre nach QV * CHF 25.00 CHF 24.45 CHF 4'450.00 b) für Arbeitnehmer mit eine
+  4100 (CHF 4'100.00) | .00 • nach 2 Jahren Berufser- fahrung CHF 23.10 CHF 22.55 CHF 4'100.00 c) für Arbeitnehmer ohne Lehr
+  3850 (CHF 3'850.00) | weniger als 2 Jahre Be- rufserfahrung CHF 21.70 CHF 21.15 CHF 3'850.00 • nach 2 Jahren Berufser- fah
+  4680 (CHF 4'680.00) | 4.75 CHF 4'500.00 • ein Jahr nach QV * CHF 26.35 CHF 25.70 CHF 4'680.00 • zwei Jahre nach QV * CHF 2
+  4900 (CHF 4'900.00) | 70 CHF 4'680.00 • zwei Jahre nach QV * CHF 27.60 CHF 26.90 CHF 4'900.00 • fünf Jahre nach QV * CHF 2
+  5100 (CHF 5'100.00) | 90 CHF 4'900.00 • fünf Jahre nach QV * CHF 28.70 CHF 28.00 CHF 5'100.00 b) für Arbeitnehmer mit eine
+  4150 (CHF 4'150.00) | weniger als 2 Jahre Be- rufserfahrung CHF 23.35 CHF 22.80 CHF 4'150.00 • nach 2 Jahren Berufser- fah
+  4230 (CHF 4'230.00) | .00 • nach 2 Jahren Berufser- fahrung CHF 23.80 CHF 23.25 CHF 4'230.00 • nach 5 Jahren Berufser- fah
+  4690 (CHF 4'690.00) | .00 • nach 5 Jahren Berufser- fahrung CHF 26.40 CHF 25.70 CHF 4'690.00 c) für Arbeitnehmer ohne Lehr
+  5000 (CHF 5 000) | . 3 OR), kann von der PLK mit einer Konventionalstrafe bis CHF 5 000.– belegt werden. Schadener- sat
+
+[NO WAGES] menages-prives-avec-personnel-domestique | Contrat-type de travail de l'économie domestique GE (CT
+
+[NO WAGES] hebergement-medico-social-et-social | CCT des Etablissements médico-sociaux (EMS) pour les pe
+
+[NO WAGES] industries-alimentaires-de-boissons-et-fourragere | CCT pour la boucherie-charcuterie Suisse_DE.pdf
+
+[NO WAGES] industries-alimentaires-de-boissons-et-fourragere | CCT de l_industrie chocolatière suisse_FR.pdf
+
+======================================================================
+SECTOR: fabrication-de-meubles
+FILE:   Convention collective pour la retraite anticipée dans le second oeuvre
+FOUND:  3 wage-range CHF values
+RANGE:  3800 – 7200
+----------------------------------------------------------------------
+  7200 (Fr. 
+7'200) | ge Erwerbstätigkeit mit einem maximalen Jahreseinkommen von Fr. 7'200.‒ ausüben, 3. Der Versicherte,
+  3800 (Fr. 3'800) | hreiten: a) 80 % des Rentenbasislohnes, jedoch mindestens Fr. 3'800.‒ pro Monat. b) 80 % des Rentenb
+  4800 (Fr. 4'800) | ro Monat. b) 80 % des Rentenbasislohnes, jedoch höchstens Fr. 4'800.‒ pro Monat. 3. Das Reglement de
+
+[NO WAGES] fabrication-de-machines-et-equipements | CCT de l_industrie des machines, des équipements électr
+
+[NO WAGES] metallurgie-p-ex-acieries-fonderies | CCT de l_industrie des machines, des équipements électr
+
+======================================================================
+SECTOR: fabrication-de-produits-metalliques-a-l-exception-des-machines-et-des-equipements
+FILE:   CC pour la retraite anticipée dans la métallurgie du bâtiment dans le 
+FOUND:  4 wage-range CHF values
+RANGE:  3850 – 4850
+----------------------------------------------------------------------
+  4850 (Fr. 4'850) | édant le versement de la rente temporaire, mais au maximum Fr. 4'850.-- par mois et au minimum Fr. 3
+  3850 (Fr. 3'850) | raire, mais au maximum Fr. 4'850.-- par mois et au minimum Fr. 3'850.-- par mois. Article 12 R ENTE 
+
+[NO WAGES] fabrication-d-equipements-electriques | CCT de l_industrie des machines, des équipements électr
+
+[NO WAGES] transports-de-voyageurs-en-bus-trams-remontees-mecaniqu | CCT CarPostal_DE.pdf
+
+[NO WAGES] transports-de-voyageurs-en-bus-trams-remontees-mecaniqu | CCT Poste CH_DE.pdf
+
+======================================================================
+SECTOR: sylviculture-et-exploitation-forestiere
+FILE:   CCL per i dipendenti delle imprese forestali del Cantone Ticino_IT.pdf
+FOUND:  8 wage-range CHF values
+RANGE:  4246 – 5835
+----------------------------------------------------------------------
+  5000 (CHF 5'000) | rvanza del divieto al lavoro abusivo fino ad un massimo di CHF 5'000.--; • in tutti gli altri casi f
+  5835 (5'835.--) | Salario minimo all'ora/base Ingegnere forestale SUP fr. 5'835.-- fr. 30.95 Forestale ST fr. 5'362.--
+  5362 (5'362.--) | re forestale SUP fr. 5'835.-- fr. 30.95 Forestale ST fr. 5'362.-- fr. 28.45 Capo squadra fr. 4'917.-
+  4917 (4'917.--) | 95 Forestale ST fr. 5'362.-- fr. 28.45 Capo squadra fr. 4'917.-- fr. 26.10 Selvicoltore qualificato 
+  4689 (4'689.--) | fr. 4'917.-- fr. 26.10 Selvicoltore qualificato fr. 4'689.-- fr. 24.90 Operaio forestale fr. 4'462.-
+  4462 (4'462.--) | qualificato fr. 4'689.-- fr. 24.90 Operaio forestale fr. 4'462.-- fr. 23.70 Ausiliario forestale fr.
+  4246 (4'246.--) | orestale fr. 4'462.-- fr. 23.70 Ausiliario forestale fr. 4'246.-- fr. 22.55 Operaio qualificato fr. 
+Warning: TT: undefined function: 21
+
+======================================================================
+SECTOR: sylviculture-et-exploitation-forestiere
+FILE:   CCT de l'économie forestière valaisanne_FR.pdf
+FOUND:  1 wage-range CHF values
+RANGE:  3000 – 3000
+----------------------------------------------------------------------
+  3000 (Fr. 
+3'000) | oder mit einer Busse belegt werden. Diese beträgt höchstens Fr. 3'000,- für Arbeitnehmer; für Arbeit
+Warning: TT: undefined function: 21
+
+[NO WAGES] enquetes-et-securite | CCT pour la branche privée de la sécurité_DE.pdf
+Warning: TT: undefined function: 21
+
+[NO WAGES] enquetes-et-securite | CCT pour la branche privée de la sécurité_IT.pdf
+
+[NO WAGES] creches-prise-en-charge-de-personnes-agees-et-ou-en-sit | Contrat-type de travail pour les organisations de soins
+
+[NO WAGES] autres-services-a-la-personne-p-ex-coiffure-esthetique- | CCT nationale des coiffeurs_DE.pdf
+
+[NO WAGES] autres-services-a-la-personne-p-ex-coiffure-esthetique- | Contrat-type de travail des esthéticiennes Genève (CTT-
+
+[NO WAGES] industrie-chimique-sans-industrie-pharmaceutique | KAV Lonza Walliser Werke_DE.pdf
+
+======================================================================
+SECTOR: industrie-chimique-sans-industrie-pharmaceutique
+FILE:   GAV für Basler Pharma-, Chemie- und Dienstleistungsunternehmen_DE.pdf
+FOUND:  1 wage-range CHF values
+RANGE:  3000 – 3000
+----------------------------------------------------------------------
+  3000 (CHF 3'000) | r- bzw. Ausbildungszulage besteht 24.1.3Im Maximum jährlich CHF 3'000.– 24.2Der Stichtag für die Fes
+
+[NO WAGES] horlogerie | CCT de l_industrie des machines, des équipements électr
+
+======================================================================
+SECTOR: fabrication-de-textiles
+FILE:   Convention collective pour la retraite anticipée dans le second oeuvre
+FOUND:  3 wage-range CHF values
+RANGE:  3800 – 7200
+----------------------------------------------------------------------
+  7200 (Fr. 
+7'200) | ge Erwerbstätigkeit mit einem maximalen Jahreseinkommen von Fr. 7'200.‒ ausüben, 3. Der Versicherte,
+  3800 (Fr. 3'800) | hreiten: a) 80 % des Rentenbasislohnes, jedoch mindestens Fr. 3'800.‒ pro Monat. b) 80 % des Rentenb
+  4800 (Fr. 4'800) | ro Monat. b) 80 % des Rentenbasislohnes, jedoch höchstens Fr. 4'800.‒ pro Monat. 3. Das Reglement de
+Warning: TT: undefined function: 21
+Warning: TT: invalid function id: 136
+Warning: TT: invalid function id: 136
+Warning: TT: undefined function: 21
+
+======================================================================
+SECTOR: demolition-et-preparation-des-sites
+FILE:   CCT pour la retraite anticipée dans le secteur principal_de la constru
+FOUND:  1 wage-range CHF values
+RANGE:  6000 – 6000
+----------------------------------------------------------------------
+  6000 (CHF 6'000) | tung besteht aus: a) einem Sockelbetrag von mindestens 26 CHF 6'000 pro Jahr und b) 65 % 27 des vert
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+
+[NO WAGES] culture-et-production-animale-chasse | CCT du secteur du paysagisme Fribourg, Neuchâtel, Jura 
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+
+[NO WAGES] activites-liees-a-l-emploi-p-ex-location-de-services-ag | CCT Location de services_IT.pdf
+
+[NO WAGES] commerce-de-vehicules-et-d-accessoires-automobiles-y-c- | CCT de la branche automobile du Valais_DE.pdf

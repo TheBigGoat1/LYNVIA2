@@ -1,0 +1,27 @@
+
+{
+  "general_rates": [
+    {"from": 0, "rate": 0.0506, "amount": 0},
+    {"from": 10000, "rate": 0.0583, "amount": 506},
+    {"from": 20000, "rate": 0.0726, "amount": 1089},
+    {"from": 30000, "rate": 0.0891, "amount": 1815},
+    {"from": 40000, "rate": 0.1056, "amount": 2706},
+    {"from": 60000, "rate": 0.1221, "amount": 4768},
+    {"from": 80000, "rate": 0.1386, "amount": 7210},
+    {"from": 100000, "rate": 0.1500, "amount": 9982}
+  ],
+  "married_rates": [
+    {"from": 0, "rate": 0.0506, "amount": 0},
+    {"from": 20000, "rate": 0.0583, "amount": 1012},
+    {"from": 40000, "rate": 0.0726, "amount": 2178},
+    {"from": 60000, "rate": 0.0891, "amount": 3630},
+    {"from": 80000, "rate": 0.1056, "amount": 5412},
+    {"from": 120000, "rate": 0.1221, "amount": 9536},
+    {"from": 160000, "rate": 0.1386, "amount": 14420},
+    {"from": 200000, "rate": 0.1500, "amount": 19964}
+  ],
+  "deductions": {
+    "general_deduction": 0,
+    "children_deduction": 11000
+  }
+}

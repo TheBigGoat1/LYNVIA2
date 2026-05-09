@@ -1,0 +1,362 @@
+
+'use client';
+
+import { useForm } from 'react-hook-form';
+import { z } from 'zod';
+import { zodResolver } from '@hookform/resolvers/zod';
+import {
+  DialogContent,
+  DialogHeader,
+  DialogTitle,
+  DialogDescription,
+  DialogFooter,
+  DialogClose,
+} from '@/components/ui/dialog';
+import {
+  Form,
+  FormControl,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from '@/components/ui/form';
+import { Input } from '@/components/ui/input';
+import { Button } from '@/components/ui/button';
+import {
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
+} from '@/components/ui/select';
+import { useToast } from '@/hooks/use-toast';
+import { useEffect, useState } from 'react';
+import { Loader2 } from 'lucide-react';
+import { useTranslations } from 'next-intl';
+import { collection, getDocs, query } from 'firebase/firestore';
+import { auth, firestore } from '@/firebase/config';
+
+const createUserSchema = z.object({
+  prenom: z.string().min(1, 'Prénom requis.'),
+  nom: z.string().min(1, 'Nom requis.'),
+  dateNaissance: z.string().min(1, 'Date de naissance requise.'),
+  telephone: z.string().optional(),
+  email: z.string().email('Email invalide').optional(),
+  fonction: z.string().min(1, 'Fonction requise.'),
+  dateDebut: z.string().min(1, 'Date de début requise.'),
+  typeRemu: z.enum(['horaire', 'mensuel']),
+  salaireHoraire: z.number().optional(),
+  salaireAnnuel: z.number().optional(),
+  salaireMensuel: z.number().optional(),
+  semainesVacances: z.number().min(0, 'Semaines de vacances requises.'),
+  tauxActivite: z.number().min(0, 'Taux d\'activité requis.'),
+  numeroAVS: z.string().min(1, 'Numéro AVS requis.'),
+  statutAVS: z.enum(['valide', 'a_verifier', 'invalide']),
+  iban: z.string().optional(),
+  rue: z.string().optional(),
+  ville: z.string().optional(),
+  codePostal: z.string().optional(),
+  has3MonthsHistory: z.boolean().optional(),
+  role: z.enum(['individual', 'business', 'accounting_firm', 'admin']),
+  status: z.enum(['active', 'pending_approval', 'suspended']),
+  companyId: z.string().optional(),
+});
+
+type CreateUserFormValues = z.infer<typeof createUserSchema>;
+
+type CompanyOption = {
+  id: string;
+  name: string;
+};
+
+interface CreateUserFormProps {
+  onClose: () => void;
+}
+
+export function CreateUserForm({ onClose }: CreateUserFormProps) {
+  const t = useTranslations('AdminUserManagement');
+  const { toast } = useToast();
+  const [isLoading, setIsLoading] = useState(false);
+  const [companies, setCompanies] = useState<CompanyOption[]>([]);
+  const [isCompaniesLoading, setIsCompaniesLoading] = useState(true);
+
+  const form = useForm<CreateUserFormValues>({
+    resolver: zodResolver(createUserSchema),
+    defaultValues: {
+      prenom: '',
+      nom: '',
+      dateNaissance: '',
+      telephone: '',
+      email: '',
+      fonction: '',
+      dateDebut: '',
+      typeRemu: 'horaire',
+      salaireHoraire: undefined,
+      salaireAnnuel: undefined,
+      salaireMensuel: undefined,
+      semainesVacances: 5,
+      tauxActivite: 100,
+      numeroAVS: '',
+      statutAVS: 'a_verifier',
+      iban: '',
+      rue: '',
+      ville: '',
+      codePostal: '',
+      has3MonthsHistory: false,
+      role: 'individual',
+      status: 'active',
+      companyId: '',
+    },
+  });
+  
+  useEffect(() => {
+    const fetchCompanies = async () => {
+        try {
+            const companiesQuery = query(collection(firestore, 'companies'));
+            const querySnapshot = await getDocs(companiesQuery);
+            const companyList = querySnapshot.docs.map(doc => ({
+                id: doc.id,
+                name: doc.data().companyName
+            }));
+            setCompanies(companyList);
+        } catch (error) {
+            console.error("Error fetching companies: ", error);
+        } finally {
+            setIsCompaniesLoading(false);
+        }
+    };
+    fetchCompanies();
+  }, []);
+
+  const handleCreateUser = async (values: CreateUserFormValues) => {
+    setIsLoading(true);
+
+    try {
+      const currentUser = auth.currentUser;
+      if (!currentUser) {
+        throw new Error('You must be logged in as an admin to create users.');
+      }
+
+      const finalCompanyId = values.companyId && values.companyId !== 'none' ? values.companyId : null;
+      const idToken = await currentUser.getIdToken();
+
+      const response = await fetch('/api/admin/create-user', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: `Bearer ${idToken}`,
+        },
+        body: JSON.stringify({
+          ...values,
+          companyId: finalCompanyId,
+        }),
+      });
+
+      const result = await response.json();
+      if (!response.ok) {
+        throw new Error(result.error || 'Failed to create user.');
+      }
+
+      toast({
+        title: t('toast.createUserSuccess.title'),
+        description: t('toast.createUserSuccess.description'),
+      });
+
+      onClose();
+    } catch (error: any) {
+      toast({
+        variant: 'destructive',
+        title: 'User creation failed',
+        description: error.message || 'Unable to create user account.',
+      });
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  return (
+    <DialogContent className="sm:max-w-md">
+      <DialogHeader>
+        <DialogTitle>{t('dialog.title')}</DialogTitle>
+        <DialogDescription>{t('dialog.description')}</DialogDescription>
+      </DialogHeader>
+      <Form {...form}>
+        <form onSubmit={form.handleSubmit(handleCreateUser)} className="flex flex-col gap-4">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <FormField control={form.control} name="prenom" render={({ field }) => (
+              <FormItem><FormLabel>Prénom *</FormLabel><FormControl><Input {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="nom" render={({ field }) => (
+              <FormItem><FormLabel>Nom *</FormLabel><FormControl><Input {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <FormField control={form.control} name="dateNaissance" render={({ field }) => (
+              <FormItem><FormLabel>Date de naissance *</FormLabel><FormControl><Input type="date" {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="telephone" render={({ field }) => (
+              <FormItem><FormLabel>Téléphone</FormLabel><FormControl><Input {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+          </div>
+          <FormField control={form.control} name="email" render={({ field }) => (
+            <FormItem><FormLabel>Email</FormLabel><FormControl><Input type="email" {...field} /></FormControl><FormMessage /></FormItem>
+          )} />
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <FormField control={form.control} name="fonction" render={({ field }) => (
+              <FormItem><FormLabel>Fonction *</FormLabel><FormControl><Input {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="dateDebut" render={({ field }) => (
+              <FormItem><FormLabel>Date de début *</FormLabel><FormControl><Input type="date" {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+          </div>
+          <FormField control={form.control} name="typeRemu" render={({ field }) => (
+            <FormItem><FormLabel>Type de rémunération *</FormLabel><Select onValueChange={field.onChange} value={field.value}><FormControl><SelectTrigger><SelectValue /></SelectTrigger></FormControl><SelectContent><SelectItem value="horaire">Horaire</SelectItem><SelectItem value="mensuel">Mensuel</SelectItem></SelectContent></Select><FormMessage /></FormItem>
+          )} />
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <FormField control={form.control} name="salaireHoraire" render={({ field }) => (
+              <FormItem><FormLabel>Salaire horaire</FormLabel><FormControl><Input type="number" {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="salaireMensuel" render={({ field }) => (
+              <FormItem><FormLabel>Salaire mensuel</FormLabel><FormControl><Input type="number" {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="salaireAnnuel" render={({ field }) => (
+              <FormItem><FormLabel>Salaire annuel</FormLabel><FormControl><Input type="number" {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <FormField control={form.control} name="semainesVacances" render={({ field }) => (
+              <FormItem><FormLabel>Semaines de vacances *</FormLabel><FormControl><Input type="number" {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="tauxActivite" render={({ field }) => (
+              <FormItem><FormLabel>Taux d'activité *</FormLabel><FormControl><Input type="number" {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="has3MonthsHistory" render={({ field }) => (
+              <FormItem><FormLabel>3 mois d'historique</FormLabel><FormControl><Input type="checkbox" checked={field.value} onChange={e => field.onChange(e.target.checked)} /></FormControl><FormMessage /></FormItem>
+            )} />
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <FormField control={form.control} name="numeroAVS" render={({ field }) => (
+              <FormItem><FormLabel>Numéro AVS *</FormLabel><FormControl><Input {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="statutAVS" render={({ field }) => (
+              <FormItem><FormLabel>Statut AVS *</FormLabel><Select onValueChange={field.onChange} value={field.value}><FormControl><SelectTrigger><SelectValue /></SelectTrigger></FormControl><SelectContent><SelectItem value="valide">Valide</SelectItem><SelectItem value="a_verifier">À vérifier</SelectItem><SelectItem value="invalide">Invalide</SelectItem></SelectContent></Select><FormMessage /></FormItem>
+            )} />
+          </div>
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
+            <FormField control={form.control} name="iban" render={({ field }) => (
+              <FormItem><FormLabel>IBAN</FormLabel><FormControl><Input {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="rue" render={({ field }) => (
+              <FormItem><FormLabel>Rue</FormLabel><FormControl><Input {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="ville" render={({ field }) => (
+              <FormItem><FormLabel>Ville</FormLabel><FormControl><Input {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+            <FormField control={form.control} name="codePostal" render={({ field }) => (
+              <FormItem><FormLabel>Code postal</FormLabel><FormControl><Input {...field} /></FormControl><FormMessage /></FormItem>
+            )} />
+          </div>
+          <DialogFooter className="pt-4 mt-4 border-t flex-shrink-0 flex flex-col sm:flex-row gap-2">
+            <Button type="button" variant="ghost" onClick={onClose}>Annuler</Button>
+            <Button type="submit" disabled={isLoading}>{isLoading ? 'Enregistrement...' : 'Enregistrer'}</Button>
+          </DialogFooter>
+        </form>
+            </div>
+             <FormField
+                control={form.control}
+                name="email"
+                render={({ field }) => (
+                    <FormItem>
+                        <FormLabel>{t('dialog.labels.email')}</FormLabel>
+                        <FormControl>
+                            <Input type="email" {...field} />
+                        </FormControl>
+                        <FormMessage />
+                    </FormItem>
+                )}
+            />
+            <FormField
+                control={form.control}
+                name="password"
+                render={({ field }) => (
+                    <FormItem>
+                        <FormLabel>{t('dialog.labels.password')}</FormLabel>
+                        <FormControl>
+                            <Input type="password" {...field} />
+                        </FormControl>
+                        <FormMessage />
+                    </FormItem>
+                )}
+            />
+            <div className="grid grid-cols-2 gap-4">
+                 <FormField
+                    control={form.control}
+                    name="role"
+                    render={({ field }) => (
+                        <FormItem>
+                            <FormLabel>{t('dialog.labels.role')}</FormLabel>
+                            <Select onValueChange={field.onChange} defaultValue={field.value}>
+                                <FormControl><SelectTrigger><SelectValue placeholder={t('dialog.placeholders.selectRole')} /></SelectTrigger></FormControl>
+                                <SelectContent>
+                                    <SelectItem value="individual">Individual</SelectItem>
+                                    <SelectItem value="business">Business</SelectItem>
+                                    <SelectItem value="accounting_firm">Accounting Firm</SelectItem>
+                                    <SelectItem value="admin">Admin</SelectItem>
+                                </SelectContent>
+                            </Select>
+                            <FormMessage />
+                        </FormItem>
+                    )}
+                />
+                 <FormField
+                    control={form.control}
+                    name="status"
+                    render={({ field }) => (
+                        <FormItem>
+                            <FormLabel>{t('dialog.labels.status')}</FormLabel>
+                            <Select onValueChange={field.onChange} defaultValue={field.value}>
+                                <FormControl><SelectTrigger><SelectValue placeholder={t('dialog.placeholders.selectStatus')} /></SelectTrigger></FormControl>
+                                <SelectContent>
+                                    <SelectItem value="active">Active</SelectItem>
+                                    <SelectItem value="pending_approval">Pending Approval</SelectItem>
+                                    <SelectItem value="suspended">Suspended</SelectItem>
+                                </SelectContent>
+                            </Select>
+                            <FormMessage />
+                        </FormItem>
+                    )}
+                />
+            </div>
+             <FormField
+                control={form.control}
+                name="companyId"
+                render={({ field }) => (
+                    <FormItem>
+                        <FormLabel>{t('dialog.labels.company')}</FormLabel>
+                        <Select onValueChange={field.onChange} defaultValue={field.value} disabled={isCompaniesLoading}>
+                            <FormControl><SelectTrigger><SelectValue placeholder={isCompaniesLoading ? "Loading..." : t('dialog.placeholders.selectCompany')} /></SelectTrigger></FormControl>
+                            <SelectContent>
+                                <SelectItem value="none">{t('dialog.placeholders.noCompany')}</SelectItem>
+                                {companies.map(company => (
+                                    <SelectItem key={company.id} value={company.id}>{company.name}</SelectItem>
+                                ))}
+                            </SelectContent>
+                        </Select>
+                        <FormMessage />
+                    </FormItem>
+                )}
+            />
+          <DialogFooter>
+            <DialogClose asChild>
+              <Button type="button" variant="ghost">{t('dialog.buttons.cancel')}</Button>
+            </DialogClose>
+            <Button type="submit" disabled={isLoading}>
+              {isLoading && <Loader2 className="mr-2 h-4 w-4 animate-spin" />}
+              {isLoading ? t('dialog.buttons.creating') : t('dialog.buttons.create')}
+            </Button>
+          </DialogFooter>
+        </form>
+      </Form>
+    </DialogContent>
+  );
+}

@@ -1,0 +1,19 @@
+{
+  "overrides": [
+    {
+      "cantons": ["vd", "vs", "ge", "ne", "ju", "fr"],
+      "industryIncludes": ["paysag", "jardinerie", "jardin"],
+      "claId": "jardinerie-paysagistes"
+    },
+    {
+      "cantons": ["vd", "ge", "ne", "fr", "ju"],
+      "industryIncludes": ["nettoyage", "nettoy"],
+      "claId": "activites-de-nettoyage"
+    },
+    {
+      "cantons": ["vs"],
+      "industryIncludes": ["paysag", "jardinerie", "parc", "jardin"],
+      "claId": "services-d-amenagement-paysager"
+    }
+  ]
+}

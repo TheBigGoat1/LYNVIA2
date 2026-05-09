@@ -1,0 +1,57 @@
+
+{
+  "general_rates": [
+    {"from": 0, "rate": 0.0000, "amount": 0.00},
+    {"from": 12200, "rate": 0.010, "amount": 0.00},
+    {"from": 20400, "rate": 0.020, "amount": 82.00},
+    {"from": 28600, "rate": 0.030, "amount": 246.00},
+    {"from": 37800, "rate": 0.040, "amount": 522.00},
+    {"from": 48300, "rate": 0.050, "amount": 942.00},
+    {"from": 59800, "rate": 0.060, "amount": 1517.00},
+    {"from": 72300, "rate": 0.070, "amount": 2267.00},
+    {"from": 85800, "rate": 0.080, "amount": 3212.00},
+    {"from": 100300, "rate": 0.085, "amount": 4372.00},
+    {"from": 115800, "rate": 0.090, "amount": 5690.00},
+    {"from": 132300, "rate": 0.095, "amount": 7178.00},
+    {"from": 149800, "rate": 0.100, "amount": 8841.00},
+    {"from": 226800, "rate": 0.105, "amount": 16926.00}
+  ],
+  "married_rates": [
+    {"from": 0, "rate": 0.000, "amount": 0.00},
+    {"from": 24400, "rate": 0.010, "amount": 0.00},
+    {"from": 39700, "rate": 0.020, "amount": 153.00},
+    {"from": 52900, "rate": 0.030, "amount": 417.00},
+    {"from": 66200, "rate": 0.040, "amount": 816.00},
+    {"from": 79400, "rate": 0.050, "amount": 1348.00},
+    {"from": 92600, "rate": 0.060, "amount": 2008.00},
+    {"from": 105800, "rate": 0.070, "amount": 2790.00},
+    {"from": 119100, "rate": 0.080, "amount": 3721.00},
+    {"from": 132300, "rate": 0.085, "amount": 4777.00},
+    {"from": 145500, "rate": 0.090, "amount": 5900.00},
+    {"from": 158800, "rate": 0.095, "amount": 7097.00},
+    {"from": 172000, "rate": 0.100, "amount": 8351.00},
+    {"from": 245900, "rate": 0.105, "amount": 16111.00}
+  ],
+  "deductions": {
+    "general_deduction": 2600,
+    "children_deduction": 5100
+  },
+  "source_tax_rates": {
+    "A": [
+      {"from": 0, "to": 900, "rate": 0},
+      {"from": 901, "to": 1200, "rate": 0.5},
+      {"from": 1201, "to": 1600, "rate": 1},
+      {"from": 1601, "to": 2100, "rate": 2},
+      {"from": 2101, "to": 2600, "rate": 3},
+      {"from": 2601, "to": 3100, "rate": 4},
+      {"from": 3101, "to": 3900, "rate": 5},
+      {"from": 3901, "to": 4800, "rate": 6},
+      {"from": 4801, "to": 5900, "rate": 7},
+      {"from": 5901, "to": 11800, "rate": 8},
+      {"from": 11801, "to": 13900, "rate": 9},
+      {"from": 13901, "to": 20400, "rate": 10},
+      {"from": 20401, "to": 22400, "rate": 11},
+      {"from": 22401, "to": null, "rate": 12}
+    ]
+  }
+}

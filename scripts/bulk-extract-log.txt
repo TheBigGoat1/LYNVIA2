@@ -1,0 +1,257 @@
+Extracting wages for 56 sectors...
+
+[NOT FOUND] activites-auxiliaires-de-services-financiers-et-d-assurance-p-ex-bourses-courtage-en-assurances-gestion-de-fonds
+[NOT FOUND] activites-creatives-artistiques-et-de-spectacle
+[CHF 2025] activites-de-poste-et-de-courrier
+  source: CCT Poste CH_FR.pdf
+[CHF 2026] activites-immobilieres
+  source: Poste Immobilier Management et Services SA (IMS)_FR.pdf
+[NOT FOUND] activites-juridiques-et-comptables-p-ex-conseil-fiscal-audit
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+[NOT FOUND] activites-liees-a-l-emploi-p-ex-location-de-services-agences-de-placement-de-personnel
+[NOT FOUND] agences-de-voyage-voyagistes-services-de-reservation-et-activites-connexes
+Warning: TT: undefined function: 32
+[NOT FOUND] architecture-et-ingenierie-controle-et-analyses-techniques
+[NOT FOUND] autres-industries-extractives
+Warning: Could not find a preferred cmap table.
+Warning: Could not find a preferred cmap table.
+[NOT FOUND] autres-industries-manufacturieres-p-ex-instruments-de-musique-jouets-appareils-sportifs-appareils-materiels-medicaux-et-dentaires
+Warning: TT: undefined function: 22
+Warning: TT: undefined function: 23
+[NOT FOUND] autres-services-a-la-personne-p-ex-coiffure-esthetique-blanchisserie-spas-services-funeraires
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+[CHF 4714] collecte-traitement-et-elimination-des-dechets-recuperation
+  source: Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf
+[NOT FOUND] commerce-de-gros-a-l-exception-des-automobiles-et-des-motocycles
+[NOT FOUND] commerce-de-vehicules-et-d-accessoires-automobiles-y-c-stations-service
+[NOT FOUND] creches-prise-en-charge-de-personnes-agees-et-ou-en-situation-de-handicap-autres-services-d-action-sociale-sans-hebergement
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+[NOT FOUND] culture-et-production-animale-chasse
+Warning: TT: undefined function: 21
+Warning: TT: invalid function id: 136
+Warning: TT: invalid function id: 136
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: invalid function id: 136
+Warning: TT: invalid function id: 136
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: invalid function id: 136
+Warning: TT: invalid function id: 136
+Warning: TT: undefined function: 21
+[NOT FOUND] demolition-et-preparation-des-sites
+[CHF 4714] depollution-et-autres-services-de-gestion-des-dechets
+  source: Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 21
+[NOT FOUND] enquetes-et-securite
+[CHF 2022] entreposage-et-services-auxiliaires-des-transports
+  source: GAV ISS Facility Services AG und Vebego Airport AG - Teilzeitangestellte im Stundenlohn_DE.pdf
+Warning: TT: undefined function: 32
+[NOT FOUND] entretien-et-reparation-de-vehicules-automobiles-et-de-motocycles
+[NOT FOUND] fabrication-d-autres-materiels-de-transport-p-ex-construction-de-trains-ou-d-avions
+[NOT FOUND] fabrication-d-equipements-electriques
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+[NOT FOUND] fabrication-de-ciment-et-de-tuiles-briques-y-c-platre-et-autres-ceramiques-de-construction
+[NOT FOUND] fabrication-de-machines-et-equipements
+[NOT FOUND] fabrication-de-meubles
+[NOT FOUND] fabrication-de-produits-a-base-de-tabac
+[CHF 2026] fabrication-de-produits-informatiques-electroniques-et-optiques
+  source: Contrat-type de travail pour le secteur de la mécatronique Genève (CTT-Méca)_FR.pdf
+Warning: TT: undefined function: 32
+[NOT FOUND] fabrication-de-produits-metalliques-a-l-exception-des-machines-et-des-equipements
+[NOT FOUND] fabrication-de-textiles
+Warning: TT: invalid function id: 136
+[NOT FOUND] ferblanterie-et-charpente
+[NOT FOUND] hebergement-medico-social-et-social
+[NOT FOUND] horlogerie
+[NOT FOUND] industrie-automobile-y-c-equipements
+[CHF 2005] industrie-chimique-sans-industrie-pharmaceutique
+  source: KAV Lonza Walliser Werke_DE.pdf
+[CHF 7200] industrie-du-verre-et-de-produits-ceramiques-sans-fabrication-de-tuiles-briques-et-ceramiques-de-construction
+  source: Convention collective pour la retraite anticipée dans l_artisanat et l'industrie de la pierre naturelle_FR.pdf
+[CHF 4600] industrie-pharmaceutique
+  source: Einheitsvertrag Cilag AG, Schaffhausen_DE.pdf
+[NOT FOUND] industries-alimentaires-de-boissons-et-fourragere
+[CHF 2025] jardinerie-paysagistes
+  source: 691a2aa62a92f8c2b8632a58_Communique_presse_salaire-2026_VF.pdf
+[NOT FOUND] menages-prives-avec-personnel-domestique
+[CHF 2026] metallurgie-p-ex-acieries-fonderies
+  source: Contrat-type de travail pour le secteur de la mécatronique Genève (CTT-Méca)_FR.pdf
+[NOT FOUND] organisation-sportives-et-de-jeux-p-ex-centres-de-fitness-installations-sportives-clubs-de-sport-casinos
+[NOT FOUND] programmation-conseil-et-autres-activites-informatiques
+[CHF 2005] recherche-developpement-scientifique
+  source: KAV Lonza Walliser Werke_DE.pdf
+[CHF 4714] reparation-d-ordinateurs-et-de-biens-personnels-et-domestiques
+  source: Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf
+[CHF 4714] reparation-et-installation-de-machines-et-d-equipe
+  source: Contrat-type de travail pour le personnel du secteur de la maintenance et du nettoyage industriels VS_FR.pdf
+[NOT FOUND] sante-humaine
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+[NOT FOUND] services-d-amenagement-paysager
+[NOT FOUND] services-d-information-p-ex-hebergement-de-sites-web-portails-web-agences-de-presse
+[CHF 2025] services-financiers-hors-assurance-et-caisses-de-pensions
+  source: CCT Poste CH_FR.pdf
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 32
+[NOT FOUND] sylviculture-et-exploitation-forestiere
+[CHF 2026] transports-de-voyageurs-en-bus-trams-remontees-mecaniques-taxis-transport-de-marchandises-par-la-route
+  source: CCT CarPostal_FR.pdf
+Warning: Ignoring invalid character "33" in hex string
+Warning: Ignoring invalid character "79" in hex string
+Warning: Ignoring invalid character "84" in hex string
+Warning: Ignoring invalid character "89" in hex string
+Warning: Ignoring invalid character "80" in hex string
+Warning: Ignoring invalid character "104" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "109" in hex string
+Warning: Ignoring invalid character "108" in hex string
+Warning: Ignoring invalid character "104" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "109" in hex string
+Warning: Ignoring invalid character "108" in hex string
+Warning: Ignoring invalid character "104" in hex string
+Warning: Ignoring invalid character "109" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "104" in hex string
+Warning: Ignoring invalid character "114" in hex string
+Warning: Ignoring invalid character "115" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "61" in hex string
+Warning: Ignoring invalid character "34" in hex string
+Warning: Ignoring invalid character "117" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "45" in hex string
+Warning: Ignoring invalid character "34" in hex string
+Warning: Ignoring invalid character "47" in hex string
+Warning: Ignoring invalid character "109" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "110" in hex string
+Warning: Ignoring invalid character "109" in hex string
+Warning: Ignoring invalid character "61" in hex string
+Warning: Ignoring invalid character "34" in hex string
+Warning: Ignoring invalid character "118" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "119" in hex string
+Warning: Ignoring invalid character "112" in hex string
+Warning: Ignoring invalid character "111" in hex string
+Warning: Ignoring invalid character "114" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "34" in hex string
+Warning: Ignoring invalid character "111" in hex string
+Warning: Ignoring invalid character "110" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "110" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "61" in hex string
+Warning: Ignoring invalid character "34" in hex string
+Warning: Ignoring invalid character "119" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "104" in hex string
+Warning: Ignoring invalid character "61" in hex string
+Warning: Ignoring invalid character "118" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "45" in hex string
+Warning: Ignoring invalid character "119" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "104" in hex string
+Warning: Ignoring invalid character "44" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "110" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "108" in hex string
+Warning: Ignoring invalid character "45" in hex string
+Warning: Ignoring invalid character "115" in hex string
+Warning: Ignoring invalid character "108" in hex string
+Warning: Ignoring invalid character "61" in hex string
+Warning: Ignoring invalid character "46" in hex string
+Warning: Ignoring invalid character "34" in hex string
+Warning: Ignoring invalid character "47" in hex string
+Warning: Ignoring invalid character "108" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "110" in hex string
+Warning: Ignoring invalid character "107" in hex string
+Warning: Ignoring invalid character "114" in hex string
+Warning: Ignoring invalid character "108" in hex string
+Warning: Ignoring invalid character "61" in hex string
+Warning: Ignoring invalid character "34" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "111" in hex string
+Warning: Ignoring invalid character "110" in hex string
+Warning: Ignoring invalid character "34" in hex string
+Warning: Ignoring invalid character "104" in hex string
+Warning: Ignoring invalid character "114" in hex string
+Warning: Ignoring invalid character "61" in hex string
+Warning: Ignoring invalid character "34" in hex string
+Warning: Ignoring invalid character "47" in hex string
+Warning: Ignoring invalid character "112" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "117" in hex string
+Warning: Ignoring invalid character "114" in hex string
+Warning: Ignoring invalid character "115" in hex string
+Warning: Ignoring invalid character "47" in hex string
+Warning: Ignoring invalid character "118" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "111" in hex string
+Warning: Ignoring invalid character "110" in hex string
+Warning: Ignoring invalid character "46" in hex string
+Warning: Ignoring invalid character "105" in hex string
+Warning: Ignoring invalid character "111" in hex string
+Warning: Ignoring invalid character "63" in hex string
+Warning: Ignoring invalid character "118" in hex string
+Warning: Ignoring invalid character "61" in hex string
+Warning: Ignoring invalid character "34" in hex string
+Warning: Ignoring invalid character "47" in hex string
+Warning: Ignoring invalid character "33" in hex string
+Warning: Ignoring invalid character "79" in hex string
+Warning: Ignoring invalid character "84" in hex string
+Warning: Ignoring invalid character "89" in hex string
+Warning: Ignoring invalid character "80" in hex string
+Warning: Ignoring invalid character "104" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "109" in hex string
+Warning: Ignoring invalid character "108" in hex string
+Warning: Ignoring invalid character "104" in hex string
+Warning: Ignoring invalid character "116" in hex string
+Warning: Ignoring invalid character "109" in hex string
+Warning: Ignoring invalid character "108" in hex string
+Warning: Ignoring invalid character "104" in hex string
+Warning: Indexing all PDF objects
+[CHF 2026] travail-du-bois-et-fabrication-d-articles-en-bois
+  source: Contrat-type de travail des monteurs de stands Genève (CTT-MStands)_FR.pdf
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+[CHF 2020] travaux-d-installation-electrique-plomberie-et-autres-travaux-d-installation
+  source: CCT dans la branche suisse des techniques du bâtiment_FR.pdf
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+[NOT FOUND] travaux-de-finition-p-ex-carrelage-menuiserie
+
+Results saved to: c:\Users\ADMIN\Downloads\lynvia\lynviadigital-main\scripts\bulk-extract-output.json
+Found: 18/56

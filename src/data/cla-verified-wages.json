@@ -1,0 +1,359 @@
+{
+  "_comment": "Manually verified wage and notice period data extracted from CCT PDFs. Run npm run cla:generate-catalog to rebuild cla-rules.generated.json with these values.",
+  "extractedAt": "2026-04-04",
+  "sectors": {
+    "hebergement-et-restauration": {
+      "_source": "gastrosuisse-notice-calcul-salaires-horaires-ccnt-2026.pdf / CCT Nationale Restauration.pdf",
+      "_notes": "CCNT 2026 applicable à toute la Suisse. Catégories salariales pour établissements ordinaires.",
+      "minimumMonthlyWage": 3713,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 14,
+        "trialNoticeDays": 3,
+        "year1Months": 1,
+        "year2to9Months": 1,
+        "year10PlusMonths": 2
+      },
+      "wagesByRole": [
+        { "role": "Cat. Ia (sans formation)", "minimumMonthlyWage": 3713, "minimumHourlyWage": 0 },
+        { "role": "Cat. Ib (formation 1 an)", "minimumMonthlyWage": 3943, "minimumHourlyWage": 0 },
+        { "role": "Cat. II (CFC ou équivalent)", "minimumMonthlyWage": 4070, "minimumHourlyWage": 0 },
+        { "role": "Cat. IIIa (chef de partie)", "minimumMonthlyWage": 4528, "minimumHourlyWage": 0 },
+        { "role": "Cat. IIIb (sous-chef)", "minimumMonthlyWage": 4635, "minimumHourlyWage": 0 },
+        { "role": "Cat. IV (chef de cuisine/restauration)", "minimumMonthlyWage": 5293, "minimumHourlyWage": 0 },
+        { "role": "Stagiaires", "minimumMonthlyWage": 2390, "minimumHourlyWage": 0 }
+      ]
+    },
+    "activites-de-nettoyage": {
+      "_source": "CCT du secteur du nettoyage pour la Suisse romande_FR.pdf (2025-2028)",
+      "_notes": "GAV Westschweiz 2025–2028. Taux horaires bruts (sans 13e mois). E=Unterhaltsreinigung, N=Sonder/Baustellenreinigung.",
+      "minimumMonthlyWage": 3584,
+      "minimumHourlyWage": 20.58,
+      "noticePeriods": {
+        "trialPeriodDays": 90,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "TC (Teamleiter)", "minimumMonthlyWage": 0, "minimumHourlyWage": 29.92 },
+        { "role": "N20 (EFZ, 2+ ans de branche)", "minimumMonthlyWage": 0, "minimumHourlyWage": 28.60 },
+        { "role": "N21 (EFZ, moins de 2 ans)", "minimumMonthlyWage": 0, "minimumHourlyWage": 27.18 },
+        { "role": "N30 (EBA Reinigungstechnik)", "minimumMonthlyWage": 0, "minimumHourlyWage": 25.40 },
+        { "role": "N40 (sans qualification)", "minimumMonthlyWage": 0, "minimumHourlyWage": 24.42 },
+        { "role": "E2 (Unterhaltsreinigung, diplôme EPG/MRP)", "minimumMonthlyWage": 0, "minimumHourlyWage": 21.59 },
+        { "role": "E3 (Unterhaltsreinigung, sans diplôme)", "minimumMonthlyWage": 0, "minimumHourlyWage": 20.58 }
+      ]
+    },
+    "construction-de-batiments-et-genie-civil": {
+      "_source": "CCT pour la branche Infrastructure de réseau_FR.pdf (2024–2026) + CCT des cadres de la construction_FR.pdf (2020)",
+      "_notes": "Infrastructure: salaire mensuel brut 13x. Cadres: salaires forfaitaires selon zone géographique.",
+      "minimumMonthlyWage": 4340,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Manœuvre (sans formation, ≤3 ans, ≤25 ans)", "minimumMonthlyWage": 4340, "minimumHourlyWage": 0 },
+        { "role": "Ouvrier qualifié (3+ ans expérience)", "minimumMonthlyWage": 4770, "minimumHourlyWage": 0 },
+        { "role": "Cadres/Poliere - zone verte (région Romandie)", "minimumMonthlyWage": 6220, "minimumHourlyWage": 0 },
+        { "role": "Cadres/Poliere - zone bleue (Suisse centrale)", "minimumMonthlyWage": 6476, "minimumHourlyWage": 0 },
+        { "role": "Cadres/Poliere - zone rouge (Bâle/Genève)", "minimumMonthlyWage": 6733, "minimumHourlyWage": 0 }
+      ]
+    },
+    "commerce-de-detail-a-l-exception-des-automobiles-et-des-motocycles": {
+      "_source": "CCT du commerce de détail de la ville de Lausanne_FR.pdf (2026)",
+      "_notes": "Grille salaires Lausanne 2026 (annuel brut × 12). Autres CCT secteur (Migros, Coop) ont des grilles différentes.",
+      "minimumMonthlyWage": 3950,
+      "minimumHourlyWage": 0,
+      "noticePeriods": {
+        "trialPeriodDays": 90,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Classe 1 (sans CFC, moins de 3 ans)", "minimumMonthlyWage": 3950, "minimumHourlyWage": 0 },
+        { "role": "Classe 2 (sans CFC, 3+ ans)", "minimumMonthlyWage": 4050, "minimumHourlyWage": 0 },
+        { "role": "Classe 3 (CFC, moins de 2 ans)", "minimumMonthlyWage": 4075, "minimumHourlyWage": 0 },
+        { "role": "Classe 4 (CFC, 2+ ans / gestionnaire de vente)", "minimumMonthlyWage": 4175, "minimumHourlyWage": 0 }
+      ]
+    },
+    "peinture-et-gypserie": {
+      "_source": "Suisse Romande_platrerie_peinture_salaires_2026.pdf + CCT du second oeuvre romand_FR.pdf",
+      "_notes": "Second Oeuvre Romand (SOR) 2026. Classe C = travailleur sans CFC. Probezeit = 1er mois calendaire.",
+      "minimumMonthlyWage": 4682,
+      "minimumHourlyWage": 26.35,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Classe C (sans CFC, moins de 20 ans)", "minimumMonthlyWage": 3980, "minimumHourlyWage": 22.40 },
+        { "role": "Classe C (sans CFC, 20–22 ans)", "minimumMonthlyWage": 4211, "minimumHourlyWage": 23.70 },
+        { "role": "Classe C (sans CFC, 22+ ans)", "minimumMonthlyWage": 4682, "minimumHourlyWage": 26.35 },
+        { "role": "1ère année AFP (B-20%)", "minimumMonthlyWage": 0, "minimumHourlyWage": 22.80 },
+        { "role": "2ème année AFP (B-10%)", "minimumMonthlyWage": 4558, "minimumHourlyWage": 25.65 },
+        { "role": "Classe A (CFC + 2+ ans)", "minimumMonthlyWage": 5509, "minimumHourlyWage": 31.00 },
+        { "role": "Classe CE (A + 10%, fonction supérieure)", "minimumMonthlyWage": 6060, "minimumHourlyWage": 34.10 }
+      ]
+    },
+    "jardinerie-paysagistes": {
+      "_source": "Jardinerie _ Paysagistes / CCT paysagistes nationale 2026 (galabau)",
+      "_notes": "Salaires nationaux 2026 pour les jardiniers-paysagistes (CCT nationale, entrée en vigueur 2026). Minimum = Ouvrier jardinier sans CFC.",
+      "minimumMonthlyWage": 4000,
+      "minimumHourlyWage": 23.08,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Ouvrier jardinier (sans CFC)", "minimumMonthlyWage": 4000, "minimumHourlyWage": 23.08 },
+        { "role": "AFP jardinerie", "minimumMonthlyWage": 4200, "minimumHourlyWage": 24.23 },
+        { "role": "CFC jardinier", "minimumMonthlyWage": 4875, "minimumHourlyWage": 28.13 },
+        { "role": "Chef d'équipe", "minimumMonthlyWage": 5275, "minimumHourlyWage": 30.43 }
+      ]
+    },
+    "services-d-amenagement-paysager": {
+      "_source": "Services d_aménagement paysager / CCT paysagistes du Canton de Vaud",
+      "_notes": "CCT paysagistes Vaud. Minimum extracté = CHF 4'005 (ouvrier, 1ère année). Secteur distinct de jardinerie selon classification NOGA.",
+      "minimumMonthlyWage": 4005,
+      "minimumHourlyWage": 23.12,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Ouvrier paysagiste (1ère année)", "minimumMonthlyWage": 4005, "minimumHourlyWage": 23.12 }
+      ]
+    },
+    "ferblanterie-et-charpente": {
+      "_source": "Ferblanterie et charpente / CCT ferblanterie, couverture, installation sanitaire du Canton de Vaud",
+      "_notes": "CCT cantonale Vaud (ferblantiers, couvreurs, sanitaires). Classe D = travailleur sans qualification (1ère année activité). Salaires mensuels bruts.",
+      "minimumMonthlyWage": 3977,
+      "minimumHourlyWage": 22.95,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Classe D (sans qualification, 1ère année)", "minimumMonthlyWage": 3977, "minimumHourlyWage": 22.95 },
+        { "role": "Classe C (1ère année)", "minimumMonthlyWage": 4424, "minimumHourlyWage": 25.53 },
+        { "role": "Classe C (3+ ans)", "minimumMonthlyWage": 4665, "minimumHourlyWage": 26.92 },
+        { "role": "Classe B (1ère année)", "minimumMonthlyWage": 4710, "minimumHourlyWage": 27.18 },
+        { "role": "Classe A (1ère année)", "minimumMonthlyWage": 5389, "minimumHourlyWage": 31.09 }
+      ]
+    },
+    "entretien-et-reparation-de-vehicules-automobiles-et-de-motocycles": {
+      "_source": "Entretien et réparation de véhicules automobiles et de motocycles / CCT de l_industrie suisse de la carrosserie_FR.pdf + CCT des garages du Canton de Vaud_FR.pdf",
+      "_notes": "CCT carrosserie suisse: min CHF 3'850 (sans qualification, <2 ans). CCT garages Vaud: min CHF 3'900 (Groupe VI ouvrier). Minimum retenu = valeur la plus basse (carrosserie).",
+      "minimumMonthlyWage": 3850,
+      "minimumHourlyWage": 22.21,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Sans qualification, moins de 2 ans", "minimumMonthlyWage": 3850, "minimumHourlyWage": 22.21 },
+        { "role": "Sans qualification", "minimumMonthlyWage": 4000, "minimumHourlyWage": 23.08 },
+        { "role": "Groupe VI Ouvrier de garage (CCT Vaud)", "minimumMonthlyWage": 3900, "minimumHourlyWage": 22.50 },
+        { "role": "Groupe V AFP (CCT Vaud)", "minimumMonthlyWage": 4000, "minimumHourlyWage": 23.08 },
+        { "role": "Groupe II Mécanicien 3 ans (CCT Vaud)", "minimumMonthlyWage": 4100, "minimumHourlyWage": 23.65 },
+        { "role": "Groupe I Mécanicien 4 ans (CCT Vaud)", "minimumMonthlyWage": 4600, "minimumHourlyWage": 26.54 }
+      ]
+    },
+    "commerce-de-vehicules-et-d-accessoires-automobiles-y-c-stations-service": {
+      "_source": "Commerce de véhicules et d_accessoires automobiles / CCT des garages du Canton de Vaud_FR.pdf",
+      "_notes": "CCT garages Canton Vaud. Groupe VI = ouvrier de garage (catégorie la plus basse). Également couvert par CCNT Migros (CHF 3'600) pour les stations-service / commerces.",
+      "minimumMonthlyWage": 3900,
+      "minimumHourlyWage": 22.50,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Groupe VI Ouvrier de garage", "minimumMonthlyWage": 3900, "minimumHourlyWage": 22.50 },
+        { "role": "Groupe V AFP", "minimumMonthlyWage": 4000, "minimumHourlyWage": 23.08 },
+        { "role": "Groupe III Gestionnaire commerce", "minimumMonthlyWage": 4300, "minimumHourlyWage": 24.81 },
+        { "role": "Groupe II Mécanicien 3 ans", "minimumMonthlyWage": 4100, "minimumHourlyWage": 23.65 },
+        { "role": "Groupe I Mécanicien 4 ans", "minimumMonthlyWage": 4600, "minimumHourlyWage": 26.54 }
+      ]
+    },
+    "sylviculture-et-exploitation-forestiere": {
+      "_source": "Sylviculture et exploitation forestière / CCL per i lavoratori forestali del Canton Ticino_IT.pdf",
+      "_notes": "CCL Ticino pour les forestiers (valable au niveau cantonal Tessin). Minimum = Ausiliario forestale (ouvrier forestier auxiliaire). Salaires mensuels bruts.",
+      "minimumMonthlyWage": 4246,
+      "minimumHourlyWage": 24.50,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Ausiliario forestale (ouvrier auxiliaire)", "minimumMonthlyWage": 4246, "minimumHourlyWage": 24.50 },
+        { "role": "Operaio forestale", "minimumMonthlyWage": 4462, "minimumHourlyWage": 25.76 },
+        { "role": "Selvicoltore qualificato (CFC)", "minimumMonthlyWage": 4689, "minimumHourlyWage": 27.07 },
+        { "role": "Capo squadra (chef d'équipe)", "minimumMonthlyWage": 4917, "minimumHourlyWage": 28.38 }
+      ]
+    },
+    "fabrication-de-ciment-et-de-tuiles-briques-y-c-platre-et-autres-ceramiques-de-construction": {
+      "_source": "Fabrication de ciment et de tuiles_briques / CCT industrie suisse des produits en béton",
+      "_notes": "CCT nationale de l'industrie des produits en béton. Minimum extracté CHF 4'025 (catégorie la plus basse selon CCT béton).",
+      "minimumMonthlyWage": 4025,
+      "minimumHourlyWage": 23.24,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Ouvrier (catégorie de base)", "minimumMonthlyWage": 4025, "minimumHourlyWage": 23.24 }
+      ]
+    },
+    "industries-alimentaires-de-boissons-et-fourragere": {
+      "_source": "Industries alimentaires, de boissons et fourragère / CCT pour la boucherie-charcuterie Suisse_DE.pdf",
+      "_notes": "CCT boucherie-charcuterie suisse. Catégorie F (EFZ 3 ans, entrée) = CHF 4'050/mois. Catégories A-D déduites du contexte.",
+      "minimumMonthlyWage": 4050,
+      "minimumHourlyWage": 23.39,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Catégorie F (EFZ 3 ans, entrée)", "minimumMonthlyWage": 4050, "minimumHourlyWage": 23.39 },
+        { "role": "Catégorie B (EFZ, expérimenté)", "minimumMonthlyWage": 4350, "minimumHourlyWage": 25.10 },
+        { "role": "Catégorie C (travailleur indépendant qualifié)", "minimumMonthlyWage": 4550, "minimumHourlyWage": 26.27 },
+        { "role": "Catégorie D (Kaderperson / cadre)", "minimumMonthlyWage": 5100, "minimumHourlyWage": 29.42 }
+      ]
+    },
+    "horlogerie": {
+      "_source": "Horlogerie / CCT des industries horlogère et microtechnique suisses_FR.pdf",
+      "_notes": "CCT horlogerie et microtechnique suisses. Monatslohn de base = Fr. 4'112 (Monatslohn einschliesslich 13. = Fr. 4'455 = 4112×13/12). Minimum retenu = salaire mensuel de base.",
+      "minimumMonthlyWage": 4112,
+      "minimumHourlyWage": 25.70,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Salaire de base mensuel (CCT horlogerie)", "minimumMonthlyWage": 4112, "minimumHourlyWage": 25.70 },
+        { "role": "Salaire mensuel tout-compris (avec 13e)", "minimumMonthlyWage": 4455, "minimumHourlyWage": 0 }
+      ]
+    },
+    "autres-services-a-la-personne-p-ex-coiffure-esthetique-blanchisserie-spas-services-funeraires": {
+      "_source": "Autres services à la personne / CCT nationale des coiffeurs_DE.pdf",
+      "_notes": "CCT nationale des coiffeurs suisses (2024/2025/2026). Berufsjahr 1 avec diplôme (2024) = CHF 3'850 ; (2025) = CHF 4'080 ; (2026) = CHF 4'160. Minimum retenu = 2024 (valeur plancher).",
+      "minimumMonthlyWage": 3850,
+      "minimumHourlyWage": 22.21,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "1ère année avec diplôme (2024)", "minimumMonthlyWage": 3850, "minimumHourlyWage": 22.21 },
+        { "role": "1ère année avec diplôme (2025)", "minimumMonthlyWage": 4080, "minimumHourlyWage": 23.54 },
+        { "role": "1ère année avec diplôme (2026)", "minimumMonthlyWage": 4160, "minimumHourlyWage": 24.00 },
+        { "role": "3ème année + avec diplôme (2025)", "minimumMonthlyWage": 4280, "minimumHourlyWage": 24.69 },
+        { "role": "3ème année + avec diplôme (2026)", "minimumMonthlyWage": 4360, "minimumHourlyWage": 25.15 }
+      ]
+    },
+    "travaux-de-finition-p-ex-carrelage-menuiserie": {
+      "_source": "Travaux de finition / GAV für die Schweizerische Bodenbelagsbranche_DE.pdf",
+      "_notes": "GAV Bodenbelag (pose de revêtements de sol, carrelage, parquet). Minimum absolu = Ungelerntes Montagepersonal (personnel de montage non qualifié) = Fr. 3'750.",
+      "minimumMonthlyWage": 3750,
+      "minimumHourlyWage": 20.40,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Personnel de montage non qualifié", "minimumMonthlyWage": 3750, "minimumHourlyWage": 20.40 },
+        { "role": "Personnel semi-qualifié (4+ ans)", "minimumMonthlyWage": 4000, "minimumHourlyWage": 21.75 },
+        { "role": "Poseur de parquet qualifié (CFC, 1–3 ans)", "minimumMonthlyWage": 4150, "minimumHourlyWage": 22.55 },
+        { "role": "Poseur de parquet qualifié (CFC, 4+ ans)", "minimumMonthlyWage": 4500, "minimumHourlyWage": 24.45 },
+        { "role": "Chef poseur avec brevet fédéral", "minimumMonthlyWage": 5400, "minimumHourlyWage": 29.35 }
+      ]
+    },
+    "travaux-d-installation-electrique-plomberie-et-autres-travaux-d-installation": {
+      "_source": "Travaux d_installation électrique, plomberie et autres travaux d_installation / CCT dans la branche suisse des techniques du bâtiment_FR.pdf",
+      "_notes": "CCT SUISSETEC (techniques du bâtiment: plomberie, chauffage, ventilation, climatisation). Installateur 3 = category sans qualification. Minimum = Installateur 3, 1ère année d'emploi.",
+      "minimumMonthlyWage": 3700,
+      "minimumHourlyWage": 21.35,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "Installateur 3 (sans qualification, 1ère année)", "minimumMonthlyWage": 3700, "minimumHourlyWage": 21.35 },
+        { "role": "Installateur 3 (sans qualification, 2ème année)", "minimumMonthlyWage": 3750, "minimumHourlyWage": 21.64 },
+        { "role": "Installateur 3 (3ème année)", "minimumMonthlyWage": 3800, "minimumHourlyWage": 21.93 },
+        { "role": "Installateur 2 (semi-qualifié, 1ère année)", "minimumMonthlyWage": 3800, "minimumHourlyWage": 21.93 },
+        { "role": "Installateur 2 (3ème année)", "minimumMonthlyWage": 4100, "minimumHourlyWage": 23.66 },
+        { "role": "Installateur 1 (CFC, 1ère année)", "minimumMonthlyWage": 4100, "minimumHourlyWage": 23.66 },
+        { "role": "Installateur 1 (CFC, 5ème année)", "minimumMonthlyWage": 4900, "minimumHourlyWage": 28.27 }
+      ]
+    },
+    "menages-prives-avec-personnel-domestique": {
+      "_source": "Ménages privés avec personnel domestique / Contrat-type de travail pour les travailleurs de l_économie domestique CH_FR.pdf",
+      "_notes": "CTT économie domestique CH (national, valable jusqu'au 31.12.2028). Taux horaires bruts catégorie a (non qualifié) = 20.35 CHF/h. Salaire mensuel calculé à 182h (42h/sem). Genève CTT = 24.59 CHF/h (SMin 2026) = ~4'476 CHF/mois.",
+      "minimumMonthlyWage": 3704,
+      "minimumHourlyWage": 20.35,
+      "noticePeriods": {
+        "trialPeriodDays": 30,
+        "trialNoticeDays": 7,
+        "year1Months": 1,
+        "year2to9Months": 2,
+        "year10PlusMonths": 3
+      },
+      "wagesByRole": [
+        { "role": "a. Non qualifié (catégorie de base)", "minimumMonthlyWage": 3704, "minimumHourlyWage": 20.35 },
+        { "role": "b. Non qualifié, 4+ ans expérience", "minimumMonthlyWage": 4059, "minimumHourlyWage": 22.30 },
+        { "role": "c. Qualifié (EFZ/CFC)", "minimumMonthlyWage": 4468, "minimumHourlyWage": 24.55 },
+        { "role": "d. Qualifié (EBA)", "minimumMonthlyWage": 4059, "minimumHourlyWage": 22.30 }
+      ]
+    }
+  }
+}

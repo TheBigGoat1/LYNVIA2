@@ -1,0 +1,4143 @@
+{
+  "HomePage": {
+    "title": "Schweizer Finanz- & Rechtsintelligenz, vereinfacht.",
+    "description": "Lynvia Digital kombiniert KI-gestützte Rechtsberatung, Finanzanalyse und Business-Management-Tools in einer sicheren Plattform.",
+    "getStarted": "Loslegen",
+    "login": "Anmelden",
+    "learnMore": "Mehr erfahren",
+    "keyFeatures": "Hauptfunktionen",
+    "allInOnePlatform": "Ihre All-in-One Schweizer Plattform",
+    "platformDescription": "Von der individuellen Steuerplanung bis zum umfassenden Unternehmensmanagement bietet Lynvia Digital die Werkzeuge, die Sie benötigen, um die Schweizer Komplexität souverän zu meistern.",
+    "feature1Title": "KI-gestützter Rechtsassistent",
+    "feature1Description": "Erhalten Sie sofortige, zitierte Antworten auf Ihre Schweizer Rechtsfragen mit unserer fortschrittlichen RAG-gestützten KI.",
+    "feature2Title": "Finanzszenario-Analyse",
+    "feature2Description": "Modellieren Sie Steueroptimierungen, Gehaltsvergleiche und Pensionspläne mit KI-gesteuerten Interpretationen.",
+    "feature3Title": "Sichere Dokumentenerstellung",
+    "feature3Description": "Erstellen Sie mühelos rechtskonforme Schweizer Dokumente, von Arbeitsverträgen bis zu Steuerformularen.",
+    "feature4Title": "Optimierte Lohn- & Personalabrechnung",
+    "feature4Description": "Verwalten Sie Mitarbeiter, bearbeiten Sie die Lohnabrechnung und erledigen Sie Urlaubsanträge mit unseren integrierten Business-Tools.",
+    "heroCard1Title": "Rechts-KI",
+    "heroCard1Description": "Sofortige Antworten",
+    "heroCard2Title": "Szenarioanalyse",
+    "heroCard2Description": "Finanzen optimieren",
+    "heroCard3Title": "Dokumentenerstellung",
+    "heroCard3Description": "Konform & schnell",
+    "heroCard4Title": "Lohn & HR",
+    "heroCard4Description": "Automatisiert",
+    "footerTerms": "Nutzungsbedingungen",
+    "footerPrivacy": "Datenschutz",
+    "footerRights": "© 2024 Lynvia Digital. Alle Rechte vorbehalten.",
+    "heroBadge": "Trusted by 10,000+ Legal Professionals Worldwide",
+    "heroUsers": "10,000+ users",
+    "heroRating": "4.9/5 rating",
+    "heroSecurity": "SOC 2 Certified",
+    "feature1Details": "Generate comprehensive legal documents with AI-powered templates and clause libraries",
+    "feature2Details": "Accurate time tracking, expense management, and automated invoicing",
+    "feature3Details": "Centralized document storage with version control and secure sharing",
+    "feature4Details": "Complete case lifecycle management with automated workflows",
+    "stats": {
+      "activeUsers": "Active Users",
+      "documentsCreated": "Documents Created",
+      "uptime": "Uptime",
+      "support": "Support"
+    },
+    "capabilities": {
+      "title": "Comprehensive Legal Technology Suite",
+      "subtitle": "Everything you need, all in one place. No more juggling multiple tools and subscriptions.",
+      "documentManagement": {
+        "category": "Document Management",
+        "items": {
+          "aiDocGen": "AI-Powered Document Generation",
+          "templates": "Template Library (500+ Templates)",
+          "versioning": "Version Control & History",
+          "esignature": "E-Signature Integration"
+        }
+      },
+      "caseManagement": {
+        "category": "Case Management",
+        "items": {
+          "tracking": "Matter Tracking & Organization",
+          "deadlines": "Deadline & Task Management",
+          "reminders": "Court Date Reminders",
+          "conflictChecks": "Conflict Checking"
+        }
+      },
+      "financialTools": {
+        "category": "Financial Tools",
+        "items": {
+          "timeBilling": "Time Tracking & Billing",
+          "expenses": "Expense Management",
+          "invoices": "Invoice Generation",
+          "payments": "Payment Processing"
+        }
+      },
+      "communication": {
+        "category": "Communication",
+        "items": {
+          "clientPortal": "Client Portal",
+          "secureMessaging": "Secure Messaging",
+          "emailIntegration": "Email Integration",
+          "videoConferencing": "Video Conferencing"
+        }
+      }
+    },
+    "useCases": {
+      "title": "Built For Every Legal Professional",
+      "subtitle": "Whether you're a solo practitioner or part of a large firm, we have the right solution for you.",
+      "solo": {
+        "title": "Solo Practitioners",
+        "description": "Everything you need to run your practice independently",
+        "f1": "Document automation",
+        "f2": "Client management",
+        "f3": "Time tracking",
+        "f4": "Mobile access"
+      },
+      "smallFirms": {
+        "title": "Small Law Firms",
+        "description": "Collaborate seamlessly with your team",
+        "f1": "Team workflows",
+        "f2": "Matter sharing",
+        "f3": "Centralized billing",
+        "f4": "Role-based access"
+      },
+      "corporate": {
+        "title": "Corporate Legal",
+        "description": "Enterprise-grade tools for in-house counsel",
+        "f1": "Contract management",
+        "f2": "Compliance tracking",
+        "f3": "Custom integrations",
+        "f4": "Advanced security"
+      },
+      "clinics": {
+        "title": "Legal Clinics",
+        "description": "Manage pro bono and community cases efficiently",
+        "f1": "Case intake",
+        "f2": "Client screening",
+        "f3": "Volunteer coordination",
+        "f4": "Impact reporting"
+      }
+    },
+    "benefits": {
+      "title": "Why Choose LYNVIA DIGITAL",
+      "subtitle": "Built by legal professionals for legal professionals. Experience the difference of a platform designed with your workflow in mind.",
+      "saveTime": {
+        "title": "Save Time",
+        "description": "Automate repetitive legal tasks and reduce manual document preparation time by up to 70%.",
+        "stat": "70% faster"
+      },
+      "secure": {
+        "title": "Secure & Compliant",
+        "description": "Bank-level encryption and full compliance with legal industry standards and regulations.",
+        "stat": "100% secure"
+      },
+      "clientManagement": {
+        "title": "Client Management",
+        "description": "Manage all client information, cases, and communications from one centralized platform.",
+        "stat": "10k+ clients"
+      },
+      "businessGrowth": {
+        "title": "Business Growth",
+        "description": "Scale your practice efficiently with tools designed to grow alongside your firm.",
+        "stat": "2x revenue"
+      }
+    },
+    "steps": {
+      "title": "Get Started in Minutes",
+      "subtitle": "Our streamlined onboarding process gets you up and running quickly, so you can focus on what matters most.",
+      "signUp": {
+        "title": "Sign Up",
+        "description": "Create your account in under 2 minutes with our simple registration process"
+      },
+      "setup": {
+        "title": "Set Up",
+        "description": "Customize your workspace and configure preferences to match your workflow"
+      },
+      "startWorking": {
+        "title": "Start Working",
+        "description": "Begin managing cases, generating documents, and tracking time immediately"
+      },
+      "growScale": {
+        "title": "Grow & Scale",
+        "description": "Use powerful analytics and insights to optimize and expand your practice"
+      }
+    },
+    "testimonials": {
+      "title": "Loved by Legal Professionals",
+      "subtitle": "Don't just take our word for it. Here's what our users have to say about LYNVIA DIGITAL.",
+      "sarah": {
+        "role": "Partner, Johnson & Associates",
+        "content": "LYNVIA DIGITAL has transformed how we run our practice. Document automation alone saves us 15 hours per week."
+      },
+      "michael": {
+        "role": "Solo Practitioner",
+        "content": "As a solo attorney, this platform gives me the tools of a large firm at a fraction of the cost. Game changer!"
+      },
+      "david": {
+        "role": "Managing Partner, Williams Legal Group",
+        "content": "The case management features are outstanding. Our team collaboration has never been better."
+      },
+      "emily": {
+        "role": "Associate Attorney",
+        "content": "Intuitive interface and powerful features. It's made my daily workflow so much more efficient."
+      }
+    },
+    "integrations": {
+      "title": "Seamless Integrations",
+      "subtitle": "Connect with the tools you already use. LYNVIA DIGITAL integrates with your favorite apps and services."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Have questions? We've got answers. Can't find what you're looking for? Contact our support team.",
+      "q1": {
+        "question": "How long does it take to get started?",
+        "answer": "You can create an account and start using LYNVIA DIGITAL in less than 5 minutes. Our intuitive onboarding process guides you through setup."
+      },
+      "q2": {
+        "question": "Is my data secure?",
+        "answer": "Absolutely. We use bank-level 256-bit encryption, regular security audits, and comply with all major legal industry standards including SOC 2 Type II."
+      },
+      "q3": {
+        "question": "Can I import my existing data?",
+        "answer": "Yes! We support data import from most practice management systems. Our team can help with migration at no extra cost."
+      },
+      "q4": {
+        "question": "What kind of support do you offer?",
+        "answer": "We provide email support for all plans, with priority support for Professional and Enterprise tiers. Enterprise customers get a dedicated account manager."
+      },
+      "q5": {
+        "question": "Can I cancel anytime?",
+        "answer": "Yes, you can cancel your subscription at any time with no penalties. You'll retain access until the end of your billing period."
+      },
+      "q6": {
+        "question": "Do you offer training?",
+        "answer": "We provide comprehensive documentation, video tutorials, and webinars. Enterprise customers receive personalized onboarding and training sessions."
+      }
+    },
+    "cta": {
+      "badge": "Start Your Free Trial Today",
+      "title": "Ready to Transform Your Practice?",
+      "description": "Join thousands of legal professionals who have already streamlined their workflow with LYNVIA DIGITAL. Start your free 30-day trial today-no credit card required.",
+      "startTrial": "Start Free Trial",
+      "watchDemo": "Watch Demo",
+      "bulletTrial": "30-day free trial",
+      "bulletNoCard": "No credit card required",
+      "bulletCancel": "Cancel anytime"
+    },
+    "footerDescription": "The all-in-one practice management platform for modern legal professionals.",
+    "footer": {
+      "product": {
+        "title": "Product",
+        "features": "Features",
+        "pricing": "Pricing",
+        "integrations": "Integrations",
+        "security": "Security"
+      },
+      "resources": {
+        "title": "Resources",
+        "documentation": "Documentation",
+        "helpCenter": "Help Center",
+        "blog": "Blog",
+        "webinars": "Webinars"
+      },
+      "company": {
+        "title": "Company",
+        "about": "About Us",
+        "careers": "Careers",
+        "contact": "Contact",
+        "partners": "Partners"
+      },
+      "cookies": "Cookies"
+    }
+  },
+  "Sidebar": {
+    "dashboard": "Dashboard",
+    "legalAssistant": "Rechtsassistent",
+    "documentGenerator": "Dokumentengenerator",
+    "scenarioCalculator": "Szenariorechner",
+    "deadlines": "Fristen",
+    "purchaseServices": "Dienste kaufen",
+    "taxServices": "Jährliche Steuererklärung",
+    "myDocuments": "Meine Dokumente",
+    "myOrders": "Meine Bestellungen",
+    "notifications": "Benachrichtigungen",
+    "settings": "Profil",
+    "notificationTester": "Technisches Entwickler-Protokoll",
+    "communications": "Kommunikation",
+    "employeeManagement": "Mitarbeiterverwaltung",
+    "salaryCostOverview": "Lohnabrechnungen & Kommunikation",
+    "leaveManagement": "Urlaubsverwaltung",
+    "documentCenter": "Dokumentencenter",
+    "financialScenarios": "Finanzszenarien",
+    "virtualCFO": "Virtueller CFO",
+    "reportsAnalytics": "Berichte & Analysen",
+    "aiAssistant": "KI-Assistent",
+    "tasks": "Aufgaben",
+    "billing": "Abrechnung",
+    "clientPortfolio": "Kundenportfolio",
+    "clientDocuments": "Kundendokumente",
+    "documentInbox": "Dokumenteneingang",
+    "scenarioAnalysis": "Szenarioanalyse",
+    "analytics": "Analytik",
+    "auditLogs": "Audit-Protokolle",
+    "users": "Benutzer",
+    "businesses": "Unternehmen",
+    "accountingFirms": "Treuhandbüros",
+    "financialAccounts": "Finanzkonten",
+    "orderManagement": "Auftragsverwaltung",
+    "documentApprovals": "Dokumentengenehmigungen",
+    "legalDatabase": "Rechtsdatenbank",
+    "ragPlayground": "RAG Spielplatz",
+    "systemLogs": "Systemprotokolle",
+    "aiMonitoring": "KI-Überwachung",
+    "notificationCenter": "Benachrichtigungszentrum"
+  },
+  "DeadlinesPage": {
+    "title": "Fristenübersicht",
+    "subtitle": "Behalten Sie persönliche Steuer- und Dokumentenfristen an einem Ort im Blick.",
+    "addDeadline": {
+      "title": "Frist hinzufügen",
+      "description": "Erstellen Sie Ihre eigenen Erinnerungen."
+    },
+    "form": {
+      "titleLabel": "Titel",
+      "titlePlaceholder": "Steuererklärung einreichen",
+      "dueDateLabel": "Fälligkeitsdatum",
+      "noteLabel": "Notiz (optional)",
+      "notePlaceholder": "Checkliste oder Dokumentdetails",
+      "saving": "Speichern...",
+      "submit": "Frist hinzufügen"
+    },
+    "myDeadlines": {
+      "title": "Meine Fristen",
+      "loading": "Wird geladen...",
+      "count": "{count} persönliche Frist(en)",
+      "empty": "Noch keine persönlichen Fristen.",
+      "dueDate": "Fällig am {date}"
+    },
+    "systemFollowUps": {
+      "title": "System-Nachverfolgungen",
+      "description": "Automatisch aus offenen Bestellungen erstellt.",
+      "empty": "Derzeit keine Nachverfolgungen für offene Bestellungen.",
+      "suggestedBy": "Empfohlene Nachverfolgung bis {date}"
+    },
+    "badges": {
+      "overdue": "Überfällig",
+      "done": "Erledigt"
+    },
+    "systemFallback": {
+      "serviceOrder": "Serviceauftrag",
+      "pending": "ausstehend"
+    },
+    "toasts": {
+      "errorTitle": "Fehler",
+      "loadDeadlinesFailed": "Fristen konnten nicht geladen werden.",
+      "missingFieldsTitle": "Fehlende Felder",
+      "missingFieldsDescription": "Titel und Fälligkeitsdatum sind erforderlich.",
+      "createFailedTitle": "Erstellung fehlgeschlagen",
+      "createFailedDescription": "Frist konnte nicht gespeichert werden.",
+      "updateFailedTitle": "Aktualisierung fehlgeschlagen",
+      "updateFailedDescription": "Frist konnte nicht aktualisiert werden.",
+      "deleteFailedTitle": "Löschen fehlgeschlagen",
+      "deleteFailedDescription": "Frist konnte nicht gelöscht werden."
+    }
+  },
+  "PurchaseServicesPage": {
+    "title": "Preise für individuellen Zugang",
+    "subtitle": "Kostenloser Basiszugang mit Add-ons nach Bedarf.",
+    "freeVersion": {
+      "title": "Kostenlose Version",
+      "badge": "Enthalten",
+      "description": "Das enthält jedes individuelle Konto ohne monatliche Kosten.",
+      "features": {
+        "aiExchanges": "KI-Austausche: begrenzt",
+        "scenariosPerMonth": "2 Szenarien pro Monat (ohne 3. Säule)",
+        "pillar3a": "Szenarien der 3. Säule: kostenlos und unbegrenzt",
+        "documentPreview": "Kostenlose Dokumentenvorschau"
+      }
+    },
+    "addOns": {
+      "additionalScenario": {
+        "title": "Zusätzliches Szenario",
+        "description": "Fügen Sie in diesem Monat ein zusätzliches Szenario außerhalb der 3. Säule hinzu."
+      },
+      "reviewedDocument": {
+        "title": "Geprüftes, korrigiertes und freigegebenes Dokument",
+        "description": "Professionelle Prüfung und Korrektur durch Lynvia vor der finalen Freigabe."
+      },
+      "instantPdf": {
+        "title": "Sofortiger nicht geprüfter PDF-Download",
+        "description": "Sofortiger nicht geprüfter PDF-Export für generierte Dokumente."
+      }
+    },
+    "buttons": {
+      "buyAddOn": "Add-on kaufen",
+      "redirecting": "Weiterleitung..."
+    },
+    "compliance": {
+      "title": "Hinweis zur Dokumentenkonformität",
+      "description": "Lynvia-Dokumente werden auf Grundlage des Schweizer Rechts erstellt und sind auf die Einhaltung rechtlicher Anforderungen ausgelegt."
+    },
+    "fallback": {
+      "anonymousUser": "Anonymer Benutzer",
+      "individualAccessAddOn": "Add-on für individuellen Zugang"
+    },
+    "toasts": {
+      "loginRequired": {
+        "title": "Anmeldung erforderlich",
+        "description": "Bitte melden Sie sich an, um Add-ons zu kaufen."
+      },
+      "checkoutFailed": {
+        "title": "Checkout fehlgeschlagen",
+        "fallback": "Checkout-Sitzung konnte nicht erstellt werden.",
+        "stripeNotLoaded": "Stripe.js wurde noch nicht geladen.",
+        "retry": "Bitte versuchen Sie es erneut."
+      }
+    }
+  },
+  "Auth": {
+    "loginTitle": "Anmelden",
+    "loginDescription": "Geben Sie Ihre E-Mail-Adresse ein, um sich bei Ihrem Konto anzumelden.",
+    "emailLabel": "E-Mail",
+    "emailPlaceholder": "name@example.com",
+    "passwordLabel": "Passwort",
+    "forgotPassword": "Passwort vergessen?",
+    "rememberMe": "Angemeldet bleiben",
+    "loginButton": "Anmelden",
+    "noAccount": "Haben Sie noch kein Konto?",
+    "signUp": "Registrieren",
+    "showPassword": "Passwort anzeigen",
+    "hidePassword": "Passwort ausblenden",
+    "cantonsLoadWarningTitle": "Kantonsliste",
+    "cantonsLoadWarningDescription": "Aktualisierung vom Server nicht möglich; es wird die eingebaute Liste angezeigt.",
+    "toast": {
+      "loginSuccessTitle": "Anmeldung erfolgreich",
+      "loginSuccessDescription": "Willkommen zurück!",
+      "loginFailedTitle": "Anmeldung fehlgeschlagen",
+      "userDataNotFound": "Benutzerdaten nicht gefunden. Bitte kontaktieren Sie den Support.",
+      "accountPendingTitle": "Konto wartet auf Genehmigung",
+      "accountPendingDescription": "Ihr Konto wird derzeit überprüft. Sie werden per E-Mail benachrichtigt, sobald es genehmigt ist.",
+      "accountSuspendedTitle": "Konto gesperrt",
+      "accountSuspendedDescription": "Ihr Konto wurde gesperrt. Bitte kontaktieren Sie den Support für Unterstützung."
+    },
+    "registerTitle": "Konto erstellen",
+    "registerDescription": "Wählen Sie Ihren Kontotyp und füllen Sie die Details aus, um zu beginnen.",
+    "individualTab": "Einzelperson",
+    "businessTab": "Unternehmen",
+    "accountingFirmTab": "Treuhandfirma",
+    "firstNameLabel": "Vorname",
+    "firstNamePlaceholder": "Max",
+    "lastNameLabel": "Nachname",
+    "lastNamePlaceholder": "Mustermann",
+    "companyNameLabel": "Firmenname",
+    "companyNamePlaceholder": "Ihre Firma AG",
+    "firmNameLabel": "Name der Kanzlei",
+    "firmNamePlaceholder": "Ihre Kanzlei",
+    "primaryContactNameLabel": "Hauptansprechpartner",
+    "primaryContactNamePlaceholder": "Max Mustermann",
+    "passwordDescription": "Min. 8 Zeichen, 1 Zahl.",
+    "phoneLabel": "Telefonnummer",
+    "phonePlaceholder": "+41 XX XXX XX XX",
+    "cantonLabel": "Kanton",
+    "cantonPlaceholder": "Wählen Sie einen Kanton",
+    "termsLabel": "Ich akzeptiere die {termsLink}",
+    "termsLinkText": "Allgemeinen Geschäftsbedingungen",
+    "createAccountButton": "Konto erstellen",
+    "creatingAccountButton": "Konto wird erstellt...",
+    "alreadyHaveAccount": "Haben Sie bereits ein Konto?",
+    "adminSetupDescription": "Für die Einrichtung der Plattformadministration:",
+    "createAdminButton": "Administratorkonto erstellen",
+    "toastRegister": {
+      "successTitle": "Registrierung erfolgreich",
+      "successDescriptionActive": "Ihr Konto wurde erstellt.",
+      "successDescriptionPending": "Ihre Registrierung wurde übermittelt und wartet auf Genehmigung.",
+      "failedTitle": "Registrierung fehlgeschlagen"
+    },
+    "toastAdmin": {
+      "successTitle": "Administratorkonto erstellt",
+      "successDescription": "Der Administratorbenutzer wurde erfolgreich angelegt.",
+      "existsTitle": "Administrator existiert bereits",
+      "existsDescription": "Sie werden als Administrator angemeldet.",
+      "loginFailedTitle": "Admin-Anmeldung fehlgeschlagen",
+      "seedingFailedTitle": "Admin-Seeding fehlgeschlagen",
+      "fallback": "Etwas ist schiefgelaufen. Bitte versuchen Sie es erneut.",
+      "invalidCredentials": "Ungültige E-Mail oder falsches Passwort. Bitte überprüfen Sie Ihre Angaben.",
+      "userNotFound": "Kein Konto für diese E-Mail gefunden.",
+      "userDisabled": "Dieses Konto wurde deaktiviert. Kontaktieren Sie den Support.",
+      "tooManyRequests": "Zu viele Versuche. Warten Sie einige Minuten und versuchen Sie es erneut.",
+      "networkError": "Netzwerkfehler. Überprüfen Sie Ihre Verbindung und versuchen Sie es erneut.",
+      "emailAlreadyInUse": "Diese E-Mail wird bereits verwendet.",
+      "weakPassword": "Das Passwort ist zu schwach. Verwenden Sie mindestens 8 Zeichen und eine Zahl.",
+      "requiresRecentLogin": "Aus Sicherheitsgründen melden Sie sich bitte erneut an und wiederholen Sie die Aktion.",
+      "operationNotAllowed": "Diese Anmeldemethode ist nicht aktiviert.",
+      "permissionDenied": "Zugriff verweigert. Melden Sie sich erneut an oder kontaktieren Sie den Support.",
+      "unavailable": "Dienst vorübergehend nicht verfügbar. Versuchen Sie es später erneut."
+    }
+  },
+  "AppHeader": {
+    "morning": "Guten Morgen",
+    "afternoon": "Guten Tag",
+    "evening": "Guten Abend",
+    "greetingFallback": "Willkommen",
+    "menu": "Menü",
+    "toggleNavigation": "Navigation öffnen oder schließen",
+    "togglePrivacyMode": "Datenschutzmodus umschalten",
+    "showFinancialData": "Finanzdaten anzeigen",
+    "hideFinancialData": "Finanzdaten ausblenden",
+    "swissData": "Schweizer Daten",
+    "dataEncrypted": "Ihre Daten werden verschlüsselt und in der Schweiz gespeichert."
+  },
+  "DashboardLayout": {
+    "footer": "Schweizer Datensouveränität — Lynvia ist für Schweizer Vertraulichkeit und Kontrolle konzipiert."
+  },
+  "FiduciaryClientAccessGate": {
+    "verifying": "Überprüfung des Treuhand-Kundenzugriffs...",
+    "accessRestricted": "Zugriff eingeschränkt",
+    "accessRestrictedDesc": "Der Geschäftszugriff ist Kunden Ihres Treuhänders vorbehalten und nur für zugewiesene Kundengesellschaften verfügbar.",
+    "notLinked": "Ihr Geschäftskonto ist derzeit mit keinem autorisierten Treuhand-Kundenportfolio verknüpft."
+  },
+  "ProfileCompletionGate": {
+    "verifying": "Profil wird überprüft...",
+    "redirecting": "Weiterleitung..."
+  },
+  "ForgotPassword": {
+    "title": "Passwort zurücksetzen",
+    "description": "Geben Sie Ihre E-Mail-Adresse ein. Wir senden Ihnen einen Link zum Zurücksetzen.",
+    "emailLabel": "E-Mail",
+    "emailPlaceholder": "name@beispiel.ch",
+    "submit": "Link senden",
+    "backToLogin": "Zur Anmeldung",
+    "toastSuccessTitle": "Link gesendet",
+    "toastSuccess": "Prüfen Sie Ihren Posteingang für die Anleitung.",
+    "toastError": "E-Mail konnte nicht gesendet werden."
+  },
+  "HomeLanding": {
+    "onboardingCompleteTitle": "Profil gespeichert",
+    "onboardingCompleteDescription": "Erkunden Sie die Website oder melden Sie sich später über den Kundenzugang an."
+  },
+  "PendingApproval": {
+    "title": "Konto wartet auf Genehmigung",
+    "subtitle": "Vielen Dank für Ihre Registrierung.",
+    "description": "Ihr Konto wird derzeit von unserem Team überprüft. Dieser Vorgang dauert in der Regel 1-2 Werktage. Sie erhalten eine E-Mail-Benachrichtigung, sobald Ihr Konto genehmigt ist. Ihrerseits sind im Moment keine weiteren Schritte erforderlich.",
+    "contactLabel": "Haben Sie Fragen?",
+    "contactDescription": "Wenn Sie Fragen haben, kontaktieren Sie bitte unser Support-Team unter",
+    "logoutButton": "Abmelden"
+  },
+  "CompleteProfile": {
+    "title": "Vervollständigen Sie Ihr Unternehmensprofil",
+    "description": "Bitte geben Sie Ihre Unternehmensdaten ein, um fortzufahren. Alle Felder sind Pflichtfelder.",
+    "sections": {
+      "commercialRegister": "Handelsregister (HR)",
+      "vat": "Mehrwertsteuer (MWST)",
+      "employees": "Mitarbeitende"
+    },
+    "labels": {
+      "companyName": "Firmenname",
+      "directorFirstName": "Vorname des Direktors",
+      "directorLastName": "Nachname des Direktors",
+      "address": "Adresse",
+      "postalCode": "Postleitzahl",
+      "city": "Ort",
+      "canton": "Kanton",
+      "industry": "Tätigkeitsbereich",
+      "commercialRegister": "Ist das Unternehmen im Handelsregister eingetragen?",
+      "cheNumber": "CHE-Nummer",
+      "submittedToVAT": "Ist das Unternehmen mehrwertsteuerpflichtig?",
+      "vatMethod": "MWST-Abrechnungsmethode",
+      "vatNumber": "MWST-Nummer (CHE-xxx.xxx.xxx MWST)",
+      "hasEmployees": "Hat das Unternehmen Mitarbeitende?",
+      "employeeInsurances": "Vorhandene Versicherungen",
+      "withholdingTax": "Gibt es Mitarbeitende mit Quellensteuer?"
+    },
+    "placeholders": {
+      "companyName": "Name Ihres Unternehmens",
+      "directorFirstName": "z. B. Hans",
+      "directorLastName": "z. B. Müller",
+      "address": "Straße und Hausnummer",
+      "postalCode": "z. B. 8001",
+      "city": "z. B. Zürich",
+      "cheNumber": "z. B. CHE-123.456.789",
+      "vatNumber": "z. B. CHE-123.456.789 MWST",
+      "industry": "Branche eingeben..."
+    },
+    "options": {
+      "yes": "Ja",
+      "no": "Nein",
+      "vatMethodEffective": "Effektive Methode",
+      "vatMethodEffectiveDesc": "Quartalsweise Abrechnung (alle 3 Monate)",
+      "vatMethodTdfn": "Saldosteuersatzmethode (SSS)",
+      "vatMethodTdfnDesc": "Halbjährliche Abrechnung (alle 6 Monate)"
+    },
+    "insurances": {
+      "accident": "Unfallversicherung (UVG)",
+      "sickness": "Krankentaggeldversicherung (KTG)",
+      "lpp": "Berufliche Vorsorge (BVG / 2. Säule)",
+      "avs": "AHV / AVS (1. Säule)",
+      "avsNote": "gesetzlich obligatorisch"
+    },
+    "button": "Profil abschließen",
+    "buttonSaving": "Wird gespeichert...",
+    "toast": {
+      "successTitle": "Profil aktualisiert",
+      "successDescription": "Ihr Unternehmensprofil wurde erfolgreich vervollständigt.",
+      "errorTitle": "Aktualisierung fehlgeschlagen"
+    }
+  },
+  "LanguageToggle": {
+    "toggle": "Sprache wechseln"
+  },
+  "Navigation": {
+    "Dashboard": "Dashboard",
+    "LegalAssistant": "Rechtsassistent",
+    "DocumentGenerator": "Dokumentengenerator",
+    "ScenarioCalculator": "Szenarienrechner",
+    "TaxServices": "Steuerdienstleistungen",
+    "MyDocuments": "Meine Dokumente",
+    "MyOrders": "Meine Bestellungen",
+    "Notifications": "Benachrichtigungen",
+    "Settings": "Einstellungen",
+    "NotificationTester": "Benachrichtigungs-Cron",
+    "EmployeeManagement": "Mitarbeiterverwaltung",
+    "PayrollProcessing": "Lohnverarbeitung",
+    "LeaveManagement": "Urlaubsverwaltung",
+    "DocumentCenter": "Dokumentencenter",
+    "FinancialScenarios": "Finanzszenarien",
+    "VirtualCFO": "Virtueller CFO",
+    "ReportsAnalytics": "Berichte & Analysen",
+    "ClientPortfolio": "Kundenportfolio",
+    "ClientDocuments": "Kundendokumente",
+    "ScenarioAnalysis": "Szenarioanalyse",
+    "FinancialReports": "Finanzberichte",
+    "AuditLogs": "Prüfprotokolle",
+    "PurchaseServices": "Dienste kaufen",
+    "UserManagement": "Benutzerverwaltung",
+    "CompanyManagement": "Unternehmensverwaltung",
+    "OrderManagement": "Bestellungsverwaltung",
+    "DocumentApprovals": "Dokumentengenehmigungen",
+    "LegalDatabase": "Rechtsdatenbank",
+    "RAGPlayground": "RAG-Spielplatz",
+    "SystemLogs": "Systemprotokolle",
+    "AIMonitoring": "KI-Überwachung"
+  },
+  "Header": {
+    "searchPlaceholder": "Stellen Sie eine rechtliche Frage...",
+    "openNotifications": "Benachrichtigungen öffnen",
+    "notificationsTitle": "Benachrichtigungen",
+    "unreadSummary": "{count, plural, =0 {Keine ungelesenen Benachrichtigungen} one {# ungelesene Benachrichtigung} other {# ungelesene Benachrichtigungen}}",
+    "markAllRead": "Alle als gelesen markieren",
+    "loadingNotifications": "Benachrichtigungen werden geladen...",
+    "noNotificationsTitle": "Noch keine Benachrichtigungen",
+    "noNotificationsDescription": "Neue Updates erscheinen hier.",
+    "viewAllNotifications": "Alle Benachrichtigungen anzeigen",
+    "newBadge": "Neu",
+    "justNow": "Gerade eben"
+  },
+  "AdminSettings": {
+    "title": "Admin-Einstellungen",
+    "subtitle": "Verwalten Sie systemweite Einstellungen und API-Integrationen.",
+    "saveButton": "Einstellungen speichern",
+    "savingButton": "Wird gespeichert...",
+    "toastSuccessTitle": "Einstellungen gespeichert",
+    "stripeCard": {
+      "title": "Stripe API-Schlüssel",
+      "description": "Verwalten Sie die Stripe-API-Schlüssel, die für die Zahlungsabwicklung auf der gesamten Plattform verwendet werden.",
+      "publishableKeyLabel": "Veröffentlichbarer Stripe-Schlüssel",
+      "publishableKeyPlaceholder": "pk_test_...",
+      "secretKeyLabel": "Geheimer Stripe-Schlüssel",
+      "secretKeyPlaceholder": "sk_test_...",
+      "secretKeyDescription": "Der geheime Schlüssel ist nur beschreibbar und wird nach dem Speichern nicht mehr angezeigt."
+    },
+    "aiModelCard": {
+      "title": "KI-Modellkonfiguration",
+      "description": "Konfigurieren Sie die generativen KI-Modelle, die für verschiedene Funktionen verwendet werden.",
+      "modelLabel": "Standard-Textmodell",
+      "modelPlaceholder": "Modell auswählen",
+      "googleApiKeyLabel": "Google AI API-Schlüssel",
+      "googleApiKeyPlaceholder": "AIza...",
+      "temperatureLabel": "Temperatur (Kreativität)",
+      "safetySettingLabel": "Sicherheitsstufe für schädliche Inhalte"
+    },
+    "emailCard": {
+      "title": "E-Mail (SMTP) Einstellungen",
+      "description": "Konfigurieren Sie den SMTP-Server für den Versand von Transaktions-E-Mails.",
+      "hostLabel": "SMTP-Host",
+      "hostPlaceholder": "smtp.beispiel.de",
+      "portLabel": "SMTP-Port",
+      "portPlaceholder": "587",
+      "userLabel": "SMTP-Benutzername",
+      "userPlaceholder": "benutzername",
+      "passwordLabel": "SMTP-Passwort",
+      "passwordPlaceholder": "passwort",
+      "fromLabel": "Standard 'Von' E-Mail",
+      "fromPlaceholder": "noreply@beispiel.de",
+      "fromNameLabel": "Standard 'Von' Name",
+      "fromNamePlaceholder": "Lynvia Digital"
+    },
+    "featureFlagsCard": {
+      "title": "Feature Flags",
+      "description": "Aktivieren oder deaktivieren Sie wichtige Plattformfunktionen global.",
+      "docGenLabel": "Dokumentengenerator",
+      "docGenDescription": "Ermöglichen Sie Benutzern das Generieren von Rechts- und Geschäftsdokumenten.",
+      "cfoLabel": "Virtueller CFO",
+      "cfoDescription": "Aktivieren Sie die KI-gestützte Finanzanalyse für Unternehmen.",
+      "scenarioLabel": "Szenarienrechner",
+      "scenarioDescription": "Ermöglichen Sie Benutzern das Modellieren von Finanzszenarien."
+    },
+    "maintenanceCard": {
+      "title": "Plattformwartung",
+      "description": "Versetzen Sie die Plattform für alle Nicht-Admin-Benutzer in den Wartungsmodus.",
+      "enableLabel": "Wartungsmodus aktivieren",
+      "enableDescription": "Wenn aktiviert, können sich nur Administratoren anmelden.",
+      "messageLabel": "Wartungsmeldung",
+      "messagePlaceholder": "Die Plattform ist wegen Wartung nicht verfügbar..."
+    },
+    "legalCard": {
+      "title": "Rechtliches & Compliance",
+      "description": "Verwalten Sie Links zu Rechtsdokumenten und Einwilligungsnachrichten.",
+      "termsUrlLabel": "URL der Nutzungsbedingungen",
+      "termsUrlPlaceholder": "https://beispiel.de/terms",
+      "privacyUrlLabel": "URL der Datenschutzrichtlinie",
+      "privacyUrlPlaceholder": "https://beispiel.de/datenschutz",
+      "cookieMessageLabel": "Cookie-Einwilligungsnachricht",
+      "cookieMessagePlaceholder": "Diese Website verwendet Cookies..."
+    }
+  },
+  "FinancialAccounts": {
+    "title": "Finanzkonten",
+    "selectCompany": "Unternehmen auswählen...",
+    "companyLabel": "Unternehmen",
+    "periodPlaceholder": "z.B. T1 2025, 2024, H1 2025",
+    "periodLabel": "Rechnungslegungszeitraum",
+    "entryTitle": "Mandantenkonten eingeben",
+    "entryDescription": "Wählen Sie das Unternehmen, geben Sie den Zeitraum ein und füllen Sie die Erfolgsrechnungszahlen (CHF) aus.",
+    "figuresTitle": "Finanzzahlen",
+    "costCentresTitle": "Kostenstellen",
+    "saveButton": "Zahlen speichern",
+    "analyzeButton": "KI-Analyse durchführen"
+  },
+  "AdminDashboard": {
+    "heroEyebrow": "Betrieb",
+    "title": "Admin-Dashboard",
+    "subtitle": "Systemübersicht und Plattformverwaltung.",
+    "kpi": {
+      "totalUsers": "Benutzer gesamt",
+      "totalUsersDescription": "Alle Benutzerkonten",
+      "pendingApprovals": "Ausstehende Genehmigungen",
+      "pendingApprovalsDescription": "Unternehmen & Kanzleien warten auf Überprüfung",
+      "activeCompanies": "Aktive Unternehmen",
+      "activeCompaniesDescription": "Genehmigte Geschäftskonten",
+      "aiUsage": "KI-Nutzung (24h)",
+      "aiUsageDescription": "Normale Aktivität"
+    },
+    "userGrowth": {
+      "title": "Benutzerwachstum",
+      "subtitle": "Benutzer gesamt auf der Plattform in den letzten 6 Monaten.",
+      "legend": "Benutzer gesamt"
+    },
+    "userRoles": {
+      "title": "Benutzerrollenverteilung",
+      "subtitle": "Aufschlüsselung der Benutzer nach ihrer zugewiesenen Rolle.",
+      "individual": "Einzelperson",
+      "business": "Unternehmen",
+      "accountingFirm": "Treuhandfirma",
+      "admin": "Admin"
+    },
+    "approvals": {
+      "title": "Ausstehende Genehmigungen",
+      "subtitle": "Neue Unternehmen und Kanzleien warten auf Ihre Überprüfung.",
+      "viewAll": "Alle anzeigen",
+      "table": {
+        "companyName": "Firmen-/Kanzleiname",
+        "type": "Typ",
+        "date": "Registrierungsdatum",
+        "actions": "Aktionen"
+      },
+      "review": "Überprüfen",
+      "noApprovals": "Keine ausstehenden Genehmigungen."
+    }
+  },
+  "DocumentGenerator": {
+    "title": "Dokumentengenerator",
+    "subtitle": "Wählen Sie eine Kategorie, um zu beginnen. {count} Vorlagen verfügbar.",
+    "searchPlaceholder": "Vorlage suchen...",
+    "noResults": "Keine Ergebnisse für \"{query}\"",
+    "clearSearch": "Suche löschen",
+    "backToCategories": "Zurück zu den Kategorien",
+    "backToTemplates": "Zurück zu den Vorlagen",
+    "templateCount": "{count, plural, one {{count} Vorlage} other {{count} Vorlagen}}",
+    "form": {
+      "title": "Erforderliche Informationen",
+      "description": "Füllen Sie die Felder aus, um Ihr Dokument zu generieren.",
+      "familyMembersUi": {
+        "addMember": "Versicherte Person hinzufügen",
+        "namePlaceholder": "Vollständiger Name",
+        "policyPlaceholder": "Policennummer (optional)",
+        "remove": "Entfernen",
+        "hint": "Alle mitversicherten Personen (optional)."
+      },
+      "fields": {
+        "personalName": "Ihr vollständiger Name",
+        "dateOfBirth": "Geburtsdatum",
+        "personalAddress": "Ihre Adresse",
+        "personalPostalCode": "Postleitzahl",
+        "personalCity": "Stadt",
+        "familyMembers": "Familienmitglieder (Namen und Geburtsdaten)",
+        "newInsurer": "Neue Krankenkasse",
+        "insurerAddress": "Adresse des Versicherers",
+        "startDate": "Startdatum",
+        "currentInsurer": "Aktueller Versicherer",
+        "policyNumber": "Policennummer",
+        "terminationDate": "Kündigungsdatum",
+        "insurer": "Versicherer",
+        "currentModel": "Aktuelles Modell",
+        "newModel": "Neues Modell",
+        "effectiveDate": "Gültigkeitsdatum",
+        "currentFranchise": "Aktuelle Franchise",
+        "newFranchise": "Neue Franchise",
+        "employerName": "Name des Arbeitgebers",
+        "complementaryInsurances": "Zu kündigende Zusatzversicherungen",
+        "refusalDate": "Datum der Ablehnung",
+        "treatmentDescription": "Beschreibung der abgelehnten Behandlung",
+        "reasonForContestation": "Grund für die Anfechtung",
+        "serviceType": "Dienstleistungstyp",
+        "serviceStartDate": "Startdatum des Dienstes",
+        "serviceEndDate": "Enddatum des Dienstes",
+        "retailerName": "Name des Händlers",
+        "retailerAddress": "Adresse des Händlers",
+        "productName": "Produktname",
+        "purchaseDate": "Kaufdatum",
+        "defectDescription": "Beschreibung des Mangels",
+        "companyName": "Firmenname",
+        "companyAddress": "Firmenadresse",
+        "workDescription": "Beschreibung der Arbeit",
+        "executionDate": "Ausführungsdatum",
+        "originalDefectDate": "Ursprüngliches Mängeldatum",
+        "repairDate": "Reparaturdatum",
+        "repairDates": "Reparaturdaten (Liste)",
+        "desiredOutcome": "Gewünschtes Ergebnis",
+        "debtorName": "Name des Schuldners",
+        "debtorAddress": "Adresse des Schuldners",
+        "obligationDescription": "Beschreibung der Verpflichtung",
+        "originalDueDate": "Ursprüngliches Fälligkeitsdatum",
+        "amount": "Betrag",
+        "newDeadline": "Neue Frist",
+        "sellerName": "Name des Verkäufers",
+        "sellerAddress": "Adresse des Verkäufers",
+        "productDescription": "Produktbeschreibung",
+        "orderDate": "Bestelldatum",
+        "promisedDeliveryDate": "Versprochenes Lieferdatum",
+        "miseEnDemeureDate": "Datum der Mahnung",
+        "amountPaid": "Bezahlter Betrag",
+        "invoiceNumber": "Rechnungsnummer",
+        "documentsRequested": "Angeforderte Dokumente",
+        "creditorName": "Name des Gläubigers",
+        "creditorAddress": "Adresse des Gläubigers",
+        "claimDescription": "Beschreibung der Forderung",
+        "waiverEndDate": "Enddatum des Verzichts",
+        "contractType": "Vertragsart",
+        "priceIncrease": "Beanstandete Erhöhung",
+        "voucherValue": "Gutscheinwert",
+        "expirationDate": "Ablaufdatum",
+        "airline": "Fluggesellschaft",
+        "airlineAddress": "Adresse der Fluggesellschaft",
+        "flightNumber": "Flugnummer",
+        "flightDate": "Flugdatum",
+        "ticketPrice": "Ticketpreis",
+        "bookingReference": "Buchungsreferenz",
+        "expensesDescription": "Beschreibung der Ausgaben",
+        "totalAmount": "Gesamtbetrag",
+        "delayDuration": "Dauer der Verspätung",
+        "departureCity": "Abflugstadt",
+        "arrivalCity": "Ankunftsstadt",
+        "flightDistance": "Flugdistanz",
+        "pirNumber": "PIR-Nummer",
+        "issueType": "Problemtyp",
+        "damageDescription": "Beschreibung des Schadens/Problems",
+        "claimedAmount": "Geforderter Betrag",
+        "itemsList": "Liste der Artikel",
+        "invoiceDate": "Rechnungsdatum",
+        "contestationReason": "Grund für die Anfechtung",
+        "quotedAmount": "Angebotener Betrag",
+        "quoteDate": "Angebotsdatum",
+        "originalDate": "Ursprüngliches Servicedatum",
+        "contestedFees": "Beanstandete Gebühren",
+        "reason": "Grund",
+        "originalLetterDate": "Datum des ersten Briefes",
+        "pursuitOffice": "Betreibungsamt",
+        "pursuitOfficeAddress": "Adresse des Amtes",
+        "pursuitNumber": "Betreibungsnummer",
+        "proposedAmount": "Vorgeschlagener Betrag",
+        "paymentDate": "Vorgeschlagenes Zahlungsdatum",
+        "associationName": "Name des Vereins",
+        "associationAddress": "Adresse des Vereins",
+        "totalDebtAmount": "Gesamtschuldenbetrag",
+        "creditorsList": "Liste der Gläubiger",
+        "monthlyIncome": "Monatliches Einkommen",
+        "monthlyExpenses": "Monatliche Ausgaben",
+        "contractDate": "Vertragsdatum",
+        "contractDescription": "Vertragsbeschreibung",
+        "errorDescription": "Beschreibung des Fehlers/Täuschung",
+        "obligoDate": "Obligo-Vertragsdatum",
+        "circumstances": "Umstände",
+        "subscriptionDate": "Abonnementdatum",
+        "telecomProvider": "Telekomanbieter",
+        "telecomAddress": "Anbieteradresse",
+        "premiumNumber": "Premium-Nummer",
+        "chargedAmount": "Berechneter Betrag",
+        "incorrectData": "Falsche Daten",
+        "correctData": "Korrekte Daten",
+        "dataToDelete": "Zu löschende Daten",
+        "landlordName": "Name des Vermieters",
+        "landlordAddress": "Adresse des Vermieters",
+        "propertyAddress": "Adresse der Immobilie",
+        "leaseReference": "Mietvertragsreferenz",
+        "leaseStartDate": "Mietbeginn",
+        "newTenantName": "Name des neuen Mieters",
+        "newTenantContact": "Kontaktinformationen des neuen Mieters",
+        "desiredTerminationDate": "Gewünschtes Kündigungsdatum",
+        "currentRent": "Aktuelle Miete",
+        "requestedRent": "Gewünschte Miete",
+        "justification": "Begründung",
+        "notificationDate": "Datum der Erhöhungsmitteilung",
+        "proposedIncrease": "Vorgeschlagene Erhöhung",
+        "elcomAddress": "ElCom-Adresse",
+        "electricityProvider": "Stromanbieter",
+        "currentRate": "Aktueller Tarif",
+        "newRate": "Neuer Tarif",
+        "increasePercentage": "Erhöhung in Prozent",
+        "cedantName": "Name des Zedenten",
+        "cedantAddress": "Adresse des Zedenten",
+        "cessionaireName": "Name des Zessionars",
+        "cessionaireAddress": "Adresse des Zessionars",
+        "claimAmount": "Forderungsbetrag",
+        "transferPrice": "Übertragungspreis",
+        "lenderName": "Name des Kreditgebers",
+        "lenderAddress": "Adresse des Kreditgebers",
+        "borrowerName": "Name des Kreditnehmers",
+        "borrowerAddress": "Adresse des Kreditnehmers",
+        "loanAmount": "Darlehensbetrag",
+        "interestRate": "Zinssatz",
+        "repaymentTerms": "Rückzahlungsbedingungen",
+        "clientName": "Kundenname",
+        "clientAddress": "Kundenadresse",
+        "freelancerName": "Name des Freiberuflers",
+        "freelancerAddress": "Adresse des Freiberuflers",
+        "serviceDescription": "Dienstleistungsbeschreibung",
+        "deliverables": "Leistungen",
+        "remuneration": "Vergütung",
+        "deadline": "Frist",
+        "party1Name": "Name von Partei 1",
+        "party1Address": "Adresse von Partei 1",
+        "party2Name": "Name von Partei 2",
+        "party2Address": "Adresse von Partei 2",
+        "disputeDescription": "Beschreibung des Streits",
+        "agreementTerms": "Vertragsbedingungen",
+        "donorName": "Name des Spenders",
+        "donorAddress": "Adresse des Spenders",
+        "doneeName": "Name des Beschenkten",
+        "doneeAddress": "Adresse des Beschenkten",
+        "giftDescription": "Beschreibung des Geschenks",
+        "giftValue": "Geschätzter Wert",
+        "condition": "Bedingung",
+        "obligation": "Verpflichtung/Last",
+        "debtAmount": "Schuldenbetrag",
+        "debtOrigin": "Ursprung der Schuld",
+        "hourlyWage": "Stundenlohn",
+        "weeklyHours": "Wochenstunden",
+        "tasks": "Aufgaben",
+        "monthlySalary": "Monatsgehalt",
+        "vacationDays": "Urlaubstage"
+      },
+      "placeholders": {
+        "enter": "{label} eingeben...",
+        "select": "{label} auswählen...",
+        "customSenderName": "z.B. Maria Muster",
+        "customSenderAddress": "Straße, Postleitzahl, Stadt",
+        "customPurposeFacts": "Beschreiben Sie den rechtlichen Kontext, die Zeitleiste und wichtige einzubeziehende Fakten.",
+        "customRequestedOutcome": "Was sollte der Empfänger nach Erhalt dieses Dokuments tun?",
+        "dateOfBirth": "Geburtsdatum",
+        "recipientDetails": "Empfängername, Unternehmen und Adresse"
+      },
+      "buttons": {
+        "generating": "Generiere...",
+        "generate": "Dokument generieren"
+      }
+    },
+    "preview": {
+      "title": "Generiertes Dokument",
+      "description": "Vorschau Ihres Dokuments unten.",
+      "placeholder": "Ihr Dokument wird hier nach der Generierung angezeigt."
+    },
+    "buttons": {
+      "submit": "Zur Überprüfung einreichen",
+      "saving": "Wird eingereicht...",
+      "copy": "Kopieren",
+      "download": "Herunterladen",
+      "downloadPdf": "PDF-Dokument",
+      "downloadWord": "Word-Dokument (.docx)"
+    },
+    "toast": {
+      "generateSuccess": {
+        "title": "Dokument erfolgreich generiert",
+        "description": "Ihr Entwurfsdokument ist zur Überprüfung bereit."
+      },
+      "generateError": {
+        "title": "Generierung fehlgeschlagen",
+        "description": "Die KI konnte das Dokument nicht generieren. Bitte versuchen Sie es erneut."
+      },
+      "saveSuccess": {
+        "title": "Dokument eingereicht",
+        "description": "Ihr Dokument wurde zur Überprüfung eingereicht."
+      },
+      "saveError": {
+        "title": "Speichern fehlgeschlagen",
+        "description": "Dokument konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+      },
+      "copied": "In die Zwischenablage kopiert!",
+      "downloadingPdf": "PDF wird heruntergeladen...",
+      "downloadingWord": "Word-Dokument wird vorbereitet...",
+      "downloadPdfError": {
+        "title": "Fehler",
+        "description": "PDF konnte nicht generiert werden."
+      },
+      "downloadWordError": {
+        "title": "Herunterladen fehlgeschlagen",
+        "description": "Word-Dokument konnte nicht generiert werden. Bitte versuchen Sie es erneut."
+      }
+    },
+    "AssuranceMaladie": {
+      "categoryTitle": "Krankenversicherung",
+      "categoryDescription": "Verwalten Sie Ihre obligatorische und ergänzende Krankenversicherung.",
+      "affiliation": {
+        "title": "Antrag auf Grundversicherung",
+        "description": "Beantragen Sie die Aufnahme in eine neue obligatorische Krankenversicherung."
+      },
+      "resiliationObligatoire": {
+        "title": "Kündigung der obligatorischen Versicherung",
+        "description": "Kündigen Sie Ihren obligatorischen Krankenversicherungsvertrag, um den Anbieter zu wechseln."
+      },
+      "changementModele": {
+        "title": "Wechsel des Versicherungsmodells",
+        "description": "Wechseln Sie Ihr Versicherungsmodell (Standard, HMO, Hausarzt, etc.)."
+      },
+      "modificationFranchise": {
+        "title": "Änderung der Franchise",
+        "description": "Ändern Sie die Höhe Ihrer Jahresfranchise."
+      },
+      "exclusionAccidents": {
+        "title": "Ausschluss der Unfallversicherung",
+        "description": "Schliessen Sie die Unfallversicherung aus, wenn Sie über Ihren Arbeitgeber versichert sind."
+      },
+      "resiliationComplementaire": {
+        "title": "Kündigung der Zusatzversicherung",
+        "description": "Kündigen Sie eine oder mehrere Zusatzversicherungen."
+      },
+      "contestationRefus": {
+        "title": "Anfechtung der Leistungsverweigerung",
+        "description": "Fechten Sie eine Leistungsverweigerung Ihres Versicherers an."
+      },
+      "suspensionPrimes": {
+        "title": "Aussetzung der Prämien während des Militär-/Zivildienstes",
+        "description": "Setzen Sie Ihre Prämien während des Militär- oder Zivildienstes aus."
+      }
+    },
+    "Garantie": {
+      "categoryTitle": "Garantie",
+      "categoryDescription": "Machen Sie Ihre Gewährleistungsansprüche für mangelhafte Produkte oder Dienstleistungen geltend.",
+      "avisDefauts": {
+        "title": "Mängelrüge",
+        "description": "Melden Sie einen Mangel an einem gekauften Produkt."
+      },
+      "avisDefautsContrat": {
+        "title": "Mängelrüge (Werkvertrag)",
+        "description": "Melden Sie einen Mangel bei einem Werkvertrag (Bau, Renovierungen)."
+      },
+      "defautPersistant": {
+        "title": "Mangel besteht nach Reparatur fort",
+        "description": "Der Mangel besteht trotz Reparaturversuch weiter."
+      },
+      "resiliationApresReparations": {
+        "title": "Kündigung / Umtausch nach 4 Reparaturen",
+        "description": "Fordern Sie nach mehreren erfolglosen Reparaturen eine Kündigung oder einen Umtausch an."
+      }
+    },
+    "ExecutionContrat": {
+      "categoryTitle": "Vertragserfüllung",
+      "categoryDescription": "Fordern Sie die korrekte Erfüllung vertraglicher Verpflichtungen.",
+      "relanceGenerale": {
+        "title": "Allgemeine Mahnung",
+        "description": "Erinnern Sie einen Schuldner an eine nicht erfüllte Verpflichtung."
+      },
+      "miseEnDemeure": {
+        "title": "Mahnung",
+        "description": "Setzen Sie einen Schuldner förmlich in Verzug."
+      },
+      "miseEnDemeureRetard": {
+        "title": "Mahnung wegen Lieferverzugs",
+        "description": "Setzen Sie einen Verkäufer in Verzug, der nicht rechtzeitig geliefert hat."
+      },
+      "resiliationVente": {
+        "title": "Kündigung nach Mahnung - Verkauf",
+        "description": "Kündigen Sie einen Kaufvertrag, nachdem eine Mahnung keine Wirkung gezeigt hat."
+      },
+      "resiliationEntreprise": {
+        "title": "Kündigung nach Mahnung - Werkvertrag",
+        "description": "Kündigen Sie einen Werkvertrag (Bau) nach einer Mahnung."
+      },
+      "demandeJustificatifs": {
+        "title": "Anforderung von Belegen",
+        "description": "Fordern Sie Belege für eine Rechnung oder eine Dienstleistung an."
+      },
+      "renonciationPrescription": {
+        "title": "Verjährungsverzichtserklärung",
+        "description": "Schlagen Sie eine Vereinbarung zum Verjährungsverzicht vor."
+      },
+      "contestationInflation": {
+        "title": "Anfechtung der Inflationsklausel",
+        "description": "Fechten Sie die Anwendung einer Inflationsklausel durch einen Betreiber an."
+      },
+      "bonsCadeaux": {
+        "title": "Verwendung von Geschenkgutscheinen",
+        "description": "Fordern Sie die Verwendung von abgelaufenen Geschenkgutscheinen."
+      },
+      "remboursementAnnulationVol": {
+        "title": "Ticket-Rückerstattung nach Flugannullierung",
+        "description": "Fordern Sie eine Rückerstattung Ihres Tickets für einen annullierten Flug."
+      },
+      "remboursementFraisVol": {
+        "title": "Kostenerstattung nach Flugannullierung",
+        "description": "Fordern Sie die Erstattung von Kosten, die nach einer Annullierung entstanden sind."
+      },
+      "indemnisationRetardVol": {
+        "title": "Entschädigung für Flugverspätung",
+        "description": "Fordern Sie eine Entschädigung für eine erhebliche Flugverspätung."
+      },
+      "indemnisationBagages": {
+        "title": "Gepäckentschädigung",
+        "description": "Fordern Sie eine Entschädigung für verlorenes, verspätetes oder beschädigtes Gepäck."
+      },
+      "contestationFacture": {
+        "title": "Rechnungsanfechtung",
+        "description": "Fechten Sie eine Rechnung an, die Sie für ungerechtfertigt halten."
+      },
+      "contestationFactureDevis": {
+        "title": "Anfechtung einer Rechnung, die den Kostenvoranschlag übersteigt",
+        "description": "Fechten Sie eine Rechnung an, deren Betrag den akzeptierten Kostenvoranschlag übersteigt."
+      },
+      "contestationFacturePrescrite": {
+        "title": "Anfechtung einer verjährten Rechnung",
+        "description": "Berufen Sie sich auf die Verjährung für eine alte Schuld."
+      }
+    },
+    "Resiliation": {
+      "categoryTitle": "Kündigung",
+      "categoryDescription": "Briefvorlagen zur Kündigung verschiedener Vertragsarten.",
+      "contratEcheance": {
+        "title": "Vertragskündigung bei Ablauf",
+        "description": "Kündigen Sie einen Vertrag, der ausläuft."
+      },
+      "contratMandat": {
+        "title": "Kündigung des Mandatsvertrags",
+        "description": "Kündigen Sie einen Mandatsvertrag (Anwalt, Berater, etc.)."
+      },
+      "mandatInopportun": {
+        "title": "Kündigung des Mandats zu einem unpassenden Zeitpunkt",
+        "description": "Kündigen Sie ein Mandat mit Entschädigung für die Kündigung zu einem unpassenden Zeitpunkt."
+      },
+      "petitCredit14Jours": {
+        "title": "Widerruf eines Kleinkredits innerhalb von 14 Tagen",
+        "description": "Widerrufen Sie einen Kleinkreditvertrag innerhalb der gesetzlichen 14-Tage-Frist."
+      },
+      "leasing14Jours": {
+        "title": "Widerruf des Leasings innerhalb von 14 Tagen",
+        "description": "Widerrufen Sie einen Leasingvertrag innerhalb der gesetzlichen 14-Tage-Frist."
+      },
+      "modificationContractuelle": {
+        "title": "Kündigung nach Vertragsänderung",
+        "description": "Kündigen Sie nach einer einseitigen Vertragsänderung durch den Anbieter."
+      },
+      "carteCredit": {
+        "title": "Kreditkartenkündigung",
+        "description": "Kündigen Sie Ihre Kreditkarte."
+      },
+      "assuranceApresSinistre": {
+        "title": "Versicherungskündigung nach einem Schadenfall",
+        "description": "Kündigen Sie eine Versicherungspolice nach einem Schadenfall."
+      },
+      "fitnessJustesMotifs": {
+        "title": "Kündigung der Fitnessstudio-Mitgliedschaft aus wichtigem Grund",
+        "description": "Kündigen Sie Ihre Fitnessstudio-Mitgliedschaft aus wichtigem Grund."
+      }
+    },
+    "Annulation": {
+      "categoryTitle": "Stornierung",
+      "categoryDescription": "Beantragen Sie die Stornierung von Verträgen aus verschiedenen Gründen.",
+      "erreurEssentielle": {
+        "title": "Vertragsstornierung wegen wesentlichen Irrtums/Täuschung",
+        "description": "Stornieren Sie einen Vertrag aufgrund eines wesentlichen Irrtums oder einer Täuschung."
+      },
+      "demandeRemboursement": {
+        "title": "Vertragsstornierung und Rückerstattungsantrag",
+        "description": "Stornieren Sie einen Vertrag aufgrund eines Fehlers und fordern Sie eine Rückerstattung an."
+      },
+      "contestationObligo": {
+        "title": "Anfechtung des Obligo-Vertrags",
+        "description": "Fechten Sie einen unrechtmäßig erlangten Obligo-Vertrag an."
+      },
+      "assuranceNonSouhaitee": {
+        "title": "Stornierung eines unerwünschten Versicherungsprodukts",
+        "description": "Stornieren Sie eine Versicherungspolice, die ohne Ihr informiertes Einverständnis abgeschlossen wurde."
+      },
+      "fauxConcours": {
+        "title": "Stornierung eines gefälschten Wettbewerbs / Abonnementfalle",
+        "description": "Stornieren Sie ein Abonnement, das über einen gefälschten Wettbewerb abgeschlossen wurde."
+      }
+    },
+    "TransportAerien": {
+      "categoryTitle": "Flugreisen",
+      "categoryDescription": "Forderungen bei Verspätungen, Flugannullierungen oder Gepäckproblemen.",
+      "remboursementAnnulation": {
+        "title": "Ticket-Rückerstattung bei Annullierung",
+        "description": "Fordern Sie eine Rückerstattung Ihres Tickets für einen annullierten Flug."
+      },
+      "remboursementFrais": {
+        "title": "Kostenerstattung nach Annullierung",
+        "description": "Fordern Sie die Erstattung von Kosten, die nach einer Flugannullierung entstanden sind."
+      },
+      "indemnisationRetard": {
+        "title": "Entschädigung bei Verspätung",
+        "description": "Fordern Sie eine Entschädigung für eine erhebliche Flugverspätung."
+      },
+      "indemnisationBagages": {
+        "title": "Gepäckentschädigung",
+        "description": "Fordern Sie eine Entschädigung für verlorenes, verspätetes oder beschädigtes Gepäck."
+      }
+    },
+    "Recouvrement": {
+      "categoryTitle": "Inkasso",
+      "categoryDescription": "Fechten Sie unfaire Inkassogebühren an.",
+      "contestationFrais": {
+        "title": "Anfechtung von Inkassogebühren",
+        "description": "Fechten Sie überhöhte Inkasso- oder Mahngebühren an."
+      },
+      "confirmationContestation": {
+        "title": "Bestätigung der Gebührenanfechtung",
+        "description": "Bestätigen Sie Ihre Anfechtung der Inkassogebühren."
+      }
+    },
+    "Poursuites": {
+      "categoryTitle": "Betreibung",
+      "categoryDescription": "Maßnahmen im Zusammenhang mit Betreibungsverfahren.",
+      "opposition": {
+        "title": "Einspruch gegen Zahlungsbefehl",
+        "description": "Erheben Sie Einspruch gegen einen Zahlungsbefehl."
+      },
+      "oppositionFrais": {
+        "title": "Einspruch gegen Betreibungskosten",
+        "description": "Fechten Sie Betreibungskosten an, die Sie für missbräuchlich halten."
+      },
+      "demandeRadiation": {
+        "title": "Antrag auf Löschung des Betreibungseintrags",
+        "description": "Beantragen Sie die Löschung eines Betreibungseintrags nach Zahlung."
+      },
+      "conventionRadiation": {
+        "title": "Vereinbarung zur Löschung des Betreibungseintrags",
+        "description": "Schlagen Sie eine Vereinbarung zur Löschung mit dem Gläubiger vor."
+      },
+      "demandeRachatDette": {
+        "title": "Antrag auf Schuldenrückkauf",
+        "description": "Beantragen Sie den Rückkauf Ihrer Schulden durch einen Unterstützungsverein."
+      }
+    },
+    "Demarchage": {
+      "categoryTitle": "Haustürgeschäfte",
+      "categoryDescription": "Widerruf von Verträgen, die durch Haustürgeschäfte abgeschlossen wurden.",
+      "revocation14Jours": {
+        "title": "Widerruf innerhalb von 14 Tagen",
+        "description": "Widerrufen Sie einen Vertrag, der per Haustürgeschäft abgeschlossen wurde, innerhalb der gesetzlichen Frist."
+      },
+      "revocationDelaiNonMentionne": {
+        "title": "Widerruf, wenn die Frist nicht erwähnt wurde",
+        "description": "Widerrufen Sie einen Vertrag, wenn die Information über die Widerrufsfrist fehlte."
+      }
+    },
+    "EnvoiNonCommande": {
+      "categoryTitle": "Unbestellte Waren",
+      "categoryDescription": "Verwalten Sie den Erhalt unbestellter Waren.",
+      "refus": {
+        "title": "Annahmeverweigerung unbestellter Waren",
+        "description": "Verweigern Sie die Bezahlung für unbestellte Waren."
+      },
+      "annulationPresumee": {
+        "title": "Annahmeverweigerung und Stornierung einer vermuteten Bestellung",
+        "description": "Bestreiten Sie eine Bestellung, die Sie nie aufgegeben haben."
+      }
+    },
+    "Arnaque": {
+      "categoryTitle": "Betrug",
+      "categoryDescription": "Bestreiten Sie Gebühren im Zusammenhang mit Betrug.",
+      "contestationSMS": {
+        "title": "Anfechtung von Premium-SMS-Gebühren",
+        "description": "Bestreiten Sie Gebühren für unaufgeforderte Premium-SMS-Nachrichten."
+      },
+      "annulationAnnuaire": {
+        "title": "Stornierung eines missbräuchlichen Verzeichniseintrags",
+        "description": "Bestreiten Sie einen unrechtmäßig erlangten Verzeichniseintrag."
+      }
+    },
+    "ProtectionDonnees": {
+      "categoryTitle": "Datenschutz",
+      "categoryDescription": "Üben Sie Ihre Rechte bezüglich Ihrer persönlichen Daten aus.",
+      "rectification": {
+        "title": "Antrag auf Datenberichtigung",
+        "description": "Beantragen Sie die Berichtigung unrichtiger personenbezogener Daten."
+      },
+      "acces": {
+        "title": "Antrag auf Datenzugang",
+        "description": "Fragen Sie ein Unternehmen, welche Daten es über Sie gespeichert hat."
+      },
+      "effacement": {
+        "title": "Antrag auf Datenlöschung",
+        "description": "Beantragen Sie die Löschung Ihrer personenbezogenen Daten."
+      }
+    },
+    "Bail": {
+      "categoryTitle": "Mietvertrag",
+      "categoryDescription": "Briefvorlagen zur Verwaltung Ihres Mietvertrags.",
+      "resiliationOrdinaire": {
+        "title": "Ordentliche Mietvertragskündigung",
+        "description": "Kündigen Sie Ihren Mietvertrag zum vertraglichen Ablaufdatum."
+      },
+      "resiliationAnticipee": {
+        "title": "Vorzeitige Mietvertragskündigung",
+        "description": "Schlagen Sie einen Ersatzkandidaten für eine vorzeitige Kündigung vor."
+      },
+      "contestationFrais": {
+        "title": "Anfechtung der Gebühren für eine vorzeitige Kündigung",
+        "description": "Fechten Sie überhöhte Gebühren im Zusammenhang mit einer vorzeitigen Kündigung an."
+      },
+      "demandeBaisseLoyer": {
+        "title": "Antrag auf Mietpreissenkung",
+        "description": "Beantragen Sie eine Mietpreissenkung nach einer Senkung des Hypothekenreferenzzinssatzes."
+      },
+      "contestationHausseLoyer": {
+        "title": "Anfechtung einer Mieterhöhung",
+        "description": "Fechten Sie eine Mieterhöhung an, die Sie für ungerechtfertigt halten."
+      },
+      "consignationLoyer": {
+        "title": "Mietkaution",
+        "description": "Informieren Sie den Vermieter über die Mietkaution für einen nicht behobenen Mangel."
+      }
+    },
+    "Plaintes": {
+      "categoryTitle": "Beschwerden und Formulare",
+      "categoryDescription": "Offizielle Beschwerden und andere Formulare.",
+      "plainteElcom": {
+        "title": "ElCom-Beschwerde wegen Strompreiserhöhung",
+        "description": "Reichen Sie eine Beschwerde bei der ElCom wegen einer Tariferhöhung ein."
+      }
+    },
+    "Contrats": {
+      "categoryTitle": "Vertragsvorlagen",
+      "categoryDescription": "Erstellen Sie verschiedene Verträge für persönliche Situationen.",
+      "cessionCreance": {
+        "title": "Forderungsabtretung",
+        "description": "Übertragen Sie eine Forderung an einen Dritten."
+      },
+      "pret": {
+        "title": "Darlehensvertrag",
+        "description": "Schließen Sie einen Darlehensvertrag zwischen Privatpersonen ab."
+      },
+      "freelance": {
+        "title": "Freelancer-Dienstleistungsvertrag",
+        "description": "Schließen Sie einen unabhängigen Dienstleistungsvertrag ab."
+      },
+      "accord": {
+        "title": "Vergleichsvereinbarung",
+        "description": "Formalisieren Sie eine gütliche Einigung zwischen zwei Parteien."
+      },
+      "donationCondition": {
+        "title": "Schenkung mit Bedingung",
+        "description": "Machen Sie eine Schenkung unter einer bestimmten Bedingung."
+      },
+      "donationObligation": {
+        "title": "Schenkung mit Verpflichtung",
+        "description": "Machen Sie eine Schenkung mit einer Verpflichtung für den Beschenkten."
+      },
+      "reconnaissanceDette": {
+        "title": "Schuldanerkenntnis",
+        "description": "Formalisieren Sie eine Schuld schriftlich."
+      },
+      "travailDomestiqueHoraire": {
+        "title": "Arbeitsvertrag für Hausangestellte (stündlich)",
+        "description": "Stellen Sie Hauspersonal mit einem Stundenlohn ein."
+      },
+      "travailDomestiqueMensuel": {
+        "title": "Arbeitsvertrag für Hausangestellte (monatlich)",
+        "description": "Stellen Sie Hauspersonal mit einem Monatsgehalt ein."
+      }
+    }
+  },
+  "LegalAssistant": {
+    "title": "Rechtsassistent",
+    "conversations": "Unterhaltungen",
+    "newChat": "Neuer Chat",
+    "clearConversation": "Unterhaltung löschen",
+    "placeholder": {
+      "title": "Eine Unterhaltung beginnen",
+      "subtitle": "Fragen Sie mich alles über Schweizer Rechts- und Finanzthemen."
+    },
+    "inputPlaceholder": "Stellen Sie eine rechtliche Frage...",
+    "send": "Senden",
+    "sources": "Quellen",
+    "errorMessage": "Entschuldigung, beim Antworten ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut.",
+    "toast": {
+      "copied": "In die Zwischenablage kopiert!",
+      "notLoggedIn": {
+        "title": "Nicht angemeldet",
+        "description": "Sie müssen angemeldet sein, um den Rechtsassistenten zu verwenden."
+      },
+      "aiError": {
+        "title": "Fehler des KI-Assistenten",
+        "description": "Konnte keine Antwort vom Assistenten erhalten."
+      },
+      "profileError": {
+        "title": "Fehler",
+        "description": "Ihr Benutzerprofil konnte nicht geladen werden."
+      },
+      "fetchError": "Benutzerprofil konnte nicht abgerufen werden.",
+      "generationFailed": {
+        "title": "Generierung fehlgeschlagen",
+        "description": "Dokument konnte nicht generiert werden. Bitte versuchen Sie es erneut."
+      },
+      "submittedForReview": {
+        "title": "Eingereicht",
+        "description": "Dokument zur Überprüfung eingereicht. Sie werden nach der Überprüfung benachrichtigt."
+      },
+      "submitFailed": {
+        "title": "Fehler",
+        "description": "Konnte nicht zur Überprüfung eingereicht werden. Bitte versuchen Sie es erneut."
+      }
+    },
+    "greeting": "👋 Hallo! Ich bin **LYNVIA**, Ihr digitaler Rechtsassistent.\n\nIch kann Ihnen helfen mit:\n• 📋 **Rechtsfragen** — Arbeitsrecht, MwSt., Verträge\n• 💰 **Finanzszenarien** — Gehalt, Zulagen, Abzüge\n• 📄 **Dokumentenerstellung** — rechtskonforme Entwürfe\n\nWas möchten Sie heute wissen?",
+    "openingDocGen": "Dokumentgenerator wird geöffnet",
+    "openingDocGenDesc": "Sie werden zum Dokumentgenerator weitergeleitet, um das Dokument schneller zu erstellen.",
+    "clientRequired": "Klient erforderlich",
+    "clientRequiredDesc": "Bitte wählen Sie zuerst einen Klienten aus.",
+    "taskCreated": "Aufgabe erstellt",
+    "taskCreatedDesc": "Die Aufgabe wurde erfolgreich erstellt.",
+    "documentSent": "Dokument gesendet",
+    "documentSentDesc": "Das Dokument wurde erfolgreich gesendet.",
+    "actionFailed": "Fehler",
+    "actionFailedDesc": "Aktion fehlgeschlagen. Bitte versuchen Sie es erneut."
+  },
+  "IndividualDashboard": {
+    "title": "Willkommen, {name}!",
+    "subtitle": "Hier ist eine Übersicht über Ihre Aktivitäten.",
+    "sectionOverview": "Ihre Übersicht",
+    "sectionActivity": "Aktivität & Updates",
+    "sectionPlanning": "Steuern & Tools",
+    "kpiToggleShowAll": "Alle Kennzahlen anzeigen",
+    "kpiToggleShowLess": "Weniger Kennzahlen",
+    "fallbackUserName": "Benutzer",
+    "status": {
+      "approved": "Genehmigt",
+      "rejected": "Abgelehnt",
+      "draft": "Entwurf",
+      "pendingReview": "Warten auf Prüfung",
+      "pending": "Ausstehend",
+      "paid": "Bezahlt",
+      "inProgress": "In Bearbeitung",
+      "cancelled": "Storniert",
+      "completed": "Abgeschlossen",
+      "active": "Aktiv",
+      "pendingApproval": "Warten auf Genehmigung",
+      "suspended": "Gesperrt"
+    },
+    "kpi": {
+      "documentsGenerated": "Erstellte Dokumente",
+      "pendingApprovals": "Ausstehende Genehmigungen",
+      "scenariosRun": "Durchgeführte Szenarien",
+      "unreadNotifications": "Ungelesene Benachrichtigungen",
+      "activeOrders": "Aktive Bestellungen",
+      "legalChats": "Rechts-Chats",
+      "profileStrength": "Profilstärke",
+      "accountStatus": "Kontostatus"
+    },
+    "quickActions": {
+      "title": "Schnellaktionen",
+      "askLegalQuestion": "Rechtsfrage stellen",
+      "generateDocument": "Dokument erstellen",
+      "calculateTaxScenario": "Steuerszenario berechnen",
+      "browseServices": "Dienstleistungen durchsuchen"
+    },
+    "featureHub": {
+      "title": "Funktionszentrale",
+      "description": "Wichtige Tools für tägliche Abläufe.",
+      "modules": {
+        "myDocuments": {
+          "title": "Meine Dokumente",
+          "subtitle": "Erstellte Dateien öffnen"
+        },
+        "myOrders": {
+          "title": "Meine Bestellungen",
+          "subtitle": "Servicekäufe verfolgen"
+        },
+        "notifications": {
+          "title": "Benachrichtigungen",
+          "subtitle": "Neueste Hinweise ansehen"
+        },
+        "scenarioCenter": {
+          "title": "Szenario-Center",
+          "subtitle": "Steuervergleiche durchführen"
+        },
+        "settings": {
+          "title": "Profil",
+          "subtitle": "Profil und Präferenzen"
+        }
+      }
+    },
+    "companyAffiliation": {
+      "title": "Unternehmenszugehörigkeit"
+    },
+    "latestScenario": {
+      "title": "Letzte Simulation",
+      "viewAll": "Alle Szenarien anzeigen",
+      "types": {
+        "income_change": "Auswirkung Gehaltsänderung",
+        "job_loss": "Auswirkung Jobverlust",
+        "child_birth": "Auswirkung Geburt",
+        "marriage": "Auswirkung Heirat",
+        "pillar_3a": "Säule 3a Beitrag",
+        "pillar_2_buyback": "Säule 2 Rückkauf",
+        "supplementary_benefits": "Ergänzungsleistungen"
+      }
+    },
+    "taxGlance": {
+      "emptyTitle": "Steuererklärung — Status",
+      "emptyDescription": "Nach Kauf einer Jahressteuererklärung sehen Sie hier Mandatsfortschritt, Dokumente und Prüfung.",
+      "cta": "Steuerdienstleistungen"
+    },
+    "mandateTracking": {
+      "title": "Status der Steuererklärung",
+      "viewDetails": "Details anzeigen",
+      "documentsProgressApprox": "{count} Dokument(e) seit Bestellbeginn",
+      "documentsProgress": "{uploaded} / {required} Pflichtdokumente gesendet",
+      "downloadDocuments": "Dokumente herunterladen",
+      "statusText": {
+        "paid": "Bitte laden Sie Ihre Pflichtdokumente hoch, um zu beginnen.",
+        "in_progress": "Der Experte arbeitet daran. Sie werden benachrichtigt, wenn es fertig ist.",
+        "pending_review": "Vom Experten eingereicht — laden Sie Ihre Dokumente unten herunter.",
+        "completed": "Service abgeschlossen. Ihre Steuererklärung wurde eingereicht."
+      },
+      "steps": {
+        "paymentReceived": "Zahlung",
+        "documentsUploaded": "Dokumente",
+        "expertReview": "Prüfung",
+        "finalSubmission": "Eingereicht"
+      }
+    },
+    "recentActivity": {
+      "title": "Letzte Aktivitäten",
+      "empty": "Keine aktuellen Aktivitäten.",
+      "notificationFallback": "Benachrichtigung",
+      "templates": {
+        "documentStatus": "Dokument \"{name}\" wurde auf {status} gesetzt",
+        "orderStatus": "Bestellung \"{service}\" wurde auf {status} aktualisiert",
+        "legalStarted": "Neues Rechtsgespräch gestartet: \"{title}\""
+      },
+      "activity": {
+        "documentApproved": "Dokument 'Mietvertrag' wurde genehmigt.",
+        "scenarioCalculated": "Szenario 'Steueroptimierung 2024' berechnet.",
+        "newNotification": "Neue Benachrichtigung: Ihre Serviceanfrage wurde aktualisiert.",
+        "documentPending": "Dokument 'Arbeitsvertrag' wartet auf Überprüfung.",
+        "loggedIn": "Erfolgreich angemeldet."
+      }
+    },
+    "activityTrend": {
+      "title": "Aktivitätstrend (Letzte 14 Tage)",
+      "description": "Tägliche Entwicklung bei Dokumenten und Bestellungen.",
+      "series": {
+        "totalActivity": "Gesamtaktivität"
+      }
+    },
+    "tabs": {
+      "activity": "Aktivität",
+      "documents": "Dokumente",
+      "orders": "Bestellungen",
+      "legalAI": "Rechts-KI"
+    },
+    "analyticsOverview": {
+      "title": "Analyseübersicht",
+      "common": {
+        "count": "Anzahl"
+      },
+      "table": {
+        "name": "Name",
+        "status": "Status",
+        "created": "Erstellt",
+        "service": "Service",
+        "date": "Datum",
+        "topic": "Thema",
+        "messages": "Nachrichten",
+        "started": "Gestartet"
+      },
+      "activity": {
+        "title": "Aktivitätsvolumen",
+        "description": "Erstellte Dokumente, Bestellungen und Rechtsfragen der letzten 30 Tage."
+      },
+      "documents": {
+        "statusBreakdown": "Dokumentstatus-Aufschlüsselung",
+        "recentDocuments": "Neueste Dokumente"
+      },
+      "orders": {
+        "statusDistribution": "Bestellstatus-Verteilung",
+        "recentOrders": "Neueste Bestellungen"
+      },
+      "legal": {
+        "questionsLabel": "Rechtsfragen",
+        "byTopic": "Rechtsfragen nach Thema",
+        "recentConversations": "Neueste Gespräche"
+      }
+    }
+  },
+  "BusinessDashboard": {
+    "title": "Business-Dashboard",
+    "subtitle": "Willkommen! Hier ist ein Überblick über die Aktivitäten Ihres Unternehmens.",
+    "addEmployee": "Mitarbeiter hinzufügen",
+    "processPayroll": "Lohnabrechnung bearbeiten",
+    "kpi": {
+      "totalEmployees": "Mitarbeiter gesamt",
+      "employeesTrend": "+2 seit letztem Monat",
+      "pendingPayroll": "Umsatz",
+      "payrollTrend": "Letzte Abrechnungsperiode",
+      "activeLeaveRequests": "Aktive Urlaubsanträge",
+      "leaveTrend": {
+        "action": "Handlung erforderlich",
+        "clear": "Alles klar"
+      },
+      "monthlyPayrollCost": "Nettoergebnis",
+      "costTrend": "Aus den letzten Abschlüssen"
+    },
+    "payrollTrend": {
+      "title": "Lohnentwicklung (Letzte 6 Monate)",
+      "description": "Visualisierung Ihrer monatlichen Lohnkosten.",
+      "legend": "Lohnkosten"
+    },
+    "employeeDistribution": {
+      "title": "Mitarbeiterverteilung",
+      "description": "Aufschlüsselung der Mitarbeiter nach Abteilung."
+    },
+    "alerts": {
+      "title": "Warnungen & Erinnerungen",
+      "payrollDeadline": "Anstehende Lohnabrechnungsfrist in 5 Tagen.",
+      "leaveRequests": "{count, plural, one {# neuer Urlaubsantrag wartet} other {# neue Urlaubsanträge warten}} auf Genehmigung.",
+      "taxDeadline": "Die Steuererklärung für Q2 2024 ist in 12 Tagen fällig.",
+      "newDocument": "Ein neues Konformitätsdokument für den Kanton Waadt ist verfügbar.",
+      "view": "Ansehen"
+    },
+    "recentActivity": {
+      "title": "Letzte Aktivitäten",
+      "payrollProcessed": "Lohnabrechnung für {monthLabel} wurde bearbeitet.",
+      "leaveRequest": "Urlaubsantrag von {employeeName} ({leaveType}) wurde {status}.",
+      "documentCreated": "Dokument '{documentName}' wurde erstellt.",
+      "loading": "Lade Aktivitäten...",
+      "noActivity": "Keine aktuellen Unternehmensaktivitäten gefunden."
+    },
+    "docRequests": {
+      "title": "Von Lynvia angeforderte Dokumente",
+      "description": "Lynvia hat die folgenden Dokumente angefordert. Bitte laden Sie sie so schnell wie möglich im Dokumentencenter hoch.",
+      "uploadNow": "Jetzt hochladen"
+    },
+    "reports": {
+      "title": "Berichte & Analysen",
+      "subtitle": "Generieren Sie benutzerdefinierte Finanzberichte und verfolgen Sie wichtige Geschäftskennzahlen.",
+      "generator": {
+        "title": "Berichtsgenerator",
+        "description": "Wählen Sie einen Berichtstyp und einen Zeitraum, um Ihre Analyse zu generieren.",
+        "button": "Bericht generieren",
+        "generating": "Wird generiert..."
+      },
+      "types": {
+        "financial_summary": "Finanzübersicht",
+        "p_and_l": "Gewinn & Verlust (G&V)",
+        "expense_report": "Ausgabenbericht"
+      },
+      "periods": {
+        "q2_2024": "Q2 2024 (Apr-Jun)",
+        "last_30_days": "Letzte 30 Tage",
+        "last_90_days": "Letzte 90 Tage"
+      },
+      "results": {
+        "title": "Finanzübersicht - Q2 2024",
+        "description": "Ein Überblick über die finanzielle Leistung von April bis Juni 2024.",
+        "monthlyPerformance": "Monatliche Leistung (Umsatz vs. Gewinn)",
+        "expenseBreakdown": "Ausgabenaufschlüsselung nach Kategorie",
+        "exportCsv": "CSV exportieren",
+        "downloadPdf": "PDF herunterladen"
+      },
+      "empty": {
+        "title": "Einen Bericht generieren",
+        "description": "Wählen Sie den gewünschten Berichtstyp und Zeitraum, um zu beginnen."
+      }
+    }
+  },
+  "MyDocuments": {
+    "title": "Meine Dokumente",
+    "subtitle": "Verwalten Sie Ihre generierten und hochgeladenen Dokumente.",
+    "documentCenter": "Dokumentencenter",
+    "documentCenterDescription": "Alle Ihre sicheren Dokumente an einem Ort.",
+    "searchPlaceholder": "Dokumente suchen...",
+    "uploadButton": "Dokument hochladen",
+    "table": {
+      "name": "Name",
+      "type": "Typ",
+      "status": "Status",
+      "date": "Datum",
+      "actions": "Aktionen"
+    },
+    "status": {
+      "Approved": "Genehmigt",
+      "Pending Review": "Ausstehende Überprüfung",
+      "Draft": "Entwurf",
+      "Rejected": "Abgelehnt"
+    },
+    "actions": {
+      "label": "Aktionen",
+      "view": "Ansehen",
+      "download": "Herunterladen",
+      "downloadPdf": "PDF-Dokument",
+      "downloadWord": "Word-Dokument (.docx)",
+      "share": "Teilen",
+      "delete": "Löschen"
+    },
+    "dialog": {
+      "title": "Dokumentdetails",
+      "close": "Schließen"
+    },
+    "toast": {
+      "fetchError": "Ihre Dokumente konnten nicht abgerufen werden.",
+      "deleteSuccess": "Ihr Dokument wurde erfolgreich gelöscht.",
+      "deleteError": "Das Dokument konnte nicht gelöscht werden.",
+      "viewError": "Dokumenteninhalt konnte nicht abgerufen werden.",
+      "downloadPdf": "PDF wird vorbereitet...",
+      "downloadPdfError": "PDF konnte nicht heruntergeladen werden.",
+      "downloadWord": "Word-Dokument wird vorbereitet...",
+      "downloadWordError": "Word-Dokument konnte nicht generiert werden. Bitte versuchen Sie es erneut."
+    },
+    "noDocuments": "Keine Dokumente gefunden.",
+    "noMatch": "Keine Dokumente entsprechen Ihrer Suche."
+  },
+  "MyOrders": {
+    "title": "Meine Bestellungen",
+    "subtitle": "Verfolgen Sie den Status Ihrer gekauften Dienstleistungen.",
+    "refresh": "Aktualisieren",
+    "history": "Bestellverlauf",
+    "historyDescription": "Eine Liste aller Ihrer Serviceanfragen und deren aktueller Status.",
+    "table": {
+      "service": "Dienstleistung",
+      "date": "Datum",
+      "price": "Preis",
+      "status": "Status",
+      "actions": "Aktionen"
+    },
+    "priceQuotePending": "Angebot ausstehend",
+    "noOrders": "Sie haben noch keine Dienstleistungen gekauft.",
+    "browseServices": "Dienstleistungen durchsuchen",
+    "notLoggedIn": "Bitte melden Sie sich an, um Ihre Bestellungen anzuzeigen.",
+    "login": "Anmelden",
+    "toast": {
+      "fetchError": "Ihre Bestellungen konnten nicht abgerufen werden. Bitte versuchen Sie es erneut."
+    },
+    "orderDetails": {
+      "back": "Zurück zu den Bestellungen",
+      "title": "Bestelldetails",
+      "orderId": "Bestell-ID: {id}",
+      "orderDate": "Bestelldatum",
+      "lastUpdated": "Zuletzt aktualisiert",
+      "serviceType": "Dienstleistungstyp",
+      "amount": "Betrag",
+      "additionalInfo": "Zusätzliche Informationen bereitgestellt",
+      "needHelp": "Brauchen Sie Hilfe?",
+      "contactSupport": "Support kontaktieren",
+      "browseMore": "Weitere Dienste durchsuchen",
+      "toast": {
+        "accessDenied": "Zugriff verweigert",
+        "accessDeniedDescription": "Sie haben keine Berechtigung, diese Bestellung anzuzeigen.",
+        "notFound": "Bestellung nicht gefunden",
+        "notFoundDescription": "Die angeforderte Bestellung konnte nicht gefunden werden.",
+        "fetchError": "Bestelldetails konnten nicht abgerufen werden."
+      }
+    }
+  },
+  "Notifications": {
+    "title": "Benachrichtigungen",
+    "subtitle": "Alle Ihre wichtigen Updates, Warnungen und Erinnerungen an einem Ort.",
+    "yourNotifications": "Ihre Benachrichtigungen",
+    "markAllRead": "Alle als gelesen markieren",
+    "unreadCount": "Sie haben {count, plural, one {# ungelesene Benachrichtigung} other {# ungelesene Benachrichtigungen}}.",
+    "noNotifications": "Noch keine Benachrichtigungen",
+    "noNotificationsDescription": "Wichtige Updates werden hier angezeigt.",
+    "markAsRead": "Als gelesen markieren",
+    "archive": "Archivieren",
+    "toast": {
+      "fetchError": "Benachrichtigungen konnten nicht abgerufen werden.",
+      "markAllError": "Alle Benachrichtigungen konnten nicht als gelesen markiert werden."
+    }
+  },
+  "Settings": {
+    "title": "Profil",
+    "subtitle": "Verwalten Sie Ihr Konto und Ihre Profilinformationen.",
+    "shortcuts": {
+      "title": "Schnellzugriff",
+      "description": "Bestellungen, Zusatzleistungen und Benachrichtigungen an einem Ort.",
+      "orders": "Meine Bestellungen",
+      "services": "Leistungen kaufen",
+      "notifications": "Benachrichtigungen",
+      "wallet": "Wallet"
+    },
+    "usage": {
+      "title": "Szenario-Nutzung (dieser Monat)",
+      "description": "{used} von {total} kostenpflichtigen Szenarien genutzt. Säule 3a und MWST-Vergleiche sind unbegrenzt.",
+      "loading": "Wird geladen…"
+    },
+    "profile": {
+      "title": "Profilinformationen",
+      "description": "Aktualisieren Sie Ihre persönlichen Daten.",
+      "firstNameLabel": "Vorname",
+      "lastNameLabel": "Nachname",
+      "emailLabel": "E-Mail-Adresse (kann nicht geändert werden)",
+      "addressLabel": "Adresse (Strasse und Hausnummer)",
+      "addressPlaceholder": "z. B. Bahnhofstrasse 1",
+      "postalCodeLabel": "Postleitzahl",
+      "cityLabel": "Ort",
+      "dateOfBirthLabel": "Geburtsdatum",
+      "phoneLabel": "Telefonnummer",
+      "saveButton": "Änderungen speichern",
+      "toast": {
+        "successTitle": "Profil aktualisiert",
+        "successDescription": "Ihre persönlichen Daten wurden gespeichert.",
+        "errorTitle": "Aktualisierung fehlgeschlagen",
+        "errorDescription": "Ihr Profil konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut."
+      }
+    },
+    "password": {
+      "title": "Passwort ändern",
+      "description": "Aktualisieren Sie Ihr Passwort. Nach einer erfolgreichen Änderung werden Sie abgemeldet.",
+      "infoTitle": "Sicherheitshinweis",
+      "infoDescription": "Das Ändern Ihres Passworts erfordert aus Sicherheitsgründen die erneute Eingabe Ihres aktuellen Passworts.",
+      "currentPasswordLabel": "Aktuelles Passwort",
+      "newPasswordLabel": "Neues Passwort",
+      "confirmPasswordLabel": "Neues Passwort bestätigen",
+      "saveButton": "Passwort ändern",
+      "toast": {
+        "successTitle": "Passwort aktualisiert",
+        "successDescription": "Ihr Passwort wurde erfolgreich geändert. Bitte melden Sie sich erneut an.",
+        "errorTitle": "Aktualisierung fehlgeschlagen",
+        "errorDescription": "Ihr Passwort konnte nicht aktualisiert werden. Bitte versuchen Sie es erneut.",
+        "wrongPassword": "Das eingegebene aktuelle Passwort ist falsch."
+      }
+    },
+    "dangerZone": {
+      "title": "Gefahrenzone",
+      "description": "Diese Aktionen sind dauerhaft und können nicht rückgängig gemacht werden.",
+      "deleteButton": "Konto löschen",
+      "dialog": {
+        "title": "Sind Sie absolut sicher?",
+        "description": "Diese Aktion kann nicht rückgängig gemacht werden. Dadurch wird Ihr Konto dauerhaft gelöscht und Ihre Daten von unseren Servern entfernt.",
+        "cancel": "Abbrechen",
+        "confirm": "Ja, mein Konto löschen"
+      },
+      "toast": {
+        "successTitle": "Konto gelöscht",
+        "successDescription": "Ihr Konto wurde dauerhaft gelöscht.",
+        "errorTitle": "Löschen fehlgeschlagen",
+        "errorDescription": "Ihr Konto konnte nicht gelöscht werden. Bitte versuchen Sie es erneut oder kontaktieren Sie den Support."
+      }
+    }
+  },
+  "ScenarioCalculator": {
+    "title": "Szenarienrechner",
+    "subtitle": "Geben Sie Ihre vollständige finanzielle Situation ein (Einkommen, Abzüge, Vermögen, Schulden), um Ihr Masterprofil zu erstellen. Dies dient als Grundlage für alle zukünftigen Szenarien.",
+    "embed": {
+      "title": "Schweizer Referenz-Steuerrechner",
+      "description": "Nutzen Sie diesen eingebetteten Rechner für detaillierte kantonale und bundesstaatliche Schätzungen. Tragen Sie Ihre Referenz in die Lynvia-Formulare unten ein und starten Sie dann ein Szenario, um Abweichungen zu vergleichen.",
+      "iframeTitle": "Schweizer Steuerrechner",
+      "disclaimer": "Drittanbieter-Tool nur zu Informationszwecken. Die Lynvia-Ergebnisse unten basieren auf der Lynvia-Berechnungsengine."
+    },
+    "selectScenario": "Szenario auswählen",
+    "selectScenarioPlaceholder": "Szenario zum Analysieren auswählen...",
+    "selectScenarioRequired": "Bitte zuerst ein Szenario auswählen",
+    "selectScenarioRequiredHint": "Wählen Sie im Dropdown oben aus, welches Szenario Sie berechnen möchten.",
+    "scenarioTitles": {
+      "income_change": "Gehaltsänderung",
+      "job_loss": "Jobverlust",
+      "child_birth": "Neues Kind",
+      "marriage": "Heirat",
+      "pillar_3a": "Säule 3a",
+      "pillar_2_buyback": "Einkauf 2. Säule",
+      "supplementary_benefits": "Ergänzungsleistungen",
+      "vat_comparison": "MWST-Vergleich"
+    },
+    "common": {
+      "municipality": "Gemeinde",
+      "maritalStatus": "Zivilstand",
+      "single": "Ledig",
+      "married": "Verheiratet",
+      "children": "Kinder",
+      "age": "Alter",
+      "religion": "Religion",
+      "noneOther": "Keine/Andere",
+      "catholic": "Katholisch",
+      "protestant": "Protestantisch",
+      "salaryChf": "Gehalt (CHF)",
+      "calculating": "Wird berechnet...",
+      "calculateScenario": "Szenario berechnen"
+    },
+    "access": {
+      "title": "Einzelzugang",
+      "description": "Ihr Plan beinhaltet {count} kostenpflichtige Szenarioberechnungen pro Monat ausserhalb der Säule 3a.",
+      "usedThisMonth": "Diesen Monat genutzt: {used} von {total}.",
+      "syncing": "Synchronisierung...",
+      "additionalScenarioPrice": "Zusätzliche Szenarien: CHF {price} pro Stück.",
+      "unlimitedPillar3a": "Säule-3a-Simulationen bleiben unbegrenzt.",
+      "limitReached": {
+        "title": "Monatliches Szenariolimit erreicht",
+        "description": "Sie haben Ihre {count} enthaltenen Szenarien in diesem Monat aufgebraucht. Zusätzliche Szenarien kosten CHF {price} pro Stück."
+      },
+      "paymentError": {
+        "title": "Zahlung fehlgeschlagen",
+        "description": "Zahlung konnte nicht verarbeitet werden. Bitte versuchen Sie es erneut."
+      },
+      "paymentSuccess": {
+        "title": "Zahlung erfolgreich",
+        "description": "Sie können jetzt zusätzliche Szenarien generieren."
+      }
+    },
+    "fallback": {
+      "aiAnalysisUnavailable": "Die KI-Analyse ist vorübergehend nicht verfügbar."
+    },
+    "recommendations": {
+      "cantonalFamilyFund": "Wichtig: Wenn das kombinierte Jahreseinkommen Ihrer Familie bis zu CHF 100.000 beträgt, klären Sie bei Ihrem Kanton ab, ob Anspruch auf den kantonalen Familienfonds besteht (eine einmalige Zahlung am Jahresende für Familien mit niedrigem Einkommen)."
+    },
+    "masterProfile": {
+      "button": "Aktuelle Situation speichern",
+      "saving": "Wird gespeichert...",
+      "description": "Speichern Sie Ihre aktuellen Eingaben als Masterprofil. Diese Werte werden bei jedem Besuch des Szenarienrechners vorausgefüllt.",
+      "saved": {
+        "title": "Masterprofil gespeichert",
+        "description": "Ihre finanzielle Ausgangssituation wurde gespeichert und wird bei Ihrem nächsten Besuch vorausgefüllt."
+      },
+      "saveError": {
+        "title": "Speichern fehlgeschlagen",
+        "description": "Masterprofil konnte nicht gespeichert werden. Bitte versuchen Sie es erneut."
+      }
+    },
+    "masterCalculator": {
+      "title": "Schweizer Steuerrechner (Master)",
+      "description": "Gleiche Kernlogik wie swisstaxcalculator-master. Speichern Sie Ihre Basis und verwenden Sie sie in der Szenarioanalyse wieder.",
+      "labels": {
+        "taxYear": "Steuerjahr",
+        "relationship": "Beziehungsstatus",
+        "netFortune": "Nettovermögen (CHF)",
+        "incomeType": "Einkommensart",
+        "income": "Einkommen (CHF)",
+        "pkDeduction": "PK-Abzug"
+      },
+      "sections": {
+        "person1": "Person 1",
+        "person1Deductions": "Abzüge Person 1",
+        "person2": "Person 2",
+        "person2Deductions": "Abzüge Person 2",
+        "generalDeductions": "Allgemeine Abzüge"
+      },
+      "buttons": {
+        "calculating": "Wird berechnet...",
+        "calculateTaxes": "Steuern berechnen",
+        "saving": "Wird gespeichert...",
+        "saveCurrentSituation": "Aktuelle Situation speichern"
+      },
+      "results": {
+        "title": "Ergebnis Steuerberechnung",
+        "empty": "Berechnung ausführen, um die vollständige Master-Aufschlüsselung anzuzeigen.",
+        "cantonalTax": "Kantonssteuer",
+        "municipalTax": "Gemeindesteuer",
+        "churchTax": "Kirchensteuer",
+        "federalTax": "Bundessteuer",
+        "incomeTax": "Einkommenssteuer",
+        "fortuneTax": "Vermögenssteuer",
+        "totalIncomeTax": "Gesamte Einkommenssteuer",
+        "totalFortuneTax": "Gesamte Vermögenssteuer",
+        "totalTaxes": "Gesamtsteuern"
+      },
+      "tables": {
+        "title": "Detaillierte Steueraufschlüsselung",
+        "grossNet": "Brutto / netto",
+        "p1": "P1",
+        "p2": "P2",
+        "income": "Einkommen",
+        "canton": "Kanton",
+        "federal": "Bund",
+        "fortune": "Vermögen"
+      },
+      "rows": {
+        "grossIncome": "Bruttoeinkommen",
+        "ahvIvEo": "AHV/IV/EO",
+        "alv": "ALV",
+        "nbu": "NBU",
+        "pensionFund": "Pensionskasse (PK)",
+        "netIncome": "Nettoeinkommen",
+        "netIncomeMainOccupation": "Nettoeinkommen Haupterwerb",
+        "taxableIncome": "Steuerbares Einkommen",
+        "netFortune": "Nettovermögen",
+        "taxableFortune": "Steuerbares Vermögen"
+      },
+      "toast": {
+        "municipalityRequired": {
+          "title": "Gemeinde erforderlich",
+          "description": "Bitte wählen Sie vor der Berechnung eine Gemeinde aus."
+        },
+        "municipalityBeforeSave": {
+          "description": "Wählen Sie vor dem Speichern eine Gemeinde aus."
+        },
+        "calculationSuccess": {
+          "title": "Steuerberechnung abgeschlossen",
+          "description": "Die Master-Logik der Schweizer Steuern wurde angewendet."
+        },
+        "calculationFailed": {
+          "title": "Steuerberechnung fehlgeschlagen",
+          "fallback": "Steuern konnten nicht berechnet werden."
+        },
+        "signInRequired": {
+          "title": "Anmeldung erforderlich",
+          "description": "Bitte melden Sie sich an, um Ihre Basis zu speichern."
+        },
+        "baselineSaved": {
+          "title": "Basis gespeichert",
+          "description": "Ihre aktuelle Situation ist für alle zukünftigen Szenarien gespeichert."
+        },
+        "saveFailed": {
+          "title": "Speichern fehlgeschlagen",
+          "description": "Ihr Basisprofil konnte nicht gespeichert werden."
+        }
+      },
+      "locationSearch": {
+        "loading": "Lädt...",
+        "selectMunicipality": "Gemeinde auswählen...",
+        "searchPlaceholder": "Stadt oder Postleitzahl suchen...",
+        "noMunicipalityFound": "Keine Gemeinde gefunden."
+      }
+    },
+    "paywall": {
+      "exportLimitReached": {
+        "title": "Exportlimit erreicht",
+        "description": "Sie haben Ihre 2 kostenlosen PDF-Exporte verbraucht. Weitere Exporte kosten CHF 10.-. Bitte kontaktieren Sie den Support."
+      }
+    },
+    "expertReview": {
+      "submitted": {
+        "title": "Anfrage gesendet",
+        "description": "Ein Lynvia-Experte wird Ihr Szenario innerhalb von 48 Stunden prüfen."
+      },
+      "error": {
+        "title": "Anfrage fehlgeschlagen",
+        "description": "Anfrage konnte nicht gesendet werden. Bitte versuchen Sie es erneut."
+      },
+      "adminNotif": {
+        "title": "Expertenprüfung angefordert",
+        "description": "{name} hat eine Expertenprüfung für ihr/sein Szenario angefordert."
+      }
+    },
+    "forms": {
+      "incomeChange": {
+        "title": "Szenario Gehaltsänderung",
+        "description": "Vergleichen Sie Ihr aktuelles und neues Gehalt nach Steuern.",
+        "fields": {
+          "currentGrossSalary": "Aktuelles Jahresgehalt (CHF)",
+          "newGrossSalary": "Neues Jahresgehalt (CHF)",
+          "fortune": "Nettovermögen (CHF)"
+        },
+        "descriptions": {
+          "fortune": "Gesamtvermögen minus Schulden (für die Vermögenssteuer)"
+        }
+      },
+      "jobLoss": {
+        "title": "Szenario Jobverlust",
+        "description": "Analysieren Sie die finanziellen Auswirkungen von Arbeitslosigkeit und berechnen Sie Leistungen.",
+        "fields": {
+          "currentGrossSalary": "Aktuelles Jahresgehalt (CHF)",
+          "yearsEmployed": "Beschäftigungsjahre",
+          "unemploymentDuration": "Erwartete Dauer (Monate)",
+          "hasChildren": "Hat Kinder"
+        },
+        "descriptions": {
+          "yearsEmployed": "Beeinflusst die Bezugsdauer",
+          "hasChildren": "Mit Kindern: 80 % Leistungssatz, ohne: 70 %"
+        }
+      },
+      "childBirth": {
+        "title": "Szenario neues Kind",
+        "description": "Berechnen Sie Steuervorteile, Familienzulagen und Zuschüsse für ein neues Kind.",
+        "fields": {
+          "currentGrossSalary": "Ihr Jahresgehalt (CHF)",
+          "spouseSalary": "Gehalt des Ehepartners (CHF)",
+          "dependents": "Aktuelle Kinder",
+          "age": "Ihr Alter",
+          "estimatedChildcareCosts": "Geschätzte jährliche Kinderbetreuungskosten (CHF)"
+        },
+        "descriptions": {
+          "estimatedChildcareCosts": "Abziehbar bis CHF 25.000/Jahr (je nach kantonalen Grenzen)"
+        }
+      },
+      "marriage": {
+        "title": "Szenario Heirat",
+        "description": "Vergleichen Sie die Steuern von zwei Ledigen mit denen eines verheirateten Paares.",
+        "sections": {
+          "person1": "Person 1",
+          "person2": "Person 2",
+          "afterMarriage": "Nach der Heirat"
+        },
+        "fields": {
+          "person1LocationId": "Gemeinde (Person 1)",
+          "person2LocationId": "Gemeinde (Person 2)",
+          "futureLocationId": "Zukünftige Gemeinde",
+          "combinedDependents": "Kinder insgesamt"
+        }
+      },
+      "pillar3a": {
+        "title": "Säule-3a-Beitrag",
+        "description": "Berechnen Sie die Steuerersparnis aus Vorsorgebeiträgen.",
+        "fields": {
+          "currentGrossSalary": "Jährliches Bruttogehalt (CHF)",
+          "hasOccupationalPension": "Hat berufliche Vorsorge (BVG)",
+          "contributionAmount": "Beitragsbetrag (CHF)",
+          "annualReturnRate": "Erwartete Rendite (% p.a.)",
+          "projectionYears": "Projektionshorizont (Jahre)"
+        },
+        "descriptions": {
+          "hasOccupationalPension": "Maximaler Beitrag: {amount} (2024)",
+          "contributionAmount": "Maximum: {amount}",
+          "annualReturnRate": "Standard: 5 % pro Jahr",
+          "projectionYears": "Minimum: 20 Jahre"
+        },
+        "buttons": {
+          "submit": "Steuerersparnis berechnen"
+        }
+      },
+      "pillar2Buyback": {
+        "title": "Einkauf 2. Säule (BVG)",
+        "description": "Berechnen Sie die Steuerersparnis durch freiwillige Pensionskasseneinkäufe.",
+        "fields": {
+          "currentGrossSalary": "Jährliches Bruttogehalt (CHF)",
+          "currentPensionGap": "Vorsorgelücke (CHF)",
+          "buybackAmount": "Einkaufsbetrag (CHF)"
+        },
+        "descriptions": {
+          "currentPensionGap": "Verfügbares Einkaufspotenzial"
+        },
+        "alert": {
+          "title": "Wichtig",
+          "description": "Nach einem Einkauf können Sie das Kapital 3 Jahre lang nicht als Kapitalbezug entnehmen. Erwägen Sie, Einkäufe über mehrere Jahre zu verteilen."
+        },
+        "buttons": {
+          "submit": "Steuerersparnis berechnen"
+        }
+      },
+      "vatComparison": {
+        "title": "MWST-Vergleich",
+        "description": "Vergleichen Sie effektive und pauschale MWST-Methoden für Ihr Unternehmen.",
+        "fields": {
+          "ca": "Jahresumsatz (CHF)",
+          "secteur": "Branche",
+          "achats": "Jährliche Einkäufe (CHF)",
+          "depenses": "Jährliche Ausgaben (CHF)"
+        },
+        "buttons": {
+          "submit": "MWST-Methoden vergleichen"
+        }
+      }
+    },
+    "results": {
+      "analysisTitle": "Analyse: {scenario}",
+      "healthSubsidyIncluded": "Der Krankenkassenzuschuss ist in dieser Schätzung enthalten.",
+      "currentSituation": "Aktuelle Situation",
+      "futureSituation": "Zukünftige Situation",
+      "taxChange": "Steueränderung",
+      "netIncomeChange": "Änderung des Nettoeinkommens",
+      "allowancesBenefits": "Zulagen und Leistungen",
+      "totalAdditionalBenefits": "Zusätzliche Leistungen gesamt",
+      "perYearSuffix": "/Jahr",
+      "recommendations": "Empfehlungen",
+      "potentialImpacts": "Mögliche Auswirkungen",
+      "pillar3aOffers": {
+        "title": "Säule-3a-Angebote ansehen",
+        "description": "Vergleichen Sie steueroptimierte Vorsorgelösungen und erhalten Sie Hilfe bei der passenden Beitragsstrategie.",
+        "button": "Steuerdienstleistungen ansehen"
+      },
+      "scenarioTitles": {
+        "income_change": "Gehaltsänderung",
+        "job_loss": "Jobverlust",
+        "child_birth": "Neues Kind",
+        "marriage": "Heirat",
+        "pillar_3a": "Säule 3a",
+        "pillar_2_buyback": "Einkauf 2. Säule",
+        "supplementary_benefits": "Ergänzungsleistungen"
+      },
+      "situationCard": {
+        "grossIncome": "Bruttoeinkommen",
+        "totalTax": "Gesamtsteuer",
+        "benefitsAllowances": "Leistungen und Zulagen",
+        "netIncome": "Nettoeinkommen",
+        "effectiveTaxRate": "Effektiver Steuersatz"
+      },
+      "emptyState": {
+        "title": "Szenario ausführen",
+        "description": "Wählen Sie ein Szenario, füllen Sie das Formular aus und berechnen Sie die finanziellen Auswirkungen."
+      },
+      "exportPdf": "PDF exportieren",
+      "expertReview": {
+        "button": "Expertenprüfung & Strategieberatung anfordern",
+        "requesting": "Anfrage wird gesendet...",
+        "description": "Ein Lynvia-Experte überprüft Ihr Szenario manuell und entwickelt eine individuelle Strategie (CHF 50.-)"
+      }
+    },
+    "supplementaryBenefits": {
+      "meta": {
+        "scenarioType": "Ergänzungsleistungen (EL)"
+      },
+      "form": {
+        "title": "Ergänzungsleistungen (EL)",
+        "description": "Schätzen Sie den Anspruch für Rentnerinnen/Rentner und IV-Bezügerinnen/IV-Bezüger.",
+        "fields": {
+          "annualRetirementIncome": "Jährliches Renteneinkommen (CHF)",
+          "annualDisabilityIncome": "Jährliche IV-Leistungen (CHF)",
+          "otherAnnualIncome": "Sonstiges Jahreseinkommen (CHF)",
+          "annualHousingCosts": "Jährliche Wohnkosten (CHF)",
+          "annualHealthInsurancePremium": "Jährliche Krankenkassenprämie (CHF)",
+          "netAssets": "Nettovermögen (CHF)",
+          "municipality": "Gemeinde",
+          "maritalStatus": "Zivilstand",
+          "dependents": "Unterhaltsberechtigte Kinder",
+          "age": "Alter",
+          "isRetired": "Rentner/in",
+          "receivesAiBenefits": "Bezieht IV-Leistungen"
+        },
+        "descriptions": {
+          "annualHousingCosts": "Miete + Nebenkosten für die anerkannten EL-Ausgaben.",
+          "annualHealthInsurancePremium": "Obligatorische Krankenversicherungsprämie (KVG).",
+          "netAssets": "Ersparnisse, Wertschriften und sonstige anrechenbare Vermögenswerte."
+        },
+        "options": {
+          "single": "Ledig",
+          "married": "Verheiratet"
+        },
+        "buttons": {
+          "calculating": "Wird berechnet...",
+          "submit": "Ergänzungsleistungen schätzen"
+        }
+      },
+      "analysis": {
+        "context": {
+          "retired": "Rentner/in",
+          "aiBeneficiary": "IV-Bezüger/in",
+          "and": "und"
+        },
+        "summary": {
+          "eligible": "Ein geschätzter Anspruch wurde für {context} festgestellt.",
+          "notEligible": "Für {context} wurde beim angegebenen Einkommen kein geschätzter Anspruch festgestellt."
+        },
+        "recommendations": {
+          "prepareRecords": "Bereiten Sie offizielle Einkommens- und Vermögensnachweise vor, bevor Sie den EL-Antrag einreichen.",
+          "contactCantonalOffice": "Kontaktieren Sie die kantonale Sozialstelle, um den endgültigen Anspruch und die auszahlbare Höhe zu bestätigen.",
+          "requestFullAssessment": "Bitten Sie die kantonale Sozialstelle um eine vollständige EL-Abklärung, insbesondere wenn sich Ihre Situation kürzlich geändert hat."
+        },
+        "impacts": {
+          "estimatedAnnualBenefit": "Geschätzte jährliche Ergänzungsleistungen: {amount}",
+          "recognizedExpenses": "Anerkannte jährliche Ausgaben: {amount}",
+          "determiningIncome": "Anrechenbares Jahreseinkommen: {amount}"
+        }
+      },
+      "toast": {
+        "eligibilityContextRequired": {
+          "title": "Angaben zur Anspruchsprüfung erforderlich",
+          "description": "Bitte geben Sie den Rentenstatus und/oder IV-Leistungen an, um Ergänzungsleistungen zu schätzen."
+        },
+        "complete": {
+          "title": "Schätzung der Ergänzungsleistungen abgeschlossen",
+          "description": "Geschätzter Jahresanspruch: {amount}"
+        }
+      }
+    }
+  },
+  "TaxServices": {
+    "title": "Steuerdienstleistungen",
+    "subtitle": "Durchsuchen Sie unsere professionellen Steuerdienstleistungen, die darauf ausgelegt sind, Ihre Finanzen zu vereinfachen und Ihre Ersparnisse zu maximieren.",
+    "services": {
+      "annual": {
+        "title": "Jährliche Steuererklärung",
+        "description": "Umfassende Vorbereitung und Einreichung Ihrer jährlichen Schweizer Steuererklärung für Ihren Kanton. Wir stellen sicher, dass alle Abzüge maximiert und Ihre Erklärung korrekt und pünktlich eingereicht wird.",
+        "priceDescription": "Ab",
+        "actionText": "Loslegen"
+      },
+      "optimization": {
+        "title": "Steueroptimierungsprüfung",
+        "description": "Unsere Experten analysieren Ihre finanzielle Situation und erstellen einen detaillierten Bericht über potenzielle Steuereinsparungen. Enthält personalisierte Empfehlungen für Abzüge und Gutschriften.",
+        "priceDescription": "",
+        "actionText": "Kaufen"
+      },
+      "crossBorder": {
+        "title": "Grenzüberschreitende Steuerberatung",
+        "description": "Spezialisierte Beratung für Personen, die grenzüberschreitend arbeiten oder ausländische Vermögenswerte halten (z. B. G-Bewilligungsinhaber, internationale Wochenpendler). Navigieren Sie mühelos durch komplexe Steuerabkommen.",
+        "priceDescription": "Angebot anfordern",
+        "actionText": "Angebot anfordern"
+      },
+      "pension": {
+        "title": "Vorsorge & 3. Säule Beratung",
+        "description": "Optimieren Sie Ihre Beiträge zur Säule 3a/3b für maximale Steuerabzüge und einen sicheren Ruhestand. Wir helfen Ihnen, Ihre Zukunft zu verstehen und zu planen.",
+        "priceDescription": "",
+        "actionText": "Kaufen"
+      },
+      "crypto": {
+        "title": "Kryptowährungs-Steuererklärung",
+        "description": "Wir erstellen eine konforme Steuererklärung für Ihre Krypto-Vermögenswerte, die Kapitalgewinne und Vermögenssteuer abdeckt. Unterstützt alle gängigen Börsen und Wallets.",
+        "priceDescription": "Ab",
+        "actionText": "Loslegen"
+      },
+      "realEstate": {
+        "title": "Immobilien-Steuerberatung",
+        "description": "Anleitung zur Grundstücksgewinnsteuer, Mieteinnahmenbesteuerung und erbschafts- oder schenkungsrechtlichen Auswirkungen bei Immobilien. Fachkundige Beratung für Immobilieneigentümer und Investoren.",
+        "priceDescription": "Angebot anfordern",
+        "actionText": "Angebot anfordern"
+      }
+    },
+    "checkout": {
+      "backButton": "Zurück zu den Diensten",
+      "additionalInfoLabel": "Zusätzliche Informationen & Dokumente",
+      "additionalInfoPlaceholder": "Bitte geben Sie alle relevanten Details für Ihre Serviceanfrage an. Sie können auch alle Dokumente erwähnen, die Sie bereitstellen müssen (z. B. Gehaltsabrechnungen, Vermögensaufstellungen).",
+      "processingButton": "Wird bearbeitet...",
+      "calculatedTotal": "Berechnete Summe: CHF {price}",
+      "fixedPrice": "Festpreis: CHF {price}",
+      "fields": {
+        "children": {
+          "label": "Anzahl Kinder (+CHF 10 je Kind)",
+          "placeholder": "Kinder auswählen"
+        },
+        "properties": {
+          "label": "Anzahl Immobilien (+CHF 30 je Objekt)",
+          "placeholder": "Immobilien auswählen"
+        },
+        "bankAssets": {
+          "label": "Bankkonten / Wertschriften / Aktien",
+          "placeholder": "Kontenbereich auswählen"
+        },
+        "dependents": {
+          "label": "Unterhaltsberechtigte (+CHF 10 je Person)",
+          "placeholder": "Unterhaltsberechtigte auswählen"
+        }
+      },
+      "pricingBreakdown": {
+        "title": "Preisaufschlüsselung",
+        "base": "Basis: CHF {price}",
+        "children": "Kinderzuschlag: CHF {price}",
+        "properties": "Immobilienzuschlag: CHF {price}",
+        "bankAssets": "Zuschlag für Bankvermögen: CHF {price}",
+        "dependents": "Zuschlag für Unterhaltsberechtigte: CHF {price}",
+        "total": "Gesamt: CHF {price}"
+      },
+      "errors": {
+        "checkoutSession": "Checkout-Sitzung konnte nicht erstellt werden.",
+        "stripeNotLoaded": "Stripe.js wurde noch nicht geladen."
+      },
+      "postPurchaseTitle": "Diese Steuererklärung ist bereits aktiv",
+      "postPurchaseDescription": "Preise werden ausgeblendet, solange Ihre Bestellung läuft. Öffnen Sie den Hub Jahressteuererklärung zum Hochladen und zur Fortschrittsanzeige.",
+      "goToHub": "Jahressteuererklärung öffnen"
+    },
+    "list": {
+      "startingAtPrice": "Ab CHF {price}"
+    },
+    "catalog": {
+      "couple-inactive": {
+        "title": "Steuererklärung - Paar (nicht erwerbstätig)",
+        "description": "Schweizer Steuererklärungsservice für nicht erwerbstätige Paare mit dynamischer Preisgestaltung je nach Komplexität.",
+        "actionText": "Konfigurieren und weiter"
+      },
+      "couple-retired": {
+        "title": "Steuererklärung - Paar (pensioniert)",
+        "description": "Schweizer Steuererklärungsservice für pensionierte Paare mit dynamischer Preisgestaltung je nach Komplexität.",
+        "actionText": "Konfigurieren und weiter"
+      },
+      "couple-salaried": {
+        "title": "Steuererklärung - Paar (angestellt)",
+        "description": "Schweizer Steuererklärungsservice für angestellte Paare mit dynamischer Preisgestaltung je nach Komplexität.",
+        "actionText": "Konfigurieren und weiter"
+      },
+      "single-inactive": {
+        "title": "Steuererklärung - Einzelperson (nicht erwerbstätig)",
+        "description": "Schweizer Steuererklärungsservice für nicht erwerbstätige Einzelpersonen mit dynamischer Preisgestaltung je nach Komplexität.",
+        "actionText": "Konfigurieren und weiter"
+      },
+      "single-retired": {
+        "title": "Steuererklärung - Einzelperson (pensioniert)",
+        "description": "Schweizer Steuererklärungsservice für pensionierte Einzelpersonen mit dynamischer Preisgestaltung je nach Komplexität.",
+        "actionText": "Konfigurieren und weiter"
+      },
+      "single-salaried": {
+        "title": "Steuererklärung - Einzelperson (angestellt)",
+        "description": "Schweizer Steuererklärungsservice für angestellte Einzelpersonen mit dynamischer Preisgestaltung je nach Komplexität.",
+        "actionText": "Konfigurieren und weiter"
+      },
+      "permit-b-simplified": {
+        "title": "Vereinfachte Erklärung für Bewilligung B",
+        "description": "Schweizer Steuererklärungsservice mit Festpreis für vereinfachte Fälle mit Bewilligung B.",
+        "actionText": "Weiter zur Kasse"
+      }
+    },
+    "orderFollowUp": {
+      "title": "Ihre Steuererklärung",
+      "documentsLabel": "Pflichtdokumente",
+      "documentProgress": "{uploaded} von {required} Pflichtdokumenten gesendet",
+      "mandatoryDocumentsTitle": "Erforderliche Dokumente",
+      "uploadButton": "Hochladen",
+      "replaceButton": "Ersetzen",
+      "uploadedLabel": "Hochgeladen",
+      "allSubmittedTitle": "Alle Dokumente eingereicht!",
+      "allSubmittedDescription": "Ihre Dokumente wurden an unser Team übermittelt. Wir werden in Kürze mit Ihrer Steuererklärung beginnen.",
+      "uploadDocuments": "Dokumente hochladen",
+      "downloadDocuments": "Dokumente herunterladen",
+      "viewOrderDetails": "Bestelldetails anzeigen",
+      "buyAnother": "Weiteren Steuerservice kaufen",
+      "backToOrder": "Zurück zu meiner Bestellung",
+      "docs": {
+        "salaryCertificate": "Lohnausweis",
+        "bankStatement": "Jahresendauszug der Bank",
+        "pillar3aCertificate": "3. Säule Bescheinigung",
+        "spouseSalary": "Lohnausweis des Ehepartners",
+        "childcareCertificate": "Kinderbetreuungs- / Schulbescheinigung",
+        "propertyStatement": "Immobilieneinkommensnachweis"
+      },
+      "statuses": {
+        "paid": {
+          "label": "Zahlung eingegangen",
+          "description": "Bitte laden Sie Ihre Pflichtdokumente in Meine Dokumente hoch, um zu beginnen."
+        },
+        "inProgress": {
+          "label": "Experte arbeitet daran",
+          "description": "Unser Team arbeitet aktiv an Ihrer Steuererklärung. Sie werden benachrichtigt, wenn sie fertig ist."
+        },
+        "pendingReview": {
+          "label": "Vom Experten eingereicht",
+          "description": "Ihre Steuererklärung wurde vorbereitet. Laden Sie Ihre finalisierten Dokumente unten herunter."
+        }
+      }
+    },
+    "successPage": {
+      "title": "Zahlung eingeleitet!",
+      "description": "Ihre Zahlung wird bearbeitet. Sie erhalten in Kürze eine Bestätigungs-E-Mail und Ihr Bestellstatus wird auf der Seite \"Meine Bestellungen\" aktualisiert, sobald die Zahlung erfolgreich ist.",
+      "button": "Zu meinen Bestellungen gehen"
+    },
+    "cancelPage": {
+      "title": "Zahlung abgebrochen",
+      "description": "Ihre Zahlung wurde nicht abgeschlossen. Sie können zu Ihren Bestellungen zurückkehren und es erneut versuchen.",
+      "button": "Zurück zu meinen Bestellungen"
+    },
+    "toast": {
+      "notLoggedIn": {
+        "title": "Nicht angemeldet",
+        "description": "Sie müssen angemeldet sein, um einen Dienst zu erwerben."
+      },
+      "quoteSent": {
+        "title": "Angebotsanfrage gesendet",
+        "description": "Vielen Dank! Unser Team wird Ihre Anfrage prüfen und sich in Kürze bei Ihnen melden."
+      },
+      "requestFailed": {
+        "title": "Anfrage fehlgeschlagen",
+        "description": "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+      }
+    },
+    "fallback": {
+      "anonymousUser": "Anonymer Benutzer"
+    }
+  },
+  "PayrollProcessing": {
+    "title": "Lohnverarbeitung",
+    "subtitle": "Verwalten Sie die Lohn- und Gehaltsabrechnung mit den gemeinsamen Zuschussregeln, die für Einzelpersonen und Unternehmen gelten.",
+    "kpi": {
+      "grossPayroll": "Bruttolohnsumme",
+      "deductions": "Mitarbeiterabzüge",
+      "allowances": "Familienzulagen",
+      "netPay": "Netto vor Steuern",
+      "employerCost": "Arbeitgeberkosten"
+    },
+    "tabs": {
+      "manual": "Manuelle Verarbeitung",
+      "csv": "CSV-Upload"
+    },
+    "manualProcessing": {
+      "title": "Lohnlauf - {monthLabel}",
+      "description": "Verarbeiten Sie Mitarbeiter anhand der derzeit in ihren Unternehmensunterlagen gespeicherten Lohndaten.",
+      "table": {
+        "employee": "Mitarbeiter",
+        "grossSalary": "Bruttogehalt",
+        "deductions": "Abzüge",
+        "allowances": "Familienzulagen",
+        "netBeforeTax": "Netto vor Steuern",
+        "employerCost": "Arbeitgeberkosten",
+        "status": "Status"
+      },
+      "noEmployees": "Für dieses Unternehmen wurden keine aktiven Mitarbeiter gefunden.",
+      "exportAll": "Alle exportieren",
+      "processSelected": "{count} Mitarbeiter verarbeiten",
+      "processing": "Wird verarbeitet..."
+    },
+    "recentRuns": {
+      "title": "Letzte Lohnläufe",
+      "description": "Neueste gespeicherte Lohnstapel für Ihr Unternehmen.",
+      "table": {
+        "month": "Monat",
+        "source": "Quelle",
+        "employees": "Mitarbeiter",
+        "grossPayroll": "Bruttolohnsumme",
+        "employerCost": "Arbeitgeberkosten",
+        "actions": "Aktionen"
+      },
+      "noRuns": "Es wurden noch keine Lohnläufe verarbeitet."
+    },
+    "csvUpload": {
+      "title": "CSV-Upload",
+      "description": "Laden Sie Lohneingaben für bestehende Mitarbeiter-IDs hoch und verarbeiten Sie den Stapel für {monthLabel}.",
+      "templateDescription": "Laden Sie die Vorlage herunter, um sicherzustellen, dass Ihre CSV-Datei den vom System erwarteten Mitarbeiterdaten entspricht.",
+      "downloadTemplate": "Vorlage herunterladen",
+      "dropzone": {
+        "label": "Zum Hochladen klicken oder per Drag & Drop ziehen",
+        "fileType": "CSV-Datei (MAX. 5MB)"
+      },
+      "loadedFile": "Geladene Datei:",
+      "parsedRows": "Geparste Zeilen:",
+      "validCsv": "CSV-Struktur scheint gültig zu sein.",
+      "uploadAndProcess": "Hochladen & Verarbeiten"
+    },
+    "salaryCostOverview": {
+      "title": "Lohnabrechnungen & Kommunikation",
+      "subtitle": "Monatliche Lohndaten für jeden Mitarbeitenden erfassen und Kostenschätzungen verfolgen.",
+      "monthlyPayroll": {
+        "title": "Monatliche Lohnabrechnung",
+        "subtitle": "Klicken Sie auf eine Mitarbeiterzeile, um die Lohndaten für den aktuellen Monat einzugeben.",
+        "salaryType": "Typ",
+        "statusCol": "Status (gewählter Monat)",
+        "payrollMonthLabel": "Lohnmonat",
+        "payrollMonthHelp": "Kalendermonat für Meldungen und Status in der Tabelle wählen.",
+        "estimatedGrossCol": "Gesch. Brutto (Monat)",
+        "hourly": "Stundenlohn",
+        "monthly": "Monatslohn",
+        "submitted": "Eingereicht",
+        "pending": "Ausstehend",
+        "dialogDescription": "Geben Sie die Lohndaten für den ausgewählten Monat ein.",
+        "month": "Monat",
+        "hours": "Geleistete Stunden",
+        "additionalFields": "Weitere Positionen",
+        "feesToReimburse": "Spesen Erstattung",
+        "feesToDeduct": "Spesen Abzug",
+        "privateVehicleKm": "Privatfahrzeug (km)",
+        "mealsToReimburse": "Mahlzeiten Erstattung",
+        "mealsToDeduct": "Mahlzeiten Abzug",
+        "bonus": "Bonus",
+        "prime": "Prämie",
+        "estimatedGrossLabel": "Geschätzter Bruttolohn",
+        "vehicleRateNote": "Fahrzeugentschädigung zu CHF {rate}/km (Schweizer Standardsatz)",
+        "disclaimer": "Definitive Lohnabrechnungsinformationen werden von Lynvia bereitgestellt. Dies ist nur eine Schätzung.",
+        "cancel": "Abbrechen",
+        "submit": "Einreichen und Schätzung generieren",
+        "submitting": "Wird eingereicht...",
+        "toastTitle": "Lohndaten eingereicht",
+        "toastDescription": "Daten für {name} wurden gespeichert."
+      },
+      "configureRates": "Satze konfigurieren",
+      "hideRates": "Satze ausblenden",
+      "ratesTitle": "Abgabesatze des Unternehmens",
+      "ratesDescription": "Geben Sie die genauen Arbeitgeberbeitragssatze ein, die fur Ihr Unternehmen gelten. Diese Werte konnen von Lynvia oder durch Ihre eigenen Einstellungen festgelegt werden.",
+      "saveRates": "Satze speichern",
+      "savingRates": "Wird gespeichert...",
+      "resetDefaults": "Standardwerte zurucksetzen",
+      "kpis": {
+        "employees": "Mitarbeitende (Monatslohn)",
+        "monthlyGrossPayroll": "Monatliche Bruttolohnsumme",
+        "totalMonthlyEmployerCost": "Gesamte monatliche Arbeitgeberkosten",
+        "ofWhichCharges": "davon Abgaben"
+      },
+      "employeeDetailTitle": "Detail pro Mitarbeitendem",
+      "employeeDetailDescription": "Bruttomonatslohn plus Sozialabgaben des Arbeitgebers. Stundenlohn-Mitarbeitende werden separat aufgefuhrt.",
+      "table": {
+        "employee": "Mitarbeiter",
+        "role": "Funktion",
+        "activityRate": "Beschaftigungsgrad",
+        "monthlySalary": "Monatslohn",
+        "charges": "Abgaben (CHF)",
+        "monthlyCost": "Kosten / Monat",
+        "annualCost": "Kosten / Jahr (x13)"
+      },
+      "noEmployees": "Keine Mitarbeitenden erfasst. Fugen Sie Mitarbeitende im Modul Mitarbeiterverwaltung hinzu.",
+      "hourlyEmployeeNotice": "Stundenlohn-Mitarbeitender - Kosten variieren je nach geleisteten Stunden",
+      "totalMonthly": "Monatliche Summe",
+      "appliedRatesTitle": "Aktuell angewendete Satze",
+      "appliedRatesDescription": "Verwenden Sie die Schaltflache Satze konfigurieren, um sie zu andern.",
+      "rateLabels": {
+        "avs": "AHV/AVS (Arbeitgeber)",
+        "ac": "Arbeitslosenversicherung",
+        "laa": "Unfallversicherung",
+        "ijm": "Krankentaggeld",
+        "lpp": "Pensionskasse (Arbeitgeber)",
+        "caf": "Familienausgleichskasse"
+      },
+      "toast": {
+        "savedTitle": "Satze gespeichert",
+        "savedDescription": "Die Beitragssatze wurden aktualisiert."
+      }
+    },
+    "dialog": {
+      "deleteRunTitle": "Sind Sie sicher?",
+      "deleteRunDescription": "Diese Aktion kann nicht rückgängig gemacht werden. Dadurch wird der Lohnlauf für {monthLabel} dauerhaft gelöscht.",
+      "cancel": "Abbrechen",
+      "delete": "Löschen"
+    },
+    "toast": {
+      "noSelection": {
+        "title": "Keine gültigen Mitarbeiter ausgewählt",
+        "description": "Wählen Sie mindestens einen Mitarbeiter mit vollständigen Lohndaten aus."
+      },
+      "processSuccess": {
+        "title": "Lohnabrechnung verarbeitet",
+        "description": "{count} Mitarbeiter für {monthLabel} verarbeitet."
+      },
+      "processError": {
+        "title": "Lohnverarbeitung fehlgeschlagen",
+        "description": "Bitte versuchen Sie es erneut."
+      },
+      "csvLoaded": {
+        "title": "CSV geladen",
+        "description": "{count} Zeile(n) aus {fileName} geparst."
+      },
+      "csvParseError": {
+        "title": "CSV-Parsing fehlgeschlagen",
+        "description": "Bitte überprüfen Sie das Dateiformat und versuchen Sie es erneut."
+      },
+      "noCsvData": {
+        "title": "Keine CSV-Daten geladen",
+        "description": "Laden Sie zuerst eine gültige CSV-Datei hoch."
+      },
+      "noValidCsvRows": {
+        "title": "Keine gültigen CSV-Zeilen",
+        "description": "Bitte korrigieren Sie die CSV-Datei und versuchen Sie es erneut."
+      },
+      "csvProcessSuccess": {
+        "title": "CSV-Lohnabrechnung verarbeitet",
+        "description": "{processedCount} Zeile(n) verarbeitet{skippedCount, plural, =0 {} other {, # übersprungen}}."
+      },
+      "csvProcessError": {
+        "title": "CSV-Lohnverarbeitung fehlgeschlagen",
+        "description": "Bitte versuchen Sie es erneut."
+      },
+      "deleteRunSuccess": {
+        "title": "Lohnlauf gelöscht",
+        "description": "Der ausgewählte Lohnlauf wurde entfernt."
+      },
+      "deleteRunError": {
+        "title": "Löschen fehlgeschlagen",
+        "description": "Der Lohnlauf konnte nicht gelöscht werden. Unterdatensätze können noch vorhanden sein."
+      },
+      "companyError": {
+        "title": "Fehler",
+        "description": "Unternehmensinformationen nicht verfügbar."
+      }
+    },
+    "status": {
+      "Pending": "Ausstehend",
+      "Processed": "Verarbeitet"
+    },
+    "source": {
+      "manual": "Manuell",
+      "csv": "CSV"
+    },
+    "currencyPrefix": "CHF ",
+    "units": {
+      "chf": "CHF",
+      "km": "km",
+      "perHour": "/h"
+    }
+  },
+  "EmployeeManagement": {
+    "title": "Mitarbeiterverwaltung",
+    "subtitle": "Erfassen Sie die Daten Ihrer Mitarbeitenden für die Sozialversicherungsanmeldung und Lohnverarbeitung.",
+    "addEmployee": "Mitarbeiter anmelden",
+    "cctButton": "Anwendbaren GAV ansehen",
+    "rosterTitle": "Mitarbeiterverzeichnis",
+    "rosterDescription": "Liste aller bei Lynvia gemeldeten Mitarbeitenden.",
+    "searchPlaceholder": "Nach Name, Funktion oder E-Mail suchen…",
+    "noEmployees": "Noch keine Mitarbeitenden erfasst.",
+    "stats": {
+      "total": "Aktive Mitarbeitende",
+      "hourly": "Stundenlohnempfänger",
+      "avsToVerify": "AHV zu prüfen"
+    },
+    "table": {
+      "name": "Name",
+      "fonction": "Funktion",
+      "avsStatus": "AHV-Status",
+      "typeRemu": "Lohnart",
+      "tauxActivite": "Beschäftigungsgrad",
+      "startDate": "Eintrittsdatum",
+      "actions": "Aktionen"
+    },
+    "avs": {
+      "valide": "Gültig",
+      "a_verifier": "Zu prüfen",
+      "invalide": "Ungültig"
+    },
+    "remu": {
+      "horaire": "Stundenweise",
+      "mensuel": "Monatlich"
+    },
+    "dialog": {
+      "editTitle": "Mitarbeiter bearbeiten",
+      "addTitle": "Mitarbeiter anmelden",
+      "editDescription": "Daten dieses Mitarbeiters aktualisieren.",
+      "addDescription": "Geben Sie die Mitarbeiterdaten für die Sozialversicherungsanmeldung ein.",
+      "viewTitle": "Mitarbeiterprofil",
+      "deleteTitle": "Mitarbeiter löschen?",
+      "deleteDescription": "Diese Aktion kann nicht rükgängig gemacht werden.",
+      "sections": {
+        "identity": "Identität",
+        "contract": "Vertrag",
+        "swissInfo": "Schweizer Informationen",
+        "personalStatus": "Persönlicher Status",
+        "documents": "Dokumente hochladen"
+      },
+      "labels": {
+        "prenom": "Vorname",
+        "nom": "Nachname",
+        "dateNaissance": "Geburtsdatum",
+        "telephone": "Telefon (optional)",
+        "email": "E-Mail (optional)",
+        "fonction": "Funktion / Stelle",
+        "dateDebut": "Eintrittsdatum",
+        "typeRemu": "Lohnart",
+        "horaire": "Stundenweise",
+        "mensuel": "Monatlich",
+        "salaireHoraire": "Stundenlohn (CHF)",
+        "salaireMensuel": "Monatslohn (CHF)",
+        "tauxActivite": "Beschäftigungsgrad (%)",
+        "semainesVacances": "Ferienwochen",
+        "numeroAVS": "AHV-Nummer",
+        "iban": "IBAN (optional)",
+        "rue": "Strasse",
+        "ville": "Ort",
+        "codePostal": "PLZ",
+        "adresse": "Adresse",
+        "adminStatus": "Admin-Status",
+        "registration": "Anmeldung",
+        "registeredWithAvs": "Bei AHV angemeldet",
+        "awaitingRegistration": "Anmeldung ausstehend",
+        "registrationDate": "Anmeldedatum",
+        "lastPayslip": "Letzter Lohnausweis",
+        "residencePermit": "Aufenthaltsbewilligung",
+        "maritalStatus": "Zivilstand",
+        "hasChildren": "Kinder",
+        "taxAtSource": "Quellensteuer",
+        "documentUploadHint": "Kopie des Ausweises oder der Aufenthaltsbewilligung",
+        "viewDocument": "Hochgeladenes Dokument anzeigen"
+      },
+      "placeholders": {
+        "residencePermit": "Bewilligungstyp auswählen",
+        "maritalStatus": "Zivilstand auswählen"
+      },
+      "options": {
+        "yes": "Ja",
+        "no": "Nein"
+      },
+      "permits": {
+        "L": "L — Kurzaufenthalt",
+        "B": "B — Jahresaufenthalt",
+        "C": "C — Niederlassungsbewilligung",
+        "F": "F — Vorläufige Aufnahme",
+        "G": "G — Grenzgänger",
+        "none": "Kein Ausweis (Schweizer Bürger)"
+      },
+      "marital": {
+        "single": "Ledig",
+        "married": "Verheiratet",
+        "divorced": "Geschieden",
+        "separated": "Getrennt"
+      },
+      "children": {
+        "title": "Kind",
+        "add": "Kind hinzufügen",
+        "remove": "Entfernen",
+        "firstName": "Vorname",
+        "lastName": "Nachname",
+        "dateOfBirth": "Geburtsdatum",
+        "sharedCustody": "Gemeinsames Sorgerecht?",
+        "otherParentFirstName": "Anderer Elternteil — Vorname",
+        "otherParentLastName": "Anderer Elternteil — Nachname",
+        "otherParentAddress": "Anderer Elternteil — Adresse",
+        "otherParentAVS": "Anderer Elternteil — AHV-Nummer"
+      },
+      "buttons": {
+        "cancel": "Abbrechen",
+        "save": "Speichern",
+        "saving": "Speichern…",
+        "delete": "Löschen",
+        "close": "Schliessen"
+      }
+    },
+    "toast": {
+      "updateSuccessTitle": "Mitarbeiter aktualisiert",
+      "updateSuccessDescription": "{name} wurde aktualisiert.",
+      "addSuccessTitle": "Mitarbeiter angemeldet",
+      "addSuccessDescription": "{name} wurde erfasst.",
+      "errorTitle": "Fehler",
+      "saveErrorDescription": "Mitarbeiterdaten konnten nicht gespeichert werden.",
+      "deleteSuccessTitle": "Mitarbeiter gelöscht",
+      "deleteErrorDescription": "Mitarbeiter konnte nicht gelöscht werden."
+    },
+    "cctAlerts": {
+      "title": "GAV-Konformitätsmeldungen",
+      "description": "Automatische Prüfungen basierend auf dem anwendbaren Gesamtarbeitsvertrag und Schweizer Regeln.",
+      "minWage": "Lohn unter GAV-Mindestlohn von CHF {minimum}/Monat",
+      "vacationLow": "Zu wenig Ferienwochen (gesetzliches / GAV-Minimum: {required} Wochen)",
+      "thirteenth": "13. Monatslohn kann gemäss GAV anfallen — für Monatsangestellte prüfen",
+      "lppRequired": "Kein BVG-Plan erfasst: Mitarbeitende über CHF {threshold}/Monat müssen der BVG (2. Säule) angeschlossen werden",
+      "allGood": "Keine GAV-Meldungen — Konformität OK",
+      "fixAction": "Prüfen"
+    }
+  },
+  "LeaveManagement": {
+    "title": "Urlaubsverwaltung",
+    "subtitle": "Überprüfen, genehmigen oder lehnen Sie Urlaubsanträge von Mitarbeitern ab.",
+    "cardTitle": "Urlaubsanträge",
+    "cardDescription": "Eine Liste aller Urlaubsanträge Ihrer Mitarbeiter.",
+    "newRequest": "Neuer Urlaubsantrag",
+    "tabs": {
+      "pending": "Ausstehend",
+      "approved": "Genehmigt",
+      "rejected": "Abgelehnt",
+      "all": "Alle"
+    },
+    "table": {
+      "employee": "Mitarbeiter",
+      "leaveType": "Urlaubsart",
+      "dates": "Daten",
+      "days": "Tage",
+      "status": "Status",
+      "actions": "Aktionen"
+    },
+    "noRequests": "Keine Urlaubsanträge gefunden.",
+    "actions": {
+      "label": "Aktionen",
+      "approve": "Genehmigen",
+      "reject": "Ablehnen",
+      "view": "Details anzeigen"
+    },
+    "dialog": {
+      "title": "Neuer Urlaubsantrag",
+      "description": "Füllen Sie das Formular aus, um einen neuen Urlaubsantrag für einen Mitarbeiter einzureichen.",
+      "employeeLabel": "Mitarbeiter",
+      "employeePlaceholder": "Einen Mitarbeiter auswählen",
+      "leaveTypeLabel": "Urlaubsart",
+      "leaveTypePlaceholder": "Urlaubsart auswählen",
+      "leaveTypes": {
+        "vacation": "Urlaub",
+        "sick": "Krankenstand",
+        "parental": "Elternzeit",
+        "unpaid": "Unbezahlter Urlaub",
+        "other": "Sonstiges"
+      },
+      "startDateLabel": "Startdatum",
+      "endDateLabel": "Enddatum",
+      "reasonLabel": "Grund (optional)",
+      "reasonPlaceholder": "Geben Sie einen Grund für den Urlaubsantrag ein",
+      "errors": {
+        "employeeRequired": "Bitte wählen Sie einen Mitarbeiter aus.",
+        "leaveTypeRequired": "Bitte wählen Sie eine Urlaubsart aus.",
+        "startDateRequired": "Ein Startdatum ist erforderlich.",
+        "endDateRequired": "Ein Enddatum ist erforderlich.",
+        "endDateBeforeStart": "Das Enddatum kann nicht vor dem Startdatum liegen."
+      },
+      "cancel": "Abbrechen",
+      "submitting": "Wird eingereicht...",
+      "submit": "Antrag einreichen"
+    },
+    "toast": {
+      "submitSuccess": "Urlaubsantrag eingereicht",
+      "submitError": "Urlaubsantrag konnte nicht eingereicht werden.",
+      "updateSuccess": "Antrag {status}",
+      "updateError": "Urlaubsantrag konnte nicht aktualisiert werden.",
+      "alreadyProcessed": "Dieser Antrag ist bereits {status}.",
+      "employeeNotFound": "Ausgewählter Mitarbeiter nicht gefunden."
+    },
+    "status": {
+      "Pending": "Ausstehend",
+      "Approved": "Genehmigt",
+      "Rejected": "Abgelehnt"
+    }
+  },
+  "DocumentCenter": {
+    "title": "Dokumentencenter",
+    "subtitle": "Verwalten, teilen und arbeiten Sie an allen Dokumenten Ihres Unternehmens zusammen.",
+    "cardTitle": "Alle Dokumente",
+    "cardDescription": "Ein zentrales Repository für die Dateien Ihres Unternehmens.",
+    "searchPlaceholder": "Dokumente suchen...",
+    "uploadButton": "Dokument hochladen",
+    "table": {
+      "name": "Name",
+      "createdBy": "Erstellt von",
+      "status": "Status",
+      "lastModified": "Zuletzt geändert",
+      "actions": "Aktionen"
+    },
+    "status": {
+      "Approved": "Genehmigt",
+      "PendingReview": "Ausstehende Überprüfung",
+      "Draft": "Entwurf",
+      "Rejected": "Abgelehnt",
+      "Sent": "Gesendet"
+    },
+    "actions": {
+      "label": "Aktionen",
+      "view": "Details anzeigen",
+      "download": "Herunterladen",
+      "share": "Teilen",
+      "markAsSent": "Als gesendet markieren",
+      "requestApproval": "Genehmigung anfordern",
+      "delete": "Löschen"
+    },
+    "toast": {
+      "fetchError": {
+        "title": "Fehler",
+        "description": "Die Dokumente Ihres Unternehmens konnten nicht abgerufen werden."
+      },
+      "uploadValidation": {
+        "title": "Fehlende Felder",
+        "description": "Bitte füllen Sie alle Pflichtfelder aus."
+      },
+      "uploadSuccess": {
+        "title": "Dokument übermittelt",
+        "description": "Dokument erfolgreich an Lynvia übermittelt."
+      }
+    },
+    "noDocuments": "Keine Dokumente für Ihr Unternehmen gefunden.",
+    "noMatch": "Keine Dokumente entsprechen Ihrer Suche.",
+    "checklist": {
+      "title": "Checkliste erforderliche Dokumente",
+      "description": "Erforderliche Dokumente basierend auf Ihrem Unternehmensprofil.",
+      "required": "Erforderlich"
+    },
+    "checklistItems": {
+      "monthlyBankStatements": "Monatliche Kontoauszüge",
+      "invoicesIssued": "Ausgestellte Rechnungen",
+      "companyPaidInvoices": "Vom Unternehmen bezahlte Rechnungen",
+      "vatStatements": "MwSt-Abrechnungen",
+      "vehicleContract": "Firmenfahrzeugvertrag"
+    },
+    "checklistDesc": {
+      "bankStatements": "Erforderlich für Cashflow-Überwachung",
+      "invoices": "Alle Kundenrechnungen",
+      "companyInvoices": "Berufsausgaben",
+      "vat": "Wenn MwSt-Service nicht abonniert",
+      "vehicle": "Fahrzeug deklariert - erforderlich für MwSt/Sozialabgaben"
+    },
+    "alerts": {
+      "vatNotSubscribed": "MwSt-Service nicht abonniert:",
+      "vatNotSubscribedDesc": "Sie können Ihre MwSt-Abrechnungen zur Information hochladen. MwSt-Dokumente müssen innerhalb von 2 Monaten nach Fälligkeit (Quartal oder Semester) eingereicht werden.",
+      "vehicleDeclared": "Firmenfahrzeug deklariert:",
+      "vehicleDeclaredDesc": "Der Fahrzeugkaufvertrag wird für die MwSt und die korrekte Berechnung der Sozialabgaben/Gehälter benötigt."
+    },
+    "aiGenerator": {
+      "title": "KI-Dokumentengenerator",
+      "description": "Erstellen Sie Ihre personalisierten Unternehmensdokumente.",
+      "employmentContract": "Arbeitsvertrag",
+      "salarySlip": "Gehaltsabrechnung",
+      "vatDeclaration": "MwSt-Erklärung",
+      "auditReport": "Prüfungsbericht"
+    },
+    "transmit": {
+      "title": "An Lynvia übermitteln",
+      "description": "Senden Sie Ihre Buchhaltungsdokumente.",
+      "newDocument": "Neues Dokument",
+      "dialogTitle": "Dokument an Lynvia übermitteln",
+      "dialogDescription": "Wählen Sie den Typ und den Zeitraum des Dokuments.",
+      "typeLabel": "Dokumententyp",
+      "typePlaceholder": "Typ auswählen",
+      "periodLabel": "Betreffender Zeitraum",
+      "periodPlaceholder": "z.B. Januar 2025, Q4 2024, Jahr 2024",
+      "commentLabel": "Kommentar (optional)",
+      "commentPlaceholder": "Zusätzliche Informationen...",
+      "dragDrop": "Dateien hierher ziehen oder",
+      "chooseFiles": "Dateien auswählen",
+      "cancel": "Abbrechen",
+      "submit": "Übermitteln",
+      "cfoNote": "Übermittelte Dokumente fließen in Ihre CFO-Analysen ein."
+    },
+    "docTypes": {
+      "bankStatementDetailed": "Kontoauszug (mit Details/Saldo)",
+      "invoiceIssued": "Ausgestellte Rechnung (Kunde)",
+      "invoicePaidPrivate": "Rechnung/Beleg privat bezahlt",
+      "invoicePaidCompany": "Rechnung/Beleg vom Unternehmen bezahlt",
+      "monthlySalarySlip": "Monatliche Gehaltsabrechnung",
+      "vatStatement": "MwSt-Abrechnung",
+      "vehicleContract": "Fahrzeugvertrag (bei Firmenfahrzeug)",
+      "other": "Sonstige",
+      "bankStatement": "Kontoauszug"
+    },
+    "transmitted": {
+      "title": "An Lynvia übermittelte Dokumente",
+      "description": "Verfolgen Sie Ihre eingereichten Dokumente.",
+      "type": "Typ",
+      "period": "Zeitraum",
+      "sendDate": "Sendedatum",
+      "status": "Status",
+      "cfoSource": "CFO-Quelle",
+      "empty": "Noch keine Dokumente übermittelt."
+    },
+    "transmittedStatus": {
+      "pending": "Ausstehend",
+      "received": "Empfangen",
+      "missing": "Fehlend",
+      "vatLate": "MwSt verspätet",
+      "processing": "In Bearbeitung",
+      "integratedCFO": "CFO integriert"
+    },
+    "cfoLink": {
+      "title": "CFO-Analysen basierend auf Ihren Dokumenten:",
+      "description": "Ihre Finanzanalysen basieren auf den von Lynvia übermittelten und validierten Dokumenten. Die Zahlen werden von Lynvia manuell in die Buchhaltungssysteme eingegeben und hier aktualisiert.",
+      "button": "CFO-Analysen anzeigen"
+    }
+  },
+  "FinancialScenarios": {
+    "title": "Finanzszenarien",
+    "subtitle": "Modellieren Sie komplexe Geschäftsszenarien und erhalten Sie KI-gesteuerte Einblicke.",
+    "workforceScenario": {
+      "title": "Personalplanungsszenario",
+      "description": "Modellieren Sie die finanziellen Auswirkungen der Einstellung neuer Mitarbeiter.",
+      "scenarioNameLabel": "Szenarioname",
+      "scenarioNamePlaceholder": "z.B. Q4 Engineering-Erweiterung",
+      "hiresLabel": "Anzahl neuer Mitarbeiter",
+      "hiresPlaceholder": "z.B. 5",
+      "salaryLabel": "Durchschnittliches Jahresgehalt (CHF)",
+      "salaryPlaceholder": "z.B. 90000",
+      "ageLabel": "Durchschnittsalter",
+      "agePlaceholder": "z.B. 34",
+      "dependentsLabel": "Durchschnittliche Angehörige pro Einstellung",
+      "dependentsPlaceholder": "z.B. 1",
+      "cantonLabel": "Gehaltskanton",
+      "statusLabel": "Standard-Haushaltsstatus",
+      "selectStatus": "Status auswählen...",
+      "notesLabel": "Notizen (optional)",
+      "notesPlaceholder": "Beschreiben Sie den Kontext dieses Szenarios...",
+      "runButton": "Analyse durchführen & Einblicke erhalten",
+      "runningButton": "Analysiere Szenario..."
+    },
+    "results": {
+      "title": "Geschätzte finanzielle Auswirkungen",
+      "description": "Prognostizierte Arbeitgeberkosten unter Verwendung der gleichen gemeinsamen Zulagenregeln wie beim Einzelrechner.",
+      "chart": {
+        "grossPayroll": "Bruttolohnsumme",
+        "employerContributions": "Arbeitgeberbeiträge",
+        "familyAllowances": "Familienzulagen",
+        "employerCost": "Arbeitgeberkosten",
+        "legendLabel": "Prognostizierte Kosten"
+      },
+      "kpi": {
+        "annualCost": "Jährliche Arbeitgeberkosten",
+        "monthlyCost": "Monatliche Arbeitgeberkosten",
+        "contributions": "Arbeitgeberbeiträge",
+        "allowances": "Familienzulagen"
+      },
+      "benefits": {
+        "title": "Referenz für Leistungen pro Einstellung",
+        "description": "Schätzungen für Haushaltsunterstützung und Zulagen pro neuem Mitarbeiter.",
+        "netPayLabel": "Nettolohn vor Steuern pro Einstellung",
+        "netPaySublabel": "Arbeitnehmerabzüge: {amount}",
+        "familyAllowanceLabel": "Familienzulage pro Einstellung",
+        "maternityLabel": "Referenz Mutterschaftsentschädigung",
+        "birthAdoptionLabel": "Einmalige Geburts- / Adoptionszulage",
+        "supportLabel": "Anspruch auf Haushaltsunterstützung",
+        "healthSubsidyText": "Krankenversicherungszuschuss: {text}",
+        "complementaryBenefitText": "Ergänzungsleistungen: {text}",
+        "eligibleText": "{amount} geschätzte jährliche Unterstützung",
+        "notEligibleText": "Bei diesem Gehaltsprofil nicht anspruchsberechtigt"
+      },
+      "aiAnalysis": {
+        "title": "KI-Finanzinterpretation",
+        "summaryTitle": "Interpretation",
+        "recommendationsTitle": "Empfehlungen",
+        "impactsTitle": "Mögliche Auswirkungen",
+        "sourcesTitle": "Regelquellen",
+        "disclaimer": "Haftungsausschluss: Dies ist eine KI-generierte Analyse auf Basis von Schätzungen. Konsultieren Sie einen Finanzexperten für eine Beratung."
+      },
+      "empty": {
+        "title": "Ergebnisse werden hier angezeigt",
+        "description": "Füllen Sie das Formular aus, um ein Szenario zu modellieren und KI-gestützte Einblicke zu erhalten."
+      }
+    },
+    "toast": {
+      "analysisComplete": "Szenario analysiert",
+      "analysisCompleteDescription": "Ihr Personalplanungsszenario wurde analysiert.",
+      "analysisFailed": "Analyse fehlgeschlagen",
+      "analysisFailedDescription": "Die KI konnte die Ergebnisse nicht interpretieren. Bitte versuchen Sie es erneut."
+    }
+  },
+  "VirtualCFO": {
+    "title": "Virtueller CFO",
+    "subtitle": "Erhalten Sie KI-gestützte Finanzeinblicke und strategische Beratung für Ihr Unternehmen.",
+    "page": {
+      "title": "CFO Digital",
+      "subtitle": "Finanzanalysen und Entwicklungsszenarien",
+      "prorataNote": "Pro-rata-Berechnung über den gewählten Zeitraum",
+      "summaryTitle": "Zusammenfassung",
+      "turnover": "Umsatz",
+      "purchases": "Einkäufe",
+      "rawWages": "Bruttolöhne",
+      "salaryCharges": "Lohnkosten",
+      "operatingCosts": "Betriebskosten",
+      "financialCharges": "Finanzkosten",
+      "otherCharges": "Weitere Kosten",
+      "profitLoss": "Gewinn / Verlust",
+      "downloadAccounts": "Kontodetails herunterladen",
+      "quickAnalysis": "Schnellanalyse",
+      "quickAnalysisDesc": "Finanzkennzahlen und CFO-Warnungen",
+      "margin": "Marge (%)",
+      "result": "Ergebnis (%)",
+      "caPurchases": "Umsatz - Einkäufe (%)",
+      "caTotalCharges": "Umsatz - Gesamtkosten (%)",
+      "devScenarios": "Entwicklungsszenarien",
+      "increaseCA": "Umsatz erhöhen",
+      "hiringDismissal": "Einstellung / Entlassung",
+      "investment": "Investition",
+      "vatMethod": "MwSt.-Methode",
+      "scenarioIncreaseCA": "Szenario: Umsatzsteigerung",
+      "scenarioIncreaseCADesc": "Simulieren Sie die Auswirkungen eines Umsatzwachstums auf Ihr Ergebnis",
+      "currentAnnualCA": "Aktueller Jahresumsatz (CHF)",
+      "newAnnualizedCA": "Neuer hochgerechneter Jahresumsatz (CHF)",
+      "vatMandatory": "MwSt.-Pflicht wird obligatorisch",
+      "vatMandatoryDesc": "Ab dem 1. Januar des Folgejahres nach Überschreiten der Schwelle. Bei Neugründungen kann ein auf 12 Monate hochgerechneter Umsatz von über 100'000 CHF nach 3 Monaten bereits ab dem 4. Monat zur Pflicht führen.",
+      "currentPurchases": "Aktuelle Einkäufe (CHF)",
+      "increasePurchases": "Einkäufe erhöhen (%)",
+      "generatePDF": "PDF-Bericht erstellen",
+      "resultsScenario": "Szenario-Ergebnisse",
+      "newResult": "Neues Ergebnis:",
+      "deltaVsCurrent": "Delta gegenüber aktuell:",
+      "newMargin": "Neue Marge:",
+      "newResultPct": "Neues Ergebnis (%):",
+      "scenarioHiring": "Szenario: Einstellung / Entlassung",
+      "scenarioHiringDesc": "Berechnen Sie die finanzielle Auswirkung einer Personaländerung",
+      "hire": "Einstellung",
+      "dismiss": "Entlassung",
+      "grossMonthlySalary": "Monatlicher Bruttolohn (CHF)",
+      "calculationRule": "Berechnungsregel:",
+      "calculationRuleDesc": "Gesamtauswirkung = Bruttolohn + 25%\nArbeitnehmeranteil (indikativ) = 12% des Bruttolohns",
+      "financialImpact": "Finanzielle Auswirkung",
+      "monthlyImpact": "Monatliche Auswirkung:",
+      "annualImpact": "Jährliche Auswirkung:",
+      "employeeShare": "Arbeitnehmeranteil (indikativ):",
+      "scenarioInvestment": "Szenario: Investition",
+      "scenarioInvestmentDesc": "Analysieren Sie die Rentabilität Ihrer Investitionsprojekte",
+      "compoundInterest": "Zinseszins (API folgt)",
+      "realEstateInvestment": "Immobilieninvestition",
+      "otherInvestments": "Weitere Investitionen",
+      "comingSoon": "Demnächst verfügbar:",
+      "comingSoonDesc": "Zinseszinsrechner mit eigener API.",
+      "purchasePrice": "Kaufpreis (CHF)",
+      "ownFunds": "Eigenmittel (CHF)",
+      "annualIncome": "Jahreseinkommen (CHF)",
+      "mortgageCharges": "Hypothekarische Belastung (CHF)",
+      "compoundInitialCapital": "Startkapital (CHF)",
+      "compoundPeriodicContribution": "Periodische Einzahlung (CHF)",
+      "compoundContributionFrequency": "Einzahlungsfrequenz",
+      "compoundCompoundingFrequency": "Zinseszins-Frequenz",
+      "compoundAnnualReturn": "Jahresrendite (%)",
+      "compoundDurationYears": "Dauer (Jahre)",
+      "compoundResultsTitle": "Ergebnisse Zinseszins",
+      "compoundProjectionDuration": "Projektion über {years} Jahre",
+      "compoundFinalCapital": "Endkapital",
+      "compoundGain": "Wertzuwachs",
+      "compoundTotalContributed": "Total einbezahlt",
+      "compoundTotalReturnAnnualized": "Gesamtrendite / annualisiert",
+      "compoundYearlyBreakdown": "Jährliche Übersicht",
+      "compoundYear": "Jahr",
+      "compoundStartingCapital": "Anfangskapital",
+      "compoundContributions": "Einzahlungen",
+      "compoundInterestEarned": "Zinsen",
+      "compoundEndingCapital": "Endkapital",
+      "frequencyMonthly": "Monatlich",
+      "frequencyQuarterly": "Vierteljährlich",
+      "frequencyAnnual": "Jährlich",
+      "frequencySemiAnnual": "Halbjährlich",
+      "investmentRatios": "Investitionskennzahlen",
+      "roi": "ROI:",
+      "effectiveYield": "Effektive Rendite:",
+      "debtEquityRatio": "Verschuldungsgrad:",
+      "leverageRatio": "Fremdkapitalquote:",
+      "dscr": "DSCR:",
+      "scenarioVAT": "Szenario: Vorteilhafteste MwSt.-Methode",
+      "scenarioVATDesc": "Vergleichen Sie die Methoden effektiv und TDFN, um Ihre MwSt. zu optimieren",
+      "vatComparator": "MwSt.-Vergleich: effektiv vs. TDFN",
+      "sectorAllocation": "1. Umsatzverteilung nach Geschäftsbereich",
+      "sectorInstructions": "Anweisungen:",
+      "sectorInstructionsDesc": "Geben Sie Ihren Nettoumsatz pro Branche ein. Jede Branche erhält für den Vergleich ihren eigenen TDFN-Satz.",
+      "addSector": "Branche hinzufügen:",
+      "sector": "Branche",
+      "netCA": "Nettoumsatz (CHF)",
+      "vatRate": "MwSt.-Satz",
+      "effectiveVatRate": "Effektiv",
+      "vatMethodEffectiveLabel": "Effektive Methode",
+      "vatMethodTdfnLabel": "TDFN-Methode",
+      "vatRecommendedEffective": "Effektiv",
+      "vatRecommendedTdfn": "TDFN",
+      "add": "Hinzufügen",
+      "selectPlaceholder": "Auswählen",
+      "standardCA": "2. Standardumsatz (optional)",
+      "standardCADesc": "Falls Sie Umsatz haben, der keiner spezifischen TDFN-Branche entspricht:",
+      "caNet0": "Nettoumsatz 0%",
+      "caNet26": "Nettoumsatz 2.6%",
+      "caNet38": "Nettoumsatz 3.8%",
+      "caNet81": "Nettoumsatz 8.1%",
+      "purchasesExpenses": "3. Einkäufe und Ausgaben",
+      "purchases26": "Einkäufe 2.6%",
+      "purchases81": "Einkäufe 8.1%",
+      "expenses26": "Ausgaben 2.6%",
+      "expenses81": "Ausgaben 8.1%",
+      "enterCAToCalculate": "Umsatz eingeben, um zu berechnen",
+      "vatPDFReport": "PDF-Bericht — MwSt.-Methode",
+      "month": "Monat",
+      "quarter": "Quartal",
+      "semester": "Semester",
+      "year": "Jahr",
+      "noDataTitle": "Keine Finanzdaten",
+      "noDataDesc": "Es wurden noch keine Finanzdaten hochgeladen. Kontaktieren Sie Ihren Administrator, um Buchhaltungsdaten hochzuladen.",
+      "loading": "Finanzdaten werden geladen...",
+      "sectors": {
+        "accommodation": "Beherbergung",
+        "restaurant": "Gastronomie",
+        "retail": "Detailhandel",
+        "financialServices": "Finanzdienstleistungen",
+        "consulting": "Beratung und Consulting",
+        "construction": "Bau",
+        "crafts": "Handwerk",
+        "itServices": "IT-Dienstleistungen",
+        "transport": "Transport",
+        "agriculture": "Landwirtschaft"
+      }
+    },
+    "healthCheck": {
+      "title": "Finanz-Gesundheitscheck",
+      "description": "Analysieren Sie Ihren letzten Lohnlauf, um Trends, Risiken und Kosteneinsparungsmöglichkeiten aufzudecken."
+    },
+    "emptyState": {
+      "title": "Bereit zur Analyse",
+      "description": "Nutzen Sie den Lohnlauf {month}, um eine CFO-Analyse zu erstellen.",
+      "button": "Letzten Lohnlauf analysieren"
+    },
+    "results": {
+      "summary": "Gesamtzusammenfassung",
+      "complianceRisks": "Mögliche Compliance-Risiken",
+      "anomalies": "Erkannte Anomalien",
+      "costSavings": "Kosteneinsparungsmöglichkeiten",
+      "recommendations": "Handlungsempfehlungen"
+    },
+    "buttons": {
+      "save": "Analyse genehmigen & speichern",
+      "saving": "Speichern...",
+      "rerun": "Analyse erneut ausführen",
+      "analyzing": "Analysiere..."
+    },
+    "toast": {
+      "noData": {
+        "title": "Keine Lohnabrechnungsdaten",
+        "description": "Bearbeiten Sie zuerst die Lohnabrechnung, um CFO-Einblicke zu erhalten."
+      },
+      "analysisComplete": {
+        "title": "Analyse abgeschlossen",
+        "description": "Ihre Finanzdaten wurden vom virtuellen CFO analysiert."
+      },
+      "analysisFailed": {
+        "title": "Analyse fehlgeschlagen",
+        "description": "Die KI konnte die Finanzdaten nicht analysieren. Bitte versuchen Sie es erneut."
+      },
+      "saveFailed": {
+        "title": "Speichern fehlgeschlagen",
+        "description": "Die Analyse konnte nicht gespeichert werden."
+      },
+      "saveSuccess": {
+        "title": "Analyse gespeichert",
+        "description": "Die Analyse wurde in Ihrem Dokumentencenter gespeichert und ein Audit-Trail wurde erstellt."
+      },
+      "dataLoadFailed": {
+        "title": "Datenladen fehlgeschlagen",
+        "description": "Lohndaten für den virtuellen CFO konnten nicht geladen werden."
+      }
+    }
+  },
+  "NotificationTester": {
+    "title": "Benachrichtigungs-Cron-Konsole",
+    "subtitle": "Lösen Sie den Benachrichtigungs-Cron-Endpunkt manuell aus. Es ist kein automatischer Zeitplan konfiguriert.",
+    "card": {
+      "title": "Cron manuell ausführen",
+      "description": "Verwenden Sie die Schaltfläche unten, um den Benachrichtigungs-Cron-Endpunkt manuell aufzurufen. Genau diesen Endpunkt würde später ein echter Scheduler verwenden."
+    },
+    "status": {
+      "title": "Endpunktstatus",
+      "description": "Der Cron-Endpunkt ist nur für die manuelle Ausführung verfügbar.",
+      "manualOnly": "Nur manuell",
+      "endpointLabel": "Endpunkt:",
+      "loading": "Endpunktstatus wird geladen...",
+      "fallback": "Der manuelle Cron-Endpunkt ist bereit. Es ist kein automatischer Zeitplan konfiguriert."
+    },
+    "button": {
+      "sending": "Wird ausgeführt...",
+      "send": "Cron ausführen"
+    },
+    "toast": {
+      "notLoggedIn": {
+        "title": "Nicht angemeldet",
+        "description": "Sie müssen angemeldet sein, um den Cron manuell auszuführen."
+      },
+      "success": {
+        "title": "Cron ausgeführt",
+        "description": "Der manuelle Cron wurde erfolgreich über {endpoint} ausgeführt."
+      },
+      "error": {
+        "title": "Fehler",
+        "description": "Der manuelle Cron konnte nicht ausgeführt werden."
+      }
+    }
+  },
+  "OrderManagement": {
+    "title": "Bestellungsverwaltung",
+    "subtitle": "Alle Kundendienstbestellungen anzeigen und verwalten.",
+    "cardTitle": "Alle Bestellungen",
+    "cardDescription": "Eine vollständige Liste aller Servicebestellungen auf der Plattform.",
+    "searchPlaceholder": "Bestellungen suchen...",
+    "tabs": {
+      "all": "Alle",
+      "quote_requested": "Angebot angefordert",
+      "paid": "Bezahlt",
+      "in_progress": "In Bearbeitung",
+      "completed": "Abgeschlossen"
+    },
+    "table": {
+      "service": "Dienstleistung",
+      "customer": "Kunde",
+      "date": "Datum",
+      "status": "Status",
+      "actions": "Aktionen"
+    },
+    "actions": {
+      "label": "Aktionen",
+      "view": "Bestellung ansehen",
+      "markPaid": "Als bezahlt markieren",
+      "markInProgress": "Als in Bearbeitung markieren",
+      "markCompleted": "Als abgeschlossen markieren"
+    },
+    "toast": {
+      "fetchError": "Bestellungen konnten nicht abgerufen werden.",
+      "updateSuccess": "Bestellstatus aktualisiert",
+      "updateError": "Bestellstatus konnte nicht aktualisiert werden.",
+      "questionSent": "Frage gesendet",
+      "questionSentDescription": "Der Kunde wurde benachrichtigt.",
+      "questionError": "Frage konnte nicht gesendet werden."
+    },
+    "noOrders": "Keine Bestellungen gefunden.",
+    "noMatch": "Keine Bestellungen entsprechen Ihrer Suche.",
+    "status": {
+      "quote_requested": "Angebot angefordert",
+      "invoice_sent": "Rechnung gesendet",
+      "paid": "Bezahlt",
+      "in_progress": "In Bearbeitung",
+      "pending_review": "Ausstehende Überprüfung",
+      "completed": "Abgeschlossen",
+      "cancelled": "Storniert",
+      "pending_payment": "Zahlung ausstehend"
+    }
+  },
+  "LegalAssistantCard": {
+    "title": "Eine rechtliche Frage stellen",
+    "description": "Stellen Sie Fragen zum Schweizer Recht und zu Finanzvorschriften.",
+    "placeholder": "Was möchten Sie über das Schweizer Recht wissen?",
+    "language": "Sprache",
+    "selectResponseLanguage": "Antwortsprache auswählen",
+    "langEnglish": "Englisch",
+    "langGerman": "Deutsch",
+    "langFrench": "Französisch",
+    "langItalian": "Italienisch",
+    "thinking": "Denkt nach...",
+    "ask": "Fragen",
+    "askQuestion": "Eine Frage stellen",
+    "enterQuestion": "Geben Sie Ihre Frage in einer beliebigen Sprache ein.",
+    "askAiAssistant": "KI-Assistent fragen",
+    "response": "Antwort",
+    "responseDescription": "Ihre Antwort erscheint hier mit Quellenangaben.",
+    "answer": "Antwort",
+    "sources": "Quellen ({count}):",
+    "noQuestionYet": "Noch keine Frage",
+    "askToGetStarted": "Stellen Sie eine Frage, um zu beginnen.",
+    "citedSources": "Zitierte Quellen",
+    "id": "ID: {documentId}",
+    "toastQuestionEmpty": "Frage ist leer",
+    "toastQuestionEmptyDesc": "Bitte geben Sie eine Frage ein.",
+    "toastNotAuthenticated": "Nicht authentifiziert",
+    "toastNotAuthenticatedDesc": "Bitte melden Sie sich an.",
+    "toastGeneralGuidanceMode": "Allgemeiner Beratungsmodus",
+    "toastGeneralGuidanceDescRetrievalFailed": "Die Rechtsdokumentbibliothek konnte nicht erreicht werden. Der KI antwortet ohne indizierte Quellen.",
+    "toastGeneralGuidanceDescNoPassages": "Keine passenden Textstellen gefunden. Der KI antwortet ohne indizierte Quellen.",
+    "toastAnError": "Ein Fehler ist aufgetreten",
+    "toastAnErrorDesc": "Antwort vom KI-Assistenten konnte nicht abgerufen werden."
+  },
+  "CreateBusinessForm": {
+    "title": "Neues Unternehmen erstellen",
+    "description": "Erstellen Sie ein Geschäftskonto, weisen Sie den Admin-Besitzer zu und überprüfen Sie Kanton, Branche und CLA-Hinweise vor dem Absenden.",
+    "businessProfile": {
+      "title": "Geschäftsprofil",
+      "description": "Definieren Sie die Firmenidentität und den Betriebskontext, der für das Onboarding verwendet wird."
+    },
+    "adminOwner": {
+      "title": "Admin-Besitzer",
+      "description": "Diese Anmeldedaten werden für den primären Administrator des Geschäftskontos verwendet."
+    },
+    "creationChecklist": {
+      "title": "Erstellungs-Checkliste",
+      "description": "Bestätigen Sie die wichtigsten Onboarding-Eingaben vor der Kontoerstellung.",
+      "item1": "Firmendetails, Kanton und Branche sind erforderlich.",
+      "item2": "Admin-Kontaktdaten sollten gültig und für die erste Anmeldung bereit sein.",
+      "item3": "Optionale Treuhandfirma-Zuweisung kann jetzt oder später hinzugefügt werden."
+    },
+    "claResolution": {
+      "title": "CLA-Ergebnis",
+      "description": "Lohnrichtlinie abgeleitet aus der ausgewählten Branche.",
+      "exactMatch": "Exakte Übereinstimmung",
+      "partialMatch": "Teilweise Übereinstimmung",
+      "coFallback": "OR-Rückfall",
+      "minWage": "Mindestmonatslohn",
+      "noCctMinimum": "Kein GAV-Mindestlohn kodifiziert. Überprüfen Sie den anwendbaren Lohn aus dem Quellvertrag.",
+      "matchedKeyword": "Übereinstimmendes Schlüsselwort:",
+      "exactDescription": "Branche ist direkt dieser CLA zugeordnet.",
+      "partialDescription": "Teilweise Übereinstimmung. Bestätigen Sie die CLA vor der endgültigen Übermittlung.",
+      "fallbackDescription": "Keine CLA gefunden. Schweizer OR-Standardbedingungen gelten."
+    },
+    "labels": {
+      "companyName": "Firmenname",
+      "industry": "Branche",
+      "canton": "Kanton",
+      "accountingFirm": "Treuhandfirma zuweisen",
+      "optional": "(optional)",
+      "adminFirstName": "Admin-Vorname",
+      "adminLastName": "Admin-Nachname",
+      "adminEmail": "Admin-E-Mail",
+      "phoneNumber": "Telefonnummer",
+      "password": "Passwort"
+    },
+    "placeholders": {
+      "companyName": "z.B. Innovate Corp.",
+      "industry": "z.B. Bau, Gastgewerbe, Einzelhandel",
+      "cantonLoading": "Wird geladen...",
+      "canton": "Kanton auswählen",
+      "firmsLoading": "Firmen werden geladen...",
+      "firm": "Firma auswählen (optional)",
+      "adminFirstName": "Max",
+      "adminLastName": "Muster",
+      "adminEmail": "admin@innovate.com",
+      "phone": "+41...",
+      "password": "Mindestens 8 Zeichen"
+    },
+    "hints": {
+      "password": "Verwenden Sie ein temporäres Passwort, das nach der ersten Anmeldung geändert werden kann."
+    },
+    "errors": {
+      "companyNameRequired": "Firmenname ist erforderlich.",
+      "firstNameRequired": "Vorname ist erforderlich.",
+      "lastNameRequired": "Nachname ist erforderlich.",
+      "invalidEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+      "passwordMinLength": "Passwort muss mindestens 8 Zeichen lang sein.",
+      "phoneRequired": "Telefonnummer ist erforderlich.",
+      "cantonRequired": "Bitte wählen Sie einen Kanton.",
+      "industryRequired": "Bitte wählen Sie eine Branche.",
+      "notLoggedIn": "Sie müssen als Admin angemeldet sein, um ein Unternehmen zu erstellen.",
+      "createFailed": "Fehler beim Erstellen des Unternehmens.",
+      "unableToCreate": "Geschäftskonto konnte nicht erstellt werden."
+    },
+    "buttons": {
+      "cancel": "Abbrechen",
+      "createBusiness": "Unternehmen erstellen",
+      "creating": "Wird erstellt..."
+    },
+    "toast": {
+      "created": {
+        "title": "Unternehmen erstellt",
+        "description": "Das Geschäftskonto wurde erfolgreich erstellt."
+      },
+      "failed": {
+        "title": "Erstellung fehlgeschlagen",
+        "description": "Geschäftskonto konnte nicht erstellt werden."
+      }
+    }
+  },
+  "AdminUserManagement": {
+    "createUser": "Benutzer erstellen",
+    "createUserDescription": "Manuell ein neues Benutzerkonto erstellen und Rolle und Unternehmen zuweisen.",
+    "dialog": {
+      "title": "Neuen Benutzer erstellen",
+      "description": "Füllen Sie das folgende Formular aus, um ein neues Benutzerkonto zu erstellen.",
+      "sections": {
+        "personalInformation": "Persönliche Informationen",
+        "contact": "Kontakt",
+        "employment": "Beschäftigung",
+        "payroll": "Gehaltsabrechnung",
+        "address": "Adresse",
+        "system": "System"
+      },
+      "labels": {
+        "firstName": "Vorname",
+        "lastName": "Nachname",
+        "birthDate": "Geburtsdatum",
+        "email": "E-Mail-Adresse",
+        "phone": "Telefon",
+        "password": "Passwort",
+        "jobTitle": "Berufsbezeichnung",
+        "startDate": "Startdatum",
+        "remunerationType": "Vergütungsart",
+        "vacationWeeks": "Urlaubswochen",
+        "activityRate": "Aktivitätsrate %",
+        "hourlyRate": "Stundensatz (CHF)",
+        "monthlySalary": "Monatsgehalt (CHF)",
+        "annualSalary": "Jahresgehalt (CHF)",
+        "avsNumber": "AHV-Nummer",
+        "avsStatus": "AHV-Status",
+        "street": "Straße",
+        "city": "Stadt",
+        "postalCode": "Postleitzahl",
+        "iban": "IBAN",
+        "role": "Benutzerrolle",
+        "status": "Kontostatus",
+        "company": "Unternehmen zuweisen (optional)"
+      },
+      "placeholders": {
+        "selectRole": "Rolle auswählen...",
+        "selectStatus": "Status auswählen...",
+        "selectCompany": "Unternehmen auswählen...",
+        "noCompany": "Kein Unternehmen",
+        "firstName": "z.B. John",
+        "lastName": "z.B. Doe",
+        "birthDate": "",
+        "email": "z.B. john@example.com",
+        "phone": "+41 XX XXX XX XX",
+        "jobTitle": "z.B. Manager",
+        "startDate": "",
+        "vacationWeeks": "5",
+        "activityRate": "100",
+        "hourlyRate": "0.00",
+        "monthlySalary": "0.00",
+        "annualSalary": "0.00",
+        "avsNumber": "756.1234.5678.90",
+        "street": "z.B. Hauptstraße",
+        "city": "z.B. Genf",
+        "postalCode": "z.B. 1201",
+        "iban": "CHxx...",
+        "loading": "Wird geladen..."
+      },
+      "options": {
+        "hourly": "Stündlich",
+        "monthly": "Monatlich",
+        "valid": "Gültig",
+        "toVerify": "Zu überprüfen",
+        "invalid": "Ungültig",
+        "individual": "Einzelperson",
+        "business": "Unternehmen",
+        "accountingFirm": "Wirtschaftsprüfungsgesellschaft",
+        "admin": "Administrator",
+        "active": "Aktiv",
+        "pendingApproval": "Genehmigung ausstehend",
+        "suspended": "Suspendiert"
+      },
+      "buttons": {
+        "cancel": "Abbrechen",
+        "create": "Benutzer erstellen",
+        "creating": "Wird erstellt..."
+      }
+    },
+    "toast": {
+      "createUserSuccess": {
+        "title": "Benutzer erstellt (Simulation)",
+        "description": "In einer echten App würde eine sichere Backend-Funktion den Benutzer erstellen. Details siehe Konsole."
+      },
+      "createUserError": {
+        "title": "Erstellung fehlgeschlagen",
+        "description": "Benutzer konnte nicht erstellt werden. Details siehe Konsole."
+      }
+    }
+  },
+  "AppLoading": {
+    "initializing": "Wird initialisiert..."
+  },
+  "BusinessCommunications": {
+    "title": "Kommunikation",
+    "subtitle": "Senden Sie Nachrichten und teilen Sie Dokumente mit Lynvia. Alle Unterhaltungen werden hier aufgezeichnet.",
+    "newButton": "Neue Kommunikation",
+    "yourConversations": "Ihre Unterhaltungen",
+    "noThreads": "Noch keine Unterhaltungen",
+    "noThreadsDesc": "Klicken Sie auf \"Neue Kommunikation\", um eine Unterhaltung mit Lynvia zu starten.",
+    "loading": "Wird geladen...",
+    "count": "{count} Unterhaltung(en)",
+    "open": "Offen",
+    "closed": "Geschlossen",
+    "justNow": "Gerade eben",
+    "lastActivity": "Letzte Aktivität: {date}",
+    "startedBy": "Gestartet {date} von {name}",
+    "closedByLynvia": "Diese Unterhaltung wurde von Lynvia geschlossen.",
+    "noMessages": "Noch keine Nachrichten.",
+    "ctrlEnterSend": "Geben Sie Ihre Nachricht ein… (Strg+Enter zum Senden)",
+    "attachFiles": "Dateien anhängen",
+    "send": "Senden",
+    "sending": "Wird gesendet",
+    "back": "Zurück",
+    "missingFields": "Fehlende Felder",
+    "missingFieldsDesc": "Betreff und Nachricht sind erforderlich.",
+    "threadClosed": "Unterhaltung geschlossen",
+    "threadClosedDesc": "Diese Unterhaltung wurde geschlossen.",
+    "quickReplyGreeting": "Begrüssung",
+    "quickReplyWorking": "In Bearbeitung",
+    "quickReplyDocuments": "Dokumente erforderlich",
+    "lynvia": "Lynvia",
+    "newClientMessage": "Neue Kundenkommunikation",
+    "newClientMessageDesc": "{company}: \"{subject}\"",
+    "newReplyTitle": "Neue Antwort vom Kunden",
+    "newReplyDesc": "{company}: \"{subject}\"",
+    "adminNotified": "Lynvia wurde benachrichtigt.",
+    "communicationSent": "Kommunikation gesendet",
+    "communicationSentDesc": "Lynvia wird Ihre Nachricht in Kürze prüfen.",
+    "createFailed": "Kommunikation konnte nicht erstellt werden.",
+    "replyFailed": "Antwort konnte nicht gesendet werden.",
+    "uploadFailed": "Dokument konnte nicht hochgeladen werden.",
+    "dialog": {
+      "title": "Neue Kommunikation",
+      "description": "Starten Sie eine neue Unterhaltung mit Lynvia. Sie können Dokumente anhängen und Lynvia wird in Kürze antworten.",
+      "subjectLabel": "Betreff",
+      "subjectPlaceholder": "z.B. Fehlende Lohnabrechnungsunterlagen für Januar",
+      "messageLabel": "Nachricht",
+      "messagePlaceholder": "Beschreiben Sie Ihre Anfrage oder Frage…",
+      "attachmentsLabel": "Anhänge (optional)",
+      "addFiles": "Dateien hinzufügen",
+      "cancel": "Abbrechen",
+      "send": "Senden",
+      "sending": "Wird gesendet…"
+    },
+    "toast": {
+      "sent": "Kommunikation gesendet",
+      "sentDesc": "Lynvia wird Ihre Nachricht in Kürze prüfen.",
+      "sendFailed": "Fehler",
+      "sendFailedDesc": "Kommunikation konnte nicht erstellt werden.",
+      "replyFailed": "Fehler",
+      "replyFailedDesc": "Antwort konnte nicht gesendet werden.",
+      "threadClosed": "Unterhaltung geschlossen",
+      "threadClosedDesc": "Diese Unterhaltung wurde geschlossen."
+    }
+  },
+  "AccountingPurchase": {
+    "title": "Preise fuer Treuhandzugang",
+    "subtitle": "Waehlen Sie einen von zwei monatlichen Plaenen. Alle Abonnements enthalten eine 30-taegige Gratis-Testphase.",
+    "loadingSubscription": "Abonnementdetails werden geladen...",
+    "errorTitle": "Fehler",
+    "currentPlan": "Aktueller Plan",
+    "trialingUntil": "Testphase bis {date}",
+    "month": "Monat",
+    "trialIncluded": "30 Tage Gratis-Testphase inklusive",
+    "activating": "Wird aktiviert...",
+    "currentPlanButton": "Aktueller Plan",
+    "startTrialButton": "30-taegige Gratis-Testphase starten",
+    "toast": {
+      "noCompanyTitle": "Kein Unternehmen verknuepft",
+      "noCompanyDescription": "Ihr Konto ist noch nicht mit einem Unternehmensprofil verknuepft.",
+      "mustLogin": "Sie muessen angemeldet sein, um ein Abonnement zu starten.",
+      "checkoutCreateFailed": "Checkout-Session fuer das Abonnement konnte nicht erstellt werden.",
+      "stripeUnavailable": "Stripe.js ist nicht verfuegbar.",
+      "checkoutFailedTitle": "Checkout konnte nicht gestartet werden",
+      "tryAgain": "Bitte versuchen Sie es erneut."
+    },
+    "plans": {
+      "basic": {
+        "title": "Starter",
+        "description": "Fuer kleine Treuhandteams mit einem fokussierten Mandantenportfolio."
+      },
+      "pro": {
+        "title": "Pro",
+        "description": "Fuer wachsende Kanzleien mit erweitertem Buchhaltungs-Workflow und Werkzeugen fuer die Mandantenzusammenarbeit."
+      }
+    },
+    "features": {
+      "ai_chat": "KI-Assistent",
+      "vat_scenarios": "MWST-Szenariomodellierung",
+      "taxation_tools": "Steuerplanungswerkzeuge",
+      "salary_tools": "Lohn- und Payroll-Werkzeuge",
+      "client_access_portal": "Mandantenportal",
+      "document_exchange": "Sicherer Dokumentenaustausch",
+      "client_notifications": "Mandantenbenachrichtigungen"
+    }
+  },
+  "AccountingBilling": {
+    "title": "Abrechnung",
+    "subtitle": "Verwalten Sie Ihr Abonnement, Ihre Zahlungsmethode, Rechnungen und Kuendigung.",
+    "currentSubscriptionTitle": "Aktuelles Abonnement",
+    "monthlyOnly": "Nur monatliche Abrechnung.",
+    "planLabel": "Plan",
+    "statusLabel": "Status",
+    "month": "Monat",
+    "trialEndsLabel": "Testphase endet",
+    "trialDaysLeft": "{count} Tag(e) verbleibend",
+    "na": "k. A.",
+    "billingPortalTitle": "Stripe Abrechnungsportal",
+    "billingPortalDescription": "Aktualisieren Sie Zahlungsmethoden, sehen Sie Rechnungen ein, wechseln Sie den Plan oder kuendigen Sie Ihr Abonnement.",
+    "openingPortal": "Portal wird geoeffnet...",
+    "manageBillingButton": "Abrechnung verwalten und Abonnement kuendigen",
+    "choosePlan": "Plan waehlen",
+    "startingCheckout": "Stripe Checkout wird gestartet...",
+    "inactiveNoticeTitle": "Abonnement noch nicht gestartet",
+    "inactiveNoticeDescription": "Starten Sie den Checkout, um Ihren Stripe-Kunden anzulegen und Abrechnungsfunktionen zu aktivieren.",
+    "payments": {
+      "title": "Zahlungsverlauf",
+      "description": "Ihre letzten erfolgreichen Abonnementzahlungen.",
+      "loading": "Zahlungen werden geladen...",
+      "empty": "Noch keine Zahlungen.",
+      "defaultDescription": "Zahlung fuer das Buchhaltungsabonnement",
+      "viewInvoice": "Rechnung anzeigen",
+      "downloadPdf": "PDF herunterladen"
+    },
+    "toast": {
+      "noCompanyTitle": "Kein Unternehmen verknuepft",
+      "noCompanyDescription": "Ihr Konto ist noch nicht mit einem Unternehmensprofil verknuepft.",
+      "mustLogin": "Sie muessen angemeldet sein, um die Abrechnung zu verwalten.",
+      "portalOpenFailedTitle": "Abrechnungsportal konnte nicht geoeffnet werden",
+      "portalOpenFailedDescription": "Abrechnungsportal konnte nicht geoeffnet werden.",
+      "stripeNotLoaded": "Stripe Checkout ist noch nicht bereit. Bitte versuchen Sie es erneut.",
+      "tryAgain": "Bitte versuchen Sie es erneut."
+    }
+  },
+  "AccountingDocumentGenerator": {
+    "generatedSuccess": "Dokument erfolgreich erstellt",
+    "generatedSuccessDesc": "Ihr Entwurf ist zur Pruefung bereit.",
+    "generationFailed": "Erstellung fehlgeschlagen",
+    "generationFailedDesc": "Die KI konnte das Dokument nicht erstellen. Bitte erneut versuchen.",
+    "templateUnavailable": "Die ausgewaehlte Vorlage ist veraltet. Bitte waehlen Sie die Vorlage erneut aus und versuchen Sie es noch einmal.",
+    "copied": "In die Zwischenablage kopiert!",
+    "downloadingPdf": "PDF wird heruntergeladen...",
+    "preparingWord": "Word Dokument wird vorbereitet...",
+    "downloadFailed": "Download fehlgeschlagen",
+    "downloadFailedDesc": "Word Dokument konnte nicht erstellt werden. Bitte erneut versuchen.",
+    "pageTitle": "Mandanten Dokumentgenerator",
+    "pageSubtitle": "Waehlen Sie einen Mandanten, um zu beginnen.",
+    "selectClient": "Mandant auswaehlen",
+    "selectClientDescription": "Waehlen Sie unten in der Tabelle das Unternehmen aus, fuer das Sie ein Dokument erstellen moechten.",
+    "chooseClient": "Mandanten waehlen...",
+    "searchClientsPlaceholder": "Mandanten nach Name oder Kanton suchen...",
+    "clientCount": "{count, plural, =0 {Keine Mandanten} one {# Mandant} other {# Mandanten}}",
+    "clientName": "Mandant",
+    "canton": "Kanton",
+    "actions": "Aktionen",
+    "selectAction": "Auswaehlen",
+    "loadingClients": "Mandanten werden geladen...",
+    "noClients": "Noch keine Mandanten verfuegbar",
+    "noClientsDescription": "Verknuepfte Mandanten Ihrer Kanzlei werden hier angezeigt.",
+    "noMatchingClients": "Keine Mandanten passen zu dieser Suche",
+    "clearSearchHint": "Passen Sie die Suche an oder leeren Sie sie, um mehr Mandanten zu sehen.",
+    "backToClient": "Zurueck zur Mandantenauswahl",
+    "generateFor": "Dokument erstellen fuer",
+    "selectTemplate": "Waehlen Sie eine Vorlage.",
+    "backToTemplates": "Zurueck zu Vorlagen",
+    "fillDetails": "Details ausfuellen fuer",
+    "fillDetailsDesc": "Geben Sie die noetigen Informationen fuer",
+    "generatedDocument": "Erstelltes Dokument",
+    "generatedDocumentDesc": "Pruefen Sie das KI-generierte Dokument.",
+    "documentAppears": "Ihr Dokument erscheint hier.",
+    "saving": "Speichern...",
+    "saveForClient": "Fuer Mandant speichern",
+    "saveSuccessDesc": "Dokument fuer {client} gespeichert.",
+    "saveFailedDesc": "Das Dokument konnte nicht gespeichert werden. Bitte erneut versuchen.",
+    "copy": "Kopieren",
+    "download": "Herunterladen",
+    "pdfDocument": "PDF Dokument",
+    "wordDocument": "Word Dokument (.docx)",
+    "noticePeriodWarningTitle": "Warnung zur GAV Kuendigungsfrist",
+    "claAppliedToClient": "Angewendeter GAV fuer diesen Mandanten:",
+    "claApplied": "Angewendeter GAV:",
+    "enterField": "{field} eingeben...",
+    "generating": "Wird erstellt...",
+    "generateDocument": "Dokument erstellen",
+    "templates": {
+      "employment_contract": {
+        "title": "Arbeitsvertrag",
+        "description": "Erstellen Sie einen standardisierten Schweizer Arbeitsvertrag fuer eine Neueinstellung."
+      },
+      "rental_agreement": {
+        "title": "Mietvertrag",
+        "description": "Erstellen Sie einen Wohnraummietvertrag fuer die Immobilie eines Mandanten."
+      },
+      "termination_letter": {
+        "title": "Kuendigungsschreiben",
+        "description": "Erstellen Sie ein Kuendigungs- oder Freistellungsschreiben gemaess anwendbarem GAV."
+      }
+    },
+    "fields": {
+      "employeeName": {
+        "label": "Name des Arbeitnehmers"
+      },
+      "employeeAddress": {
+        "label": "Adresse des Arbeitnehmers"
+      },
+      "employerName": {
+        "label": "Name des Arbeitgebers"
+      },
+      "jobTitle": {
+        "label": "Stellenbezeichnung"
+      },
+      "grossSalary": {
+        "label": "Bruttolohn"
+      },
+      "startDate": {
+        "label": "Eintrittsdatum"
+      },
+      "tenantName": {
+        "label": "Name des Mieters"
+      },
+      "landlordName": {
+        "label": "Name des Vermieters"
+      },
+      "propertyAddress": {
+        "label": "Adresse der Immobilie"
+      },
+      "monthlyRent": {
+        "label": "Monatsmiete"
+      },
+      "leaseStartDate": {
+        "label": "Beginn des Mietverhaeltnisses"
+      },
+      "noticePeriod": {
+        "label": "Kuendigungsfrist"
+      },
+      "yearsOfService": {
+        "label": "Dienstjahre"
+      },
+      "terminationDate": {
+        "label": "Beendigungsdatum"
+      },
+      "reason": {
+        "label": "Begruendung"
+      }
+    }
+  },
+  "AccountingCheckoutSuccess": {
+    "title": "Checkout complete",
+    "subtitle": "We are confirming your payment and syncing your subscription.",
+    "verifying": "Verifying payment status...",
+    "successTitle": "Payment confirmed",
+    "pendingTitle": "Payment is processing",
+    "paidDescription": "Your payment was successful. It now appears in your payment history.",
+    "completedDescription": "Your checkout completed successfully.",
+    "pendingDescription": "Your payment is still processing. You can open Billing to check the latest status.",
+    "missingSession": "Missing Stripe session information.",
+    "mustLogin": "You must be logged in to verify this payment.",
+    "reconcileFailed": "Could not verify payment status.",
+    "errorTitle": "Verification failed",
+    "okButton": "OK - Open Billing",
+    "retryButton": "Retry"
+  },
+  "AccountingDashboard": {
+    "minAgo": "Min",
+    "hourAgo": "Stunde",
+    "hoursAgo": "Stunden",
+    "dayAgo": "Tag",
+    "daysAgo": "Tage",
+    "errorTitle": "Fehler",
+    "loadFailed": "Dashboarddaten konnten nicht geladen werden.",
+    "totalClients": "Gesamtmandanten",
+    "totalClientsTrend": "Aktive Unternehmenskunden",
+    "pendingReviews": "Ausstehende Pruefungen",
+    "pendingReviewsTrend": "Lohn und Urlaubsaktionen mit Bedarf",
+    "upcomingDeadlines": "Anstehende Fristen",
+    "upcomingDeadlinesTrend": "Ausstehende Urlaubsantraege",
+    "teamWorkload": "Teamauslastung",
+    "teamWorkloadTrend": "Basierend auf offenen Aktionen",
+    "capacity": "Kapazitaet",
+    "pageTitle": "Kanzlei Dashboard",
+    "pageSubtitle": "Ueberblick ueber Mandanten, Aufgaben und Leistung.",
+    "onboardClient": "Mandanten aufnehmen",
+    "recentTitle": "Aktuelle Freigaben und Aufgaben",
+    "recentDesc": "Zusammenfassung der juengsten Mandantenaktivitaeten.",
+    "noRecent": "Noch keine aktuellen Mandantenaktivitaeten.",
+    "serviceTitle": "Serviceverteilung",
+    "serviceDesc": "Aufteilung der fuer Mandanten erbrachten Leistungen.",
+    "priorityTitle": "Prioritaere Mandantenaufgaben",
+    "priorityDesc": "Aufgaben mit sofortigem Handlungsbedarf.",
+    "pendingTasks": "Offene Aufgaben"
+  },
+  "AccountingClientPortfolio": {
+    "active": "Aktiv",
+    "onboarding": "Onboarding",
+    "inactive": "Inaktiv",
+    "errorTitle": "Fehler",
+    "loadFailed": "Mandantenportfolio konnte nicht geladen werden.",
+    "loadingClients": "Mandanten werden geladen...",
+    "pageTitle": "Mandantenportfolio",
+    "pageSubtitle": "Verwalten Sie die Mandanten Ihrer Kanzlei und deren Services.",
+    "allClients": "Alle Mandanten",
+    "allClientsDesc": "Vollstaendige Liste aktiver und onboarding Mandanten.",
+    "searchPlaceholder": "Mandanten suchen...",
+    "onboardClient": "Mandanten aufnehmen",
+    "clientName": "Mandantenname",
+    "type": "Typ",
+    "status": "Status",
+    "primaryContact": "Hauptkontakt",
+    "actions": "Aktionen",
+    "openMenu": "Menue oeffnen",
+    "viewClientDocuments": "Mandantendokumente anzeigen",
+    "runScenarioAnalysis": "Szenarioanalyse starten",
+    "generateClientDocument": "Mandantendokument erzeugen",
+    "noClientsFound": "Keine Mandanten gefunden."
+  },
+  "AccountingClientDocuments": {
+    "pendingReview": "Pruefung ausstehend",
+    "approved": "Freigegeben",
+    "needsAction": "Aktion erforderlich",
+    "archived": "Archiviert",
+    "pageTitle": "Mandantendokumente",
+    "pageSubtitle": "Pruefen, verwalten und bearbeiten Sie Mandanten Lohnlaufdokumente.",
+    "hubTitle": "Dokument Hub",
+    "hubDescription": "Zentrales Verzeichnis fuer Lohnlaeufe und Pruefstatus.",
+    "searchPlaceholder": "Dokumente suchen...",
+    "export": "Exportieren",
+    "loadingDocs": "Dokumente werden geladen...",
+    "noDocs": "Keine Mandantendokumente gefunden.",
+    "all": "Alle",
+    "pendingTab": "Pruefung ausstehend",
+    "actionTab": "Aktion erforderlich",
+    "approvedTab": "Freigegeben",
+    "client": "Mandant",
+    "documentName": "Dokumentname",
+    "status": "Status",
+    "lastModified": "Zuletzt geaendert",
+    "actions": "Aktionen",
+    "openMenu": "Menue oeffnen",
+    "viewMetadata": "Lauf Metadaten anzeigen",
+    "approve": "Freigeben",
+    "markReady": "Als bereit markieren",
+    "archive": "Archivieren",
+    "flagNeedsAction": "Als Aktion erforderlich markieren",
+    "statusUpdated": "Status aktualisiert",
+    "statusUpdatedDesc": "ist jetzt",
+    "updateFailed": "Aktualisierung fehlgeschlagen",
+    "updateFailedDesc": "Dokumentstatus konnte nicht aktualisiert werden.",
+    "errorTitle": "Fehler",
+    "loadFailed": "Mandantendokumente konnten nicht geladen werden.",
+    "payrollRunPrefix": "Lohnlauf",
+    "clientFallback": "Mandant",
+    "accountingTeam": "Buchhaltungsteam",
+    "runId": "Lauf-ID",
+    "companyId": "Unternehmens-ID",
+    "source": "Quelle",
+    "assignedTo": "Zugewiesen an",
+    "skippedEntries": "Uebersprungene Eintraege",
+    "na": "k. A.",
+    "backToDocuments": "Zurueck zu Dokumenten",
+    "loadingDetail": "Dokumentdetails werden geladen...",
+    "detailLoadFailed": "Dokumentdetails konnten nicht geladen werden.",
+    "detailNotFoundTitle": "Dokument nicht gefunden",
+    "detailNotFoundDescription": "Dieser Lohnlauf wurde nicht gefunden oder wurde entfernt.",
+    "detailSummaryTitle": "Laufdetails",
+    "detailSummaryDescription": "Pruefen Sie die Metadaten und Verarbeitungsdetails fuer diesen Lohnlauf.",
+    "detailActionsTitle": "Aktionen",
+    "detailActionsDescription": "Aktualisieren Sie den Pruefstatus fuer diesen Lohnlauf.",
+    "typeLabel": "Typ",
+    "monthLabel": "Lohnperiode",
+    "createdAt": "Erstellt am"
+  },
+  "AccountingDocumentInbox": {
+    "title": "Dokumenteingang",
+    "subtitle": "Dokumente und Anfragen vom Lynvia-Adminteam.",
+    "adminLabel": "Admin",
+    "defaultFileName": "dokument",
+    "unknownLabel": "Unbekannt",
+    "adminNotificationTitle": "Dokument von Kanzlei hochgeladen",
+    "adminNotificationDescription": "hat \"{fileName}\" als Antwort auf eine Dokumentenanfrage hochgeladen.",
+    "sentDocumentsTitle": "Dokumente von Lynvia",
+    "sentDocumentsDescription": "Direkt an Sie gesendete Dateien. Laden Sie sie herunter, um eine lokale Kopie zu speichern.",
+    "fromLabel": "Von",
+    "downloadButton": "Herunterladen",
+    "emptyTitle": "Ihr Posteingang ist leer",
+    "emptyDescription": "Dokumente und Anfragen von Lynvia werden hier angezeigt.",
+    "requestsTitle": "Dokumentenanfragen",
+    "pendingCount": "{count} ausstehend",
+    "requestsDescription": "Klicken Sie auf eine Anfrage oder verwenden Sie die Upload-Schaltflaeche, um zu antworten.",
+    "uploadButton": "Hochladen",
+    "uploadedBadge": "Hochgeladen",
+    "toast": {
+      "submittedTitle": "Dokument gesendet",
+      "submittedDescription": "Ihr Dokument wurde an das Lynvia-Team gesendet.",
+      "uploadFailedTitle": "Upload fehlgeschlagen",
+      "uploadFailedDescription": "Das Dokument konnte nicht hochgeladen werden. Bitte versuchen Sie es erneut."
+    },
+    "dialog": {
+      "title": "Angefordertes Dokument hochladen",
+      "dropzoneHint": "Datei hierher ziehen oder klicken, um sie auszuwaehlen.",
+      "chooseFile": "Datei waehlen",
+      "cancel": "Abbrechen",
+      "uploading": "Wird hochgeladen...",
+      "submit": "Dokument senden"
+    }
+  },
+  "AccountingAuditLogs": {
+    "pageTitle": "Auditprotokolle",
+    "pageSubtitle": "Verfolgen und pruefen Sie alle Aktivitaeten Ihrer Kanzlei fuer Sicherheit und Compliance.",
+    "sectionTitle": "Aktivitaetsprotokoll",
+    "sectionSubtitle": "Chronologische Aufzeichnung aller durchgefuehrten Aktionen.",
+    "searchPlaceholder": "Protokolle durchsuchen...",
+    "pickDate": "Datum waehlen",
+    "export": "Exportieren",
+    "filterByUser": "Nach Benutzer filtern",
+    "filterByAction": "Nach Aktion filtern",
+    "clearFilters": "Filter zuruecksetzen",
+    "timestamp": "Zeitstempel",
+    "user": "Benutzer",
+    "action": "Aktion",
+    "client": "Mandant",
+    "details": "Details",
+    "loadingLogs": "Protokolle werden geladen...",
+    "na": "N/A",
+    "openMenu": "Menue oeffnen",
+    "logDetails": "Protokolldetails",
+    "ipAddress": "IP Adresse",
+    "noLogsMatch": "Keine Protokolle entsprechen Ihren Filtern.",
+    "allUsers": "Alle Benutzer",
+    "allActions": "Alle Aktionen",
+    "auth": "Authentifizierung",
+    "documents": "Dokumente",
+    "analysis": "Analyse",
+    "system": "System",
+    "errorTitle": "Fehler",
+    "fetchError": "Auditprotokolle konnten nicht geladen werden."
+  },
+  "AccountingFinancialReports": {
+    "pageTitle": "Finanzberichte",
+    "pageSubtitle": "Erstellen, anzeigen und exportieren Sie Finanzberichte fuer Ihre Mandanten.",
+    "reportGenerator": "Berichtsgenerator",
+    "reportGeneratorDesc": "Waehlen Sie Mandant, Berichtstyp und Zeitraum.",
+    "selectClient": "Mandanten waehlen...",
+    "selectReportType": "Berichtstyp waehlen",
+    "selectTimePeriod": "Zeitraum waehlen",
+    "generating": "Wird erstellt...",
+    "generateReport": "Bericht erstellen",
+    "uploadTitle": "Mandantendaten hochladen",
+    "uploadDesc": "CSV Datei mit Buchhaltungsdaten des Mandanten hochladen.",
+    "templateHint": "Vorlage herunterladen, um das richtige Format zu verwenden.",
+    "downloadTemplate": "Vorlage herunterladen",
+    "clickToUpload": "Zum Hochladen klicken",
+    "dragDrop": "oder Datei ablegen",
+    "fileTypes": "CSV, XLS oder XLSX (MAX. 10MB)",
+    "uploadProcess": "Hochladen und verarbeiten",
+    "noClientTitle": "Kein Mandant gewaehlt",
+    "noClientDesc": "Bitte oben einen Mandanten auswaehlen.",
+    "pnlTitle": "Gewinn und Verlust",
+    "pnlDesc": "Ueberblick ueber Umsatz und Gewinn fuer Q2 2024.",
+    "exportCsv": "CSV exportieren",
+    "downloadPdf": "PDF herunterladen",
+    "monthlyBreakdown": "Monatliche Aufteilung (Umsatz vs Gewinn)",
+    "expenseBreakdown": "Kostenaufteilung",
+    "category": "Kategorie",
+    "amount": "Betrag",
+    "reportForClient": "Bericht erstellen fuer",
+    "reportForClientDesc": "Waehlen Sie Berichtstyp und Zeitraum zum Start.",
+    "revenue": "Umsatz",
+    "profit": "Gewinn"
+  },
+  "AccountingTasks": {
+    "pageTitle": "Aufgabenverwaltung",
+    "pageSubtitle": "Verwalten Sie Aufgaben fuer alle Ihre Mandanten.",
+    "taskHub": "Aufgaben-Hub",
+    "taskHubDesc": "Verfolgen und verwalten Sie Aufgaben fuer alle Mandantenportfolios.",
+    "addTask": "Aufgabe hinzufuegen",
+    "addTaskDesc": "Neue Aufgabe fuer einen Mandanten erstellen.",
+    "searchPlaceholder": "Aufgaben suchen...",
+    "all": "Alle",
+    "pending": "Ausstehend",
+    "inProgress": "In Bearbeitung",
+    "completed": "Abgeschlossen",
+    "client": "Mandant",
+    "title": "Titel",
+    "description": "Beschreibung",
+    "priority": "Prioritaet",
+    "status": "Status",
+    "dueDate": "Faelligkeitsdatum",
+    "actions": "Aktionen",
+    "noTasks": "Keine Aufgaben gefunden.",
+    "loading": "Aufgaben werden geladen...",
+    "markComplete": "Als erledigt markieren",
+    "markInProgress": "In Bearbeitung setzen",
+    "viewDetails": "Details anzeigen",
+    "lowPriority": "Niedrig",
+    "mediumPriority": "Mittel",
+    "highPriority": "Hoch",
+    "urgentPriority": "Dringend",
+    "pendingStatus": "Ausstehend",
+    "inProgressStatus": "In Bearbeitung",
+    "completedStatus": "Abgeschlossen",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "selectClient": "Mandant waehlen",
+    "selectPriority": "Prioritaet waehlen",
+    "taskCreated": "Aufgabe erstellt",
+    "taskCreatedDesc": "Die Aufgabe wurde erfolgreich hinzugefuegt.",
+    "taskUpdated": "Aufgabe aktualisiert",
+    "taskUpdatedDesc": "Der Aufgabenstatus wurde aktualisiert.",
+    "error": "Fehler",
+    "errorCreating": "Aufgabe konnte nicht erstellt werden.",
+    "errorLoading": "Aufgaben konnten nicht geladen werden.",
+    "filterByClient": "Nach Mandant filtern",
+    "allClients": "Alle Mandanten",
+    "overdue": "Ueberfaellig",
+    "dueToday": "Heute faellig",
+    "dueSoon": "Bald faellig"
+  },
+  "AccountingScenarioAnalysis": {
+    "pageTitle": "Mandanten Szenarioanalyse",
+    "pageSubtitle": "Modellieren Sie Finanzszenarien fuer Ihre Mandanten mit KI Insights.",
+    "errorTitle": "Fehler",
+    "selectedClientFallback": "Ausgewaehlter Mandant",
+    "selectClient": "Mandant auswaehlen",
+    "selectClientDesc": "Waehlen Sie einen Mandanten fuer die Finanzanalyse.",
+    "loadingClients": "Mandanten werden geladen...",
+    "chooseClient": "Mandanten auswaehlen...",
+    "searchClientsPlaceholder": "Mandanten nach Name oder Kanton suchen...",
+    "clientCount": "{count, plural, =0 {Keine Mandanten} one {# Mandant} other {# Mandanten}}",
+    "clientName": "Mandant",
+    "canton": "Kanton",
+    "actions": "Aktionen",
+    "selectAction": "Auswaehlen",
+    "noClients": "Keine Mandanten verfuegbar",
+    "noClientsDescription": "Die mit Ihrer Kanzlei verknuepften Unternehmen erscheinen hier.",
+    "noMatchingClients": "Keine Mandanten passen zu dieser Suche",
+    "clearSearchHint": "Passen Sie die Suche an oder leeren Sie sie, um mehr Mandanten zu sehen.",
+    "selectClientErrorTitle": "Mandant auswaehlen",
+    "selectClientErrorDesc": "Waehlen Sie vor der Analyse einen Mandanten aus.",
+    "loadClientsError": "Mandanten fuer die Szenarioanalyse konnten nicht geladen werden.",
+    "analysisComplete": "Analyse abgeschlossen",
+    "analysisCompleteDesc": "wurde analysiert.",
+    "analysisFailed": "Analyse fehlgeschlagen",
+    "analysisFailedDesc": "Die KI konnte die Ergebnisse nicht interpretieren. Bitte erneut versuchen.",
+    "saveFailed": "Speichern fehlgeschlagen",
+    "saveFailedDesc": "Analyse konnte nicht gespeichert werden.",
+    "analysisSaved": "Analyse gespeichert",
+    "analysisSavedDesc": "Die Szenarioanalyse wurde erfolgreich gespeichert.",
+    "workforceTitle": "Personalplanungsszenario",
+    "workforceDesc": "Modellieren Sie die finanziellen Auswirkungen neuer Einstellungen fuer",
+    "runAnalysis": "Analyse starten und Insights erhalten",
+    "analyzing": "Szenario wird analysiert...",
+    "resultsTitle": "Mandanten Szenarioergebnisse",
+    "resultsDesc": "Formular ausfuellen und Analyse starten, um Ergebnisse zu sehen.",
+    "noClientTitle": "Kein Mandant ausgewaehlt",
+    "noClientDesc": "Bitte waehlen Sie oben einen Mandanten aus.",
+    "saveAnalysis": "Analyse speichern"
+  }
+}
