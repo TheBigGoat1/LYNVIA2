@@ -30,7 +30,8 @@ export function ProfileCompletionGate({ children }: { children: React.ReactNode 
       const userDocSnap = await getDoc(userDocRef);
 
       if (!userDocSnap.exists() || !userDocSnap.data().companyId) {
-        setIsProfileComplete(true);
+        // Align with login: business / fiduciary accounts must be linked to a company.
+        setIsProfileComplete(false);
         setIsChecking(false);
         return;
       }
