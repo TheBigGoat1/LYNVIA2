@@ -282,7 +282,7 @@ export default function PayslipsCommunicationsPage() {
     } catch (e) {
       toast({
         variant: 'destructive',
-        title: t('salaryCostOverview.toast.savedTitle'),
+        title: 'Error',
         description: e instanceof Error ? e.message : 'Failed to save rates',
       });
     } finally {
